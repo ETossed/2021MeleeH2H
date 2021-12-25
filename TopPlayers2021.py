@@ -3,6 +3,8 @@ import json
 import time
 import csv
 
+# By ETossed
+
 def results_2021(smash, players, events, output):
     # Initialization of Players
     players_lower = []
