@@ -7,23 +7,17 @@ import csv
 
 def results_2021(smash, players, events, output):
     # Initialization of Players
+    # The players_lower is used now for more efficiency later
     players_lower = []
     for p in players:
         players_lower.append(p.lower())
     player_dict = {}
     for p in players_lower:
-        player_dict[p] = {'W': [], 'L': []}
-
-    # Testing
-    # test = smash.tournament_show_events('smash-summit-12-1')
-    # print(json.dumps(test, indent=4))
-    # sets = smash.event_show_sets(summit_vip,1)
-    # print(sets)
+        player_dict[p] = {'Events': [], 'Sets': [], 'W': [], 'L': []}
 
     # Main Loop
     event_num = 0
     for event in events:
-        print(smash.tournament_show(event))
         event_num += 1
         i = 1
         sets = smash.event_show_sets(event, i)
@@ -31,72 +25,117 @@ def results_2021(smash, players, events, output):
             # Iterate through pages
             sets = smash.event_show_sets(event, i)
             i += 1
-            if (i == 0 or i % 5 == 0):
+            if (i % 5 == 0):
                 time.sleep(15) # Might be able to remove, but idk, just not to time out API
             for set in sets:
-                print(json.dumps(set, indent=4))
+                print(json.dumps(set, indent=4)) # For debugging purposes
                 print("\n")
-                # Get entrants
+                # Get entrants, gets rid of sponsor in case they have it in there for some reason
                 entrant1 = set['entrant1Players'][0]['playerTag'].split(' | ')[-1].strip().lower()
                 entrant2 = set['entrant2Players'][0]['playerTag'].split(' | ')[-1].strip().lower()
 
-                # Make sure entrants work]
-                if (entrant1 == None and entrant2 == None):
-                    continue
-                elif (entrant1 in players_lower and entrant2 in players_lower and set['completed'] == True):
-                    if (set['entrant1Score'] < 0 or set['entrant2Score'] < 0):
+                # Checking for set completion and no DQ here instead of at each individual case
+                if (set['completed'] and set['entrant1Score'] >= 0 or set['entrant2Score'] >= 0):
+                    # Make sure entrants work -- Lot of cases here
+                    if (entrant1 == None or entrant2 == None):
                         continue
-                    elif (set['entrant1Score'] > set['entrant2Score']):
-                        player_dict[entrant1]['W'].append(entrant2)
-                        player_dict[entrant2]['L'].append(entrant1)
+                    # Both players in the player list
+                    elif (entrant1 in players_lower and entrant2 in players_lower):
+                        # Checking for event attendance marked already or not
+                        if (event not in player_dict[entrant1]['Events']):
+                            player_dict[entrant1]['Events'].append(event)
+                        if (event not in player_dict[entrant2]['Events']):
+                            player_dict[entrant2]['Events'].append(event)
 
-                    elif (set['entrant2Score'] > set['entrant1Score']):
-                        player_dict[entrant2]['W'].append(entrant1)
-                        player_dict[entrant1]['L'].append(entrant2)
+                        # Add set to sets
+                        player_dict[entrant1]['Sets'].append(set)
+                        player_dict[entrant2]['Sets'].append(set)
 
-        # Error checking
+                        # Adding wins and losses
+                        if (set['entrant1Score'] > set['entrant2Score']):
+                            player_dict[entrant1]['W'].append(entrant2)
+                            player_dict[entrant2]['L'].append(entrant1)
+                        elif (set['entrant2Score'] > set['entrant1Score']):
+                            player_dict[entrant2]['W'].append(entrant1)
+                            player_dict[entrant1]['L'].append(entrant2)
+
+                    # Only entrant1 in player list
+                    elif (entrant1 in players_lower):
+                        # Checking for event attendance marked already or not
+                        if (event not in player_dict[entrant1]['Events']):
+                            player_dict[entrant1]['Events'].append(event)
+
+                        # Add set to sets
+                        player_dict[entrant1]['Sets'].append(set)
+
+                        # Only add losses, because if the player isn't in the list it is an expected win
+                        if (set['entrant2Score'] > set['entrant1Score']):
+                            player_dict[entrant1]['L'].append(set['entrant2Players'][0]['playerTag'].split(' | ')[-1].strip())
+                            # That line above is so long above because since they don't have a reference in the json
+                            # we're just going to make it capitalized so it's easier
+
+                    # Only entrant 2 in player list
+                    elif (entrant2 in players_lower):
+                        # Checking for event attendance marked already or not
+                        if (event not in player_dict[entrant2]['Events']):
+                            player_dict[entrant2]['Events'].append(event)
+
+                        # Add set to sets
+                        player_dict[entrant2]['Sets'].append(set)
+
+                        # Only add losses, because if the player isn't in the list it is an expected win
+                        if (set['entrant1Score'] > set['entrant2Score']):
+                            player_dict[entrant2]['L'].append(set['entrant1Players'][0]['playerTag'].split(' | ')[-1].strip())
+                            # That line above is so long above because since they don't have a reference in the json
+                            # we're just going to make it capitalized so it's easier
+
+        # Error checking that the tournmament actually loaded
         if (i == 1):
             print("Error: Tournament didn't load")
+            if (event == 584741): # THIS IS LEGIT JUST A WAY SO I DON'T HAVE TO MANUALLY ENTER MAINSTAGE DATA
+                print("fuck you mainstage, you are my white whale")
 
     # Complete file output 
     with open(output, 'w') as outfile:
         json.dump(player_dict, outfile, indent=4)
 
 def add_to_results(smash, event):
+    # Not done
     return
 
-def to_csv_matchups(input, output='data.csv'):
+def to_csv_matchups(players, input, output='data.csv'):
     # Read json file
     with open(input, 'r') as json_file:
         data = json.load(json_file)
+
+    # The players_lower is used now for more efficiency later
+    players_lower = []
+    for p in players:
+        players_lower.append(p.lower())
     
     i = 0
-    player_list = []
     with open(output, 'w') as new_file:
         # Top left corner
         new_file.write('ETossed,')
 
         # Header row
-        for player in data:
-            # Making sure player has played matches
-            if (data[player]['W'] != [] or data[player]['L'] != []):
-                player_list.append(player)
-                new_file.write(player + ',')
+        for p in players:
+            new_file.write(p + ',')
 
-        # Newline after header        
-        new_file.write('\n')
+        # Other losses and newline after header        
+        new_file.write('Other losses\n')
         
         # Setup rows
-        for player in player_list:
-            new_file.write(player + ',')
-            for j in range(len(player_list)):
+        for p in players:
+            new_file.write(p + ',')
+            for j in range(len(players)):
                 if (i == j):
                     new_file.write('N/A,')
                 else:
                     new_file.write('0-0,')
 
-            # Increment i and write newline
-            new_file.write('\n')
+            # Increment i and write other losses and newline
+            new_file.write(',\n')
             i += 1
 
     # Open csv file
@@ -104,13 +143,13 @@ def to_csv_matchups(input, output='data.csv'):
     csv_lines = list(csv_file)
 
     # For each w/l find index in player_list
-    for i in range(len(player_list)):
-        cur_player = data[player_list[i]]
+    for i in range(len(players_lower)):
+        cur_player = data[players_lower[i]]
         wins = cur_player['W']
         losses = cur_player['L']
         for op in wins:
             # Access cell through csv built in python functions
-            j = player_list.index(op)
+            j = players_lower.index(op)
             score = csv_lines[i+1][j+1]
             print("i+1: " + str(i+1) + ", j+1: " + str(j+1))
 
@@ -120,25 +159,38 @@ def to_csv_matchups(input, output='data.csv'):
             new_score = "-".join(temp_score)
             csv_lines[i+1][j+1] = new_score
 
+        other_losses = []
+
         for op in losses:
             # Access cell through csv built in python functions
-            j = player_list.index(op)
-            score = csv_lines[i+1][j+1]
-            print("i+1: " + str(i+1) + ", j+1: " + str(j+1))
+            if op in players_lower:
+                j = players_lower.index(op)
+                score = csv_lines[i+1][j+1]
+                print("i+1: " + str(i+1) + ", j+1: " + str(j+1))
 
-            # Split cell by '-' character and modify score
-            temp_score = score.split('-')
-            temp_score[1] = str(int(score[2]) + 1)
-            new_score = "-".join(temp_score)
-            csv_lines[i+1][j+1] = new_score
+                # Split cell by '-' character and modify score
+                temp_score = score.split('-')
+                temp_score[1] = str(int(score[2]) + 1)
+                new_score = "-".join(temp_score)
+                csv_lines[i+1][j+1] = new_score
+            else: # For non player list losses
+                other_losses.append(op)
+        
+        if other_losses != []:
+            csv_lines[i+1][len(players)+1] = ",".join(other_losses)
 
     # Write csv
     writer = csv.writer(open(output,'w'))
     writer.writerows(csv_lines)
 
-def to_csv_big(input, output='data_big.csv'):
+def to_csv_big(players, input, output='data_big.csv'):
     with open(input, 'r') as json_file:
         data = json.load(json_file)
+
+    # The players_lower is used now for more efficiency later
+    players_lower = []
+    for p in players:
+        players_lower.append(p.lower())
     
     with open(output, 'w') as new_file:
         # Top left corner
@@ -147,54 +199,70 @@ def to_csv_big(input, output='data_big.csv'):
         # Header row
         new_file.write('Wins,Losses\n')
 
-        for player in data:
-            # Making sure player has played matches
-            if (data[player]['W'] != [] or data[player]['L'] != []):
-                # Initialization
-                wins = {}
-                losses = {}
+        for player in players:
+            # Initialization
+            wins = {}
+            losses = {}
 
-                new_file.write(player + ',\"') # Initial quote
-                for op in data[player]['W']:
-                    # If already in wins
-                    if op in wins:
-                        wins[op] += 1
-                    elif op == "kürv": #The umlaut causes it to print the wrong letter wtf
-                        wins["kurv"] = 1
-                    else:
-                        wins[op] = 1
+            new_file.write(player + ',\"') # Initial quote
+            for op in data[player.lower()]['W']:
+                # In order to get capitalization
+                if op in players_lower:
+                    x = players_lower.index(op)
+                    real_op = players[x]
+                else:
+                    real_op = op
                 
-                # Adding wins to column
-                for w in sorted(wins):
-                    if wins[w] == 1:
-                        new_file.write(w + ",")
-                    else:
-                        new_file.write(w + "(x" + str(wins[w]) + "),")
+                if real_op in wins and real_op == "Kürv":
+                    losses["Kurv"] += 1
+                # If already in wins
+                if real_op in wins:
+                    wins[real_op] += 1
+                elif real_op == "kürv": #The umlaut causes it to print the wrong letter wtf
+                    wins["Kurv"] = 1
+                else:
+                    wins[real_op] = 1
+            
+            # Adding wins to column
+            for w in sorted(wins, key=str.casefold):
+                if wins[w] == 1:
+                    new_file.write(w + ", ")
+                else:
+                    new_file.write(w + "(x" + str(wins[w]) + "), ")
 
-                # Closing quote and new quote
-                new_file.write('\",\"')
+            # Closing quote and new quote
+            new_file.write('\",\"')
 
-                for op in data[player]['L']:
-                    # If already in lossses
-                    if op in losses:
-                        losses[op] += 1
-                    elif op == "kürv": #The umlaut causes it to print the wrong letter wtf
-                        losses["kurv"] = 1 # Kurv only has singular losses, this can be fixed later
-                    else:
-                        losses[op] = 1
-                
-                # Adding wins to column
-                for l in sorted(losses):
-                    if losses[l] == 1:
-                        new_file.write(l + ",")
-                    else:
-                        new_file.write(l + "(x" + str(losses[l]) + "),")
+            for op in data[player.lower()]['L']:
+                # In order to get capitalization
+                if op in players_lower:
+                    x = players_lower.index(op)
+                    real_op = players[x]
+                else:
+                    real_op = op
 
-                # Closing quote
-                new_file.write('\",')
+                # If already in lossses
+                if real_op in losses and real_op == "Kürv":
+                    losses["Kurv"] += 1
+                elif real_op in losses:
+                    losses[real_op] += 1
+                elif op == "kürv": #The umlaut causes it to print the wrong letter wtf
+                    losses["Kurv"] = 1
+                else:
+                    losses[real_op] = 1
+            
+            # Adding wins to column
+            for l in sorted(losses, key=str.casefold):
+                if losses[l] == 1:
+                    new_file.write(l + ", ")
+                else:
+                    new_file.write(l + "(x" + str(losses[l]) + "), ")
 
-                # Print newline
-                new_file.write('\n')
+            # Closing quote
+            new_file.write('\",')
+
+            # Print newline
+            new_file.write('\n')
 
 def main():
     # Initialize pysmashgg
@@ -203,18 +271,18 @@ def main():
     smash = pysmashgg.SmashGG(key)
     
     # Needs to be their smashgg names
-    players = ['2saint', 'Aklo', 'Albert', 'aMSa', 'Android 0', 'Aura', 'Axe', 'Ben', 'billybopeep', 
-                'bobby big ballz', 'Bones', 'Captain Smuckers', 'Chem', 'Colbol', 'Dacky', 'Drephen',
+    players = ['2saint', 'Aklo', 'Albert', 'aMSa', 'Android 0', 'Aura', 'Axe', 'Azel', 'Ben', 'billybopeep', 
+                'bobby big ballz', 'Bones', 'Captain Smuckers', 'Chape', 'Chem', 'Colbol', 'Dacky', 'Drephen',
                 'Eddy Mexico', 'Eggy', 'Faceroll', 'Far!', 'FatGoku', 'Fiction', 'Fizz', 'Flash',
                 'Free Palestine', 'Frenzy', 'Gahtzu', 'Ginger', 'Hungrybox', 'iBDW', 'Ice', 'Jah Ridin\'', 
                 'Jflex', 'Jmook', 'Juicebox', 'Justus', 'Kalamazhu', 'Kalvar', 'Khryke', 'KJH',
-                'KoDoRiN', 'Krudo', 'Kürv', 'Leffen', 'lloD', 'Logan', 'Lucky', 'Luigi Ka-Master', 'Magi', 
+                'KoDoRiN', 'Krudo', 'Kurv', 'Leffen', 'lloD', 'Logan', 'Lucky', 'Luigi Ka-Master', 'Magi', 
                 'Mang0', 'Medz', 'Mekk', 'Mew2King', 'Michael', 'moky', 'Morsecode762', 'Mot$', 'n0ne/ Bond / wizzyfan109',
                 'Nicki', 'NoFluxes', 'null', 'Nut', 'Palpa', 'Panda', 'Pappi', 'Pipsqueak', 'Plup', 'Polish',
                 'Professor Pro', 'Ringler', 'Rishi', 'Rocky', 'Ryobeat', 'S2J', 'SDJ', 'Secrets',
                 'SFAT', 'SFOP', 'Shroomed', 'Skerzo', 'Slowking', 'SluG', 'Smashdaddy', 'Sock',
                 'Sora/Joshman', 'Spark', 'Swift', 'Tai', 'TheSWOOPER', 'Trif', 'Wally', 
-                'Warmmer', 'Wizzrobe', 'Zain', 'Zamu', 'Zealot', 'Zuppy']
+                'Warmmer', 'Wevans', 'Wizzrobe', 'Zain', 'Zamu', 'Zealot', 'Zuppy']
 
     # Event IDs can be found by using smash.tournament_show_events('tournament-smashgg-name')
     # Example: smash.tournament_show_events('riptide-2021')
@@ -225,7 +293,7 @@ def main():
     # Majors
     swt_main = 644621
     riptide = 573828
-    mainstage = 584741 # DOESN'T WORK, ADDED MANUALLY
+    mainstage = 584741 # DOESN'T WORK(Apparently because of the package), ADDED MANUALLY
     swt_east = 554630
 
     # Regionals
@@ -260,9 +328,12 @@ def main():
 
     summits = [summit_11, summit_12]
 
-    # results_2021(smash, players, events, 'results.json')
-    to_csv_matchups('results.json')
+    # results_2021(smash, players, events, 'results2.json')
+    # to_csv_matchups(players, 'results2.json', 'WinLoss.csv')
+    to_csv_big(players, 'results.json', 'H2H_test.csv')
     print("Done")
+    # smash.bracket
+
 
 if __name__ == "__main__":
     main()
