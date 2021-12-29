@@ -328,12 +328,42 @@ def main():
 
     summits = [summit_11, summit_12]
 
-    # results_2021(smash, players, events, 'results2.json')
-    # to_csv_matchups(players, 'results2.json', 'WinLoss.csv')
-    to_csv_big(players, 'results.json', 'H2H_test.csv')
-    print("Done")
-    # smash.bracket
+    
 
+    # results_2021(smash, players, events, 'results2.json')
+    # to_csv_matchups(players, 'results.json', 'WinLoss.csv')
+    # to_csv_big(players, 'results.json', 'H2H.csv')
+    # print("Done")
+
+    # SORTING FOR MPGR RANKS
+    with open('results.json', 'r') as json_file:
+        data = json.load(json_file)
+
+    for v in players:
+        print(data[v.lower()]['MPGR'])
+
+    # ksorted = []
+    # for key in players:
+    #     if ksorted == []:
+    #         ksorted.append(key)
+    #     for i in range(len(ksorted)):
+    #         cur_mpgr = data[key.lower()]['MPGR']
+    #         if cur_mpgr < data[ksorted[i].lower()]['MPGR']:
+    #             ksorted.insert(i,key)
+    #             break
+    #         elif i == (len(ksorted)-1):
+    #             ksorted.append(key)
+
+    # to_csv_matchups(ksorted, 'results_mpgr.json', 'WinLoss_MPGR.csv')
+
+    # print(ksorted)
+    # test_dict = {}
+    # for key in ksorted:
+    #     test_dict[key] = data[key]
+            
+
+    # with open('test.json', 'w') as outfile:
+    #     json.dump(test_dict, outfile, indent=4)
 
 if __name__ == "__main__":
     main()
