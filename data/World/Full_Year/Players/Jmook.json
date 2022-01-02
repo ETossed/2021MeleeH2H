@@ -1,0 +1,1787 @@
+{
+    "ID": 16105,
+    "Events": [
+        "644621",
+        "555557",
+        "542283",
+        "616371",
+        "557279",
+        "552931",
+        "555731",
+        "548857"
+    ],
+    "Sets": [
+        {
+            "id": 43219531,
+            "entrant1Id": 8849886,
+            "entrant2Id": 8892148,
+            "entrant1Name": "Far!",
+            "entrant2Name": "Jmook",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8892148,
+            "loserId": 8849886,
+            "winnerName": "Jmook",
+            "loserName": "Far!",
+            "bracketName": "Group Stage",
+            "bracketId": 1635970,
+            "entrant1Players": [
+                {
+                    "playerId": 132537,
+                    "playerTag": "Far!"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 43219527,
+            "entrant1Id": 8892148,
+            "entrant2Id": 8712537,
+            "entrant1Name": "Jmook",
+            "entrant2Name": "Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8892148,
+            "loserId": 8712537,
+            "winnerName": "Jmook",
+            "loserName": "Gahtzu",
+            "bracketName": "Group Stage",
+            "bracketId": 1635970,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 43219524,
+            "entrant1Id": 8774627,
+            "entrant2Id": 8892148,
+            "entrant1Name": "aMSa",
+            "entrant2Name": "Jmook",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8774627,
+            "loserId": 8892148,
+            "winnerName": "aMSa",
+            "loserName": "Jmook",
+            "bracketName": "Group Stage",
+            "bracketId": 1635970,
+            "entrant1Players": [
+                {
+                    "playerId": 1021,
+                    "playerTag": "aMSa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 43219522,
+            "entrant1Id": 8712524,
+            "entrant2Id": 8892148,
+            "entrant1Name": "Kalamazhu",
+            "entrant2Name": "Jmook",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8892148,
+            "loserId": 8712524,
+            "winnerName": "Jmook",
+            "loserName": "Kalamazhu",
+            "bracketName": "Group Stage",
+            "bracketId": 1635970,
+            "entrant1Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 43289116,
+            "entrant1Id": 8712503,
+            "entrant2Id": 8892148,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Jmook",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8712503,
+            "loserId": 8892148,
+            "winnerName": "Frenzy",
+            "loserName": "Jmook",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 43289112,
+            "entrant1Id": 8774880,
+            "entrant2Id": 8892148,
+            "entrant1Name": "Sora/Joshman",
+            "entrant2Name": "Jmook",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8892148,
+            "loserId": 8774880,
+            "winnerName": "Jmook",
+            "loserName": "Sora/Joshman",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 35777827,
+            "entrant1Id": 6950323,
+            "entrant2Id": 6951000,
+            "entrant1Name": "Polish",
+            "entrant2Name": "UMF | Jmook",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6951000,
+            "loserId": 6950323,
+            "winnerName": "UMF | Jmook",
+            "loserName": "Polish",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1460701,
+            "entrant1Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 35777821,
+            "entrant1Id": 6951000,
+            "entrant2Id": 6946600,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "404Cray",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6951000,
+            "loserId": 6946600,
+            "winnerName": "UMF | Jmook",
+            "loserName": "404Cray",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1460701,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 63995,
+                    "playerTag": "404Cray"
+                }
+            ]
+        },
+        {
+            "id": 35777808,
+            "entrant1Id": 6951000,
+            "entrant2Id": 6937925,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "Knubs.",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6951000,
+            "loserId": 6937925,
+            "winnerName": "UMF | Jmook",
+            "loserName": "Knubs.",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1460701,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7937,
+                    "playerTag": "Knubs."
+                }
+            ]
+        },
+        {
+            "id": 35777782,
+            "entrant1Id": 6951000,
+            "entrant2Id": 6947380,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "LoneCubone",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6951000,
+            "loserId": 6947380,
+            "winnerName": "UMF | Jmook",
+            "loserName": "LoneCubone",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1460701,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48578,
+                    "playerTag": "LoneCubone"
+                }
+            ]
+        },
+        {
+            "id": 35783859,
+            "entrant1Id": 6951000,
+            "entrant2Id": 6913440,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6951000,
+            "loserId": 6913440,
+            "winnerName": "UMF | Jmook",
+            "loserName": "LG | Ginger",
+            "bracketName": "Top 64 East",
+            "bracketId": 1460696,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 35808809,
+            "entrant1Id": 6876791,
+            "entrant2Id": 6951000,
+            "entrant1Name": "EMG | moky",
+            "entrant2Name": "UMF | Jmook",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6876791,
+            "loserId": 6951000,
+            "winnerName": "EMG | moky",
+            "loserName": "UMF | Jmook",
+            "bracketName": "Top 16",
+            "bracketId": 1454616,
+            "entrant1Players": [
+                {
+                    "playerId": 5080,
+                    "playerTag": "moky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 35808807,
+            "entrant1Id": 6951000,
+            "entrant2Id": 6956078,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "Brotherhood | Aklo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6951000,
+            "loserId": 6956078,
+            "winnerName": "UMF | Jmook",
+            "loserName": "Brotherhood | Aklo",
+            "bracketName": "Top 16",
+            "bracketId": 1454616,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ]
+        },
+        {
+            "id": 35808774,
+            "entrant1Id": 6951000,
+            "entrant2Id": 6876833,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "S2J",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6876833,
+            "loserId": 6951000,
+            "winnerName": "S2J",
+            "loserName": "UMF | Jmook",
+            "bracketName": "Top 16",
+            "bracketId": 1454616,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ]
+        },
+        {
+            "id": 35783852,
+            "entrant1Id": 6911187,
+            "entrant2Id": 6951000,
+            "entrant1Name": "n0ne",
+            "entrant2Name": "UMF | Jmook",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6951000,
+            "loserId": 6911187,
+            "winnerName": "UMF | Jmook",
+            "loserName": "n0ne",
+            "bracketName": "Top 64 East",
+            "bracketId": 1460696,
+            "entrant1Players": [
+                {
+                    "playerId": 4107,
+                    "playerTag": "n0ne/ Bond / wizzyfan109"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 35808804,
+            "entrant1Id": 6951000,
+            "entrant2Id": 6913440,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6951000,
+            "loserId": 6913440,
+            "winnerName": "UMF | Jmook",
+            "loserName": "LG | Ginger",
+            "bracketName": "Top 16",
+            "bracketId": 1454616,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 34361902,
+            "entrant1Id": 6589170,
+            "entrant2Id": 6589888,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "Phantom Airline",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6589170,
+            "loserId": 6589888,
+            "winnerName": "UMF | Jmook",
+            "loserName": "Phantom Airline",
+            "bracketName": "Bracket",
+            "bracketId": 1429309,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26387,
+                    "playerTag": "Phantom Airline"
+                }
+            ]
+        },
+        {
+            "id": 34361899,
+            "entrant1Id": 6589170,
+            "entrant2Id": 6590456,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "ERIE | Rodney",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6589170,
+            "loserId": 6590456,
+            "winnerName": "UMF | Jmook",
+            "loserName": "ERIE | Rodney",
+            "bracketName": "Bracket",
+            "bracketId": 1429309,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 148021,
+                    "playerTag": "Rodney"
+                }
+            ]
+        },
+        {
+            "id": 34367045,
+            "entrant1Id": 6589170,
+            "entrant2Id": 6589131,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "Zain",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6589170,
+            "loserId": 6589131,
+            "winnerName": "UMF | Jmook",
+            "loserName": "Zain",
+            "bracketName": "Top 64",
+            "bracketId": 1429308,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ]
+        },
+        {
+            "id": 34361893,
+            "entrant1Id": 6589170,
+            "entrant2Id": 6590797,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "GOTH#193 | miss",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6589170,
+            "loserId": 6590797,
+            "winnerName": "UMF | Jmook",
+            "loserName": "GOTH#193 | miss",
+            "bracketName": "Bracket",
+            "bracketId": 1429309,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1924809,
+                    "playerTag": "miss"
+                }
+            ]
+        },
+        {
+            "id": 34361881,
+            "entrant1Id": 6589170,
+            "entrant2Id": 6605745,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "r0bb",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6589170,
+            "loserId": 6605745,
+            "winnerName": "UMF | Jmook",
+            "loserName": "r0bb",
+            "bracketName": "Bracket",
+            "bracketId": 1429309,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1245665,
+                    "playerTag": "Moosing"
+                }
+            ]
+        },
+        {
+            "id": 34367040,
+            "entrant1Id": 6589170,
+            "entrant2Id": 6589137,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6589170,
+            "loserId": 6589137,
+            "winnerName": "UMF | Jmook",
+            "loserName": "bobby big ballz",
+            "bracketName": "Top 64",
+            "bracketId": 1429308,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 34373569,
+            "entrant1Id": 6589170,
+            "entrant2Id": 6589136,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "Brotherhood|OS | Aklo",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6589136,
+            "loserId": 6589170,
+            "winnerName": "Brotherhood|OS | Aklo",
+            "loserName": "UMF | Jmook",
+            "bracketName": "Top 8",
+            "bracketId": 1430806,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ]
+        },
+        {
+            "id": 34373553,
+            "entrant1Id": 6589135,
+            "entrant2Id": 6589170,
+            "entrant1Name": "Ginger",
+            "entrant2Name": "UMF | Jmook",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6589135,
+            "loserId": 6589170,
+            "winnerName": "Ginger",
+            "loserName": "UMF | Jmook",
+            "bracketName": "Top 8",
+            "bracketId": 1430806,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 34367030,
+            "entrant1Id": 6589143,
+            "entrant2Id": 6589170,
+            "entrant1Name": "Magi",
+            "entrant2Name": "UMF | Jmook",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6589170,
+            "loserId": 6589143,
+            "winnerName": "UMF | Jmook",
+            "loserName": "Magi",
+            "bracketName": "Top 64",
+            "bracketId": 1429308,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 34373567,
+            "entrant1Id": 6589170,
+            "entrant2Id": 6589198,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "Bones",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6589170,
+            "loserId": 6589198,
+            "winnerName": "UMF | Jmook",
+            "loserName": "Bones",
+            "bracketName": "Top 8",
+            "bracketId": 1430806,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5457,
+                    "playerTag": "Bones"
+                }
+            ]
+        },
+        {
+            "id": 40285188,
+            "entrant1Id": 8221359,
+            "entrant2Id": 8221273,
+            "entrant1Name": "Jmook",
+            "entrant2Name": "Captain Smuckers",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8221359,
+            "loserId": 8221273,
+            "winnerName": "Jmook",
+            "loserName": "Captain Smuckers",
+            "bracketName": "Pools",
+            "bracketId": 1568228,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4824,
+                    "playerTag": "Captain Smuckers"
+                }
+            ]
+        },
+        {
+            "id": 40289888,
+            "entrant1Id": 8221359,
+            "entrant2Id": 8221534,
+            "entrant1Name": "Jmook",
+            "entrant2Name": "Chem",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8221534,
+            "loserId": 8221359,
+            "winnerName": "Chem",
+            "loserName": "Jmook",
+            "bracketName": "Top 12",
+            "bracketId": 1568229,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 709843,
+                    "playerTag": "Chem"
+                }
+            ]
+        },
+        {
+            "id": 40289889,
+            "entrant1Id": 8221534,
+            "entrant2Id": 8221359,
+            "entrant1Name": "Chem",
+            "entrant2Name": "Jmook",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8221359,
+            "loserId": 8221534,
+            "winnerName": "Jmook",
+            "loserName": "Chem",
+            "bracketName": "Top 12",
+            "bracketId": 1568229,
+            "entrant1Players": [
+                {
+                    "playerId": 709843,
+                    "playerTag": "Chem"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 40285184,
+            "entrant1Id": 8221359,
+            "entrant2Id": 8201120,
+            "entrant1Name": "Jmook",
+            "entrant2Name": "Drew",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8221359,
+            "loserId": 8201120,
+            "winnerName": "Jmook",
+            "loserName": "Drew",
+            "bracketName": "Pools",
+            "bracketId": 1568228,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2132205,
+                    "playerTag": "Drew6"
+                }
+            ]
+        },
+        {
+            "id": 40289887,
+            "entrant1Id": 8209724,
+            "entrant2Id": 8221359,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Jmook",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8221359,
+            "loserId": 8209724,
+            "winnerName": "Jmook",
+            "loserName": "Panda | iBDW",
+            "bracketName": "Top 12",
+            "bracketId": 1568229,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 40285176,
+            "entrant1Id": 8221359,
+            "entrant2Id": 8214282,
+            "entrant1Name": "Jmook",
+            "entrant2Name": "Bimbus",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8221359,
+            "loserId": 8214282,
+            "winnerName": "Jmook",
+            "loserName": "Bimbus",
+            "bracketName": "Pools",
+            "bracketId": 1568228,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1099914,
+                    "playerTag": "Bimbus"
+                }
+            ]
+        },
+        {
+            "id": 40289886,
+            "entrant1Id": 8221359,
+            "entrant2Id": 8206481,
+            "entrant1Name": "Jmook",
+            "entrant2Name": "CG | Jflex",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8221359,
+            "loserId": 8206481,
+            "winnerName": "Jmook",
+            "loserName": "CG | Jflex",
+            "bracketName": "Top 12",
+            "bracketId": 1568229,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 35727208,
+            "entrant1Id": 6952717,
+            "entrant2Id": 6954491,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "Komodo",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6954491,
+            "loserId": 6952717,
+            "winnerName": "Komodo",
+            "loserName": "UMF | Jmook",
+            "bracketName": "Bracket",
+            "bracketId": 1457779,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 275598,
+                    "playerTag": "Komodo"
+                }
+            ]
+        },
+        {
+            "id": 35727335,
+            "entrant1Id": 6952717,
+            "entrant2Id": 6954164,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "NGG | Jflex",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6952717,
+            "loserId": 6954164,
+            "winnerName": "UMF | Jmook",
+            "loserName": "NGG | Jflex",
+            "bracketName": "Bracket",
+            "bracketId": 1457779,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 35727204,
+            "entrant1Id": 6952717,
+            "entrant2Id": 6954922,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "Zeeker",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6952717,
+            "loserId": 6954922,
+            "winnerName": "UMF | Jmook",
+            "loserName": "Zeeker",
+            "bracketName": "Bracket",
+            "bracketId": 1457779,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 221136,
+                    "playerTag": "Zeeker"
+                }
+            ]
+        },
+        {
+            "id": 35727196,
+            "entrant1Id": 6952717,
+            "entrant2Id": 6954930,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "Peachy Keen",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6952717,
+            "loserId": 6954930,
+            "winnerName": "UMF | Jmook",
+            "loserName": "Peachy Keen",
+            "bracketName": "Bracket",
+            "bracketId": 1457779,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 24713,
+                    "playerTag": "Peachy Keen"
+                }
+            ]
+        },
+        {
+            "id": 35731001,
+            "entrant1Id": 6952942,
+            "entrant2Id": 6952717,
+            "entrant1Name": "2saint",
+            "entrant2Name": "UMF | Jmook",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6952942,
+            "loserId": 6952717,
+            "winnerName": "2saint",
+            "loserName": "UMF | Jmook",
+            "bracketName": "Top 8",
+            "bracketId": 1457780,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 35727180,
+            "entrant1Id": 6952717,
+            "entrant2Id": 6952130,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "RolkoBoy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6952717,
+            "loserId": 6952130,
+            "winnerName": "UMF | Jmook",
+            "loserName": "RolkoBoy",
+            "bracketName": "Bracket",
+            "bracketId": 1457779,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 638108,
+                    "playerTag": "RolkoBoy"
+                }
+            ]
+        },
+        {
+            "id": 35731016,
+            "entrant1Id": 6954491,
+            "entrant2Id": 6952717,
+            "entrant1Name": "Komodo",
+            "entrant2Name": "UMF | Jmook",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6952717,
+            "loserId": 6954491,
+            "winnerName": "UMF | Jmook",
+            "loserName": "Komodo",
+            "bracketName": "Top 8",
+            "bracketId": 1457780,
+            "entrant1Players": [
+                {
+                    "playerId": 275598,
+                    "playerTag": "Komodo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 35731015,
+            "entrant1Id": 6954975,
+            "entrant2Id": 6952717,
+            "entrant1Name": "Drephen",
+            "entrant2Name": "UMF | Jmook",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6952717,
+            "loserId": 6954975,
+            "winnerName": "UMF | Jmook",
+            "loserName": "Drephen",
+            "bracketName": "Top 8",
+            "bracketId": 1457780,
+            "entrant1Players": [
+                {
+                    "playerId": 6839,
+                    "playerTag": "Drephen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 35731014,
+            "entrant1Id": 6953149,
+            "entrant2Id": 6952717,
+            "entrant1Name": "Bones",
+            "entrant2Name": "UMF | Jmook",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6952717,
+            "loserId": 6953149,
+            "winnerName": "UMF | Jmook",
+            "loserName": "Bones",
+            "bracketName": "Top 8",
+            "bracketId": 1457780,
+            "entrant1Players": [
+                {
+                    "playerId": 5457,
+                    "playerTag": "Bones"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 35731012,
+            "entrant1Id": 6952717,
+            "entrant2Id": 6954562,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "Unsure",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6952717,
+            "loserId": 6954562,
+            "winnerName": "UMF | Jmook",
+            "loserName": "Unsure",
+            "bracketName": "Top 8",
+            "bracketId": 1457780,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 52030,
+                    "playerTag": "Unsure"
+                }
+            ]
+        },
+        {
+            "id": 35253258,
+            "entrant1Id": 6834654,
+            "entrant2Id": 6834958,
+            "entrant1Name": "Jmook",
+            "entrant2Name": "Googlyeyed",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6834654,
+            "loserId": 6834958,
+            "winnerName": "Jmook",
+            "loserName": "Googlyeyed",
+            "bracketName": "Bracket",
+            "bracketId": 1449206,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36532,
+                    "playerTag": "Googlyeyed"
+                }
+            ]
+        },
+        {
+            "id": 35253254,
+            "entrant1Id": 6834654,
+            "entrant2Id": 6836076,
+            "entrant1Name": "Jmook",
+            "entrant2Name": "Oaty",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6834654,
+            "loserId": 6836076,
+            "winnerName": "Jmook",
+            "loserName": "Oaty",
+            "bracketName": "Bracket",
+            "bracketId": 1449206,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36782,
+                    "playerTag": "Oaty"
+                }
+            ]
+        },
+        {
+            "id": 35253246,
+            "entrant1Id": 6834654,
+            "entrant2Id": 6836149,
+            "entrant1Name": "Jmook",
+            "entrant2Name": "Pepis | Pokimanefan",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6834654,
+            "loserId": 6836149,
+            "winnerName": "Jmook",
+            "loserName": "Pepis | Pokimanefan",
+            "bracketName": "Bracket",
+            "bracketId": 1449206,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 266332,
+                    "playerTag": "William"
+                }
+            ]
+        },
+        {
+            "id": 35258165,
+            "entrant1Id": 6834654,
+            "entrant2Id": 6834696,
+            "entrant1Name": "Jmook",
+            "entrant2Name": "Grab",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6834654,
+            "loserId": 6834696,
+            "winnerName": "Jmook",
+            "loserName": "Grab",
+            "bracketName": "Top 8",
+            "bracketId": 1449208,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 244116,
+                    "playerTag": "Grab"
+                }
+            ]
+        },
+        {
+            "id": 35258164,
+            "entrant1Id": 6834654,
+            "entrant2Id": 6834696,
+            "entrant1Name": "Jmook",
+            "entrant2Name": "Grab",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6834654,
+            "loserId": 6834696,
+            "winnerName": "Jmook",
+            "loserName": "Grab",
+            "bracketName": "Top 8",
+            "bracketId": 1449208,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 244116,
+                    "playerTag": "Grab"
+                }
+            ]
+        },
+        {
+            "id": 35253230,
+            "entrant1Id": 6834654,
+            "entrant2Id": 6833679,
+            "entrant1Name": "Jmook",
+            "entrant2Name": "luigit0ilet",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6834654,
+            "loserId": 6833679,
+            "winnerName": "Jmook",
+            "loserName": "luigit0ilet",
+            "bracketName": "Bracket",
+            "bracketId": 1449206,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65674,
+                    "playerTag": "luigit0ilet"
+                }
+            ]
+        },
+        {
+            "id": 35258162,
+            "entrant1Id": 6834654,
+            "entrant2Id": 6836006,
+            "entrant1Name": "Jmook",
+            "entrant2Name": "CmG",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6834654,
+            "loserId": 6836006,
+            "winnerName": "Jmook",
+            "loserName": "CmG",
+            "bracketName": "Top 8",
+            "bracketId": 1449208,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13460,
+                    "playerTag": "CmG"
+                }
+            ]
+        },
+        {
+            "id": 35558670,
+            "entrant1Id": 6913388,
+            "entrant2Id": 6912914,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "Weeg",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6913388,
+            "loserId": 6912914,
+            "winnerName": "UMF | Jmook",
+            "loserName": "Weeg",
+            "bracketName": "Bracket",
+            "bracketId": 1454950,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 63940,
+                    "playerTag": "Weeg"
+                }
+            ]
+        },
+        {
+            "id": 35558666,
+            "entrant1Id": 6913388,
+            "entrant2Id": 6912944,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "Zeeker",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6913388,
+            "loserId": 6912944,
+            "winnerName": "UMF | Jmook",
+            "loserName": "Zeeker",
+            "bracketName": "Bracket",
+            "bracketId": 1454950,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 221136,
+                    "playerTag": "Zeeker"
+                }
+            ]
+        },
+        {
+            "id": 35558658,
+            "entrant1Id": 6913388,
+            "entrant2Id": 6910869,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "WYO | Oleyy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6913388,
+            "loserId": 6910869,
+            "winnerName": "UMF | Jmook",
+            "loserName": "WYO | Oleyy",
+            "bracketName": "Bracket",
+            "bracketId": 1454950,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46425,
+                    "playerTag": "Oleyy"
+                }
+            ]
+        },
+        {
+            "id": 35562998,
+            "entrant1Id": 6912899,
+            "entrant2Id": 6913388,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "UMF | Jmook",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6912899,
+            "loserId": 6913388,
+            "winnerName": "bobby big ballz",
+            "loserName": "UMF | Jmook",
+            "bracketName": "Top 8",
+            "bracketId": 1454952,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 35562997,
+            "entrant1Id": 6913388,
+            "entrant2Id": 6912899,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6912899,
+            "loserId": 6913388,
+            "winnerName": "bobby big ballz",
+            "loserName": "UMF | Jmook",
+            "bracketName": "Top 8",
+            "bracketId": 1454952,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 35558642,
+            "entrant1Id": 6913388,
+            "entrant2Id": 6912941,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "Malcolm X",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6913388,
+            "loserId": 6912941,
+            "winnerName": "UMF | Jmook",
+            "loserName": "Malcolm X",
+            "bracketName": "Bracket",
+            "bracketId": 1454950,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1621804,
+                    "playerTag": "Malcolm X"
+                }
+            ]
+        },
+        {
+            "id": 35563013,
+            "entrant1Id": 6913388,
+            "entrant2Id": 6913262,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6913388,
+            "loserId": 6913262,
+            "winnerName": "UMF | Jmook",
+            "loserName": "TG | Mot$",
+            "bracketName": "Top 8",
+            "bracketId": 1454952,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 35562995,
+            "entrant1Id": 6913388,
+            "entrant2Id": 6912382,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "Komodo",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6913388,
+            "loserId": 6912382,
+            "winnerName": "UMF | Jmook",
+            "loserName": "Komodo",
+            "bracketName": "Top 8",
+            "bracketId": 1454952,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 275598,
+                    "playerTag": "Komodo"
+                }
+            ]
+        },
+        {
+            "id": 35184222,
+            "entrant1Id": 6813209,
+            "entrant2Id": 6748748,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "UMF | Json",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6813209,
+            "loserId": 6748748,
+            "winnerName": "UMF | Jmook",
+            "loserName": "UMF | Json",
+            "bracketName": "Top 8",
+            "bracketId": 1441727,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 58616,
+                    "playerTag": "Json"
+                }
+            ]
+        },
+        {
+            "id": 35184221,
+            "entrant1Id": 6813209,
+            "entrant2Id": 6793803,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "SmashCPU | IceFreezer304",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6813209,
+            "loserId": 6793803,
+            "winnerName": "UMF | Jmook",
+            "loserName": "SmashCPU | IceFreezer304",
+            "bracketName": "Top 8",
+            "bracketId": 1441727,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 25924,
+                    "playerTag": "Freezus"
+                }
+            ]
+        },
+        {
+            "id": 35182995,
+            "entrant1Id": 6813209,
+            "entrant2Id": 6807867,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "Bylt",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6813209,
+            "loserId": 6807867,
+            "winnerName": "UMF | Jmook",
+            "loserName": "Bylt",
+            "bracketName": "Bracket",
+            "bracketId": 1441726,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1739243,
+                    "playerTag": "Bylt"
+                }
+            ]
+        },
+        {
+            "id": 35184219,
+            "entrant1Id": 6813209,
+            "entrant2Id": 6813242,
+            "entrant1Name": "UMF | Jmook",
+            "entrant2Name": "UMF | billyboy48",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6813209,
+            "loserId": 6813242,
+            "winnerName": "UMF | Jmook",
+            "loserName": "UMF | billyboy48",
+            "bracketName": "Top 8",
+            "bracketId": 1441727,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 229137,
+                    "playerTag": "billyboy48"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "Far!",
+        "Gahtzu",
+        "Kalamazhu",
+        "Sora/Joshman",
+        "Polish",
+        "Ginger",
+        "Aklo",
+        "n0ne/ Bond / wizzyfan109",
+        "Ginger",
+        "Zain",
+        "bobby big ballz",
+        "Magi",
+        "Bones",
+        "Captain Smuckers",
+        "Chem",
+        "iBDW",
+        "Jflex",
+        "Jflex",
+        "Drephen",
+        "Bones",
+        "Mot$"
+    ],
+    "L": [
+        "aMSa",
+        "Frenzy",
+        "moky",
+        "S2J",
+        "Aklo",
+        "Ginger",
+        "Chem",
+        "Komodo",
+        "2saint",
+        "bobby big ballz",
+        "bobby big ballz"
+    ]
+}

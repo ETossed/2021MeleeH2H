@@ -1,0 +1,4457 @@
+{
+    "ID": 261464,
+    "Events": [
+        "644621",
+        "570198",
+        "572809",
+        "550163",
+        "552155",
+        "541113",
+        "574667",
+        "635845",
+        "627665",
+        "550396",
+        "549684",
+        "543662",
+        "554988",
+        "428582",
+        "554625",
+        "653599",
+        "631353",
+        "618419"
+    ],
+    "Sets": [
+        {
+            "id": 43223827,
+            "entrant1Id": 8712529,
+            "entrant2Id": 8712497,
+            "entrant1Name": "Polish",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712497,
+            "loserId": 8712529,
+            "winnerName": "Pipsqueak",
+            "loserName": "Polish",
+            "bracketName": "Group Stage",
+            "bracketId": 1635974,
+            "entrant1Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 43223826,
+            "entrant1Id": 8712491,
+            "entrant2Id": 8712497,
+            "entrant1Name": "Chape",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712497,
+            "loserId": 8712491,
+            "winnerName": "Pipsqueak",
+            "loserName": "Chape",
+            "bracketName": "Group Stage",
+            "bracketId": 1635974,
+            "entrant1Players": [
+                {
+                    "playerId": 541439,
+                    "playerTag": "Chape"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 43223822,
+            "entrant1Id": 8712497,
+            "entrant2Id": 8955010,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Spark",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712497,
+            "loserId": 8955010,
+            "winnerName": "Pipsqueak",
+            "loserName": "Spark",
+            "bracketName": "Group Stage",
+            "bracketId": 1635974,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ]
+        },
+        {
+            "id": 43289122,
+            "entrant1Id": 8712529,
+            "entrant2Id": 8712497,
+            "entrant1Name": "Polish",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8712529,
+            "loserId": 8712497,
+            "winnerName": "Polish",
+            "loserName": "Pipsqueak",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 43289058,
+            "entrant1Id": 8712510,
+            "entrant2Id": 8712497,
+            "entrant1Name": "Plup",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712510,
+            "loserId": 8712497,
+            "winnerName": "Plup",
+            "loserName": "Pipsqueak",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 43223819,
+            "entrant1Id": 8712497,
+            "entrant2Id": 8892144,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Colbol",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712497,
+            "loserId": 8892144,
+            "winnerName": "Pipsqueak",
+            "loserName": "Colbol",
+            "bracketName": "Group Stage",
+            "bracketId": 1635974,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1009,
+                    "playerTag": "Colbol"
+                }
+            ]
+        },
+        {
+            "id": 43289120,
+            "entrant1Id": 8712497,
+            "entrant2Id": 8712503,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Frenzy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712497,
+            "loserId": 8712503,
+            "winnerName": "Pipsqueak",
+            "loserName": "Frenzy",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 37099805,
+            "entrant1Id": 7283851,
+            "entrant2Id": 7270678,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "PS | Ice",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7283851,
+            "loserId": 7270678,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "PS | Ice",
+            "bracketName": "Bracket top 8",
+            "bracketId": 1484471,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 37099804,
+            "entrant1Id": 7270678,
+            "entrant2Id": 7283851,
+            "entrant1Name": "PS | Ice",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7283851,
+            "loserId": 7270678,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "PS | Ice",
+            "bracketName": "Bracket top 8",
+            "bracketId": 1484471,
+            "entrant1Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 37094797,
+            "entrant1Id": 7283851,
+            "entrant2Id": 7259602,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7283851,
+            "loserId": 7259602,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Meady",
+            "bracketName": "Bracket top 32",
+            "bracketId": 1484470,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 37099803,
+            "entrant1Id": 7283851,
+            "entrant2Id": 7275066,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "upgamer | Nicki",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7283851,
+            "loserId": 7275066,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "upgamer | Nicki",
+            "bracketName": "Bracket top 8",
+            "bracketId": 1484471,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ]
+        },
+        {
+            "id": 37094791,
+            "entrant1Id": 7283851,
+            "entrant2Id": 7281437,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Calle W",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7283851,
+            "loserId": 7281437,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Calle W",
+            "bracketName": "Bracket top 32",
+            "bracketId": 1484470,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36562,
+                    "playerTag": "Calle W"
+                }
+            ]
+        },
+        {
+            "id": 37245145,
+            "entrant1Id": 7265743,
+            "entrant2Id": 7265725,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265743,
+            "loserId": 7265725,
+            "winnerName": "TSM | Leffen",
+            "loserName": "PS | Pipsqueak",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 37245142,
+            "entrant1Id": 7265700,
+            "entrant2Id": 7265725,
+            "entrant1Name": "PS | Nicki",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265725,
+            "loserId": 7265700,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "PS | Nicki",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 37245139,
+            "entrant1Id": 7265723,
+            "entrant2Id": 7265725,
+            "entrant1Name": "MINT",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7265723,
+            "loserId": 7265725,
+            "winnerName": "MINT",
+            "loserName": "PS | Pipsqueak",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 128932,
+                    "playerTag": "MINT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 37245136,
+            "entrant1Id": 7265742,
+            "entrant2Id": 7265725,
+            "entrant1Name": "Fuzzyness",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265725,
+            "loserId": 7265742,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Fuzzyness",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 6103,
+                    "playerTag": "Fuzzyness"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 37245132,
+            "entrant1Id": 7265725,
+            "entrant2Id": 7265710,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Solobattle",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7265725,
+            "loserId": 7265710,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Solobattle",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 219891,
+                    "playerTag": "Solobattle"
+                }
+            ]
+        },
+        {
+            "id": 37245127,
+            "entrant1Id": 7265725,
+            "entrant2Id": 7265733,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265733,
+            "loserId": 7265725,
+            "winnerName": "Jah Ridin'",
+            "loserName": "PS | Pipsqueak",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 37245122,
+            "entrant1Id": 7265725,
+            "entrant2Id": 7265735,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265735,
+            "loserId": 7265725,
+            "winnerName": "Mahie",
+            "loserName": "PS | Pipsqueak",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 37282893,
+            "entrant1Id": 7265723,
+            "entrant2Id": 7265725,
+            "entrant1Name": "MINT",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265723,
+            "loserId": 7265725,
+            "winnerName": "MINT",
+            "loserName": "PS | Pipsqueak",
+            "bracketName": "Bracket",
+            "bracketId": 1490266,
+            "entrant1Players": [
+                {
+                    "playerId": 128932,
+                    "playerTag": "MINT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 35640702,
+            "entrant1Id": 6843628,
+            "entrant2Id": 6774661,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Velani",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6843628,
+            "loserId": 6774661,
+            "winnerName": "Pipsqueak",
+            "loserName": "Velani",
+            "bracketName": "Pools",
+            "bracketId": 1444208,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 517638,
+                    "playerTag": "Velani"
+                }
+            ]
+        },
+        {
+            "id": 35640698,
+            "entrant1Id": 6843628,
+            "entrant2Id": 6879734,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "MskJ",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6843628,
+            "loserId": 6879734,
+            "winnerName": "Pipsqueak",
+            "loserName": "MskJ",
+            "bracketName": "Pools",
+            "bracketId": 1444208,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54732,
+                    "playerTag": "\u043foo\u043f"
+                }
+            ]
+        },
+        {
+            "id": 35640694,
+            "entrant1Id": 6843628,
+            "entrant2Id": 6783133,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "3rd",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6843628,
+            "loserId": 6783133,
+            "winnerName": "Pipsqueak",
+            "loserName": "3rd",
+            "bracketName": "Pools",
+            "bracketId": 1444208,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 859325,
+                    "playerTag": "3rd"
+                }
+            ]
+        },
+        {
+            "id": 35640690,
+            "entrant1Id": 6843628,
+            "entrant2Id": 6897827,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "DAN2Y",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6843628,
+            "loserId": 6897827,
+            "winnerName": "Pipsqueak",
+            "loserName": "DAN2Y",
+            "bracketName": "Pools",
+            "bracketId": 1444208,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 872384,
+                    "playerTag": "DAN2Y"
+                }
+            ]
+        },
+        {
+            "id": 35640686,
+            "entrant1Id": 6843628,
+            "entrant2Id": 6891819,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Team Heir | Calzum",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6843628,
+            "loserId": 6891819,
+            "winnerName": "Pipsqueak",
+            "loserName": "Team Heir | Calzum",
+            "bracketName": "Pools",
+            "bracketId": 1444208,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12341,
+                    "playerTag": "Calzum"
+                }
+            ]
+        },
+        {
+            "id": 35640682,
+            "entrant1Id": 6843628,
+            "entrant2Id": 6900172,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Ronsteri",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6843628,
+            "loserId": 6900172,
+            "winnerName": "Pipsqueak",
+            "loserName": "Ronsteri",
+            "bracketName": "Pools",
+            "bracketId": 1444208,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1038055,
+                    "playerTag": "Ronsteri"
+                }
+            ]
+        },
+        {
+            "id": 35644448,
+            "entrant1Id": 6843628,
+            "entrant2Id": 6773230,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6843628,
+            "loserId": 6773230,
+            "winnerName": "Pipsqueak",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Top 32",
+            "bracketId": 1458614,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 35642482,
+            "entrant1Id": 6843628,
+            "entrant2Id": 6783927,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "ALP | Yogurt",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6843628,
+            "loserId": 6783927,
+            "winnerName": "Pipsqueak",
+            "loserName": "ALP | Yogurt",
+            "bracketName": "Top 96",
+            "bracketId": 1458050,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 271486,
+                    "playerTag": "Yogurt"
+                }
+            ]
+        },
+        {
+            "id": 35640674,
+            "entrant1Id": 6843628,
+            "entrant2Id": 6899907,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Naytokai",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6843628,
+            "loserId": 6899907,
+            "winnerName": "Pipsqueak",
+            "loserName": "Naytokai",
+            "bracketName": "Pools",
+            "bracketId": 1444208,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 399193,
+                    "playerTag": "Naytokai"
+                }
+            ]
+        },
+        {
+            "id": 35644440,
+            "entrant1Id": 6843628,
+            "entrant2Id": 6772947,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6843628,
+            "loserId": 6772947,
+            "winnerName": "Pipsqueak",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Top 32",
+            "bracketId": 1458614,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 35653612,
+            "entrant1Id": 6843628,
+            "entrant2Id": 6772145,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6772145,
+            "loserId": 6843628,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Pipsqueak",
+            "bracketName": "Top 8",
+            "bracketId": 1458055,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 35644088,
+            "entrant1Id": 6843628,
+            "entrant2Id": 6893667,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Steff$",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6843628,
+            "loserId": 6893667,
+            "winnerName": "Pipsqueak",
+            "loserName": "Steff$",
+            "bracketName": "Top 64",
+            "bracketId": 1458612,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 885219,
+                    "playerTag": "Steff$"
+                }
+            ]
+        },
+        {
+            "id": 35653628,
+            "entrant1Id": 6843628,
+            "entrant2Id": 6843641,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "CGN | Nicki",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6843641,
+            "loserId": 6843628,
+            "winnerName": "CGN | Nicki",
+            "loserName": "Pipsqueak",
+            "bracketName": "Top 8",
+            "bracketId": 1458055,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ]
+        },
+        {
+            "id": 35130794,
+            "entrant1Id": 6806751,
+            "entrant2Id": 6806745,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6806745,
+            "loserId": 6806751,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Pipsqueak",
+            "bracketName": "Bracket",
+            "bracketId": 1447895,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 35130795,
+            "entrant1Id": 6806745,
+            "entrant2Id": 6806751,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6806751,
+            "loserId": 6806745,
+            "winnerName": "Pipsqueak",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Bracket",
+            "bracketId": 1447895,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 35130793,
+            "entrant1Id": 6805560,
+            "entrant2Id": 6806751,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6806751,
+            "loserId": 6805560,
+            "winnerName": "Pipsqueak",
+            "loserName": "TSM | Leffen",
+            "bracketName": "Bracket",
+            "bracketId": 1447895,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 35130792,
+            "entrant1Id": 6806751,
+            "entrant2Id": 6806745,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6806751,
+            "loserId": 6806745,
+            "winnerName": "Pipsqueak",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Bracket",
+            "bracketId": 1447895,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 35130789,
+            "entrant1Id": 6806751,
+            "entrant2Id": 6806827,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Kingu",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6806751,
+            "loserId": 6806827,
+            "winnerName": "Pipsqueak",
+            "loserName": "Kingu",
+            "bracketName": "Bracket",
+            "bracketId": 1447895,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1400299,
+                    "playerTag": "Kingu"
+                }
+            ]
+        },
+        {
+            "id": 35130783,
+            "entrant1Id": 6806751,
+            "entrant2Id": 6806769,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "flamecube64",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6806751,
+            "loserId": 6806769,
+            "winnerName": "Pipsqueak",
+            "loserName": "flamecube64",
+            "bracketName": "Bracket",
+            "bracketId": 1447895,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 531022,
+                    "playerTag": "Zapp"
+                }
+            ]
+        },
+        {
+            "id": 35130771,
+            "entrant1Id": 6806751,
+            "entrant2Id": 6806753,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "TempestYGO",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6806751,
+            "loserId": 6806753,
+            "winnerName": "Pipsqueak",
+            "loserName": "TempestYGO",
+            "bracketName": "Bracket",
+            "bracketId": 1447895,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1708281,
+                    "playerTag": "TempestYGO"
+                }
+            ]
+        },
+        {
+            "id": 34993611,
+            "entrant1Id": 6649719,
+            "entrant2Id": 6732477,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "MintGreen",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649719,
+            "loserId": 6732477,
+            "winnerName": "Pipsqueak",
+            "loserName": "MintGreen",
+            "bracketName": "Pools",
+            "bracketId": 1438907,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 319840,
+                    "playerTag": "MintGreen"
+                }
+            ]
+        },
+        {
+            "id": 34993607,
+            "entrant1Id": 6649719,
+            "entrant2Id": 6649687,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Aiken",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6649719,
+            "loserId": 6649687,
+            "winnerName": "Pipsqueak",
+            "loserName": "Aiken",
+            "bracketName": "Pools",
+            "bracketId": 1438907,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11085,
+                    "playerTag": "Aiken"
+                }
+            ]
+        },
+        {
+            "id": 34993599,
+            "entrant1Id": 6649719,
+            "entrant2Id": 6651573,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Touffe",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649719,
+            "loserId": 6651573,
+            "winnerName": "Pipsqueak",
+            "loserName": "Touffe",
+            "bracketName": "Pools",
+            "bracketId": 1438907,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 503722,
+                    "playerTag": "Touffe"
+                }
+            ]
+        },
+        {
+            "id": 34996720,
+            "entrant1Id": 6649719,
+            "entrant2Id": 6731740,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Squeachu",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649719,
+            "loserId": 6731740,
+            "winnerName": "Pipsqueak",
+            "loserName": "Squeachu",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 66980,
+                    "playerTag": "Squeachu"
+                }
+            ]
+        },
+        {
+            "id": 35000245,
+            "entrant1Id": 6649719,
+            "entrant2Id": 6649949,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "TSM | Leffen",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6649949,
+            "loserId": 6649719,
+            "winnerName": "TSM | Leffen",
+            "loserName": "Pipsqueak",
+            "bracketName": "Fenris Bracket - Top 8",
+            "bracketId": 1442845,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ]
+        },
+        {
+            "id": 35000246,
+            "entrant1Id": 6649949,
+            "entrant2Id": 6649719,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6649719,
+            "loserId": 6649949,
+            "winnerName": "Pipsqueak",
+            "loserName": "TSM | Leffen",
+            "bracketName": "Fenris Bracket - Top 8",
+            "bracketId": 1442845,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 34993595,
+            "entrant1Id": 6649719,
+            "entrant2Id": 6671057,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Yophi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649719,
+            "loserId": 6671057,
+            "winnerName": "Pipsqueak",
+            "loserName": "Yophi",
+            "bracketName": "Pools",
+            "bracketId": 1438907,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1075236,
+                    "playerTag": "Yophi"
+                }
+            ]
+        },
+        {
+            "id": 34996692,
+            "entrant1Id": 6649719,
+            "entrant2Id": 6656732,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Taisu",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649719,
+            "loserId": 6656732,
+            "winnerName": "Pipsqueak",
+            "loserName": "Taisu",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1132133,
+                    "playerTag": "Taisu"
+                }
+            ]
+        },
+        {
+            "id": 35000244,
+            "entrant1Id": 6649719,
+            "entrant2Id": 6649592,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6649719,
+            "loserId": 6649592,
+            "winnerName": "Pipsqueak",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Fenris Bracket - Top 8",
+            "bracketId": 1442845,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 34998308,
+            "entrant1Id": 6649719,
+            "entrant2Id": 6730773,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "SSP | Timi",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6649719,
+            "loserId": 6730773,
+            "winnerName": "Pipsqueak",
+            "loserName": "SSP | Timi",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6747,
+                    "playerTag": "Timi"
+                }
+            ]
+        },
+        {
+            "id": 35000242,
+            "entrant1Id": 6649949,
+            "entrant2Id": 6649719,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6649719,
+            "loserId": 6649949,
+            "winnerName": "Pipsqueak",
+            "loserName": "TSM | Leffen",
+            "bracketName": "Fenris Bracket - Top 8",
+            "bracketId": 1442845,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 34998301,
+            "entrant1Id": 6649719,
+            "entrant2Id": 6652020,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Humpe",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6649719,
+            "loserId": 6652020,
+            "winnerName": "Pipsqueak",
+            "loserName": "Humpe",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 49595,
+                    "playerTag": "Humpe"
+                }
+            ]
+        },
+        {
+            "id": 38246786,
+            "entrant1Id": 7403739,
+            "entrant2Id": 7519896,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "PS | Ice",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7403739,
+            "loserId": 7519896,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "PS | Ice",
+            "bracketName": "Top 16",
+            "bracketId": 1493039,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 38197132,
+            "entrant1Id": 7403739,
+            "entrant2Id": 7552621,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Mezzy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7403739,
+            "loserId": 7552621,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Mezzy",
+            "bracketName": "Pools",
+            "bracketId": 1492862,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 323610,
+                    "playerTag": "Mezzy"
+                }
+            ]
+        },
+        {
+            "id": 38246785,
+            "entrant1Id": 7403739,
+            "entrant2Id": 7519896,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "PS | Ice",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7403739,
+            "loserId": 7519896,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "PS | Ice",
+            "bracketName": "Top 16",
+            "bracketId": 1493039,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 38197128,
+            "entrant1Id": 7403739,
+            "entrant2Id": 7343813,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Bura",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7403739,
+            "loserId": 7343813,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Bura",
+            "bracketName": "Pools",
+            "bracketId": 1492862,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1909667,
+                    "playerTag": "Bura"
+                }
+            ]
+        },
+        {
+            "id": 38246783,
+            "entrant1Id": 7403739,
+            "entrant2Id": 7552529,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7403739,
+            "loserId": 7552529,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Top 16",
+            "bracketId": 1493039,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 38197120,
+            "entrant1Id": 7403739,
+            "entrant2Id": 7554881,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Katana",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7403739,
+            "loserId": 7554881,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Katana",
+            "bracketName": "Pools",
+            "bracketId": 1492862,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2159050,
+                    "playerTag": "Katana"
+                }
+            ]
+        },
+        {
+            "id": 38246779,
+            "entrant1Id": 7403739,
+            "entrant2Id": 7316512,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7403739,
+            "loserId": 7316512,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Top 16",
+            "bracketId": 1493039,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 38197943,
+            "entrant1Id": 7403739,
+            "entrant2Id": 7409817,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Fuzzyness",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7403739,
+            "loserId": 7409817,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Fuzzyness",
+            "bracketName": "Top 32",
+            "bracketId": 1493038,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6103,
+                    "playerTag": "Fuzzyness"
+                }
+            ]
+        },
+        {
+            "id": 43039842,
+            "entrant1Id": 8879513,
+            "entrant2Id": 8879519,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Pulse | Tyler Swift",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8879513,
+            "loserId": 8879519,
+            "winnerName": "Pipsqueak",
+            "loserName": "Pulse | Tyler Swift",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637738,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 49131,
+                    "playerTag": "Swift"
+                }
+            ]
+        },
+        {
+            "id": 43106832,
+            "entrant1Id": 8879483,
+            "entrant2Id": 8879513,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8879483,
+            "loserId": 8879513,
+            "winnerName": "TSM | Leffen",
+            "loserName": "Pipsqueak",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1637740,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 43039839,
+            "entrant1Id": 8879467,
+            "entrant2Id": 8879513,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8879467,
+            "loserId": 8879513,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Pipsqueak",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637738,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 42974001,
+            "entrant1Id": 8879543,
+            "entrant2Id": 8879513,
+            "entrant1Name": "Free Palestine",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879513,
+            "loserId": 8879543,
+            "winnerName": "Pipsqueak",
+            "loserName": "Free Palestine",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1637740,
+            "entrant1Players": [
+                {
+                    "playerId": 55110,
+                    "playerTag": "Free Palestine"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 43039838,
+            "entrant1Id": 8879473,
+            "entrant2Id": 8879513,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8879473,
+            "loserId": 8879513,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "Pipsqueak",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637738,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 43130452,
+            "entrant1Id": 8879510,
+            "entrant2Id": 8879513,
+            "entrant1Name": "bc | Magi",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8879510,
+            "loserId": 8879513,
+            "winnerName": "bc | Magi",
+            "loserName": "Pipsqueak",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 42139909,
+            "entrant1Id": 8528812,
+            "entrant2Id": 8528793,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8528793,
+            "loserId": 8528812,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Professor Pro",
+            "bracketName": "Bracket",
+            "bracketId": 1588279,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 42139910,
+            "entrant1Id": 8528793,
+            "entrant2Id": 8528812,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8528793,
+            "loserId": 8528812,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Professor Pro",
+            "bracketName": "Bracket",
+            "bracketId": 1588279,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 42139940,
+            "entrant1Id": 8528798,
+            "entrant2Id": 8528793,
+            "entrant1Name": "Solobattle",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8528793,
+            "loserId": 8528798,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Solobattle",
+            "bracketName": "Bracket",
+            "bracketId": 1588279,
+            "entrant1Players": [
+                {
+                    "playerId": 219891,
+                    "playerTag": "Solobattle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 42139939,
+            "entrant1Id": 8528793,
+            "entrant2Id": 8528774,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8528793,
+            "loserId": 8528774,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Bracket",
+            "bracketId": 1588279,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 42139937,
+            "entrant1Id": 8528841,
+            "entrant2Id": 8528793,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8528793,
+            "loserId": 8528841,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "PS | Trif",
+            "bracketName": "Bracket",
+            "bracketId": 1588279,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 42139935,
+            "entrant1Id": 8637342,
+            "entrant2Id": 8528793,
+            "entrant1Name": "raoul",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8528793,
+            "loserId": 8637342,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "raoul",
+            "bracketName": "Bracket",
+            "bracketId": 1588279,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 42139904,
+            "entrant1Id": 8528793,
+            "entrant2Id": 8528798,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Solobattle",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8528798,
+            "loserId": 8528793,
+            "winnerName": "Solobattle",
+            "loserName": "PS | Pipsqueak",
+            "bracketName": "Bracket",
+            "bracketId": 1588279,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 219891,
+                    "playerTag": "Solobattle"
+                }
+            ]
+        },
+        {
+            "id": 42139932,
+            "entrant1Id": 8528793,
+            "entrant2Id": 8528807,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8528793,
+            "loserId": 8528807,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Meady",
+            "bracketName": "Bracket",
+            "bracketId": 1588279,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 42139898,
+            "entrant1Id": 8528793,
+            "entrant2Id": 8528819,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Sharp",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8528793,
+            "loserId": 8528819,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Sharp",
+            "bracketName": "Bracket",
+            "bracketId": 1588279,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ]
+        },
+        {
+            "id": 40800587,
+            "entrant1Id": 8151208,
+            "entrant2Id": 8243556,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "EuO",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8151208,
+            "loserId": 8243556,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "EuO",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554131,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40016,
+                    "playerTag": "EuO"
+                }
+            ]
+        },
+        {
+            "id": 40800584,
+            "entrant1Id": 8151208,
+            "entrant2Id": 8127101,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "dank",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8151208,
+            "loserId": 8127101,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "dank",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554131,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37539,
+                    "playerTag": "dank"
+                }
+            ]
+        },
+        {
+            "id": 40800581,
+            "entrant1Id": 8151208,
+            "entrant2Id": 8310136,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Tisk",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8151208,
+            "loserId": 8310136,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Tisk",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554131,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1879975,
+                    "playerTag": "Tisk"
+                }
+            ]
+        },
+        {
+            "id": 40863573,
+            "entrant1Id": 8151208,
+            "entrant2Id": 8342309,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "RLB | Kins0",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8342309,
+            "loserId": 8151208,
+            "winnerName": "RLB | Kins0",
+            "loserName": "PS | Pipsqueak",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 40863696,
+            "entrant1Id": 8151208,
+            "entrant2Id": 8338750,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "raoul",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8151208,
+            "loserId": 8338750,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "raoul",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 40863567,
+            "entrant1Id": 8151208,
+            "entrant2Id": 8326936,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "abbearv",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8151208,
+            "loserId": 8326936,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "abbearv",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1853889,
+                    "playerTag": "abbearv"
+                }
+            ]
+        },
+        {
+            "id": 40800575,
+            "entrant1Id": 8151208,
+            "entrant2Id": 8130675,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Ali",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8151208,
+            "loserId": 8130675,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Ali",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554131,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1062106,
+                    "playerTag": "Ali"
+                }
+            ]
+        },
+        {
+            "id": 40863555,
+            "entrant1Id": 8151208,
+            "entrant2Id": 8340310,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Raptori",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8151208,
+            "loserId": 8340310,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Raptori",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 148278,
+                    "playerTag": "Raptori"
+                }
+            ]
+        },
+        {
+            "id": 40870067,
+            "entrant1Id": 8198304,
+            "entrant2Id": 8151208,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8151208,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "PS | Pipsqueak",
+            "bracketName": "Bagarre Top8",
+            "bracketId": 1554139,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 40870066,
+            "entrant1Id": 8266377,
+            "entrant2Id": 8151208,
+            "entrant1Name": "Solobattle",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8151208,
+            "loserId": 8266377,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Solobattle",
+            "bracketName": "Bagarre Top8",
+            "bracketId": 1554139,
+            "entrant1Players": [
+                {
+                    "playerId": 219891,
+                    "playerTag": "Solobattle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 40870064,
+            "entrant1Id": 8151208,
+            "entrant2Id": 8127438,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Sharp",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8151208,
+            "loserId": 8127438,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Sharp",
+            "bracketName": "Bagarre Top8",
+            "bracketId": 1554139,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ]
+        },
+        {
+            "id": 37559718,
+            "entrant1Id": 7306872,
+            "entrant2Id": 7275442,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "DAEDRICDARLING | Mad4Men",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7306872,
+            "loserId": 7275442,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "DAEDRICDARLING | Mad4Men",
+            "bracketName": "Changing room",
+            "bracketId": 1487069,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11473,
+                    "playerTag": "Mad4Men"
+                }
+            ]
+        },
+        {
+            "id": 37613387,
+            "entrant1Id": 7306872,
+            "entrant2Id": 7374537,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "PS | Ice",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7306872,
+            "loserId": 7374537,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "PS | Ice",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 37559716,
+            "entrant1Id": 7306872,
+            "entrant2Id": 7369653,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "LGDD | zck",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7306872,
+            "loserId": 7369653,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "LGDD | zck",
+            "bracketName": "Changing room",
+            "bracketId": 1487069,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6008,
+                    "playerTag": "zck"
+                }
+            ]
+        },
+        {
+            "id": 37613380,
+            "entrant1Id": 7306872,
+            "entrant2Id": 7269357,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7306872,
+            "loserId": 7269357,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 37624955,
+            "entrant1Id": 7306872,
+            "entrant2Id": 7374537,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "PS | Ice",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7306872,
+            "loserId": 7374537,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "PS | Ice",
+            "bracketName": "Top 8",
+            "bracketId": 1479079,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 37559714,
+            "entrant1Id": 7306872,
+            "entrant2Id": 7331621,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Koolan",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7306872,
+            "loserId": 7331621,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Koolan",
+            "bracketName": "Changing room",
+            "bracketId": 1487069,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2157519,
+                    "playerTag": "Koolan"
+                }
+            ]
+        },
+        {
+            "id": 37613366,
+            "entrant1Id": 7306872,
+            "entrant2Id": 7248059,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "R23",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7306872,
+            "loserId": 7248059,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "R23",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5519,
+                    "playerTag": "R23"
+                }
+            ]
+        },
+        {
+            "id": 37624954,
+            "entrant1Id": 7306872,
+            "entrant2Id": 7357436,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7306872,
+            "loserId": 7357436,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Professor Pro",
+            "bracketName": "Top 8",
+            "bracketId": 1479079,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 37559712,
+            "entrant1Id": 7306872,
+            "entrant2Id": 7370756,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "TLS CBVT | TwilCynder",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7306872,
+            "loserId": 7370756,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "TLS CBVT | TwilCynder",
+            "bracketName": "Changing room",
+            "bracketId": 1487069,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 908884,
+                    "playerTag": "TwilCynder"
+                }
+            ]
+        },
+        {
+            "id": 37624952,
+            "entrant1Id": 7272155,
+            "entrant2Id": 7306872,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7306872,
+            "loserId": 7272155,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Top 8",
+            "bracketId": 1479079,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 37613338,
+            "entrant1Id": 7306872,
+            "entrant2Id": 7291822,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "upgamer | Exy-",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7306872,
+            "loserId": 7291822,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "upgamer | Exy-",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 508749,
+                    "playerTag": "Exy-"
+                }
+            ]
+        },
+        {
+            "id": 36913979,
+            "entrant1Id": 7128589,
+            "entrant2Id": 7213669,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Rev",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7128589,
+            "loserId": 7213669,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Rev",
+            "bracketName": "Pools",
+            "bracketId": 1472582,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48814,
+                    "playerTag": "Rev"
+                }
+            ]
+        },
+        {
+            "id": 36913976,
+            "entrant1Id": 7128589,
+            "entrant2Id": 7187054,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Rabbitalex",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7128589,
+            "loserId": 7187054,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Rabbitalex",
+            "bracketName": "Pools",
+            "bracketId": 1472582,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 148437,
+                    "playerTag": "Rabbitalex"
+                }
+            ]
+        },
+        {
+            "id": 36913973,
+            "entrant1Id": 7128589,
+            "entrant2Id": 7230198,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Pakkanen",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7128589,
+            "loserId": 7230198,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Pakkanen",
+            "bracketName": "Pools",
+            "bracketId": 1472582,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 174402,
+                    "playerTag": "Pakkanen"
+                }
+            ]
+        },
+        {
+            "id": 36951817,
+            "entrant1Id": 7128589,
+            "entrant2Id": 7230458,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Gr4pe",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7128589,
+            "loserId": 7230458,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Gr4pe",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1472623,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 276138,
+                    "playerTag": "Gr4pe"
+                }
+            ]
+        },
+        {
+            "id": 36913970,
+            "entrant1Id": 7128589,
+            "entrant2Id": 7231778,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Impade",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7128589,
+            "loserId": 7231778,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Impade",
+            "bracketName": "Pools",
+            "bracketId": 1472582,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6014,
+                    "playerTag": "Impade"
+                }
+            ]
+        },
+        {
+            "id": 36951809,
+            "entrant1Id": 7128589,
+            "entrant2Id": 7165476,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Askeflink",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7128589,
+            "loserId": 7165476,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Askeflink",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1472623,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4916,
+                    "playerTag": "Askeflink"
+                }
+            ]
+        },
+        {
+            "id": 36955911,
+            "entrant1Id": 7128589,
+            "entrant2Id": 7213044,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "MINT",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7213044,
+            "loserId": 7128589,
+            "winnerName": "MINT",
+            "loserName": "PS | Pipsqueak",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 128932,
+                    "playerTag": "MINT"
+                }
+            ]
+        },
+        {
+            "id": 36956034,
+            "entrant1Id": 7128589,
+            "entrant2Id": 7171117,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "raoul",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7128589,
+            "loserId": 7171117,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "raoul",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 36913967,
+            "entrant1Id": 7128589,
+            "entrant2Id": 7234959,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "DeaconBlues",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7128589,
+            "loserId": 7234959,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "DeaconBlues",
+            "bracketName": "Pools",
+            "bracketId": 1472582,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10538,
+                    "playerTag": "DeaconBlues"
+                }
+            ]
+        },
+        {
+            "id": 36955905,
+            "entrant1Id": 7128589,
+            "entrant2Id": 7220606,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Bose",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7128589,
+            "loserId": 7220606,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Bose",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37209,
+                    "playerTag": "Bose"
+                }
+            ]
+        },
+        {
+            "id": 36973186,
+            "entrant1Id": 7128589,
+            "entrant2Id": 7217568,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "PS | Ice",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7217568,
+            "loserId": 7128589,
+            "winnerName": "PS | Ice",
+            "loserName": "PS | Pipsqueak",
+            "bracketName": "Pro - Top 8",
+            "bracketId": 1472572,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 36298325,
+            "entrant1Id": 7012351,
+            "entrant2Id": 7001905,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Aiika",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7012351,
+            "loserId": 7001905,
+            "winnerName": "Pipsqueak",
+            "loserName": "Aiika",
+            "bracketName": "Pools",
+            "bracketId": 1470119,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 156136,
+                    "playerTag": "Aiika"
+                }
+            ]
+        },
+        {
+            "id": 36298322,
+            "entrant1Id": 7012351,
+            "entrant2Id": 7065747,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Steff$",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7012351,
+            "loserId": 7065747,
+            "winnerName": "Pipsqueak",
+            "loserName": "Steff$",
+            "bracketName": "Pools",
+            "bracketId": 1470119,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 885219,
+                    "playerTag": "Steff$"
+                }
+            ]
+        },
+        {
+            "id": 36298316,
+            "entrant1Id": 7012351,
+            "entrant2Id": 6969661,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Duman",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7012351,
+            "loserId": 6969661,
+            "winnerName": "Pipsqueak",
+            "loserName": "Duman",
+            "bracketName": "Pools",
+            "bracketId": 1470119,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 581552,
+                    "playerTag": "Duman"
+                }
+            ]
+        },
+        {
+            "id": 36302126,
+            "entrant1Id": 7012351,
+            "entrant2Id": 6931970,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "PS | Trif",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6931970,
+            "loserId": 7012351,
+            "winnerName": "PS | Trif",
+            "loserName": "Pipsqueak",
+            "bracketName": "Top 8",
+            "bracketId": 1473245,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ]
+        },
+        {
+            "id": 36302127,
+            "entrant1Id": 6931970,
+            "entrant2Id": 7012351,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6931970,
+            "loserId": 7012351,
+            "winnerName": "PS | Trif",
+            "loserName": "Pipsqueak",
+            "bracketName": "Top 8",
+            "bracketId": 1473245,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 36299020,
+            "entrant1Id": 7012351,
+            "entrant2Id": 6918507,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "max",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7012351,
+            "loserId": 6918507,
+            "winnerName": "Pipsqueak",
+            "loserName": "max",
+            "bracketName": "Top 96",
+            "bracketId": 1473243,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 818697,
+                    "playerTag": "max"
+                }
+            ]
+        },
+        {
+            "id": 36298313,
+            "entrant1Id": 7012351,
+            "entrant2Id": 7062262,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "TLS CBVT | TwilCynder",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7012351,
+            "loserId": 7062262,
+            "winnerName": "Pipsqueak",
+            "loserName": "TLS CBVT | TwilCynder",
+            "bracketName": "Pools",
+            "bracketId": 1470119,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 908884,
+                    "playerTag": "TwilCynder"
+                }
+            ]
+        },
+        {
+            "id": 36302125,
+            "entrant1Id": 6931970,
+            "entrant2Id": 7012351,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7012351,
+            "loserId": 6931970,
+            "winnerName": "Pipsqueak",
+            "loserName": "PS | Trif",
+            "bracketName": "Top 8",
+            "bracketId": 1473245,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 36299012,
+            "entrant1Id": 7012351,
+            "entrant2Id": 7062208,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "fys | phL",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7012351,
+            "loserId": 7062208,
+            "winnerName": "Pipsqueak",
+            "loserName": "fys | phL",
+            "bracketName": "Top 96",
+            "bracketId": 1473243,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6795,
+                    "playerTag": "phL"
+                }
+            ]
+        },
+        {
+            "id": 36300221,
+            "entrant1Id": 7012351,
+            "entrant2Id": 6941252,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "CGN | Nicki",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7012351,
+            "loserId": 6941252,
+            "winnerName": "Pipsqueak",
+            "loserName": "CGN | Nicki",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ]
+        },
+        {
+            "id": 36298310,
+            "entrant1Id": 7012351,
+            "entrant2Id": 7043917,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "GR | Lamampis",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7012351,
+            "loserId": 7043917,
+            "winnerName": "Pipsqueak",
+            "loserName": "GR | Lamampis",
+            "bracketName": "Pools",
+            "bracketId": 1470119,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1262334,
+                    "playerTag": "Lamampis"
+                }
+            ]
+        },
+        {
+            "id": 36302124,
+            "entrant1Id": 7032342,
+            "entrant2Id": 7012351,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7012351,
+            "loserId": 7032342,
+            "winnerName": "Pipsqueak",
+            "loserName": "NGNS | Kins0",
+            "bracketName": "Top 8",
+            "bracketId": 1473245,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 36300216,
+            "entrant1Id": 7012351,
+            "entrant2Id": 6931341,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "PXB | JohnnyFight",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7012351,
+            "loserId": 6931341,
+            "winnerName": "Pipsqueak",
+            "loserName": "PXB | JohnnyFight",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12846,
+                    "playerTag": "JohnnyFight"
+                }
+            ]
+        },
+        {
+            "id": 42572926,
+            "entrant1Id": 4456092,
+            "entrant2Id": 4698716,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4456092,
+            "loserId": 4698716,
+            "winnerName": "Pipsqueak",
+            "loserName": "NGNS | Kins0",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 42572925,
+            "entrant1Id": 4456092,
+            "entrant2Id": 4487359,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4456092,
+            "loserId": 4487359,
+            "winnerName": "Pipsqueak",
+            "loserName": "Professor Pro",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 42572923,
+            "entrant1Id": 4456092,
+            "entrant2Id": 4698716,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4456092,
+            "loserId": 4698716,
+            "winnerName": "Pipsqueak",
+            "loserName": "NGNS | Kins0",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 42572919,
+            "entrant1Id": 4456092,
+            "entrant2Id": 8561805,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Sharp",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 4456092,
+            "loserId": 8561805,
+            "winnerName": "Pipsqueak",
+            "loserName": "Sharp",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ]
+        },
+        {
+            "id": 42515975,
+            "entrant1Id": 4456092,
+            "entrant2Id": 8486378,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "MANA | Gandorf the Purple",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4456092,
+            "loserId": 8486378,
+            "winnerName": "Pipsqueak",
+            "loserName": "MANA | Gandorf the Purple",
+            "bracketName": "Pools",
+            "bracketId": 1195596,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 253323,
+                    "playerTag": "Gandorf the Purple"
+                }
+            ]
+        },
+        {
+            "id": 42572911,
+            "entrant1Id": 4456092,
+            "entrant2Id": 8703651,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "DN | abbearv",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4456092,
+            "loserId": 8703651,
+            "winnerName": "Pipsqueak",
+            "loserName": "DN | abbearv",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1853889,
+                    "playerTag": "abbearv"
+                }
+            ]
+        },
+        {
+            "id": 42515973,
+            "entrant1Id": 4456092,
+            "entrant2Id": 8572416,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Floranski",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4456092,
+            "loserId": 8572416,
+            "winnerName": "Pipsqueak",
+            "loserName": "Floranski",
+            "bracketName": "Pools",
+            "bracketId": 1195596,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2236867,
+                    "playerTag": "FloranDaMan"
+                }
+            ]
+        },
+        {
+            "id": 42572895,
+            "entrant1Id": 4456092,
+            "entrant2Id": 8499195,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Vrad",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4456092,
+            "loserId": 8499195,
+            "winnerName": "Pipsqueak",
+            "loserName": "Vrad",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1424800,
+                    "playerTag": "Vrad"
+                }
+            ]
+        },
+        {
+            "id": 42515971,
+            "entrant1Id": 4456092,
+            "entrant2Id": 8583968,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "MissedTech",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4456092,
+            "loserId": 8583968,
+            "winnerName": "Pipsqueak",
+            "loserName": "MissedTech",
+            "bracketName": "Pools",
+            "bracketId": 1195596,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2452696,
+                    "playerTag": "MissedTech"
+                }
+            ]
+        },
+        {
+            "id": 42572863,
+            "entrant1Id": 4456092,
+            "entrant2Id": 8539679,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Snouk",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4456092,
+            "loserId": 8539679,
+            "winnerName": "Pipsqueak",
+            "loserName": "Snouk",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1961408,
+                    "playerTag": "Snouk"
+                }
+            ]
+        },
+        {
+            "id": 42515969,
+            "entrant1Id": 4456092,
+            "entrant2Id": 8599161,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Rutabaga",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4456092,
+            "loserId": 8599161,
+            "winnerName": "Pipsqueak",
+            "loserName": "Rutabaga",
+            "bracketName": "Pools",
+            "bracketId": 1195596,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 945402,
+                    "playerTag": "Rutabaga"
+                }
+            ]
+        },
+        {
+            "id": 41641404,
+            "entrant1Id": 8552784,
+            "entrant2Id": 8552791,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552784,
+            "loserId": 8552791,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Professor Pro",
+            "bracketName": "Group Stage",
+            "bracketId": 1603243,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 41697247,
+            "entrant1Id": 8552770,
+            "entrant2Id": 8552784,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552770,
+            "loserId": 8552784,
+            "winnerName": "PS | Trif",
+            "loserName": "PS | Pipsqueak",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 41697246,
+            "entrant1Id": 8552791,
+            "entrant2Id": 8552784,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552784,
+            "loserId": 8552791,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Professor Pro",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 41641402,
+            "entrant1Id": 8552784,
+            "entrant2Id": 8552814,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552784,
+            "loserId": 8552814,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Group Stage",
+            "bracketId": 1603243,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 41697245,
+            "entrant1Id": 8552778,
+            "entrant2Id": 8552784,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552784,
+            "loserId": 8552778,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 41697243,
+            "entrant1Id": 8552784,
+            "entrant2Id": 8552803,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "PS | Nicki",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552784,
+            "loserId": 8552803,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "PS | Nicki",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ]
+        },
+        {
+            "id": 41697210,
+            "entrant1Id": 8552784,
+            "entrant2Id": 8552801,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "PS | Ice",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552801,
+            "loserId": 8552784,
+            "winnerName": "PS | Ice",
+            "loserName": "PS | Pipsqueak",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 41641400,
+            "entrant1Id": 8552784,
+            "entrant2Id": 8552818,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552784,
+            "loserId": 8552818,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Mahie",
+            "bracketName": "Group Stage",
+            "bracketId": 1603243,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 41697240,
+            "entrant1Id": 8552784,
+            "entrant2Id": 8552805,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "RLB | Kins0",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552784,
+            "loserId": 8552805,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "RLB | Kins0",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 42775045,
+            "entrant1Id": 8854063,
+            "entrant2Id": 8855209,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Baba | Eekim",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8854063,
+            "loserId": 8855209,
+            "winnerName": "Pipsqueak",
+            "loserName": "Baba | Eekim",
+            "bracketName": "Bracket",
+            "bracketId": 1633718,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30214,
+                    "playerTag": "Eekim"
+                }
+            ]
+        },
+        {
+            "id": 42775044,
+            "entrant1Id": 8854063,
+            "entrant2Id": 8855209,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Baba | Eekim",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8854063,
+            "loserId": 8855209,
+            "winnerName": "Pipsqueak",
+            "loserName": "Baba | Eekim",
+            "bracketName": "Bracket",
+            "bracketId": 1633718,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30214,
+                    "playerTag": "Eekim"
+                }
+            ]
+        },
+        {
+            "id": 42775042,
+            "entrant1Id": 8854063,
+            "entrant2Id": 8853985,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Dennis",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8854063,
+            "loserId": 8853985,
+            "winnerName": "Pipsqueak",
+            "loserName": "Dennis",
+            "bracketName": "Bracket",
+            "bracketId": 1633718,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44705,
+                    "playerTag": "Dennis"
+                }
+            ]
+        },
+        {
+            "id": 42775038,
+            "entrant1Id": 8854063,
+            "entrant2Id": 8848166,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "FCFC | Netonixen",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8854063,
+            "loserId": 8848166,
+            "winnerName": "Pipsqueak",
+            "loserName": "FCFC | Netonixen",
+            "bracketName": "Bracket",
+            "bracketId": 1633718,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 233072,
+                    "playerTag": "Netonixen"
+                }
+            ]
+        },
+        {
+            "id": 42775030,
+            "entrant1Id": 8854063,
+            "entrant2Id": 8848260,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "G1_ssbm",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8854063,
+            "loserId": 8848260,
+            "winnerName": "Pipsqueak",
+            "loserName": "G1_ssbm",
+            "bracketName": "Bracket",
+            "bracketId": 1633718,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2524562,
+                    "playerTag": "G1_ssbm"
+                }
+            ]
+        },
+        {
+            "id": 41320417,
+            "entrant1Id": 8490625,
+            "entrant2Id": 8470859,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Sharp",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8490625,
+            "loserId": 8470859,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Sharp",
+            "bracketName": "Bracket",
+            "bracketId": 1594376,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ]
+        },
+        {
+            "id": 41320416,
+            "entrant1Id": 8490625,
+            "entrant2Id": 8470859,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Sharp",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8490625,
+            "loserId": 8470859,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Sharp",
+            "bracketName": "Bracket",
+            "bracketId": 1594376,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ]
+        },
+        {
+            "id": 41320414,
+            "entrant1Id": 8490625,
+            "entrant2Id": 8463735,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "MrBoboGet",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8490625,
+            "loserId": 8463735,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "MrBoboGet",
+            "bracketName": "Bracket",
+            "bracketId": 1594376,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 522322,
+                    "playerTag": "MrBoboGet"
+                }
+            ]
+        },
+        {
+            "id": 41320410,
+            "entrant1Id": 8490625,
+            "entrant2Id": 8462035,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Gillian",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8490625,
+            "loserId": 8462035,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Gillian",
+            "bracketName": "Bracket",
+            "bracketId": 1594376,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 248531,
+                    "playerTag": "Gillian"
+                }
+            ]
+        },
+        {
+            "id": 41320402,
+            "entrant1Id": 8490625,
+            "entrant2Id": 8461333,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "NEAT | Flippy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8490625,
+            "loserId": 8461333,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "NEAT | Flippy",
+            "bracketName": "Bracket",
+            "bracketId": 1594376,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 25710,
+                    "playerTag": "Flippy"
+                }
+            ]
+        },
+        {
+            "id": 40498694,
+            "entrant1Id": 8242112,
+            "entrant2Id": 8241284,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "ISTE | Sharp",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8242112,
+            "loserId": 8241284,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "ISTE | Sharp",
+            "bracketName": "Bracket",
+            "bracketId": 1571612,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ]
+        },
+        {
+            "id": 40498693,
+            "entrant1Id": 8242112,
+            "entrant2Id": 8241284,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "ISTE | Sharp",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8242112,
+            "loserId": 8241284,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "ISTE | Sharp",
+            "bracketName": "Bracket",
+            "bracketId": 1571612,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ]
+        },
+        {
+            "id": 40498691,
+            "entrant1Id": 8242112,
+            "entrant2Id": 8242101,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "DC | Tellman",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8242112,
+            "loserId": 8242101,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "DC | Tellman",
+            "bracketName": "Bracket",
+            "bracketId": 1571612,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261388,
+                    "playerTag": "Tellman"
+                }
+            ]
+        },
+        {
+            "id": 40498687,
+            "entrant1Id": 8242112,
+            "entrant2Id": 8244560,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Gillian",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8242112,
+            "loserId": 8244560,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Gillian",
+            "bracketName": "Bracket",
+            "bracketId": 1571612,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 248531,
+                    "playerTag": "Gillian"
+                }
+            ]
+        },
+        {
+            "id": 40498679,
+            "entrant1Id": 8242112,
+            "entrant2Id": 8244857,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "vice",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8242112,
+            "loserId": 8244857,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "vice",
+            "bracketName": "Bracket",
+            "bracketId": 1571612,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36448,
+                    "playerTag": "vice"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "Polish",
+        "Chape",
+        "Spark",
+        "Colbol",
+        "Frenzy",
+        "Ice",
+        "Ice",
+        "Nicki",
+        "Nicki",
+        "Jah Ridin'",
+        "Frenzy",
+        "Leffen",
+        "Frenzy",
+        "Leffen",
+        "Frenzy",
+        "Leffen",
+        "Ice",
+        "Ice",
+        "Jah Ridin'",
+        "Swift",
+        "Free Palestine",
+        "Professor Pro",
+        "Professor Pro",
+        "Frenzy",
+        "Trif",
+        "Ice",
+        "Ice",
+        "Professor Pro",
+        "Frenzy",
+        "Trif",
+        "Nicki",
+        "Professor Pro",
+        "Professor Pro",
+        "Professor Pro",
+        "Frenzy",
+        "Nicki"
+    ],
+    "L": [
+        "Polish",
+        "Plup",
+        "Leffen",
+        "MINT",
+        "Jah Ridin'",
+        "Mahie",
+        "MINT",
+        "Frenzy",
+        "Nicki",
+        "Frenzy",
+        "Leffen",
+        "Leffen",
+        "iBDW",
+        "Hungrybox",
+        "Magi",
+        "Solobattle",
+        "Kins0",
+        "Frenzy",
+        "MINT",
+        "Ice",
+        "Trif",
+        "Trif",
+        "Trif",
+        "Ice"
+    ]
+}

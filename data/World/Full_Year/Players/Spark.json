@@ -1,0 +1,503 @@
+{
+    "ID": 3357,
+    "Events": [
+        "644621",
+        "657283",
+        "660243"
+    ],
+    "Sets": [
+        {
+            "id": 43223825,
+            "entrant1Id": 8712529,
+            "entrant2Id": 8955010,
+            "entrant1Name": "Polish",
+            "entrant2Name": "Spark",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712529,
+            "loserId": 8955010,
+            "winnerName": "Polish",
+            "loserName": "Spark",
+            "bracketName": "Group Stage",
+            "bracketId": 1635974,
+            "entrant1Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ]
+        },
+        {
+            "id": 43223824,
+            "entrant1Id": 8892144,
+            "entrant2Id": 8955010,
+            "entrant1Name": "Colbol",
+            "entrant2Name": "Spark",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8892144,
+            "loserId": 8955010,
+            "winnerName": "Colbol",
+            "loserName": "Spark",
+            "bracketName": "Group Stage",
+            "bracketId": 1635974,
+            "entrant1Players": [
+                {
+                    "playerId": 1009,
+                    "playerTag": "Colbol"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ]
+        },
+        {
+            "id": 43223822,
+            "entrant1Id": 8712497,
+            "entrant2Id": 8955010,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Spark",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712497,
+            "loserId": 8955010,
+            "winnerName": "Pipsqueak",
+            "loserName": "Spark",
+            "bracketName": "Group Stage",
+            "bracketId": 1635974,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ]
+        },
+        {
+            "id": 43223820,
+            "entrant1Id": 8955010,
+            "entrant2Id": 8712491,
+            "entrant1Name": "Spark",
+            "entrant2Name": "Chape",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712491,
+            "loserId": 8955010,
+            "winnerName": "Chape",
+            "loserName": "Spark",
+            "bracketName": "Group Stage",
+            "bracketId": 1635974,
+            "entrant1Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 541439,
+                    "playerTag": "Chape"
+                }
+            ]
+        },
+        {
+            "id": 43050269,
+            "entrant1Id": 8919696,
+            "entrant2Id": 8922349,
+            "entrant1Name": "Spark",
+            "entrant2Name": "Mango's Friend | Lucky",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8922349,
+            "loserId": 8919696,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "Spark",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ]
+        },
+        {
+            "id": 43050270,
+            "entrant1Id": 8922349,
+            "entrant2Id": 8919696,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "Spark",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8919696,
+            "loserId": 8922349,
+            "winnerName": "Spark",
+            "loserName": "Mango's Friend | Lucky",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ]
+        },
+        {
+            "id": 43050268,
+            "entrant1Id": 8919590,
+            "entrant2Id": 8919696,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "Spark",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8919696,
+            "loserId": 8919590,
+            "winnerName": "Spark",
+            "loserName": "Faceroll",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ]
+        },
+        {
+            "id": 43050267,
+            "entrant1Id": 8922349,
+            "entrant2Id": 8919696,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "Spark",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8919696,
+            "loserId": 8922349,
+            "winnerName": "Spark",
+            "loserName": "Mango's Friend | Lucky",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ]
+        },
+        {
+            "id": 43050265,
+            "entrant1Id": 8919696,
+            "entrant2Id": 8919614,
+            "entrant1Name": "Spark",
+            "entrant2Name": "Ringler",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8919696,
+            "loserId": 8919614,
+            "winnerName": "Spark",
+            "loserName": "Ringler",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ]
+        },
+        {
+            "id": 43050260,
+            "entrant1Id": 8919696,
+            "entrant2Id": 8925937,
+            "entrant1Name": "Spark",
+            "entrant2Name": "Liquid | Chillindude",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8919696,
+            "loserId": 8925937,
+            "winnerName": "Spark",
+            "loserName": "Liquid | Chillindude",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1493,
+                    "playerTag": "Chillindude"
+                }
+            ]
+        },
+        {
+            "id": 43050250,
+            "entrant1Id": 8919696,
+            "entrant2Id": 8919596,
+            "entrant1Name": "Spark",
+            "entrant2Name": "Galint | Dhir",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8919696,
+            "loserId": 8919596,
+            "winnerName": "Spark",
+            "loserName": "Galint | Dhir",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13376,
+                    "playerTag": "Dhir"
+                }
+            ]
+        },
+        {
+            "id": 43340533,
+            "entrant1Id": 8986454,
+            "entrant2Id": 8986621,
+            "entrant1Name": "Spark",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8986621,
+            "loserId": 8986454,
+            "winnerName": "Fiction",
+            "loserName": "Spark",
+            "bracketName": "Bracket",
+            "bracketId": 1645465,
+            "entrant1Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 43340534,
+            "entrant1Id": 8986621,
+            "entrant2Id": 8986454,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "Spark",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8986454,
+            "loserId": 8986621,
+            "winnerName": "Spark",
+            "loserName": "Fiction",
+            "bracketName": "Bracket",
+            "bracketId": 1645465,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ]
+        },
+        {
+            "id": 43340532,
+            "entrant1Id": 8986621,
+            "entrant2Id": 8986454,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "Spark",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8986454,
+            "loserId": 8986621,
+            "winnerName": "Spark",
+            "loserName": "Fiction",
+            "bracketName": "Bracket",
+            "bracketId": 1645465,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ]
+        },
+        {
+            "id": 43340531,
+            "entrant1Id": 8986454,
+            "entrant2Id": 8986587,
+            "entrant1Name": "Spark",
+            "entrant2Name": "Panda",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8986454,
+            "loserId": 8986587,
+            "winnerName": "Spark",
+            "loserName": "Panda",
+            "bracketName": "Bracket",
+            "bracketId": 1645465,
+            "entrant1Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2582320,
+                    "playerTag": "Panda"
+                }
+            ]
+        },
+        {
+            "id": 43340528,
+            "entrant1Id": 8986454,
+            "entrant2Id": 8984825,
+            "entrant1Name": "Spark",
+            "entrant2Name": "Kata",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8986454,
+            "loserId": 8984825,
+            "winnerName": "Spark",
+            "loserName": "Kata",
+            "bracketName": "Bracket",
+            "bracketId": 1645465,
+            "entrant1Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 33022,
+                    "playerTag": "Kata"
+                }
+            ]
+        },
+        {
+            "id": 43340522,
+            "entrant1Id": 8986454,
+            "entrant2Id": 8986756,
+            "entrant1Name": "Spark",
+            "entrant2Name": "Exp. | DJoy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8986454,
+            "loserId": 8986756,
+            "winnerName": "Spark",
+            "loserName": "Exp. | DJoy",
+            "bracketName": "Bracket",
+            "bracketId": 1645465,
+            "entrant1Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23969,
+                    "playerTag": "DJoy"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "Lucky",
+        "Faceroll",
+        "Lucky",
+        "Ringler",
+        "Fiction",
+        "Fiction",
+        "Panda"
+    ],
+    "L": [
+        "Polish",
+        "Colbol",
+        "Pipsqueak",
+        "Chape",
+        "Lucky",
+        "Fiction"
+    ]
+}

@@ -1,0 +1,2035 @@
+{
+    "ID": 72157,
+    "Events": [
+        "644621",
+        "635845",
+        "655991",
+        "613741",
+        "614113",
+        "608933",
+        "609672",
+        "603744",
+        "601340",
+        "588779",
+        "579929",
+        "571486"
+    ],
+    "Sets": [
+        {
+            "id": 43224431,
+            "entrant1Id": 8712496,
+            "entrant2Id": 8774880,
+            "entrant1Name": "Trif",
+            "entrant2Name": "Sora/Joshman",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712496,
+            "loserId": 8774880,
+            "winnerName": "Trif",
+            "loserName": "Sora/Joshman",
+            "bracketName": "Group Stage",
+            "bracketId": 1635975,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 43224430,
+            "entrant1Id": 8892143,
+            "entrant2Id": 8774880,
+            "entrant1Name": "Axe",
+            "entrant2Name": "Sora/Joshman",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8774880,
+            "loserId": 8892143,
+            "winnerName": "Sora/Joshman",
+            "loserName": "Axe",
+            "bracketName": "Group Stage",
+            "bracketId": 1635975,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 43224428,
+            "entrant1Id": 8701092,
+            "entrant2Id": 8774880,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "Sora/Joshman",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8701092,
+            "loserId": 8774880,
+            "winnerName": "Faceroll",
+            "loserName": "Sora/Joshman",
+            "bracketName": "Group Stage",
+            "bracketId": 1635975,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 43224426,
+            "entrant1Id": 8774880,
+            "entrant2Id": 8955030,
+            "entrant1Name": "Sora/Joshman",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8774880,
+            "loserId": 8955030,
+            "winnerName": "Sora/Joshman",
+            "loserName": "IMP | Ben",
+            "bracketName": "Group Stage",
+            "bracketId": 1635975,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 43289112,
+            "entrant1Id": 8774880,
+            "entrant2Id": 8892148,
+            "entrant1Name": "Sora/Joshman",
+            "entrant2Name": "Jmook",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8892148,
+            "loserId": 8774880,
+            "winnerName": "Jmook",
+            "loserName": "Sora/Joshman",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 43043524,
+            "entrant1Id": 8879501,
+            "entrant2Id": 8879525,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "MF | Sora/Joshman",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879525,
+            "loserId": 8879501,
+            "winnerName": "MF | Sora/Joshman",
+            "loserName": "LG | Ginger",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637736,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 43043522,
+            "entrant1Id": 8879525,
+            "entrant2Id": 8879491,
+            "entrant1Name": "MF | Sora/Joshman",
+            "entrant2Name": "Fly | KoDoRiN",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879491,
+            "loserId": 8879525,
+            "winnerName": "Fly | KoDoRiN",
+            "loserName": "MF | Sora/Joshman",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637736,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 43109865,
+            "entrant1Id": 8879496,
+            "entrant2Id": 8879525,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "MF | Sora/Joshman",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8879496,
+            "loserId": 8879525,
+            "winnerName": "CLG | SFAT",
+            "loserName": "MF | Sora/Joshman",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1637745,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 43043519,
+            "entrant1Id": 8879464,
+            "entrant2Id": 8879525,
+            "entrant1Name": "Zain",
+            "entrant2Name": "MF | Sora/Joshman",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8879464,
+            "loserId": 8879525,
+            "winnerName": "Zain",
+            "loserName": "MF | Sora/Joshman",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637736,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 43102496,
+            "entrant1Id": 8879538,
+            "entrant2Id": 8879525,
+            "entrant1Name": "Mango's Friend | null",
+            "entrant2Name": "MF | Sora/Joshman",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879525,
+            "loserId": 8879538,
+            "winnerName": "MF | Sora/Joshman",
+            "loserName": "Mango's Friend | null",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1637745,
+            "entrant1Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 43130453,
+            "entrant1Id": 8879525,
+            "entrant2Id": 8879519,
+            "entrant1Name": "MF | Sora/Joshman",
+            "entrant2Name": "Pulse | Tyler Swift",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879519,
+            "loserId": 8879525,
+            "winnerName": "Pulse | Tyler Swift",
+            "loserName": "MF | Sora/Joshman",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 49131,
+                    "playerTag": "Swift"
+                }
+            ]
+        },
+        {
+            "id": 42977103,
+            "entrant1Id": 8888503,
+            "entrant2Id": 8898187,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "MF | Sora/Joshman",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8888503,
+            "loserId": 8898187,
+            "winnerName": "Fiction",
+            "loserName": "MF | Sora/Joshman",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 42977230,
+            "entrant1Id": 8895266,
+            "entrant2Id": 8898187,
+            "entrant1Name": "Mango's Friend | null",
+            "entrant2Name": "MF | Sora/Joshman",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8898187,
+            "loserId": 8895266,
+            "winnerName": "MF | Sora/Joshman",
+            "loserName": "Mango's Friend | null",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 42977229,
+            "entrant1Id": 8898187,
+            "entrant2Id": 8899998,
+            "entrant1Name": "MF | Sora/Joshman",
+            "entrant2Name": "Westballz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8898187,
+            "loserId": 8899998,
+            "winnerName": "MF | Sora/Joshman",
+            "loserName": "Westballz",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1008,
+                    "playerTag": "Westballz"
+                }
+            ]
+        },
+        {
+            "id": 42977100,
+            "entrant1Id": 8888503,
+            "entrant2Id": 8898187,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "MF | Sora/Joshman",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8888503,
+            "loserId": 8898187,
+            "winnerName": "Fiction",
+            "loserName": "MF | Sora/Joshman",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 42977227,
+            "entrant1Id": 8898187,
+            "entrant2Id": 8899582,
+            "entrant1Name": "MF | Sora/Joshman",
+            "entrant2Name": "Squid",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8898187,
+            "loserId": 8899582,
+            "winnerName": "MF | Sora/Joshman",
+            "loserName": "Squid",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42977097,
+            "entrant1Id": 8898187,
+            "entrant2Id": 8898476,
+            "entrant1Name": "MF | Sora/Joshman",
+            "entrant2Name": "nut",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8898187,
+            "loserId": 8898476,
+            "winnerName": "MF | Sora/Joshman",
+            "loserName": "nut",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13499,
+                    "playerTag": "nut"
+                }
+            ]
+        },
+        {
+            "id": 42977090,
+            "entrant1Id": 8898187,
+            "entrant2Id": 8900348,
+            "entrant1Name": "MF | Sora/Joshman",
+            "entrant2Name": "GGC | Gooms",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8898187,
+            "loserId": 8900348,
+            "winnerName": "MF | Sora/Joshman",
+            "loserName": "GGC | Gooms",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 18840,
+                    "playerTag": "Gooms"
+                }
+            ]
+        },
+        {
+            "id": 42977076,
+            "entrant1Id": 8898187,
+            "entrant2Id": 8900319,
+            "entrant1Name": "MF | Sora/Joshman",
+            "entrant2Name": "Tern",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8898187,
+            "loserId": 8900319,
+            "winnerName": "MF | Sora/Joshman",
+            "loserName": "Tern",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 572900,
+                    "playerTag": "Tern"
+                }
+            ]
+        },
+        {
+            "id": 40640008,
+            "entrant1Id": 8309966,
+            "entrant2Id": 8310767,
+            "entrant1Name": "MF | Joshman",
+            "entrant2Name": "Zorsy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8309966,
+            "loserId": 8310767,
+            "winnerName": "MF | Joshman",
+            "loserName": "Zorsy",
+            "bracketName": "Bracket",
+            "bracketId": 1562770,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1944821,
+                    "playerTag": "Zorsy"
+                }
+            ]
+        },
+        {
+            "id": 40640007,
+            "entrant1Id": 8309966,
+            "entrant2Id": 8310767,
+            "entrant1Name": "MF | Joshman",
+            "entrant2Name": "Zorsy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8309966,
+            "loserId": 8310767,
+            "winnerName": "MF | Joshman",
+            "loserName": "Zorsy",
+            "bracketName": "Bracket",
+            "bracketId": 1562770,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1944821,
+                    "playerTag": "Zorsy"
+                }
+            ]
+        },
+        {
+            "id": 40640005,
+            "entrant1Id": 8309966,
+            "entrant2Id": 8314898,
+            "entrant1Name": "MF | Joshman",
+            "entrant2Name": "Lackss",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8309966,
+            "loserId": 8314898,
+            "winnerName": "MF | Joshman",
+            "loserName": "Lackss",
+            "bracketName": "Bracket",
+            "bracketId": 1562770,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1847536,
+                    "playerTag": "Lackss"
+                }
+            ]
+        },
+        {
+            "id": 40640001,
+            "entrant1Id": 8309966,
+            "entrant2Id": 8265939,
+            "entrant1Name": "MF | Joshman",
+            "entrant2Name": "MD | Aaron",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8309966,
+            "loserId": 8265939,
+            "winnerName": "MF | Joshman",
+            "loserName": "MD | Aaron",
+            "bracketName": "Bracket",
+            "bracketId": 1562770,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1397768,
+                    "playerTag": "aaron228375"
+                }
+            ]
+        },
+        {
+            "id": 40639993,
+            "entrant1Id": 8309966,
+            "entrant2Id": 8314938,
+            "entrant1Name": "MF | Joshman",
+            "entrant2Name": "sumirekt",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8309966,
+            "loserId": 8314938,
+            "winnerName": "MF | Joshman",
+            "loserName": "sumirekt",
+            "bracketName": "Bracket",
+            "bracketId": 1562770,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 452271,
+                    "playerTag": "sumirekt"
+                }
+            ]
+        },
+        {
+            "id": 40639977,
+            "entrant1Id": 8309966,
+            "entrant2Id": 8310648,
+            "entrant1Name": "MF | Joshman",
+            "entrant2Name": "Fegachini",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8309966,
+            "loserId": 8310648,
+            "winnerName": "MF | Joshman",
+            "loserName": "Fegachini",
+            "bracketName": "Bracket",
+            "bracketId": 1562770,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10892,
+                    "playerTag": "Fegachini"
+                }
+            ]
+        },
+        {
+            "id": 40406381,
+            "entrant1Id": 8258351,
+            "entrant2Id": 8258338,
+            "entrant1Name": "MF | Joshman",
+            "entrant2Name": "CMAX|JUNGLE | Ken 2",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8258351,
+            "loserId": 8258338,
+            "winnerName": "MF | Joshman",
+            "loserName": "CMAX|JUNGLE | Ken 2",
+            "bracketName": "Bracket",
+            "bracketId": 1563352,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 71462,
+                    "playerTag": "2 Uosdwis 2 Dewoh"
+                }
+            ]
+        },
+        {
+            "id": 40406380,
+            "entrant1Id": 8258351,
+            "entrant2Id": 8258338,
+            "entrant1Name": "MF | Joshman",
+            "entrant2Name": "CMAX|JUNGLE | Ken 2",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8258351,
+            "loserId": 8258338,
+            "winnerName": "MF | Joshman",
+            "loserName": "CMAX|JUNGLE | Ken 2",
+            "bracketName": "Bracket",
+            "bracketId": 1563352,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 71462,
+                    "playerTag": "2 Uosdwis 2 Dewoh"
+                }
+            ]
+        },
+        {
+            "id": 40406378,
+            "entrant1Id": 8258351,
+            "entrant2Id": 8258346,
+            "entrant1Name": "MF | Joshman",
+            "entrant2Name": "McCloud",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8258351,
+            "loserId": 8258346,
+            "winnerName": "MF | Joshman",
+            "loserName": "McCloud",
+            "bracketName": "Bracket",
+            "bracketId": 1563352,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 961268,
+                    "playerTag": "McCloud"
+                }
+            ]
+        },
+        {
+            "id": 40406374,
+            "entrant1Id": 8258351,
+            "entrant2Id": 8258332,
+            "entrant1Name": "MF | Joshman",
+            "entrant2Name": "OsP | Microsoft J",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8258351,
+            "loserId": 8258332,
+            "winnerName": "MF | Joshman",
+            "loserName": "OsP | Microsoft J",
+            "bracketName": "Bracket",
+            "bracketId": 1563352,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48756,
+                    "playerTag": "Microsoft J"
+                }
+            ]
+        },
+        {
+            "id": 40406366,
+            "entrant1Id": 8258351,
+            "entrant2Id": 8258353,
+            "entrant1Name": "MF | Joshman",
+            "entrant2Name": "MM | Din",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8258351,
+            "loserId": 8258353,
+            "winnerName": "MF | Joshman",
+            "loserName": "MM | Din",
+            "bracketName": "Bracket",
+            "bracketId": 1563352,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 148745,
+                    "playerTag": "Din"
+                }
+            ]
+        },
+        {
+            "id": 40406350,
+            "entrant1Id": 8258351,
+            "entrant2Id": 8258293,
+            "entrant1Name": "MF | Joshman",
+            "entrant2Name": "Paul",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8258351,
+            "loserId": 8258293,
+            "winnerName": "MF | Joshman",
+            "loserName": "Paul",
+            "bracketName": "Bracket",
+            "bracketId": 1563352,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 67147,
+                    "playerTag": "Paul"
+                }
+            ]
+        },
+        {
+            "id": 40078837,
+            "entrant1Id": 8168752,
+            "entrant2Id": 8163138,
+            "entrant1Name": "McCloud",
+            "entrant2Name": "OVERT | Joshman",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8168752,
+            "loserId": 8163138,
+            "winnerName": "McCloud",
+            "loserName": "OVERT | Joshman",
+            "bracketName": "Bracket",
+            "bracketId": 1554560,
+            "entrant1Players": [
+                {
+                    "playerId": 961268,
+                    "playerTag": "McCloud"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 40078580,
+            "entrant1Id": 8163138,
+            "entrant2Id": 8164796,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "Davox22",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8164796,
+            "loserId": 8163138,
+            "winnerName": "Davox22",
+            "loserName": "OVERT | Joshman",
+            "bracketName": "Bracket",
+            "bracketId": 1554560,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 303522,
+                    "playerTag": "Davox22"
+                }
+            ]
+        },
+        {
+            "id": 40078836,
+            "entrant1Id": 8163138,
+            "entrant2Id": 8081596,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "AICOAS | Goodie",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8163138,
+            "loserId": 8081596,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "AICOAS | Goodie",
+            "bracketName": "Bracket",
+            "bracketId": 1554560,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1164314,
+                    "playerTag": "Goodie"
+                }
+            ]
+        },
+        {
+            "id": 40078576,
+            "entrant1Id": 8163138,
+            "entrant2Id": 8164238,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "melodiic",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8163138,
+            "loserId": 8164238,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "melodiic",
+            "bracketName": "Bracket",
+            "bracketId": 1554560,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 536588,
+                    "playerTag": "melodiic"
+                }
+            ]
+        },
+        {
+            "id": 40078568,
+            "entrant1Id": 8163138,
+            "entrant2Id": 8169283,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "ACT | Dove",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8163138,
+            "loserId": 8169283,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "ACT | Dove",
+            "bracketName": "Bracket",
+            "bracketId": 1554560,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 33453,
+                    "playerTag": "Dove"
+                }
+            ]
+        },
+        {
+            "id": 40078552,
+            "entrant1Id": 8163138,
+            "entrant2Id": 8168808,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "Oceanman",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8163138,
+            "loserId": 8168808,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "Oceanman",
+            "bracketName": "Bracket",
+            "bracketId": 1554560,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 576776,
+                    "playerTag": "Oceanman"
+                }
+            ]
+        },
+        {
+            "id": 40078520,
+            "entrant1Id": 8163138,
+            "entrant2Id": 8149687,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "campbelltron",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8163138,
+            "loserId": 8149687,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "campbelltron",
+            "bracketName": "Bracket",
+            "bracketId": 1554560,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2383550,
+                    "playerTag": "campbelltron"
+                }
+            ]
+        },
+        {
+            "id": 39883819,
+            "entrant1Id": 8123114,
+            "entrant2Id": 8117120,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "OVERT | Sock",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8123114,
+            "loserId": 8117120,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "OVERT | Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1555860,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 39883818,
+            "entrant1Id": 8123114,
+            "entrant2Id": 8117120,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "OVERT | Sock",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8123114,
+            "loserId": 8117120,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "OVERT | Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1555860,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 39883816,
+            "entrant1Id": 8123114,
+            "entrant2Id": 8102607,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "AICOAS | Goodie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8123114,
+            "loserId": 8102607,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "AICOAS | Goodie",
+            "bracketName": "Bracket",
+            "bracketId": 1555860,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1164314,
+                    "playerTag": "Goodie"
+                }
+            ]
+        },
+        {
+            "id": 39883812,
+            "entrant1Id": 8123114,
+            "entrant2Id": 8095932,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "mylo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8123114,
+            "loserId": 8095932,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "mylo",
+            "bracketName": "Bracket",
+            "bracketId": 1555860,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2363148,
+                    "playerTag": "mylo"
+                }
+            ]
+        },
+        {
+            "id": 39883804,
+            "entrant1Id": 8123114,
+            "entrant2Id": 8102308,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "Doritoes5",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8123114,
+            "loserId": 8102308,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "Doritoes5",
+            "bracketName": "Bracket",
+            "bracketId": 1555860,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2119613,
+                    "playerTag": "Doritoes5"
+                }
+            ]
+        },
+        {
+            "id": 39883788,
+            "entrant1Id": 8123114,
+            "entrant2Id": 8121752,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "Berk's 2ndaries | Berk1",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8123114,
+            "loserId": 8121752,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "Berk's 2ndaries | Berk1",
+            "bracketName": "Bracket",
+            "bracketId": 1555860,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1653415,
+                    "playerTag": "Berk1"
+                }
+            ]
+        },
+        {
+            "id": 39505054,
+            "entrant1Id": 8003265,
+            "entrant2Id": 8024474,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "Davox22",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8003265,
+            "loserId": 8024474,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "Davox22",
+            "bracketName": "Bracket",
+            "bracketId": 1545904,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 303522,
+                    "playerTag": "Davox22"
+                }
+            ]
+        },
+        {
+            "id": 39505052,
+            "entrant1Id": 8003265,
+            "entrant2Id": 7996485,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "AICOAS | Goodie",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8003265,
+            "loserId": 7996485,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "AICOAS | Goodie",
+            "bracketName": "Bracket",
+            "bracketId": 1545904,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1164314,
+                    "playerTag": "Goodie"
+                }
+            ]
+        },
+        {
+            "id": 39505048,
+            "entrant1Id": 8003265,
+            "entrant2Id": 8029172,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "melodiic",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8003265,
+            "loserId": 8029172,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "melodiic",
+            "bracketName": "Bracket",
+            "bracketId": 1545904,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 536588,
+                    "playerTag": "melodiic"
+                }
+            ]
+        },
+        {
+            "id": 39505040,
+            "entrant1Id": 8003265,
+            "entrant2Id": 8029207,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "Zxv",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8003265,
+            "loserId": 8029207,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "Zxv",
+            "bracketName": "Bracket",
+            "bracketId": 1545904,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 636983,
+                    "playerTag": "Zxv"
+                }
+            ]
+        },
+        {
+            "id": 39505024,
+            "entrant1Id": 8003265,
+            "entrant2Id": 8029254,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "Benji",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8003265,
+            "loserId": 8029254,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "Benji",
+            "bracketName": "Bracket",
+            "bracketId": 1545904,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 128943,
+                    "playerTag": "Benji"
+                }
+            ]
+        },
+        {
+            "id": 39269207,
+            "entrant1Id": 7975443,
+            "entrant2Id": 7975391,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "OVERT | Sock",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7975443,
+            "loserId": 7975391,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "OVERT | Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1541734,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 39269206,
+            "entrant1Id": 7975443,
+            "entrant2Id": 7975437,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "Lackss",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7975443,
+            "loserId": 7975437,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "Lackss",
+            "bracketName": "Bracket",
+            "bracketId": 1541734,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1847536,
+                    "playerTag": "Lackss"
+                }
+            ]
+        },
+        {
+            "id": 39269204,
+            "entrant1Id": 7975443,
+            "entrant2Id": 7975670,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "AICOAS | Goodie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7975443,
+            "loserId": 7975670,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "AICOAS | Goodie",
+            "bracketName": "Bracket",
+            "bracketId": 1541734,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1164314,
+                    "playerTag": "Goodie"
+                }
+            ]
+        },
+        {
+            "id": 39269200,
+            "entrant1Id": 7975443,
+            "entrant2Id": 7975447,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "1CD | Phosphate",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7975443,
+            "loserId": 7975447,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "1CD | Phosphate",
+            "bracketName": "Bracket",
+            "bracketId": 1541734,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 635146,
+                    "playerTag": "Phosphate"
+                }
+            ]
+        },
+        {
+            "id": 39269192,
+            "entrant1Id": 7975443,
+            "entrant2Id": 7975412,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "Pierce",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7975443,
+            "loserId": 7975412,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "Pierce",
+            "bracketName": "Bracket",
+            "bracketId": 1541734,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1005312,
+                    "playerTag": "Pierce"
+                }
+            ]
+        },
+        {
+            "id": 38317681,
+            "entrant1Id": 7604973,
+            "entrant2Id": 7605104,
+            "entrant1Name": "Sock",
+            "entrant2Name": "GZ | Joshman",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7605104,
+            "loserId": 7604973,
+            "winnerName": "GZ | Joshman",
+            "loserName": "Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1520386,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 38317682,
+            "entrant1Id": 7605104,
+            "entrant2Id": 7604973,
+            "entrant1Name": "GZ | Joshman",
+            "entrant2Name": "Sock",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7605104,
+            "loserId": 7604973,
+            "winnerName": "GZ | Joshman",
+            "loserName": "Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1520386,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 38317744,
+            "entrant1Id": 7605769,
+            "entrant2Id": 7605104,
+            "entrant1Name": "niko",
+            "entrant2Name": "GZ | Joshman",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7605104,
+            "loserId": 7605769,
+            "winnerName": "GZ | Joshman",
+            "loserName": "niko",
+            "bracketName": "Bracket",
+            "bracketId": 1520386,
+            "entrant1Players": [
+                {
+                    "playerId": 26278,
+                    "playerTag": "niko"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 38317743,
+            "entrant1Id": 7605103,
+            "entrant2Id": 7605104,
+            "entrant1Name": "McCloud",
+            "entrant2Name": "GZ | Joshman",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7605104,
+            "loserId": 7605103,
+            "winnerName": "GZ | Joshman",
+            "loserName": "McCloud",
+            "bracketName": "Bracket",
+            "bracketId": 1520386,
+            "entrant1Players": [
+                {
+                    "playerId": 961268,
+                    "playerTag": "McCloud"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 38317742,
+            "entrant1Id": 7605592,
+            "entrant2Id": 7605104,
+            "entrant1Name": "Chibi",
+            "entrant2Name": "GZ | Joshman",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7605104,
+            "loserId": 7605592,
+            "winnerName": "GZ | Joshman",
+            "loserName": "Chibi",
+            "bracketName": "Bracket",
+            "bracketId": 1520386,
+            "entrant1Players": [
+                {
+                    "playerId": 1620263,
+                    "playerTag": "Chib"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 38317740,
+            "entrant1Id": 7605165,
+            "entrant2Id": 7605104,
+            "entrant1Name": "hori",
+            "entrant2Name": "GZ | Joshman",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7605104,
+            "loserId": 7605165,
+            "winnerName": "GZ | Joshman",
+            "loserName": "hori",
+            "bracketName": "Bracket",
+            "bracketId": 1520386,
+            "entrant1Players": [
+                {
+                    "playerId": 1124794,
+                    "playerTag": "hori"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 38317738,
+            "entrant1Id": 7598108,
+            "entrant2Id": 7605104,
+            "entrant1Name": "Athesies",
+            "entrant2Name": "GZ | Joshman",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7605104,
+            "loserId": 7598108,
+            "winnerName": "GZ | Joshman",
+            "loserName": "Athesies",
+            "bracketName": "Bracket",
+            "bracketId": 1520386,
+            "entrant1Players": [
+                {
+                    "playerId": 281059,
+                    "playerTag": "Athesies"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 38317734,
+            "entrant1Id": 7605568,
+            "entrant2Id": 7605104,
+            "entrant1Name": "MF | Mook",
+            "entrant2Name": "GZ | Joshman",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7605104,
+            "loserId": 7605568,
+            "winnerName": "GZ | Joshman",
+            "loserName": "MF | Mook",
+            "bracketName": "Bracket",
+            "bracketId": 1520386,
+            "entrant1Players": [
+                {
+                    "playerId": 672737,
+                    "playerTag": "Mook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 38047364,
+            "entrant1Id": 7438165,
+            "entrant2Id": 7438081,
+            "entrant1Name": "GZ | Joshman",
+            "entrant2Name": "6116 | Sixes",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7438165,
+            "loserId": 7438081,
+            "winnerName": "GZ | Joshman",
+            "loserName": "6116 | Sixes",
+            "bracketName": "Bracket",
+            "bracketId": 1503900,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 284389,
+                    "playerTag": "Sixes"
+                }
+            ]
+        },
+        {
+            "id": 38047363,
+            "entrant1Id": 7438165,
+            "entrant2Id": 7438081,
+            "entrant1Name": "GZ | Joshman",
+            "entrant2Name": "6116 | Sixes",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7438165,
+            "loserId": 7438081,
+            "winnerName": "GZ | Joshman",
+            "loserName": "6116 | Sixes",
+            "bracketName": "Bracket",
+            "bracketId": 1503900,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 284389,
+                    "playerTag": "Sixes"
+                }
+            ]
+        },
+        {
+            "id": 38047361,
+            "entrant1Id": 7438165,
+            "entrant2Id": 7438112,
+            "entrant1Name": "GZ | Joshman",
+            "entrant2Name": "Athesies",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7438165,
+            "loserId": 7438112,
+            "winnerName": "GZ | Joshman",
+            "loserName": "Athesies",
+            "bracketName": "Bracket",
+            "bracketId": 1503900,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 281059,
+                    "playerTag": "Athesies"
+                }
+            ]
+        },
+        {
+            "id": 38047357,
+            "entrant1Id": 7438165,
+            "entrant2Id": 7438347,
+            "entrant1Name": "GZ | Joshman",
+            "entrant2Name": "Fruit",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7438165,
+            "loserId": 7438347,
+            "winnerName": "GZ | Joshman",
+            "loserName": "Fruit",
+            "bracketName": "Bracket",
+            "bracketId": 1503900,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 137474,
+                    "playerTag": "Fruit"
+                }
+            ]
+        },
+        {
+            "id": 37129938,
+            "entrant1Id": 7272412,
+            "entrant2Id": 7274001,
+            "entrant1Name": "GZ | Joshman",
+            "entrant2Name": "GZ | Sock",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7272412,
+            "loserId": 7274001,
+            "winnerName": "GZ | Joshman",
+            "loserName": "GZ | Sock",
+            "bracketName": "Top 8",
+            "bracketId": 1491747,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 37128980,
+            "entrant1Id": 7272412,
+            "entrant2Id": 7274793,
+            "entrant1Name": "GZ | Joshman",
+            "entrant2Name": "Tid",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7272412,
+            "loserId": 7274793,
+            "winnerName": "GZ | Joshman",
+            "loserName": "Tid",
+            "bracketName": "Bracket",
+            "bracketId": 1487001,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31701,
+                    "playerTag": "Tid"
+                }
+            ]
+        },
+        {
+            "id": 37129937,
+            "entrant1Id": 7272412,
+            "entrant2Id": 7274001,
+            "entrant1Name": "GZ | Joshman",
+            "entrant2Name": "GZ | Sock",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7272412,
+            "loserId": 7274001,
+            "winnerName": "GZ | Joshman",
+            "loserName": "GZ | Sock",
+            "bracketName": "Top 8",
+            "bracketId": 1491747,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 37128972,
+            "entrant1Id": 7272412,
+            "entrant2Id": 7274733,
+            "entrant1Name": "GZ | Joshman",
+            "entrant2Name": "Liki",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7272412,
+            "loserId": 7274733,
+            "winnerName": "GZ | Joshman",
+            "loserName": "Liki",
+            "bracketName": "Bracket",
+            "bracketId": 1487001,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 485910,
+                    "playerTag": "Liki"
+                }
+            ]
+        },
+        {
+            "id": 37129935,
+            "entrant1Id": 7272412,
+            "entrant2Id": 7262460,
+            "entrant1Name": "GZ | Joshman",
+            "entrant2Name": "Jem",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7272412,
+            "loserId": 7262460,
+            "winnerName": "GZ | Joshman",
+            "loserName": "Jem",
+            "bracketName": "Top 8",
+            "bracketId": 1491747,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2021465,
+                    "playerTag": "Jem"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "Axe",
+        "Ben",
+        "Ginger",
+        "null",
+        "null",
+        "nut",
+        "Sock",
+        "Sock",
+        "Sock",
+        "Sock",
+        "Sock",
+        "Sock",
+        "Sock"
+    ],
+    "L": [
+        "Trif",
+        "Faceroll",
+        "Jmook",
+        "KoDoRiN",
+        "SFAT",
+        "Zain",
+        "Swift",
+        "Fiction",
+        "Fiction",
+        "McCloud",
+        "Davox22"
+    ]
+}

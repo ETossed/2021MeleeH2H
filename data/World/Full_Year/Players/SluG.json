@@ -1,0 +1,3869 @@
+{
+    "ID": 50259,
+    "Events": [
+        "653573",
+        "584741",
+        "570197",
+        "570200",
+        "548623",
+        "555557",
+        "563500",
+        "563503",
+        "574209",
+        "574208",
+        "556892",
+        "555480",
+        "550213",
+        "438347",
+        "623950",
+        "544842",
+        "605856",
+        "635302",
+        "602348",
+        "581678"
+    ],
+    "Sets": [
+        {
+            "id": 42786200,
+            "entrant1Id": 8856886,
+            "entrant2Id": 8858968,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8856886,
+            "loserId": 8858968,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "BLE | SluG",
+            "bracketName": "Bracket",
+            "bracketId": 1633682,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 42786199,
+            "entrant1Id": 8856886,
+            "entrant2Id": 8858968,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8856886,
+            "loserId": 8858968,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "BLE | SluG",
+            "bracketName": "Bracket",
+            "bracketId": 1633682,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 42786263,
+            "entrant1Id": 8858968,
+            "entrant2Id": 8859084,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Aspero | Logan",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8858968,
+            "loserId": 8859084,
+            "winnerName": "BLE | SluG",
+            "loserName": "Aspero | Logan",
+            "bracketName": "Bracket",
+            "bracketId": 1633682,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 42786198,
+            "entrant1Id": 8858968,
+            "entrant2Id": 8858822,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "ACE | Jflex",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8858968,
+            "loserId": 8858822,
+            "winnerName": "BLE | SluG",
+            "loserName": "ACE | Jflex",
+            "bracketName": "Bracket",
+            "bracketId": 1633682,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 42786195,
+            "entrant1Id": 8858968,
+            "entrant2Id": 8859111,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "K8A",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8858968,
+            "loserId": 8859111,
+            "winnerName": "BLE | SluG",
+            "loserName": "K8A",
+            "bracketName": "Bracket",
+            "bracketId": 1633682,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12048,
+                    "playerTag": "K8A"
+                }
+            ]
+        },
+        {
+            "id": 42786189,
+            "entrant1Id": 8858968,
+            "entrant2Id": 8859234,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "r",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8858968,
+            "loserId": 8859234,
+            "winnerName": "BLE | SluG",
+            "loserName": "r",
+            "bracketName": "Bracket",
+            "bracketId": 1633682,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2512827,
+                    "playerTag": "r"
+                }
+            ]
+        },
+        {
+            "id": 42333195,
+            "entrant1Id": 7572701,
+            "entrant2Id": 7980641,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Brand0",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7572701,
+            "loserId": 7980641,
+            "winnerName": "BLE | SluG",
+            "loserName": "Brand0",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603617,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1117046,
+                    "playerTag": "Brand0"
+                }
+            ]
+        },
+        {
+            "id": 42333191,
+            "entrant1Id": 7572701,
+            "entrant2Id": 7569695,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Buffalo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7572701,
+            "loserId": 7569695,
+            "winnerName": "BLE | SluG",
+            "loserName": "Buffalo",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603617,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 843302,
+                    "playerTag": "Buffalo"
+                }
+            ]
+        },
+        {
+            "id": 42333183,
+            "entrant1Id": 7572701,
+            "entrant2Id": 8649565,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "stevedode",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7572701,
+            "loserId": 8649565,
+            "winnerName": "BLE | SluG",
+            "loserName": "stevedode",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603617,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12822,
+                    "playerTag": "stevedode"
+                }
+            ]
+        },
+        {
+            "id": 42357600,
+            "entrant1Id": 8406658,
+            "entrant2Id": 7572701,
+            "entrant1Name": "GG | n0ne/ Bond / wizzyfan109",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7572701,
+            "loserId": 8406658,
+            "winnerName": "BLE | SluG",
+            "loserName": "GG | n0ne/ Bond / wizzyfan109",
+            "bracketName": "Top 64",
+            "bracketId": 1619224,
+            "entrant1Players": [
+                {
+                    "playerId": 4107,
+                    "playerTag": "n0ne/ Bond / wizzyfan109"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 42357596,
+            "entrant1Id": 7912887,
+            "entrant2Id": 7572701,
+            "entrant1Name": "Drephen",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7572701,
+            "loserId": 7912887,
+            "winnerName": "BLE | SluG",
+            "loserName": "Drephen",
+            "bracketName": "Top 64",
+            "bracketId": 1619224,
+            "entrant1Players": [
+                {
+                    "playerId": 6839,
+                    "playerTag": "Drephen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 42334694,
+            "entrant1Id": 7572701,
+            "entrant2Id": 8214893,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Smashdaddy",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8214893,
+            "loserId": 7572701,
+            "winnerName": "Smashdaddy",
+            "loserName": "BLE | SluG",
+            "bracketName": "Round 2 Pools",
+            "bracketId": 1620255,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36403,
+                    "playerTag": "Smashdaddy"
+                }
+            ]
+        },
+        {
+            "id": 42357589,
+            "entrant1Id": 8075309,
+            "entrant2Id": 7572701,
+            "entrant1Name": "Panda",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7572701,
+            "loserId": 8075309,
+            "winnerName": "BLE | SluG",
+            "loserName": "Panda",
+            "bracketName": "Top 64",
+            "bracketId": 1619224,
+            "entrant1Players": [
+                {
+                    "playerId": 27638,
+                    "playerTag": "Panda"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 42334752,
+            "entrant1Id": 7572701,
+            "entrant2Id": 7882711,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7572701,
+            "loserId": 7882711,
+            "winnerName": "BLE | SluG",
+            "loserName": "Umarth",
+            "bracketName": "Round 2 Pools",
+            "bracketId": 1620255,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 42373112,
+            "entrant1Id": 8377598,
+            "entrant2Id": 7572701,
+            "entrant1Name": "CG | Zealot",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8377598,
+            "loserId": 7572701,
+            "winnerName": "CG | Zealot",
+            "loserName": "BLE | SluG",
+            "bracketName": "Top 16",
+            "bracketId": 1603577,
+            "entrant1Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 42357581,
+            "entrant1Id": 7572637,
+            "entrant2Id": 7572701,
+            "entrant1Name": "Dimension",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7572701,
+            "loserId": 7572637,
+            "winnerName": "BLE | SluG",
+            "loserName": "Dimension",
+            "bracketName": "Top 64",
+            "bracketId": 1619224,
+            "entrant1Players": [
+                {
+                    "playerId": 587072,
+                    "playerTag": "Dimension"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 37106659,
+            "entrant1Id": 7265468,
+            "entrant2Id": 7271845,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Unsure",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265468,
+            "loserId": 7271845,
+            "winnerName": "BLE | SluG",
+            "loserName": "Unsure",
+            "bracketName": "Bracket pools",
+            "bracketId": 1484463,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 52030,
+                    "playerTag": "Unsure"
+                }
+            ]
+        },
+        {
+            "id": 37106653,
+            "entrant1Id": 7265468,
+            "entrant2Id": 7284009,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "CowCowCowCowCow",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7265468,
+            "loserId": 7284009,
+            "winnerName": "BLE | SluG",
+            "loserName": "CowCowCowCowCow",
+            "bracketName": "Bracket pools",
+            "bracketId": 1484463,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 657464,
+                    "playerTag": "CowCowCowCowCow"
+                }
+            ]
+        },
+        {
+            "id": 37115800,
+            "entrant1Id": 7289484,
+            "entrant2Id": 7289506,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Liquid | Hungrybox",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7289506,
+            "loserId": 7289484,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "BLE | SluG",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1484477,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 37115683,
+            "entrant1Id": 7289484,
+            "entrant2Id": 7289538,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "TL | ChuDat",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7289538,
+            "loserId": 7289484,
+            "winnerName": "TL | ChuDat",
+            "loserName": "BLE | SluG",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1484477,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15179,
+                    "playerTag": "ChuDat"
+                }
+            ]
+        },
+        {
+            "id": 37115785,
+            "entrant1Id": 7289484,
+            "entrant2Id": 7289552,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "CS | Faust",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7289484,
+            "loserId": 7289552,
+            "winnerName": "BLE | SluG",
+            "loserName": "CS | Faust",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1484477,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45726,
+                    "playerTag": "Faust"
+                }
+            ]
+        },
+        {
+            "id": 36757266,
+            "entrant1Id": 7203879,
+            "entrant2Id": 7185074,
+            "entrant1Name": "Bbatts",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7203879,
+            "loserId": 7185074,
+            "winnerName": "Bbatts",
+            "loserName": "BLE | SluG",
+            "bracketName": "EC Pools",
+            "bracketId": 1441370,
+            "entrant1Players": [
+                {
+                    "playerId": 542693,
+                    "playerTag": "Bbatts"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 36757653,
+            "entrant1Id": 7185074,
+            "entrant2Id": 7197890,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Joyboy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7185074,
+            "loserId": 7197890,
+            "winnerName": "BLE | SluG",
+            "loserName": "Joyboy",
+            "bracketName": "EC Pools",
+            "bracketId": 1441370,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 55296,
+                    "playerTag": "Joyboy"
+                }
+            ]
+        },
+        {
+            "id": 36757262,
+            "entrant1Id": 7185074,
+            "entrant2Id": 7188141,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "MDF | Amor",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7185074,
+            "loserId": 7188141,
+            "winnerName": "BLE | SluG",
+            "loserName": "MDF | Amor",
+            "bracketName": "EC Pools",
+            "bracketId": 1441370,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 283648,
+                    "playerTag": "i still love you"
+                }
+            ]
+        },
+        {
+            "id": 36757253,
+            "entrant1Id": 7185074,
+            "entrant2Id": 7198372,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Kylo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7185074,
+            "loserId": 7198372,
+            "winnerName": "BLE | SluG",
+            "loserName": "Kylo",
+            "bracketName": "EC Pools",
+            "bracketId": 1441370,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 265412,
+                    "playerTag": "Kylo"
+                }
+            ]
+        },
+        {
+            "id": 36757235,
+            "entrant1Id": 7185074,
+            "entrant2Id": 7200710,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "scmu",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7185074,
+            "loserId": 7200710,
+            "winnerName": "BLE | SluG",
+            "loserName": "scmu",
+            "bracketName": "EC Pools",
+            "bracketId": 1441370,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2244671,
+                    "playerTag": "setherino"
+                }
+            ]
+        },
+        {
+            "id": 36767039,
+            "entrant1Id": 7170146,
+            "entrant2Id": 7185074,
+            "entrant1Name": "bambi",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7185074,
+            "loserId": 7170146,
+            "winnerName": "BLE | SluG",
+            "loserName": "bambi",
+            "bracketName": "Top 32",
+            "bracketId": 1441378,
+            "entrant1Players": [
+                {
+                    "playerId": 8152,
+                    "playerTag": "bambi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 36767035,
+            "entrant1Id": 7170234,
+            "entrant2Id": 7185074,
+            "entrant1Name": "Golden",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7185074,
+            "loserId": 7170234,
+            "winnerName": "BLE | SluG",
+            "loserName": "Golden",
+            "bracketName": "Top 32",
+            "bracketId": 1441378,
+            "entrant1Players": [
+                {
+                    "playerId": 138710,
+                    "playerTag": "Golden"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 36767030,
+            "entrant1Id": 7164737,
+            "entrant2Id": 7185074,
+            "entrant1Name": "YC | Peppi | | Pappi",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7185074,
+            "loserId": 7164737,
+            "winnerName": "BLE | SluG",
+            "loserName": "YC | Peppi | | Pappi",
+            "bracketName": "Top 32",
+            "bracketId": 1441378,
+            "entrant1Players": [
+                {
+                    "playerId": 61570,
+                    "playerTag": "Pappi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 36773152,
+            "entrant1Id": 7197891,
+            "entrant2Id": 7185074,
+            "entrant1Name": "Colbol",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7197891,
+            "loserId": 7185074,
+            "winnerName": "Colbol",
+            "loserName": "BLE | SluG",
+            "bracketName": "Top 8",
+            "bracketId": 1441377,
+            "entrant1Players": [
+                {
+                    "playerId": 1009,
+                    "playerTag": "Colbol"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 36767022,
+            "entrant1Id": 7185074,
+            "entrant2Id": 7173632,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Typhoon",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7185074,
+            "loserId": 7173632,
+            "winnerName": "BLE | SluG",
+            "loserName": "Typhoon",
+            "bracketName": "Top 32",
+            "bracketId": 1441378,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 221423,
+                    "playerTag": "Typhoon"
+                }
+            ]
+        },
+        {
+            "id": 35772926,
+            "entrant1Id": 6927638,
+            "entrant2Id": 6900396,
+            "entrant1Name": "2saint",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6900396,
+            "loserId": 6927638,
+            "winnerName": "BLE | SluG",
+            "loserName": "2saint",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1454615,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 35772920,
+            "entrant1Id": 6900396,
+            "entrant2Id": 6937094,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "sheph",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6900396,
+            "loserId": 6937094,
+            "winnerName": "BLE | SluG",
+            "loserName": "sheph",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1454615,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 253898,
+                    "playerTag": "sheph"
+                }
+            ]
+        },
+        {
+            "id": 35772881,
+            "entrant1Id": 6900396,
+            "entrant2Id": 6933246,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "a",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6900396,
+            "loserId": 6933246,
+            "winnerName": "BLE | SluG",
+            "loserName": "a",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1454615,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 518531,
+                    "playerTag": "a"
+                }
+            ]
+        },
+        {
+            "id": 35783850,
+            "entrant1Id": 6926120,
+            "entrant2Id": 6900396,
+            "entrant1Name": "Zain",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6926120,
+            "loserId": 6900396,
+            "winnerName": "Zain",
+            "loserName": "BLE | SluG",
+            "bracketName": "Top 64 East",
+            "bracketId": 1460696,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 35783914,
+            "entrant1Id": 6900396,
+            "entrant2Id": 6926695,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Drephen",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6926695,
+            "loserId": 6900396,
+            "winnerName": "Drephen",
+            "loserName": "BLE | SluG",
+            "bracketName": "Top 64 East",
+            "bracketId": 1460696,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6839,
+                    "playerTag": "Drephen"
+                }
+            ]
+        },
+        {
+            "id": 36594846,
+            "entrant1Id": 7070223,
+            "entrant2Id": 7161458,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "CS | Faust",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7070223,
+            "loserId": 7161458,
+            "winnerName": "BLE | SluG",
+            "loserName": "CS | Faust",
+            "bracketName": "Bracket pools",
+            "bracketId": 1471044,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45726,
+                    "playerTag": "Faust"
+                }
+            ]
+        },
+        {
+            "id": 36594840,
+            "entrant1Id": 7070223,
+            "entrant2Id": 7141741,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Jesuscametwice",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7070223,
+            "loserId": 7141741,
+            "winnerName": "BLE | SluG",
+            "loserName": "Jesuscametwice",
+            "bracketName": "Bracket pools",
+            "bracketId": 1471044,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 835002,
+                    "playerTag": "Jesuscametwice"
+                }
+            ]
+        },
+        {
+            "id": 36603010,
+            "entrant1Id": 7168192,
+            "entrant2Id": 7168484,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Dacky",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7168484,
+            "loserId": 7168192,
+            "winnerName": "Dacky",
+            "loserName": "BLE | SluG",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1471055,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45951,
+                    "playerTag": "Dacky"
+                }
+            ]
+        },
+        {
+            "id": 36603137,
+            "entrant1Id": 7168192,
+            "entrant2Id": 7168202,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "BOIKO | Stango",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7168192,
+            "loserId": 7168202,
+            "winnerName": "BLE | SluG",
+            "loserName": "BOIKO | Stango",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1471055,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13740,
+                    "playerTag": "Stango"
+                }
+            ]
+        },
+        {
+            "id": 36603003,
+            "entrant1Id": 7168171,
+            "entrant2Id": 7168192,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7168192,
+            "loserId": 7168171,
+            "winnerName": "BLE | SluG",
+            "loserName": "IMP | Ben",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1471055,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 36602990,
+            "entrant1Id": 7168192,
+            "entrant2Id": 7168481,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "SDJ",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7168192,
+            "loserId": 7168481,
+            "winnerName": "BLE | SluG",
+            "loserName": "SDJ",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1471055,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 325974,
+                    "playerTag": "SDJ"
+                }
+            ]
+        },
+        {
+            "id": 36615613,
+            "entrant1Id": 7168168,
+            "entrant2Id": 7168192,
+            "entrant1Name": "Revenge | Gahtzu",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7168168,
+            "loserId": 7168192,
+            "winnerName": "Revenge | Gahtzu",
+            "loserName": "BLE | SluG",
+            "bracketName": "Bracket top 8",
+            "bracketId": 1478695,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 37171882,
+            "entrant1Id": 7300354,
+            "entrant2Id": 7300554,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "404 YC | Salt",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7300354,
+            "loserId": 7300554,
+            "winnerName": "BLE | SluG",
+            "loserName": "404 YC | Salt",
+            "bracketName": "East Coast Ladder",
+            "bracketId": 1492049,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 133666,
+                    "playerTag": "Salt"
+                }
+            ]
+        },
+        {
+            "id": 37170440,
+            "entrant1Id": 7295916,
+            "entrant2Id": 7300354,
+            "entrant1Name": "Reesch",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7300354,
+            "loserId": 7295916,
+            "winnerName": "BLE | SluG",
+            "loserName": "Reesch",
+            "bracketName": "East Coast Ladder",
+            "bracketId": 1492049,
+            "entrant1Players": [
+                {
+                    "playerId": 10468,
+                    "playerTag": "Reesch"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 37170879,
+            "entrant1Id": 7299974,
+            "entrant2Id": 7300354,
+            "entrant1Name": "Pulch",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7300354,
+            "loserId": 7299974,
+            "winnerName": "BLE | SluG",
+            "loserName": "Pulch",
+            "bracketName": "East Coast Ladder",
+            "bracketId": 1492049,
+            "entrant1Players": [
+                {
+                    "playerId": 184545,
+                    "playerTag": "Pulch"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 37171314,
+            "entrant1Id": 7300354,
+            "entrant2Id": 7299848,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Sicca",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7300354,
+            "loserId": 7299848,
+            "winnerName": "BLE | SluG",
+            "loserName": "Sicca",
+            "bracketName": "East Coast Ladder",
+            "bracketId": 1492049,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3977,
+                    "playerTag": "Sicca"
+                }
+            ]
+        },
+        {
+            "id": 37166246,
+            "entrant1Id": 7300354,
+            "entrant2Id": 7297455,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "SKY | Matwood",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7300354,
+            "loserId": 7297455,
+            "winnerName": "BLE | SluG",
+            "loserName": "SKY | Matwood",
+            "bracketName": "East Coast Ladder",
+            "bracketId": 1492049,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 638273,
+                    "playerTag": "Matwood"
+                }
+            ]
+        },
+        {
+            "id": 37170782,
+            "entrant1Id": 7300094,
+            "entrant2Id": 7300354,
+            "entrant1Name": "Banger",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7300354,
+            "loserId": 7300094,
+            "winnerName": "BLE | SluG",
+            "loserName": "Banger",
+            "bracketName": "East Coast Ladder",
+            "bracketId": 1492049,
+            "entrant1Players": [
+                {
+                    "playerId": 495213,
+                    "playerTag": "Banger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 37170818,
+            "entrant1Id": 7300354,
+            "entrant2Id": 7298953,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "MGFC | bootichief",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7300354,
+            "loserId": 7298953,
+            "winnerName": "BLE | SluG",
+            "loserName": "MGFC | bootichief",
+            "bracketName": "East Coast Ladder",
+            "bracketId": 1492049,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40793,
+                    "playerTag": "JorDank"
+                }
+            ]
+        },
+        {
+            "id": 37171616,
+            "entrant1Id": 7300354,
+            "entrant2Id": 7298246,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Joe(y) Bats",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7300354,
+            "loserId": 7298246,
+            "winnerName": "BLE | SluG",
+            "loserName": "Joe(y) Bats",
+            "bracketName": "East Coast Ladder",
+            "bracketId": 1492049,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5869,
+                    "playerTag": "Joe(y) Bats"
+                }
+            ]
+        },
+        {
+            "id": 37185527,
+            "entrant1Id": 7304420,
+            "entrant2Id": 7305133,
+            "entrant1Name": "S2J",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7304420,
+            "loserId": 7305133,
+            "winnerName": "S2J",
+            "loserName": "BLE | SluG",
+            "bracketName": "Main Bracket",
+            "bracketId": 1492048,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 37185591,
+            "entrant1Id": 7305133,
+            "entrant2Id": 7305161,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "GUG | K\u00fcrv",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7305161,
+            "loserId": 7305133,
+            "winnerName": "GUG | K\u00fcrv",
+            "loserName": "BLE | SluG",
+            "bracketName": "Main Bracket",
+            "bracketId": 1492048,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37116,
+                    "playerTag": "K\u00fcrv"
+                }
+            ]
+        },
+        {
+            "id": 37185526,
+            "entrant1Id": 7305500,
+            "entrant2Id": 7305133,
+            "entrant1Name": "KoDoRiN",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7305133,
+            "loserId": 7305500,
+            "winnerName": "BLE | SluG",
+            "loserName": "KoDoRiN",
+            "bracketName": "Main Bracket",
+            "bracketId": 1492048,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 37185524,
+            "entrant1Id": 7305133,
+            "entrant2Id": 7305138,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Golden",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7305133,
+            "loserId": 7305138,
+            "winnerName": "BLE | SluG",
+            "loserName": "Golden",
+            "bracketName": "Main Bracket",
+            "bracketId": 1492048,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 138710,
+                    "playerTag": "Golden"
+                }
+            ]
+        },
+        {
+            "id": 37185519,
+            "entrant1Id": 7305133,
+            "entrant2Id": 7305154,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Younger",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7305133,
+            "loserId": 7305154,
+            "winnerName": "BLE | SluG",
+            "loserName": "Younger",
+            "bracketName": "Main Bracket",
+            "bracketId": 1492048,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3665,
+                    "playerTag": "Younger"
+                }
+            ]
+        },
+        {
+            "id": 35616124,
+            "entrant1Id": 6925168,
+            "entrant2Id": 6924055,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Joey Donuts",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6925168,
+            "loserId": 6924055,
+            "winnerName": "BLE | SluG",
+            "loserName": "Joey Donuts",
+            "bracketName": "Pools",
+            "bracketId": 1458434,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 184637,
+                    "playerTag": "Joey Donuts"
+                }
+            ]
+        },
+        {
+            "id": 35634313,
+            "entrant1Id": 6924240,
+            "entrant2Id": 6925168,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6925168,
+            "loserId": 6924240,
+            "winnerName": "BLE | SluG",
+            "loserName": "LG | Ginger",
+            "bracketName": "Top 8",
+            "bracketId": 1457060,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 35634314,
+            "entrant1Id": 6925168,
+            "entrant2Id": 6924240,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6924240,
+            "loserId": 6925168,
+            "winnerName": "LG | Ginger",
+            "loserName": "BLE | SluG",
+            "bracketName": "Top 8",
+            "bracketId": 1457060,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 35622671,
+            "entrant1Id": 6923553,
+            "entrant2Id": 6925168,
+            "entrant1Name": "Revenge | Gahtzu",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6923553,
+            "loserId": 6925168,
+            "winnerName": "Revenge | Gahtzu",
+            "loserName": "BLE | SluG",
+            "bracketName": "Top 32",
+            "bracketId": 1457059,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 35616114,
+            "entrant1Id": 6925168,
+            "entrant2Id": 6921430,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "TheGofficer",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6925168,
+            "loserId": 6921430,
+            "winnerName": "BLE | SluG",
+            "loserName": "TheGofficer",
+            "bracketName": "Pools",
+            "bracketId": 1458434,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 397465,
+                    "playerTag": "TheGofficer"
+                }
+            ]
+        },
+        {
+            "id": 35622731,
+            "entrant1Id": 6925168,
+            "entrant2Id": 6910825,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "TheRealThing",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6925168,
+            "loserId": 6910825,
+            "winnerName": "BLE | SluG",
+            "loserName": "TheRealThing",
+            "bracketName": "Top 32",
+            "bracketId": 1457059,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 8043,
+                    "playerTag": "TheRealThing"
+                }
+            ]
+        },
+        {
+            "id": 35634328,
+            "entrant1Id": 6923553,
+            "entrant2Id": 6925168,
+            "entrant1Name": "Revenge | Gahtzu",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6925168,
+            "loserId": 6923553,
+            "winnerName": "BLE | SluG",
+            "loserName": "Revenge | Gahtzu",
+            "bracketName": "Top 8",
+            "bracketId": 1457060,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 35634327,
+            "entrant1Id": 6908443,
+            "entrant2Id": 6925168,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6925168,
+            "loserId": 6908443,
+            "winnerName": "BLE | SluG",
+            "loserName": "IMP | Ben",
+            "bracketName": "Top 8",
+            "bracketId": 1457060,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 35622667,
+            "entrant1Id": 6925168,
+            "entrant2Id": 6918839,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Bones",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6925168,
+            "loserId": 6918839,
+            "winnerName": "BLE | SluG",
+            "loserName": "Bones",
+            "bracketName": "Top 32",
+            "bracketId": 1457059,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5457,
+                    "playerTag": "Bones"
+                }
+            ]
+        },
+        {
+            "id": 35634326,
+            "entrant1Id": 6917186,
+            "entrant2Id": 6925168,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6925168,
+            "loserId": 6917186,
+            "winnerName": "BLE | SluG",
+            "loserName": "TG | Mot$",
+            "bracketName": "Top 8",
+            "bracketId": 1457060,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 35634324,
+            "entrant1Id": 6925097,
+            "entrant2Id": 6925168,
+            "entrant1Name": "Spiral Cafe | Krudo",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6925168,
+            "loserId": 6925097,
+            "winnerName": "BLE | SluG",
+            "loserName": "Spiral Cafe | Krudo",
+            "bracketName": "Top 8",
+            "bracketId": 1457060,
+            "entrant1Players": [
+                {
+                    "playerId": 147424,
+                    "playerTag": "Krudo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 35537902,
+            "entrant1Id": 6906364,
+            "entrant2Id": 6906192,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "g-regulate",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6906364,
+            "loserId": 6906192,
+            "winnerName": "BLE | SluG",
+            "loserName": "g-regulate",
+            "bracketName": "Bracket",
+            "bracketId": 1454350,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 448089,
+                    "playerTag": "g-regulate"
+                }
+            ]
+        },
+        {
+            "id": 35537898,
+            "entrant1Id": 6906364,
+            "entrant2Id": 6901116,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "fUnction",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6906364,
+            "loserId": 6901116,
+            "winnerName": "BLE | SluG",
+            "loserName": "fUnction",
+            "bracketName": "Bracket",
+            "bracketId": 1454350,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2172317,
+                    "playerTag": "fUnction"
+                }
+            ]
+        },
+        {
+            "id": 35539611,
+            "entrant1Id": 6906198,
+            "entrant2Id": 6906364,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6906364,
+            "loserId": 6906198,
+            "winnerName": "BLE | SluG",
+            "loserName": "IMP | Ben",
+            "bracketName": "Singles Top 32",
+            "bracketId": 1454354,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 35543459,
+            "entrant1Id": 6906338,
+            "entrant2Id": 6906364,
+            "entrant1Name": "Drephen",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6906338,
+            "loserId": 6906364,
+            "winnerName": "Drephen",
+            "loserName": "BLE | SluG",
+            "bracketName": "Top 8",
+            "bracketId": 1454355,
+            "entrant1Players": [
+                {
+                    "playerId": 6839,
+                    "playerTag": "Drephen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 35543458,
+            "entrant1Id": 6906304,
+            "entrant2Id": 6906364,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6906364,
+            "loserId": 6906304,
+            "winnerName": "BLE | SluG",
+            "loserName": "bobby big ballz",
+            "bracketName": "Top 8",
+            "bracketId": 1454355,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 35543441,
+            "entrant1Id": 6905901,
+            "entrant2Id": 6906364,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6905901,
+            "loserId": 6906364,
+            "winnerName": "LG | Ginger",
+            "loserName": "BLE | SluG",
+            "bracketName": "Top 8",
+            "bracketId": 1454355,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 35539605,
+            "entrant1Id": 6906364,
+            "entrant2Id": 6905178,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Younger",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6906364,
+            "loserId": 6905178,
+            "winnerName": "BLE | SluG",
+            "loserName": "Younger",
+            "bracketName": "Singles Top 32",
+            "bracketId": 1454354,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3665,
+                    "playerTag": "Younger"
+                }
+            ]
+        },
+        {
+            "id": 35543457,
+            "entrant1Id": 6906364,
+            "entrant2Id": 6905997,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "NGG | Jflex",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6906364,
+            "loserId": 6905997,
+            "winnerName": "BLE | SluG",
+            "loserName": "NGG | Jflex",
+            "bracketName": "Top 8",
+            "bracketId": 1454355,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 35077160,
+            "entrant1Id": 6791275,
+            "entrant2Id": 6789348,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Frankhoe",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6791275,
+            "loserId": 6789348,
+            "winnerName": "BLE | SluG",
+            "loserName": "Frankhoe",
+            "bracketName": "Bracket",
+            "bracketId": 1444333,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 53655,
+                    "playerTag": "Franco"
+                }
+            ]
+        },
+        {
+            "id": 35077156,
+            "entrant1Id": 6791275,
+            "entrant2Id": 6761814,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Nikku",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6791275,
+            "loserId": 6761814,
+            "winnerName": "BLE | SluG",
+            "loserName": "Nikku",
+            "bracketName": "Bracket",
+            "bracketId": 1444333,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2090960,
+                    "playerTag": "Nikku"
+                }
+            ]
+        },
+        {
+            "id": 35078815,
+            "entrant1Id": 6790775,
+            "entrant2Id": 6791275,
+            "entrant1Name": "Drephen",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6790775,
+            "loserId": 6791275,
+            "winnerName": "Drephen",
+            "loserName": "BLE | SluG",
+            "bracketName": "Singles Top 32",
+            "bracketId": 1444337,
+            "entrant1Players": [
+                {
+                    "playerId": 6839,
+                    "playerTag": "Drephen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 35078875,
+            "entrant1Id": 6791275,
+            "entrant2Id": 6790897,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Khryke",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6791275,
+            "loserId": 6790897,
+            "winnerName": "BLE | SluG",
+            "loserName": "Khryke",
+            "bracketName": "Singles Top 32",
+            "bracketId": 1444337,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279107,
+                    "playerTag": "Khryke"
+                }
+            ]
+        },
+        {
+            "id": 35078809,
+            "entrant1Id": 6791275,
+            "entrant2Id": 6790213,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Kevin Maples",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6791275,
+            "loserId": 6790213,
+            "winnerName": "BLE | SluG",
+            "loserName": "Kevin Maples",
+            "bracketName": "Singles Top 32",
+            "bracketId": 1444337,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40627,
+                    "playerTag": "Kevin Maples"
+                }
+            ]
+        },
+        {
+            "id": 35082725,
+            "entrant1Id": 6791815,
+            "entrant2Id": 6791275,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6791815,
+            "loserId": 6791275,
+            "winnerName": "Hax$",
+            "loserName": "BLE | SluG",
+            "bracketName": "Top 8",
+            "bracketId": 1444338,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 40628322,
+            "entrant1Id": 4819867,
+            "entrant2Id": 8286153,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "CG | Jflex",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4819867,
+            "loserId": 8286153,
+            "winnerName": "BLE | SluG",
+            "loserName": "CG | Jflex",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 40620454,
+            "entrant1Id": 4819867,
+            "entrant2Id": 8280676,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Kenyon | R&R",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4819867,
+            "loserId": 8280676,
+            "winnerName": "BLE | SluG",
+            "loserName": "Kenyon | R&R",
+            "bracketName": "Pools",
+            "bracketId": 1578729,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 171119,
+                    "playerTag": "R&R"
+                }
+            ]
+        },
+        {
+            "id": 40628321,
+            "entrant1Id": 4767641,
+            "entrant2Id": 4819867,
+            "entrant1Name": "2saint",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 4819867,
+            "loserId": 4767641,
+            "winnerName": "BLE | SluG",
+            "loserName": "2saint",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 40620450,
+            "entrant1Id": 4819867,
+            "entrant2Id": 4680741,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "UMA | Arcade",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4819867,
+            "loserId": 4680741,
+            "winnerName": "BLE | SluG",
+            "loserName": "UMA | Arcade",
+            "bracketName": "Pools",
+            "bracketId": 1578729,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37401,
+                    "playerTag": "Arcade"
+                }
+            ]
+        },
+        {
+            "id": 40628320,
+            "entrant1Id": 8286153,
+            "entrant2Id": 4819867,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 4819867,
+            "loserId": 8286153,
+            "winnerName": "BLE | SluG",
+            "loserName": "CG | Jflex",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 40620442,
+            "entrant1Id": 4819867,
+            "entrant2Id": 8214518,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Luppi",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4819867,
+            "loserId": 8214518,
+            "winnerName": "BLE | SluG",
+            "loserName": "Luppi",
+            "bracketName": "Pools",
+            "bracketId": 1578729,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 641180,
+                    "playerTag": "Luppi"
+                }
+            ]
+        },
+        {
+            "id": 40628318,
+            "entrant1Id": 4819867,
+            "entrant2Id": 8293731,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "HoG | Warmmer",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4819867,
+            "loserId": 8293731,
+            "winnerName": "BLE | SluG",
+            "loserName": "HoG | Warmmer",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ]
+        },
+        {
+            "id": 41244512,
+            "entrant1Id": 8330762,
+            "entrant2Id": 8345513,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "PKK | Bongo",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8330762,
+            "loserId": 8345513,
+            "winnerName": "BLE | SluG",
+            "loserName": "PKK | Bongo",
+            "bracketName": "Pools",
+            "bracketId": 1594250,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 132536,
+                    "playerTag": "Bongo"
+                }
+            ]
+        },
+        {
+            "id": 41244508,
+            "entrant1Id": 8330762,
+            "entrant2Id": 8348181,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Deez | Lordgenome",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8330762,
+            "loserId": 8348181,
+            "winnerName": "BLE | SluG",
+            "loserName": "Deez | Lordgenome",
+            "bracketName": "Pools",
+            "bracketId": 1594250,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 315938,
+                    "playerTag": "Lordgenome"
+                }
+            ]
+        },
+        {
+            "id": 41262288,
+            "entrant1Id": 8330727,
+            "entrant2Id": 8330762,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8330762,
+            "loserId": 8330727,
+            "winnerName": "BLE | SluG",
+            "loserName": "Just Jason",
+            "bracketName": "Top 32",
+            "bracketId": 1594247,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 41262284,
+            "entrant1Id": 8369920,
+            "entrant2Id": 8330762,
+            "entrant1Name": "SloX",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8330762,
+            "loserId": 8369920,
+            "winnerName": "BLE | SluG",
+            "loserName": "SloX",
+            "bracketName": "Top 32",
+            "bracketId": 1594247,
+            "entrant1Players": [
+                {
+                    "playerId": 1061,
+                    "playerTag": "SloX"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 41268191,
+            "entrant1Id": 8330762,
+            "entrant2Id": 8330716,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Brotherhood | Aklo",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8330716,
+            "loserId": 8330762,
+            "winnerName": "Brotherhood | Aklo",
+            "loserName": "BLE | SluG",
+            "bracketName": "Top 8",
+            "bracketId": 1594248,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ]
+        },
+        {
+            "id": 41262222,
+            "entrant1Id": 8330762,
+            "entrant2Id": 8330724,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Bbatts",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8330724,
+            "loserId": 8330762,
+            "winnerName": "Bbatts",
+            "loserName": "BLE | SluG",
+            "bracketName": "Top 32",
+            "bracketId": 1594247,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 542693,
+                    "playerTag": "Bbatts"
+                }
+            ]
+        },
+        {
+            "id": 41262278,
+            "entrant1Id": 8330762,
+            "entrant2Id": 8330760,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Frame 1 | Churze",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8330762,
+            "loserId": 8330760,
+            "winnerName": "BLE | SluG",
+            "loserName": "Frame 1 | Churze",
+            "bracketName": "Top 32",
+            "bracketId": 1594247,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 129774,
+                    "playerTag": "Churze"
+                }
+            ]
+        },
+        {
+            "id": 41268189,
+            "entrant1Id": 8330725,
+            "entrant2Id": 8330762,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8330762,
+            "loserId": 8330725,
+            "winnerName": "BLE | SluG",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Top 8",
+            "bracketId": 1594248,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 41268187,
+            "entrant1Id": 8330762,
+            "entrant2Id": 8451120,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "TG NBR | Panos",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8330762,
+            "loserId": 8451120,
+            "winnerName": "BLE | SluG",
+            "loserName": "TG NBR | Panos",
+            "bracketName": "Top 8",
+            "bracketId": 1594248,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16066,
+                    "playerTag": "Panos"
+                }
+            ]
+        },
+        {
+            "id": 35006440,
+            "entrant1Id": 6653869,
+            "entrant2Id": 6736023,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Burgermeister | Axis",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6653869,
+            "loserId": 6736023,
+            "winnerName": "BLE | SluG",
+            "loserName": "Burgermeister | Axis",
+            "bracketName": "Bracket",
+            "bracketId": 1433619,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 62566,
+                    "playerTag": "Axis"
+                }
+            ]
+        },
+        {
+            "id": 35006434,
+            "entrant1Id": 6653869,
+            "entrant2Id": 6767371,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "ericiscool.net",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6653869,
+            "loserId": 6767371,
+            "winnerName": "BLE | SluG",
+            "loserName": "ericiscool.net",
+            "bracketName": "Bracket",
+            "bracketId": 1433619,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 255496,
+                    "playerTag": "ericiscool.net"
+                }
+            ]
+        },
+        {
+            "id": 35011193,
+            "entrant1Id": 6771690,
+            "entrant2Id": 6653869,
+            "entrant1Name": "Brotherhood|OS | Aklo",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6771690,
+            "loserId": 6653869,
+            "winnerName": "Brotherhood|OS | Aklo",
+            "loserName": "BLE | SluG",
+            "bracketName": "Top 32",
+            "bracketId": 1433622,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 35011255,
+            "entrant1Id": 6653869,
+            "entrant2Id": 6746077,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "We Are | Cannagar",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6653869,
+            "loserId": 6746077,
+            "winnerName": "BLE | SluG",
+            "loserName": "We Are | Cannagar",
+            "bracketName": "Top 32",
+            "bracketId": 1433622,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 157455,
+                    "playerTag": "Cannagar"
+                }
+            ]
+        },
+        {
+            "id": 35011188,
+            "entrant1Id": 6653869,
+            "entrant2Id": 6676503,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "FreeMelee | Zuppy",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6653869,
+            "loserId": 6676503,
+            "winnerName": "BLE | SluG",
+            "loserName": "FreeMelee | Zuppy",
+            "bracketName": "Top 32",
+            "bracketId": 1433622,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ]
+        },
+        {
+            "id": 35016304,
+            "entrant1Id": 6653869,
+            "entrant2Id": 6740558,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Hax$",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6740558,
+            "loserId": 6653869,
+            "winnerName": "Hax$",
+            "loserName": "BLE | SluG",
+            "bracketName": "Top 8",
+            "bracketId": 1433629,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 41434430,
+            "entrant1Id": 8193443,
+            "entrant2Id": 8194377,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Quote",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8193443,
+            "loserId": 8194377,
+            "winnerName": "BLE | SluG",
+            "loserName": "Quote",
+            "bracketName": "Pools",
+            "bracketId": 1572308,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 229051,
+                    "playerTag": "Quote"
+                }
+            ]
+        },
+        {
+            "id": 41434426,
+            "entrant1Id": 8193443,
+            "entrant2Id": 8233027,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Redboy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8193443,
+            "loserId": 8233027,
+            "winnerName": "BLE | SluG",
+            "loserName": "Redboy",
+            "bracketName": "Pools",
+            "bracketId": 1572308,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 808643,
+                    "playerTag": "Redboy"
+                }
+            ]
+        },
+        {
+            "id": 41434418,
+            "entrant1Id": 8193443,
+            "entrant2Id": 8194791,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Spaz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8193443,
+            "loserId": 8194791,
+            "winnerName": "BLE | SluG",
+            "loserName": "Spaz",
+            "bracketName": "Pools",
+            "bracketId": 1572308,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 271885,
+                    "playerTag": "Spaz"
+                }
+            ]
+        },
+        {
+            "id": 41445485,
+            "entrant1Id": 8193443,
+            "entrant2Id": 8195114,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8195114,
+            "loserId": 8193443,
+            "winnerName": "NoFluxes",
+            "loserName": "BLE | SluG",
+            "bracketName": "Top 64 - BO5",
+            "bracketId": 1572321,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 41445547,
+            "entrant1Id": 8193443,
+            "entrant2Id": 8223257,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "essy",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8193443,
+            "loserId": 8223257,
+            "winnerName": "BLE | SluG",
+            "loserName": "essy",
+            "bracketName": "Top 64 - BO5",
+            "bracketId": 1572321,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 59086,
+                    "playerTag": "essy"
+                }
+            ]
+        },
+        {
+            "id": 41484525,
+            "entrant1Id": 8195114,
+            "entrant2Id": 8193443,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8195114,
+            "loserId": 8193443,
+            "winnerName": "NoFluxes",
+            "loserName": "BLE | SluG",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 41484523,
+            "entrant1Id": 8494892,
+            "entrant2Id": 8193443,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8193443,
+            "loserId": 8494892,
+            "winnerName": "BLE | SluG",
+            "loserName": "Aspero | Logan",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 41445479,
+            "entrant1Id": 8193443,
+            "entrant2Id": 8194106,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "eve",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8193443,
+            "loserId": 8194106,
+            "winnerName": "BLE | SluG",
+            "loserName": "eve",
+            "bracketName": "Top 64 - BO5",
+            "bracketId": 1572321,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 49711,
+                    "playerTag": "eve"
+                }
+            ]
+        },
+        {
+            "id": 41484520,
+            "entrant1Id": 8194500,
+            "entrant2Id": 8193443,
+            "entrant1Name": "JJM",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8193443,
+            "loserId": 8194500,
+            "winnerName": "BLE | SluG",
+            "loserName": "JJM",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 170768,
+                    "playerTag": "JJM"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 41484516,
+            "entrant1Id": 8193443,
+            "entrant2Id": 8193645,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "DarkGenex",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8193443,
+            "loserId": 8193645,
+            "winnerName": "BLE | SluG",
+            "loserName": "DarkGenex",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26153,
+                    "playerTag": "DarkGenex"
+                }
+            ]
+        },
+        {
+            "id": 41971901,
+            "entrant1Id": 8635664,
+            "entrant2Id": 8654529,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8654529,
+            "loserId": 8635664,
+            "winnerName": "Agency | Wally",
+            "loserName": "BLE | SluG",
+            "bracketName": "Bracket",
+            "bracketId": 1601304,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 41971902,
+            "entrant1Id": 8654529,
+            "entrant2Id": 8635664,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8654529,
+            "loserId": 8635664,
+            "winnerName": "Agency | Wally",
+            "loserName": "BLE | SluG",
+            "bracketName": "Bracket",
+            "bracketId": 1601304,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 41971900,
+            "entrant1Id": 8635664,
+            "entrant2Id": 8657279,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "PUP | Dimension",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8635664,
+            "loserId": 8657279,
+            "winnerName": "BLE | SluG",
+            "loserName": "PUP | Dimension",
+            "bracketName": "Bracket",
+            "bracketId": 1601304,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 587072,
+                    "playerTag": "Dimension"
+                }
+            ]
+        },
+        {
+            "id": 41971898,
+            "entrant1Id": 8635664,
+            "entrant2Id": 8660075,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8635664,
+            "loserId": 8660075,
+            "winnerName": "BLE | SluG",
+            "loserName": "TG | Mot$",
+            "bracketName": "Bracket",
+            "bracketId": 1601304,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 41971894,
+            "entrant1Id": 8635664,
+            "entrant2Id": 8660596,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "GodTouch",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8635664,
+            "loserId": 8660596,
+            "winnerName": "BLE | SluG",
+            "loserName": "GodTouch",
+            "bracketName": "Bracket",
+            "bracketId": 1601304,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 55317,
+                    "playerTag": "GodTouch"
+                }
+            ]
+        },
+        {
+            "id": 41971886,
+            "entrant1Id": 8635664,
+            "entrant2Id": 8662814,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "TAP | bambi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8635664,
+            "loserId": 8662814,
+            "winnerName": "BLE | SluG",
+            "loserName": "TAP | bambi",
+            "bracketName": "Bracket",
+            "bracketId": 1601304,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 8152,
+                    "playerTag": "bambi"
+                }
+            ]
+        },
+        {
+            "id": 41971870,
+            "entrant1Id": 8635664,
+            "entrant2Id": 8662925,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Mephistopheles",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8635664,
+            "loserId": 8662925,
+            "winnerName": "BLE | SluG",
+            "loserName": "Mephistopheles",
+            "bracketName": "Bracket",
+            "bracketId": 1601304,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151089,
+                    "playerTag": "Mephistopheles"
+                }
+            ]
+        },
+        {
+            "id": 39183628,
+            "entrant1Id": 7948100,
+            "entrant2Id": 7948146,
+            "entrant1Name": "Zion",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7948100,
+            "loserId": 7948146,
+            "winnerName": "Zion",
+            "loserName": "BLE | SluG",
+            "bracketName": "Bracket",
+            "bracketId": 1543463,
+            "entrant1Players": [
+                {
+                    "playerId": 528367,
+                    "playerTag": "Zion"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 39183627,
+            "entrant1Id": 7948146,
+            "entrant2Id": 7948100,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Zion",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7948100,
+            "loserId": 7948146,
+            "winnerName": "Zion",
+            "loserName": "BLE | SluG",
+            "bracketName": "Bracket",
+            "bracketId": 1543463,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 528367,
+                    "playerTag": "Zion"
+                }
+            ]
+        },
+        {
+            "id": 39183625,
+            "entrant1Id": 7948146,
+            "entrant2Id": 7952889,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7948146,
+            "loserId": 7952889,
+            "winnerName": "BLE | SluG",
+            "loserName": "TG | Mot$",
+            "bracketName": "Bracket",
+            "bracketId": 1543463,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 39183621,
+            "entrant1Id": 7948146,
+            "entrant2Id": 7953692,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "totally butts",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7948146,
+            "loserId": 7953692,
+            "winnerName": "BLE | SluG",
+            "loserName": "totally butts",
+            "bracketName": "Bracket",
+            "bracketId": 1543463,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 129344,
+                    "playerTag": "totally butts"
+                }
+            ]
+        },
+        {
+            "id": 39183613,
+            "entrant1Id": 7948146,
+            "entrant2Id": 7952961,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Christopher Rodriguez",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7948146,
+            "loserId": 7952961,
+            "winnerName": "BLE | SluG",
+            "loserName": "Christopher Rodriguez",
+            "bracketName": "Bracket",
+            "bracketId": 1543463,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 356990,
+                    "playerTag": "Christopher Rodriguez"
+                }
+            ]
+        },
+        {
+            "id": 37787681,
+            "entrant1Id": 7450215,
+            "entrant2Id": 7450257,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "GodTouch",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7450215,
+            "loserId": 7450257,
+            "winnerName": "BLE | SluG",
+            "loserName": "GodTouch",
+            "bracketName": "RR pool",
+            "bracketId": 1507033,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 55317,
+                    "playerTag": "GodTouch"
+                }
+            ]
+        },
+        {
+            "id": 37787678,
+            "entrant1Id": 7450215,
+            "entrant2Id": 7450222,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "ight",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7450215,
+            "loserId": 7450222,
+            "winnerName": "BLE | SluG",
+            "loserName": "ight",
+            "bracketName": "RR pool",
+            "bracketId": 1507033,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 157615,
+                    "playerTag": "ight"
+                }
+            ]
+        },
+        {
+            "id": 37791698,
+            "entrant1Id": 7450215,
+            "entrant2Id": 7450232,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Dawson",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7450215,
+            "loserId": 7450232,
+            "winnerName": "BLE | SluG",
+            "loserName": "Dawson",
+            "bracketName": "Double Elimination bracket",
+            "bracketId": 1507034,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 147811,
+                    "playerTag": "Dawson"
+                }
+            ]
+        },
+        {
+            "id": 37787675,
+            "entrant1Id": 7450215,
+            "entrant2Id": 7450263,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Zephyr",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7450215,
+            "loserId": 7450263,
+            "winnerName": "BLE | SluG",
+            "loserName": "Zephyr",
+            "bracketName": "RR pool",
+            "bracketId": 1507033,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2547039,
+                    "playerTag": "Zephyr"
+                }
+            ]
+        },
+        {
+            "id": 37791697,
+            "entrant1Id": 7450215,
+            "entrant2Id": 7450232,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Dawson",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7450215,
+            "loserId": 7450232,
+            "winnerName": "BLE | SluG",
+            "loserName": "Dawson",
+            "bracketName": "Double Elimination bracket",
+            "bracketId": 1507034,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 147811,
+                    "playerTag": "Dawson"
+                }
+            ]
+        },
+        {
+            "id": 37787672,
+            "entrant1Id": 7450215,
+            "entrant2Id": 7450229,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "119 | Douglas.J.Gov",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7450215,
+            "loserId": 7450229,
+            "winnerName": "BLE | SluG",
+            "loserName": "119 | Douglas.J.Gov",
+            "bracketName": "RR pool",
+            "bracketId": 1507033,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 789026,
+                    "playerTag": "Douglas.J.Gov"
+                }
+            ]
+        },
+        {
+            "id": 37791695,
+            "entrant1Id": 7450215,
+            "entrant2Id": 7450236,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Fankriss",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7450215,
+            "loserId": 7450236,
+            "winnerName": "BLE | SluG",
+            "loserName": "Fankriss",
+            "bracketName": "Double Elimination bracket",
+            "bracketId": 1507034,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1942273,
+                    "playerTag": "Fank"
+                }
+            ]
+        },
+        {
+            "id": 37787669,
+            "entrant1Id": 7450215,
+            "entrant2Id": 7450235,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Enemy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7450215,
+            "loserId": 7450235,
+            "winnerName": "BLE | SluG",
+            "loserName": "Enemy",
+            "bracketName": "RR pool",
+            "bracketId": 1507033,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10968,
+                    "playerTag": "Enemy"
+                }
+            ]
+        },
+        {
+            "id": 37791691,
+            "entrant1Id": 7450215,
+            "entrant2Id": 7450231,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "QoT | Cruelscotty",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7450215,
+            "loserId": 7450231,
+            "winnerName": "BLE | SluG",
+            "loserName": "QoT | Cruelscotty",
+            "bracketName": "Double Elimination bracket",
+            "bracketId": 1507034,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175490,
+                    "playerTag": "Cruelscotty"
+                }
+            ]
+        },
+        {
+            "id": 37787666,
+            "entrant1Id": 7450215,
+            "entrant2Id": 7450248,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Chaos Untouchable",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7450215,
+            "loserId": 7450248,
+            "winnerName": "BLE | SluG",
+            "loserName": "Chaos Untouchable",
+            "bracketName": "RR pool",
+            "bracketId": 1507033,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2303455,
+                    "playerTag": "Chaos Untouchable"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "Logan",
+        "Jflex",
+        "n0ne/ Bond / wizzyfan109",
+        "Drephen",
+        "Panda",
+        "Pappi",
+        "2saint",
+        "Ben",
+        "SDJ",
+        "KoDoRiN",
+        "Ginger",
+        "Gahtzu",
+        "Ben",
+        "Bones",
+        "Mot$",
+        "Krudo",
+        "Ben",
+        "bobby big ballz",
+        "Jflex",
+        "Khryke",
+        "Jflex",
+        "2saint",
+        "Jflex",
+        "Warmmer",
+        "Zuppy",
+        "Logan",
+        "Mot$",
+        "Mot$"
+    ],
+    "L": [
+        "Hungrybox",
+        "Hungrybox",
+        "Smashdaddy",
+        "Zealot",
+        "Hungrybox",
+        "ChuDat",
+        "Bbatts",
+        "Colbol",
+        "Zain",
+        "Drephen",
+        "Dacky",
+        "Gahtzu",
+        "S2J",
+        "K\u00fcrv",
+        "Ginger",
+        "Gahtzu",
+        "Drephen",
+        "Ginger",
+        "Drephen",
+        "Hax$",
+        "Aklo",
+        "Bbatts",
+        "Aklo",
+        "Hax$",
+        "NoFluxes",
+        "NoFluxes",
+        "Wally",
+        "Wally",
+        "Zion",
+        "Zion"
+    ]
+}

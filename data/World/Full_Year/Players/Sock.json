@@ -1,0 +1,5113 @@
+{
+    "ID": 223213,
+    "Events": [
+        "644621",
+        "658403",
+        "655991",
+        "438347",
+        "659783",
+        "638649",
+        "637746",
+        "623027",
+        "614119",
+        "608933",
+        "609672",
+        "608965",
+        "604905",
+        "601340",
+        "599704",
+        "588779",
+        "571486",
+        "557698",
+        "549632",
+        "645227",
+        "657951",
+        "655653",
+        "647616",
+        "632321",
+        "631911",
+        "620200",
+        "598969",
+        "592700",
+        "566889"
+    ],
+    "Sets": [
+        {
+            "id": 43219574,
+            "entrant1Id": 8955022,
+            "entrant2Id": 8892147,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "Entropy | Luigi Ka-Master",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8955022,
+            "loserId": 8892147,
+            "winnerName": "MF | Sock",
+            "loserName": "Entropy | Luigi Ka-Master",
+            "bracketName": "Group Stage",
+            "bracketId": 1635971,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27353,
+                    "playerTag": "Luigi Ka-Master"
+                }
+            ]
+        },
+        {
+            "id": 43219572,
+            "entrant1Id": 8955022,
+            "entrant2Id": 8712516,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712516,
+            "loserId": 8955022,
+            "winnerName": "Fiction",
+            "loserName": "MF | Sock",
+            "bracketName": "Group Stage",
+            "bracketId": 1635971,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 43219569,
+            "entrant1Id": 8712533,
+            "entrant2Id": 8955022,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "MF | Sock",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712533,
+            "loserId": 8955022,
+            "winnerName": "Hungrybox",
+            "loserName": "MF | Sock",
+            "bracketName": "Group Stage",
+            "bracketId": 1635971,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 43219566,
+            "entrant1Id": 8712505,
+            "entrant2Id": 8955022,
+            "entrant1Name": "Nicki",
+            "entrant2Name": "MF | Sock",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8955022,
+            "loserId": 8712505,
+            "winnerName": "MF | Sock",
+            "loserName": "Nicki",
+            "bracketName": "Group Stage",
+            "bracketId": 1635971,
+            "entrant1Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 43156419,
+            "entrant1Id": 8945490,
+            "entrant2Id": 8934266,
+            "entrant1Name": "Squid",
+            "entrant2Name": "MF | Sock",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8945490,
+            "loserId": 8934266,
+            "winnerName": "Squid",
+            "loserName": "MF | Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1642433,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 43156415,
+            "entrant1Id": 8934266,
+            "entrant2Id": 8933460,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "Rasec",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8934266,
+            "loserId": 8933460,
+            "winnerName": "MF | Sock",
+            "loserName": "Rasec",
+            "bracketName": "Bracket",
+            "bracketId": 1642433,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 358739,
+                    "playerTag": "Rasec"
+                }
+            ]
+        },
+        {
+            "id": 43156408,
+            "entrant1Id": 8944156,
+            "entrant2Id": 8934266,
+            "entrant1Name": "MegaXmas",
+            "entrant2Name": "MF | Sock",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8934266,
+            "loserId": 8944156,
+            "winnerName": "MF | Sock",
+            "loserName": "MegaXmas",
+            "bracketName": "Bracket",
+            "bracketId": 1642433,
+            "entrant1Players": [
+                {
+                    "playerId": 4224,
+                    "playerTag": "MegaXmas"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 43156400,
+            "entrant1Id": 8934306,
+            "entrant2Id": 8934266,
+            "entrant1Name": "SD | Georgie",
+            "entrant2Name": "MF | Sock",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8934266,
+            "loserId": 8934306,
+            "winnerName": "MF | Sock",
+            "loserName": "SD | Georgie",
+            "bracketName": "Bracket",
+            "bracketId": 1642433,
+            "entrant1Players": [
+                {
+                    "playerId": 1236617,
+                    "playerTag": "Georgie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 43156279,
+            "entrant1Id": 8934266,
+            "entrant2Id": 8941772,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "Mo $",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8941772,
+            "loserId": 8934266,
+            "winnerName": "Mo $",
+            "loserName": "MF | Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1642433,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 33655,
+                    "playerTag": "Mo $"
+                }
+            ]
+        },
+        {
+            "id": 43156387,
+            "entrant1Id": 8934266,
+            "entrant2Id": 8939685,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "Cog",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8934266,
+            "loserId": 8939685,
+            "winnerName": "MF | Sock",
+            "loserName": "Cog",
+            "bracketName": "Bracket",
+            "bracketId": 1642433,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2568810,
+                    "playerTag": "Cog"
+                }
+            ]
+        },
+        {
+            "id": 42977228,
+            "entrant1Id": 8899998,
+            "entrant2Id": 8898246,
+            "entrant1Name": "Westballz",
+            "entrant2Name": "MF | Sock",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8899998,
+            "loserId": 8898246,
+            "winnerName": "Westballz",
+            "loserName": "MF | Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 1008,
+                    "playerTag": "Westballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 42977226,
+            "entrant1Id": 8898246,
+            "entrant2Id": 8899499,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "BZ | Asashi",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8898246,
+            "loserId": 8899499,
+            "winnerName": "MF | Sock",
+            "loserName": "BZ | Asashi",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48850,
+                    "playerTag": "Asashi"
+                }
+            ]
+        },
+        {
+            "id": 42977223,
+            "entrant1Id": 8897861,
+            "entrant2Id": 8898246,
+            "entrant1Name": "Casper",
+            "entrant2Name": "MF | Sock",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8898246,
+            "loserId": 8897861,
+            "winnerName": "MF | Sock",
+            "loserName": "Casper",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 144268,
+                    "playerTag": "Casper"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 42977219,
+            "entrant1Id": 8898246,
+            "entrant2Id": 8888929,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "BDC | PhDeeznuts",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8898246,
+            "loserId": 8888929,
+            "winnerName": "MF | Sock",
+            "loserName": "BDC | PhDeeznuts",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15563,
+                    "playerTag": "PhDeeznuts"
+                }
+            ]
+        },
+        {
+            "id": 42977095,
+            "entrant1Id": 8900334,
+            "entrant2Id": 8898246,
+            "entrant1Name": "SD | Android 0",
+            "entrant2Name": "MF | Sock",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8900334,
+            "loserId": 8898246,
+            "winnerName": "SD | Android 0",
+            "loserName": "MF | Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 42977213,
+            "entrant1Id": 8898246,
+            "entrant2Id": 8898249,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "119 | Velparia Fan",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8898246,
+            "loserId": 8898249,
+            "winnerName": "MF | Sock",
+            "loserName": "119 | Velparia Fan",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21405,
+                    "playerTag": "Fire"
+                }
+            ]
+        },
+        {
+            "id": 42977087,
+            "entrant1Id": 8898246,
+            "entrant2Id": 8898854,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "YB | BasedFox",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8898246,
+            "loserId": 8898854,
+            "winnerName": "MF | Sock",
+            "loserName": "YB | BasedFox",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6161,
+                    "playerTag": "BasedFox"
+                }
+            ]
+        },
+        {
+            "id": 42977070,
+            "entrant1Id": 8898246,
+            "entrant2Id": 8899497,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "FredOG",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8898246,
+            "loserId": 8899497,
+            "winnerName": "MF | Sock",
+            "loserName": "FredOG",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 325203,
+                    "playerTag": "FredOG"
+                }
+            ]
+        },
+        {
+            "id": 40620322,
+            "entrant1Id": 4788959,
+            "entrant2Id": 4827052,
+            "entrant1Name": "Dr. Lame",
+            "entrant2Name": "WAS | Sock",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4788959,
+            "loserId": 4827052,
+            "winnerName": "Dr. Lame",
+            "loserName": "WAS | Sock",
+            "bracketName": "Pools",
+            "bracketId": 1578730,
+            "entrant1Players": [
+                {
+                    "playerId": 103305,
+                    "playerTag": "Dr. Lame"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 675354,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 40620318,
+            "entrant1Id": 4827052,
+            "entrant2Id": 8281935,
+            "entrant1Name": "WAS | Sock",
+            "entrant2Name": "Covenant | BBQ",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 4827052,
+            "loserId": 8281935,
+            "winnerName": "WAS | Sock",
+            "loserName": "Covenant | BBQ",
+            "bracketName": "Pools",
+            "bracketId": 1578730,
+            "entrant1Players": [
+                {
+                    "playerId": 675354,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 985453,
+                    "playerTag": "BBQ"
+                }
+            ]
+        },
+        {
+            "id": 40620251,
+            "entrant1Id": 8232461,
+            "entrant2Id": 4827052,
+            "entrant1Name": "msft | s2b",
+            "entrant2Name": "WAS | Sock",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8232461,
+            "loserId": 4827052,
+            "winnerName": "msft | s2b",
+            "loserName": "WAS | Sock",
+            "bracketName": "Pools",
+            "bracketId": 1578730,
+            "entrant1Players": [
+                {
+                    "playerId": 3599,
+                    "playerTag": "s2b"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 675354,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 43427277,
+            "entrant1Id": 9012142,
+            "entrant2Id": 9012134,
+            "entrant1Name": "Sock",
+            "entrant2Name": "deft",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 9012134,
+            "loserId": 9012142,
+            "winnerName": "deft",
+            "loserName": "Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1644695,
+            "entrant1Players": [
+                {
+                    "playerId": 126829,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2219337,
+                    "playerTag": "deft"
+                }
+            ]
+        },
+        {
+            "id": 43427151,
+            "entrant1Id": 9012059,
+            "entrant2Id": 9012142,
+            "entrant1Name": "SquirtlSquad",
+            "entrant2Name": "Sock",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 9012059,
+            "loserId": 9012142,
+            "winnerName": "SquirtlSquad",
+            "loserName": "Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1644695,
+            "entrant1Players": [
+                {
+                    "playerId": 227242,
+                    "playerTag": "SquirtlSquad"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 126829,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 43427265,
+            "entrant1Id": 9012142,
+            "entrant2Id": 9012076,
+            "entrant1Name": "Sock",
+            "entrant2Name": "Krohnos",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 9012142,
+            "loserId": 9012076,
+            "winnerName": "Sock",
+            "loserName": "Krohnos",
+            "bracketName": "Bracket",
+            "bracketId": 1644695,
+            "entrant1Players": [
+                {
+                    "playerId": 126829,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 525596,
+                    "playerTag": "Krohnos"
+                }
+            ]
+        },
+        {
+            "id": 43427127,
+            "entrant1Id": 9012142,
+            "entrant2Id": 9012145,
+            "entrant1Name": "Sock",
+            "entrant2Name": "3301",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 9012142,
+            "loserId": 9012145,
+            "winnerName": "Sock",
+            "loserName": "3301",
+            "bracketName": "Bracket",
+            "bracketId": 1644695,
+            "entrant1Players": [
+                {
+                    "playerId": 126829,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2546972,
+                    "playerTag": "3301"
+                }
+            ]
+        },
+        {
+            "id": 42504065,
+            "entrant1Id": 8597212,
+            "entrant2Id": 8649830,
+            "entrant1Name": "Sock",
+            "entrant2Name": "MC",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8597212,
+            "loserId": 8649830,
+            "winnerName": "Sock",
+            "loserName": "MC",
+            "bracketName": "Bracket",
+            "bracketId": 1607442,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 25675,
+                    "playerTag": "MC"
+                }
+            ]
+        },
+        {
+            "id": 42504064,
+            "entrant1Id": 8649830,
+            "entrant2Id": 8597212,
+            "entrant1Name": "MC",
+            "entrant2Name": "Sock",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8597212,
+            "loserId": 8649830,
+            "winnerName": "Sock",
+            "loserName": "MC",
+            "bracketName": "Bracket",
+            "bracketId": 1607442,
+            "entrant1Players": [
+                {
+                    "playerId": 25675,
+                    "playerTag": "MC"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 42504063,
+            "entrant1Id": 8597212,
+            "entrant2Id": 8779325,
+            "entrant1Name": "Sock",
+            "entrant2Name": "McCloud",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8597212,
+            "loserId": 8779325,
+            "winnerName": "Sock",
+            "loserName": "McCloud",
+            "bracketName": "Bracket",
+            "bracketId": 1607442,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 961268,
+                    "playerTag": "McCloud"
+                }
+            ]
+        },
+        {
+            "id": 42504060,
+            "entrant1Id": 8597212,
+            "entrant2Id": 8704843,
+            "entrant1Name": "Sock",
+            "entrant2Name": "Skip",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8597212,
+            "loserId": 8704843,
+            "winnerName": "Sock",
+            "loserName": "Skip",
+            "bracketName": "Bracket",
+            "bracketId": 1607442,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 63425,
+                    "playerTag": "Skip"
+                }
+            ]
+        },
+        {
+            "id": 42504054,
+            "entrant1Id": 8597212,
+            "entrant2Id": 8612295,
+            "entrant1Name": "Sock",
+            "entrant2Name": "1CD | Phosphate",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8597212,
+            "loserId": 8612295,
+            "winnerName": "Sock",
+            "loserName": "1CD | Phosphate",
+            "bracketName": "Bracket",
+            "bracketId": 1607442,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 635146,
+                    "playerTag": "Phosphate"
+                }
+            ]
+        },
+        {
+            "id": 42504042,
+            "entrant1Id": 8597212,
+            "entrant2Id": 8628144,
+            "entrant1Name": "Sock",
+            "entrant2Name": "kaiko",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8597212,
+            "loserId": 8628144,
+            "winnerName": "Sock",
+            "loserName": "kaiko",
+            "bracketName": "Bracket",
+            "bracketId": 1607442,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2066031,
+                    "playerTag": "kaiko"
+                }
+            ]
+        },
+        {
+            "id": 41787412,
+            "entrant1Id": 8580482,
+            "entrant2Id": 8619598,
+            "entrant1Name": "Sock",
+            "entrant2Name": "McCloud",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8619598,
+            "loserId": 8580482,
+            "winnerName": "McCloud",
+            "loserName": "Sock",
+            "bracketName": "Top 8",
+            "bracketId": 1605773,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 961268,
+                    "playerTag": "McCloud"
+                }
+            ]
+        },
+        {
+            "id": 41787413,
+            "entrant1Id": 8619598,
+            "entrant2Id": 8580482,
+            "entrant1Name": "McCloud",
+            "entrant2Name": "Sock",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8619598,
+            "loserId": 8580482,
+            "winnerName": "McCloud",
+            "loserName": "Sock",
+            "bracketName": "Top 8",
+            "bracketId": 1605773,
+            "entrant1Players": [
+                {
+                    "playerId": 961268,
+                    "playerTag": "McCloud"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 41787411,
+            "entrant1Id": 8580482,
+            "entrant2Id": 8619598,
+            "entrant1Name": "Sock",
+            "entrant2Name": "McCloud",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8580482,
+            "loserId": 8619598,
+            "winnerName": "Sock",
+            "loserName": "McCloud",
+            "bracketName": "Top 8",
+            "bracketId": 1605773,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 961268,
+                    "playerTag": "McCloud"
+                }
+            ]
+        },
+        {
+            "id": 41787409,
+            "entrant1Id": 8580482,
+            "entrant2Id": 8619611,
+            "entrant1Name": "Sock",
+            "entrant2Name": "Rek",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8580482,
+            "loserId": 8619611,
+            "winnerName": "Sock",
+            "loserName": "Rek",
+            "bracketName": "Top 8",
+            "bracketId": 1605773,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 352029,
+                    "playerTag": "Rek"
+                }
+            ]
+        },
+        {
+            "id": 41786882,
+            "entrant1Id": 8619604,
+            "entrant2Id": 8580482,
+            "entrant1Name": "PUMP | Caza",
+            "entrant2Name": "Sock",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8580482,
+            "loserId": 8619604,
+            "winnerName": "Sock",
+            "loserName": "PUMP | Caza",
+            "bracketName": "Ladder Bracket",
+            "bracketId": 1605772,
+            "entrant1Players": [
+                {
+                    "playerId": 2275205,
+                    "playerTag": "Caza"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 41786925,
+            "entrant1Id": 8580482,
+            "entrant2Id": 8581392,
+            "entrant1Name": "Sock",
+            "entrant2Name": "AICOAS | Goodie",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8580482,
+            "loserId": 8581392,
+            "winnerName": "Sock",
+            "loserName": "AICOAS | Goodie",
+            "bracketName": "Ladder Bracket",
+            "bracketId": 1605772,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1164314,
+                    "playerTag": "Goodie"
+                }
+            ]
+        },
+        {
+            "id": 41787283,
+            "entrant1Id": 8580482,
+            "entrant2Id": 8619705,
+            "entrant1Name": "Sock",
+            "entrant2Name": "MM | Din",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8580482,
+            "loserId": 8619705,
+            "winnerName": "Sock",
+            "loserName": "MM | Din",
+            "bracketName": "Ladder Bracket",
+            "bracketId": 1605772,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 148745,
+                    "playerTag": "Din"
+                }
+            ]
+        },
+        {
+            "id": 41786891,
+            "entrant1Id": 8618316,
+            "entrant2Id": 8580482,
+            "entrant1Name": "Rick and Morty",
+            "entrant2Name": "Sock",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8580482,
+            "loserId": 8618316,
+            "winnerName": "Sock",
+            "loserName": "Rick and Morty",
+            "bracketName": "Ladder Bracket",
+            "bracketId": 1605772,
+            "entrant1Players": [
+                {
+                    "playerId": 2147963,
+                    "playerTag": "PersonOfTheYearElonMusk"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 41787301,
+            "entrant1Id": 8580482,
+            "entrant2Id": 8580947,
+            "entrant1Name": "Sock",
+            "entrant2Name": "EMO | Dekar",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8580482,
+            "loserId": 8580947,
+            "winnerName": "Sock",
+            "loserName": "EMO | Dekar",
+            "bracketName": "Ladder Bracket",
+            "bracketId": 1605772,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16128,
+                    "playerTag": "Dekar"
+                }
+            ]
+        },
+        {
+            "id": 41786904,
+            "entrant1Id": 8580482,
+            "entrant2Id": 8619486,
+            "entrant1Name": "Sock",
+            "entrant2Name": "MM | Cailan",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8580482,
+            "loserId": 8619486,
+            "winnerName": "Sock",
+            "loserName": "MM | Cailan",
+            "bracketName": "Ladder Bracket",
+            "bracketId": 1605772,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 39018,
+                    "playerTag": "Cailan"
+                }
+            ]
+        },
+        {
+            "id": 40733655,
+            "entrant1Id": 8345549,
+            "entrant2Id": 8338610,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "McCloud",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8345549,
+            "loserId": 8338610,
+            "winnerName": "OVERT | Sock",
+            "loserName": "McCloud",
+            "bracketName": "Top 8",
+            "bracketId": 1580125,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 961268,
+                    "playerTag": "McCloud"
+                }
+            ]
+        },
+        {
+            "id": 40733654,
+            "entrant1Id": 8345549,
+            "entrant2Id": 8338610,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "McCloud",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8345549,
+            "loserId": 8338610,
+            "winnerName": "OVERT | Sock",
+            "loserName": "McCloud",
+            "bracketName": "Top 8",
+            "bracketId": 1580125,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 961268,
+                    "playerTag": "McCloud"
+                }
+            ]
+        },
+        {
+            "id": 40733652,
+            "entrant1Id": 8345549,
+            "entrant2Id": 8345722,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "melodiic",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8345549,
+            "loserId": 8345722,
+            "winnerName": "OVERT | Sock",
+            "loserName": "melodiic",
+            "bracketName": "Top 8",
+            "bracketId": 1580125,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 536588,
+                    "playerTag": "melodiic"
+                }
+            ]
+        },
+        {
+            "id": 40733103,
+            "entrant1Id": 8345549,
+            "entrant2Id": 8345882,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "MM | Cailan",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8345549,
+            "loserId": 8345882,
+            "winnerName": "OVERT | Sock",
+            "loserName": "MM | Cailan",
+            "bracketName": "Ladder Bracket",
+            "bracketId": 1580124,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 39018,
+                    "playerTag": "Cailan"
+                }
+            ]
+        },
+        {
+            "id": 40732932,
+            "entrant1Id": 8345711,
+            "entrant2Id": 8345549,
+            "entrant1Name": "Spinal",
+            "entrant2Name": "OVERT | Sock",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8345549,
+            "loserId": 8345711,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Spinal",
+            "bracketName": "Ladder Bracket",
+            "bracketId": 1580124,
+            "entrant1Players": [
+                {
+                    "playerId": 2410902,
+                    "playerTag": "Spinal"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 40733035,
+            "entrant1Id": 8345549,
+            "entrant2Id": 8345803,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Oceanman",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8345549,
+            "loserId": 8345803,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Oceanman",
+            "bracketName": "Ladder Bracket",
+            "bracketId": 1580124,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 576776,
+                    "playerTag": "Oceanman"
+                }
+            ]
+        },
+        {
+            "id": 40733053,
+            "entrant1Id": 8338610,
+            "entrant2Id": 8345549,
+            "entrant1Name": "McCloud",
+            "entrant2Name": "OVERT | Sock",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8338610,
+            "loserId": 8345549,
+            "winnerName": "McCloud",
+            "loserName": "OVERT | Sock",
+            "bracketName": "Ladder Bracket",
+            "bracketId": 1580124,
+            "entrant1Players": [
+                {
+                    "playerId": 961268,
+                    "playerTag": "McCloud"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 40733078,
+            "entrant1Id": 8345549,
+            "entrant2Id": 8322016,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "hori",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8345549,
+            "loserId": 8322016,
+            "winnerName": "OVERT | Sock",
+            "loserName": "hori",
+            "bracketName": "Ladder Bracket",
+            "bracketId": 1580124,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1124794,
+                    "playerTag": "hori"
+                }
+            ]
+        },
+        {
+            "id": 40733340,
+            "entrant1Id": 8345549,
+            "entrant2Id": 8344467,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Chib",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8345549,
+            "loserId": 8344467,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Chib",
+            "bracketName": "Ladder Bracket",
+            "bracketId": 1580124,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1620263,
+                    "playerTag": "Chib"
+                }
+            ]
+        },
+        {
+            "id": 40733012,
+            "entrant1Id": 8345611,
+            "entrant2Id": 8345549,
+            "entrant1Name": "Hoppalot22",
+            "entrant2Name": "OVERT | Sock",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8345549,
+            "loserId": 8345611,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Hoppalot22",
+            "bracketName": "Ladder Bracket",
+            "bracketId": 1580124,
+            "entrant1Players": [
+                {
+                    "playerId": 38970,
+                    "playerTag": "Hoppalot22"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 40733114,
+            "entrant1Id": 8339302,
+            "entrant2Id": 8345549,
+            "entrant1Name": "JNuts | The Count of Monte Carlo",
+            "entrant2Name": "OVERT | Sock",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8345549,
+            "loserId": 8339302,
+            "winnerName": "OVERT | Sock",
+            "loserName": "JNuts | The Count of Monte Carlo",
+            "bracketName": "Ladder Bracket",
+            "bracketId": 1580124,
+            "entrant1Players": [
+                {
+                    "playerId": 25652,
+                    "playerTag": "JNuts"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 40733131,
+            "entrant1Id": 8345549,
+            "entrant2Id": 8345722,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "melodiic",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8345549,
+            "loserId": 8345722,
+            "winnerName": "OVERT | Sock",
+            "loserName": "melodiic",
+            "bracketName": "Ladder Bracket",
+            "bracketId": 1580124,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 536588,
+                    "playerTag": "melodiic"
+                }
+            ]
+        },
+        {
+            "id": 40164820,
+            "entrant1Id": 8195900,
+            "entrant2Id": 8182444,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "AICOAS | Goodie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8195900,
+            "loserId": 8182444,
+            "winnerName": "OVERT | Sock",
+            "loserName": "AICOAS | Goodie",
+            "bracketName": "Bracket",
+            "bracketId": 1563358,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1164314,
+                    "playerTag": "Goodie"
+                }
+            ]
+        },
+        {
+            "id": 40164817,
+            "entrant1Id": 8195900,
+            "entrant2Id": 8192936,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Rek",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8195900,
+            "loserId": 8192936,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Rek",
+            "bracketName": "Bracket",
+            "bracketId": 1563358,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 352029,
+                    "playerTag": "Rek"
+                }
+            ]
+        },
+        {
+            "id": 40164813,
+            "entrant1Id": 8195900,
+            "entrant2Id": 8195538,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Lackss",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8195900,
+            "loserId": 8195538,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Lackss",
+            "bracketName": "Bracket",
+            "bracketId": 1563358,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1847536,
+                    "playerTag": "Lackss"
+                }
+            ]
+        },
+        {
+            "id": 40164805,
+            "entrant1Id": 8195900,
+            "entrant2Id": 8195863,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Sharpy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8195900,
+            "loserId": 8195863,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Sharpy",
+            "bracketName": "Bracket",
+            "bracketId": 1563358,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31517,
+                    "playerTag": "Sharpy"
+                }
+            ]
+        },
+        {
+            "id": 40164789,
+            "entrant1Id": 8195900,
+            "entrant2Id": 8195874,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Double Harold",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8195900,
+            "loserId": 8195874,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Double Harold",
+            "bracketName": "Bracket",
+            "bracketId": 1563358,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 852892,
+                    "playerTag": "Double Harold"
+                }
+            ]
+        },
+        {
+            "id": 40078583,
+            "entrant1Id": 8130505,
+            "entrant2Id": 8164796,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Davox22",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8130505,
+            "loserId": 8164796,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Davox22",
+            "bracketName": "Bracket",
+            "bracketId": 1554560,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 303522,
+                    "playerTag": "Davox22"
+                }
+            ]
+        },
+        {
+            "id": 40078582,
+            "entrant1Id": 8164796,
+            "entrant2Id": 8130505,
+            "entrant1Name": "Davox22",
+            "entrant2Name": "OVERT | Sock",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8130505,
+            "loserId": 8164796,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Davox22",
+            "bracketName": "Bracket",
+            "bracketId": 1554560,
+            "entrant1Players": [
+                {
+                    "playerId": 303522,
+                    "playerTag": "Davox22"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 40078581,
+            "entrant1Id": 8130505,
+            "entrant2Id": 8169248,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "GnomeDome",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8130505,
+            "loserId": 8169248,
+            "winnerName": "OVERT | Sock",
+            "loserName": "GnomeDome",
+            "bracketName": "Bracket",
+            "bracketId": 1554560,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1735479,
+                    "playerTag": "GnomeDome"
+                }
+            ]
+        },
+        {
+            "id": 40078578,
+            "entrant1Id": 8130505,
+            "entrant2Id": 8081596,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "AICOAS | Goodie",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8130505,
+            "loserId": 8081596,
+            "winnerName": "OVERT | Sock",
+            "loserName": "AICOAS | Goodie",
+            "bracketName": "Bracket",
+            "bracketId": 1554560,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1164314,
+                    "playerTag": "Goodie"
+                }
+            ]
+        },
+        {
+            "id": 40078572,
+            "entrant1Id": 8130505,
+            "entrant2Id": 8144851,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Aluf",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8130505,
+            "loserId": 8144851,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Aluf",
+            "bracketName": "Bracket",
+            "bracketId": 1554560,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 336770,
+                    "playerTag": "Aluf"
+                }
+            ]
+        },
+        {
+            "id": 40078560,
+            "entrant1Id": 8130505,
+            "entrant2Id": 8087618,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Raw Goat Milk",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8130505,
+            "loserId": 8087618,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Raw Goat Milk",
+            "bracketName": "Bracket",
+            "bracketId": 1554560,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2168886,
+                    "playerTag": "Nava"
+                }
+            ]
+        },
+        {
+            "id": 40078536,
+            "entrant1Id": 8130505,
+            "entrant2Id": 8168955,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Kerbanut",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8130505,
+            "loserId": 8168955,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Kerbanut",
+            "bracketName": "Bracket",
+            "bracketId": 1554560,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2131071,
+                    "playerTag": "Kerbanut"
+                }
+            ]
+        },
+        {
+            "id": 39883819,
+            "entrant1Id": 8123114,
+            "entrant2Id": 8117120,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "OVERT | Sock",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8123114,
+            "loserId": 8117120,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "OVERT | Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1555860,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 39883818,
+            "entrant1Id": 8123114,
+            "entrant2Id": 8117120,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "OVERT | Sock",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8123114,
+            "loserId": 8117120,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "OVERT | Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1555860,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 39883946,
+            "entrant1Id": 8117120,
+            "entrant2Id": 8102607,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "AICOAS | Goodie",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8117120,
+            "loserId": 8102607,
+            "winnerName": "OVERT | Sock",
+            "loserName": "AICOAS | Goodie",
+            "bracketName": "Bracket",
+            "bracketId": 1555860,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1164314,
+                    "playerTag": "Goodie"
+                }
+            ]
+        },
+        {
+            "id": 39883817,
+            "entrant1Id": 8117120,
+            "entrant2Id": 8123542,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Davox22",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8117120,
+            "loserId": 8123542,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Davox22",
+            "bracketName": "Bracket",
+            "bracketId": 1555860,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 303522,
+                    "playerTag": "Davox22"
+                }
+            ]
+        },
+        {
+            "id": 39883814,
+            "entrant1Id": 8117120,
+            "entrant2Id": 8123108,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "MM | DomHynes",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8117120,
+            "loserId": 8123108,
+            "winnerName": "OVERT | Sock",
+            "loserName": "MM | DomHynes",
+            "bracketName": "Bracket",
+            "bracketId": 1555860,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11135,
+                    "playerTag": "DomHynes"
+                }
+            ]
+        },
+        {
+            "id": 39883808,
+            "entrant1Id": 8117120,
+            "entrant2Id": 8117023,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Raw Goat Milk",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8117120,
+            "loserId": 8117023,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Raw Goat Milk",
+            "bracketName": "Bracket",
+            "bracketId": 1555860,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2168886,
+                    "playerTag": "Nava"
+                }
+            ]
+        },
+        {
+            "id": 39883796,
+            "entrant1Id": 8117120,
+            "entrant2Id": 8123764,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "OB",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8117120,
+            "loserId": 8123764,
+            "winnerName": "OVERT | Sock",
+            "loserName": "OB",
+            "bracketName": "Bracket",
+            "bracketId": 1555860,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2411874,
+                    "playerTag": "OB"
+                }
+            ]
+        },
+        {
+            "id": 39783180,
+            "entrant1Id": 8081774,
+            "entrant2Id": 8081852,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "AICOAS | Goodie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081774,
+            "loserId": 8081852,
+            "winnerName": "OVERT | Sock",
+            "loserName": "AICOAS | Goodie",
+            "bracketName": "Bracket",
+            "bracketId": 1554604,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1164314,
+                    "playerTag": "Goodie"
+                }
+            ]
+        },
+        {
+            "id": 39783179,
+            "entrant1Id": 8081774,
+            "entrant2Id": 8081973,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Lackss",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081774,
+            "loserId": 8081973,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Lackss",
+            "bracketName": "Bracket",
+            "bracketId": 1554604,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1847536,
+                    "playerTag": "Lackss"
+                }
+            ]
+        },
+        {
+            "id": 39783177,
+            "entrant1Id": 8081774,
+            "entrant2Id": 8081852,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "AICOAS | Goodie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081774,
+            "loserId": 8081852,
+            "winnerName": "OVERT | Sock",
+            "loserName": "AICOAS | Goodie",
+            "bracketName": "Bracket",
+            "bracketId": 1554604,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1164314,
+                    "playerTag": "Goodie"
+                }
+            ]
+        },
+        {
+            "id": 39783173,
+            "entrant1Id": 8081774,
+            "entrant2Id": 8102482,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "sumirekt",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8081774,
+            "loserId": 8102482,
+            "winnerName": "OVERT | Sock",
+            "loserName": "sumirekt",
+            "bracketName": "Bracket",
+            "bracketId": 1554604,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 452271,
+                    "playerTag": "sumirekt"
+                }
+            ]
+        },
+        {
+            "id": 39783165,
+            "entrant1Id": 8081774,
+            "entrant2Id": 8083440,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Redux",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081774,
+            "loserId": 8083440,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Redux",
+            "bracketName": "Bracket",
+            "bracketId": 1554604,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 704069,
+                    "playerTag": "Redux"
+                }
+            ]
+        },
+        {
+            "id": 39783149,
+            "entrant1Id": 8081774,
+            "entrant2Id": 8100788,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Garfield",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081774,
+            "loserId": 8100788,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Garfield",
+            "bracketName": "Bracket",
+            "bracketId": 1554604,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2064069,
+                    "playerTag": "Garfield"
+                }
+            ]
+        },
+        {
+            "id": 39395688,
+            "entrant1Id": 7996498,
+            "entrant2Id": 7996514,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "dice | Nangs",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7996514,
+            "loserId": 7996498,
+            "winnerName": "dice | Nangs",
+            "loserName": "OVERT | Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1547903,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27645,
+                    "playerTag": "Nangs"
+                }
+            ]
+        },
+        {
+            "id": 39395689,
+            "entrant1Id": 7996514,
+            "entrant2Id": 7996498,
+            "entrant1Name": "dice | Nangs",
+            "entrant2Name": "OVERT | Sock",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7996498,
+            "loserId": 7996514,
+            "winnerName": "OVERT | Sock",
+            "loserName": "dice | Nangs",
+            "bracketName": "Bracket",
+            "bracketId": 1547903,
+            "entrant1Players": [
+                {
+                    "playerId": 27645,
+                    "playerTag": "Nangs"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 39395687,
+            "entrant1Id": 7996498,
+            "entrant2Id": 7996514,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "dice | Nangs",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7996498,
+            "loserId": 7996514,
+            "winnerName": "OVERT | Sock",
+            "loserName": "dice | Nangs",
+            "bracketName": "Bracket",
+            "bracketId": 1547903,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27645,
+                    "playerTag": "Nangs"
+                }
+            ]
+        },
+        {
+            "id": 39395685,
+            "entrant1Id": 7996498,
+            "entrant2Id": 8009710,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "MM | Cailan",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7996498,
+            "loserId": 8009710,
+            "winnerName": "OVERT | Sock",
+            "loserName": "MM | Cailan",
+            "bracketName": "Bracket",
+            "bracketId": 1547903,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 39018,
+                    "playerTag": "Cailan"
+                }
+            ]
+        },
+        {
+            "id": 39395681,
+            "entrant1Id": 7996498,
+            "entrant2Id": 7997335,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Emps",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7996498,
+            "loserId": 7997335,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Emps",
+            "bracketName": "Bracket",
+            "bracketId": 1547903,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 572416,
+                    "playerTag": "Emps"
+                }
+            ]
+        },
+        {
+            "id": 39395673,
+            "entrant1Id": 7996498,
+            "entrant2Id": 8009694,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Zorsy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7996498,
+            "loserId": 8009694,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Zorsy",
+            "bracketName": "Bracket",
+            "bracketId": 1547903,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1944821,
+                    "playerTag": "Zorsy"
+                }
+            ]
+        },
+        {
+            "id": 39395657,
+            "entrant1Id": 7996498,
+            "entrant2Id": 8003806,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Double Harold",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7996498,
+            "loserId": 8003806,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Double Harold",
+            "bracketName": "Bracket",
+            "bracketId": 1547903,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 852892,
+                    "playerTag": "Double Harold"
+                }
+            ]
+        },
+        {
+            "id": 39269207,
+            "entrant1Id": 7975443,
+            "entrant2Id": 7975391,
+            "entrant1Name": "OVERT | Joshman",
+            "entrant2Name": "OVERT | Sock",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7975443,
+            "loserId": 7975391,
+            "winnerName": "OVERT | Joshman",
+            "loserName": "OVERT | Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1541734,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 39269270,
+            "entrant1Id": 7975437,
+            "entrant2Id": 7975391,
+            "entrant1Name": "Lackss",
+            "entrant2Name": "OVERT | Sock",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7975391,
+            "loserId": 7975437,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Lackss",
+            "bracketName": "Bracket",
+            "bracketId": 1541734,
+            "entrant1Players": [
+                {
+                    "playerId": 1847536,
+                    "playerTag": "Lackss"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 39269269,
+            "entrant1Id": 7955073,
+            "entrant2Id": 7975391,
+            "entrant1Name": "MD | Aaron",
+            "entrant2Name": "OVERT | Sock",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7975391,
+            "loserId": 7955073,
+            "winnerName": "OVERT | Sock",
+            "loserName": "MD | Aaron",
+            "bracketName": "Bracket",
+            "bracketId": 1541734,
+            "entrant1Players": [
+                {
+                    "playerId": 1397768,
+                    "playerTag": "aaron228375"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 39269268,
+            "entrant1Id": 7975670,
+            "entrant2Id": 7975391,
+            "entrant1Name": "AICOAS | Goodie",
+            "entrant2Name": "OVERT | Sock",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7975391,
+            "loserId": 7975670,
+            "winnerName": "OVERT | Sock",
+            "loserName": "AICOAS | Goodie",
+            "bracketName": "Bracket",
+            "bracketId": 1541734,
+            "entrant1Players": [
+                {
+                    "playerId": 1164314,
+                    "playerTag": "Goodie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 39269266,
+            "entrant1Id": 7969543,
+            "entrant2Id": 7975391,
+            "entrant1Name": "mylo",
+            "entrant2Name": "OVERT | Sock",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7975391,
+            "loserId": 7969543,
+            "winnerName": "OVERT | Sock",
+            "loserName": "mylo",
+            "bracketName": "Bracket",
+            "bracketId": 1541734,
+            "entrant1Players": [
+                {
+                    "playerId": 2363148,
+                    "playerTag": "mylo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 39269202,
+            "entrant1Id": 7975391,
+            "entrant2Id": 7936511,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Doritoes5",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7936511,
+            "loserId": 7975391,
+            "winnerName": "Doritoes5",
+            "loserName": "OVERT | Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1541734,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2119613,
+                    "playerTag": "Doritoes5"
+                }
+            ]
+        },
+        {
+            "id": 39269264,
+            "entrant1Id": 7975391,
+            "entrant2Id": 7975412,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Pierce",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7975391,
+            "loserId": 7975412,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Pierce",
+            "bracketName": "Bracket",
+            "bracketId": 1541734,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1005312,
+                    "playerTag": "Pierce"
+                }
+            ]
+        },
+        {
+            "id": 39269196,
+            "entrant1Id": 7975391,
+            "entrant2Id": 7942250,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Paul",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7975391,
+            "loserId": 7942250,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Paul",
+            "bracketName": "Bracket",
+            "bracketId": 1541734,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 67147,
+                    "playerTag": "Paul"
+                }
+            ]
+        },
+        {
+            "id": 39032226,
+            "entrant1Id": 7893867,
+            "entrant2Id": 7915290,
+            "entrant1Name": "Sock",
+            "entrant2Name": "Ken 2",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7915290,
+            "loserId": 7893867,
+            "winnerName": "Ken 2",
+            "loserName": "Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1539293,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 71462,
+                    "playerTag": "2 Uosdwis 2 Dewoh"
+                }
+            ]
+        },
+        {
+            "id": 39032227,
+            "entrant1Id": 7915290,
+            "entrant2Id": 7893867,
+            "entrant1Name": "Ken 2",
+            "entrant2Name": "Sock",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7893867,
+            "loserId": 7915290,
+            "winnerName": "Sock",
+            "loserName": "Ken 2",
+            "bracketName": "Bracket",
+            "bracketId": 1539293,
+            "entrant1Players": [
+                {
+                    "playerId": 71462,
+                    "playerTag": "2 Uosdwis 2 Dewoh"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 39032225,
+            "entrant1Id": 7893867,
+            "entrant2Id": 7915290,
+            "entrant1Name": "Sock",
+            "entrant2Name": "Ken 2",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7893867,
+            "loserId": 7915290,
+            "winnerName": "Sock",
+            "loserName": "Ken 2",
+            "bracketName": "Bracket",
+            "bracketId": 1539293,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 71462,
+                    "playerTag": "2 Uosdwis 2 Dewoh"
+                }
+            ]
+        },
+        {
+            "id": 39032223,
+            "entrant1Id": 7893867,
+            "entrant2Id": 7899024,
+            "entrant1Name": "Sock",
+            "entrant2Name": "Muscat",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7893867,
+            "loserId": 7899024,
+            "winnerName": "Sock",
+            "loserName": "Muscat",
+            "bracketName": "Bracket",
+            "bracketId": 1539293,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 291583,
+                    "playerTag": "Muscat"
+                }
+            ]
+        },
+        {
+            "id": 39032219,
+            "entrant1Id": 7893867,
+            "entrant2Id": 7915219,
+            "entrant1Name": "Sock",
+            "entrant2Name": "CW SA | Kaiza",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7893867,
+            "loserId": 7915219,
+            "winnerName": "Sock",
+            "loserName": "CW SA | Kaiza",
+            "bracketName": "Bracket",
+            "bracketId": 1539293,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30542,
+                    "playerTag": "Kaiza"
+                }
+            ]
+        },
+        {
+            "id": 39032211,
+            "entrant1Id": 7893867,
+            "entrant2Id": 7915195,
+            "entrant1Name": "Sock",
+            "entrant2Name": "XP2000",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7893867,
+            "loserId": 7915195,
+            "winnerName": "Sock",
+            "loserName": "XP2000",
+            "bracketName": "Bracket",
+            "bracketId": 1539293,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 135677,
+                    "playerTag": "XP2000"
+                }
+            ]
+        },
+        {
+            "id": 39032195,
+            "entrant1Id": 7893867,
+            "entrant2Id": 7915102,
+            "entrant1Name": "Sock",
+            "entrant2Name": "Byron",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7893867,
+            "loserId": 7915102,
+            "winnerName": "Sock",
+            "loserName": "Byron",
+            "bracketName": "Bracket",
+            "bracketId": 1539293,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 592815,
+                    "playerTag": "Byron"
+                }
+            ]
+        },
+        {
+            "id": 38317681,
+            "entrant1Id": 7604973,
+            "entrant2Id": 7605104,
+            "entrant1Name": "Sock",
+            "entrant2Name": "GZ | Joshman",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7605104,
+            "loserId": 7604973,
+            "winnerName": "GZ | Joshman",
+            "loserName": "Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1520386,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 38317682,
+            "entrant1Id": 7605104,
+            "entrant2Id": 7604973,
+            "entrant1Name": "GZ | Joshman",
+            "entrant2Name": "Sock",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7605104,
+            "loserId": 7604973,
+            "winnerName": "GZ | Joshman",
+            "loserName": "Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1520386,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 38317680,
+            "entrant1Id": 7605769,
+            "entrant2Id": 7604973,
+            "entrant1Name": "niko",
+            "entrant2Name": "Sock",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7604973,
+            "loserId": 7605769,
+            "winnerName": "Sock",
+            "loserName": "niko",
+            "bracketName": "Bracket",
+            "bracketId": 1520386,
+            "entrant1Players": [
+                {
+                    "playerId": 26278,
+                    "playerTag": "niko"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 38317679,
+            "entrant1Id": 7604973,
+            "entrant2Id": 7591795,
+            "entrant1Name": "Sock",
+            "entrant2Name": "Yug",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7604973,
+            "loserId": 7591795,
+            "winnerName": "Sock",
+            "loserName": "Yug",
+            "bracketName": "Bracket",
+            "bracketId": 1520386,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1917822,
+                    "playerTag": "Yug"
+                }
+            ]
+        },
+        {
+            "id": 38317676,
+            "entrant1Id": 7604973,
+            "entrant2Id": 7598108,
+            "entrant1Name": "Sock",
+            "entrant2Name": "Athesies",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7604973,
+            "loserId": 7598108,
+            "winnerName": "Sock",
+            "loserName": "Athesies",
+            "bracketName": "Bracket",
+            "bracketId": 1520386,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 281059,
+                    "playerTag": "Athesies"
+                }
+            ]
+        },
+        {
+            "id": 38317670,
+            "entrant1Id": 7604973,
+            "entrant2Id": 7605914,
+            "entrant1Name": "Sock",
+            "entrant2Name": "finrei",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7604973,
+            "loserId": 7605914,
+            "winnerName": "Sock",
+            "loserName": "finrei",
+            "bracketName": "Bracket",
+            "bracketId": 1520386,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 875313,
+                    "playerTag": "Finrei"
+                }
+            ]
+        },
+        {
+            "id": 37129938,
+            "entrant1Id": 7272412,
+            "entrant2Id": 7274001,
+            "entrant1Name": "GZ | Joshman",
+            "entrant2Name": "GZ | Sock",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7272412,
+            "loserId": 7274001,
+            "winnerName": "GZ | Joshman",
+            "loserName": "GZ | Sock",
+            "bracketName": "Top 8",
+            "bracketId": 1491747,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 37128982,
+            "entrant1Id": 7274001,
+            "entrant2Id": 7291036,
+            "entrant1Name": "GZ | Sock",
+            "entrant2Name": "cammy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7274001,
+            "loserId": 7291036,
+            "winnerName": "GZ | Sock",
+            "loserName": "cammy",
+            "bracketName": "Bracket",
+            "bracketId": 1487001,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 33435,
+                    "playerTag": "cammy"
+                }
+            ]
+        },
+        {
+            "id": 37129937,
+            "entrant1Id": 7272412,
+            "entrant2Id": 7274001,
+            "entrant1Name": "GZ | Joshman",
+            "entrant2Name": "GZ | Sock",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7272412,
+            "loserId": 7274001,
+            "winnerName": "GZ | Joshman",
+            "loserName": "GZ | Sock",
+            "bracketName": "Top 8",
+            "bracketId": 1491747,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 37128976,
+            "entrant1Id": 7274001,
+            "entrant2Id": 7286452,
+            "entrant1Name": "GZ | Sock",
+            "entrant2Name": "MTS | Nikita",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7274001,
+            "loserId": 7286452,
+            "winnerName": "GZ | Sock",
+            "loserName": "MTS | Nikita",
+            "bracketName": "Bracket",
+            "bracketId": 1487001,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 758650,
+                    "playerTag": "Nikita"
+                }
+            ]
+        },
+        {
+            "id": 37129953,
+            "entrant1Id": 7274001,
+            "entrant2Id": 7262460,
+            "entrant1Name": "GZ | Sock",
+            "entrant2Name": "Jem",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7274001,
+            "loserId": 7262460,
+            "winnerName": "GZ | Sock",
+            "loserName": "Jem",
+            "bracketName": "Top 8",
+            "bracketId": 1491747,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2021465,
+                    "playerTag": "Jem"
+                }
+            ]
+        },
+        {
+            "id": 37129936,
+            "entrant1Id": 7274001,
+            "entrant2Id": 7272741,
+            "entrant1Name": "GZ | Sock",
+            "entrant2Name": "Scared",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7274001,
+            "loserId": 7272741,
+            "winnerName": "GZ | Sock",
+            "loserName": "Scared",
+            "bracketName": "Top 8",
+            "bracketId": 1491747,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 326627,
+                    "playerTag": "Scared"
+                }
+            ]
+        },
+        {
+            "id": 35704175,
+            "entrant1Id": 6944505,
+            "entrant2Id": 6943469,
+            "entrant1Name": "LGC | DonB",
+            "entrant2Name": "GZ | Sock",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6943469,
+            "loserId": 6944505,
+            "winnerName": "GZ | Sock",
+            "loserName": "LGC | DonB",
+            "bracketName": "Bracket",
+            "bracketId": 1458599,
+            "entrant1Players": [
+                {
+                    "playerId": 38789,
+                    "playerTag": "DonB"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 35704176,
+            "entrant1Id": 6943469,
+            "entrant2Id": 6944505,
+            "entrant1Name": "GZ | Sock",
+            "entrant2Name": "LGC | DonB",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6943469,
+            "loserId": 6944505,
+            "winnerName": "GZ | Sock",
+            "loserName": "LGC | DonB",
+            "bracketName": "Bracket",
+            "bracketId": 1458599,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38789,
+                    "playerTag": "DonB"
+                }
+            ]
+        },
+        {
+            "id": 35704174,
+            "entrant1Id": 6943469,
+            "entrant2Id": 6944505,
+            "entrant1Name": "GZ | Sock",
+            "entrant2Name": "LGC | DonB",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6944505,
+            "loserId": 6943469,
+            "winnerName": "LGC | DonB",
+            "loserName": "GZ | Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1458599,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38789,
+                    "playerTag": "DonB"
+                }
+            ]
+        },
+        {
+            "id": 35704302,
+            "entrant1Id": 6943469,
+            "entrant2Id": 6944532,
+            "entrant1Name": "GZ | Sock",
+            "entrant2Name": "MM | Cailan",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6943469,
+            "loserId": 6944532,
+            "winnerName": "GZ | Sock",
+            "loserName": "MM | Cailan",
+            "bracketName": "Bracket",
+            "bracketId": 1458599,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 39018,
+                    "playerTag": "Cailan"
+                }
+            ]
+        },
+        {
+            "id": 35704172,
+            "entrant1Id": 6943469,
+            "entrant2Id": 6944532,
+            "entrant1Name": "GZ | Sock",
+            "entrant2Name": "MM | Cailan",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6943469,
+            "loserId": 6944532,
+            "winnerName": "GZ | Sock",
+            "loserName": "MM | Cailan",
+            "bracketName": "Bracket",
+            "bracketId": 1458599,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 39018,
+                    "playerTag": "Cailan"
+                }
+            ]
+        },
+        {
+            "id": 35704168,
+            "entrant1Id": 6943469,
+            "entrant2Id": 6944577,
+            "entrant1Name": "GZ | Sock",
+            "entrant2Name": "sumirekt",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6943469,
+            "loserId": 6944577,
+            "winnerName": "GZ | Sock",
+            "loserName": "sumirekt",
+            "bracketName": "Bracket",
+            "bracketId": 1458599,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 452271,
+                    "playerTag": "sumirekt"
+                }
+            ]
+        },
+        {
+            "id": 35704160,
+            "entrant1Id": 6943469,
+            "entrant2Id": 6944521,
+            "entrant1Name": "GZ | Sock",
+            "entrant2Name": "saxx",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6943469,
+            "loserId": 6944521,
+            "winnerName": "GZ | Sock",
+            "loserName": "saxx",
+            "bracketName": "Bracket",
+            "bracketId": 1458599,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 513535,
+                    "playerTag": "saxx"
+                }
+            ]
+        },
+        {
+            "id": 35704144,
+            "entrant1Id": 6943469,
+            "entrant2Id": 6944225,
+            "entrant1Name": "GZ | Sock",
+            "entrant2Name": "mckhira",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6943469,
+            "loserId": 6944225,
+            "winnerName": "GZ | Sock",
+            "loserName": "mckhira",
+            "bracketName": "Bracket",
+            "bracketId": 1458599,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 28033,
+                    "playerTag": "mckhira"
+                }
+            ]
+        },
+        {
+            "id": 34941034,
+            "entrant1Id": 6744073,
+            "entrant2Id": 6744070,
+            "entrant1Name": "GZ | Sock",
+            "entrant2Name": "MC",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6744070,
+            "loserId": 6744073,
+            "winnerName": "MC",
+            "loserName": "GZ | Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1443248,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 25675,
+                    "playerTag": "MC"
+                }
+            ]
+        },
+        {
+            "id": 34941035,
+            "entrant1Id": 6744070,
+            "entrant2Id": 6744073,
+            "entrant1Name": "MC",
+            "entrant2Name": "GZ | Sock",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6744073,
+            "loserId": 6744070,
+            "winnerName": "GZ | Sock",
+            "loserName": "MC",
+            "bracketName": "Bracket",
+            "bracketId": 1443248,
+            "entrant1Players": [
+                {
+                    "playerId": 25675,
+                    "playerTag": "MC"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 34941033,
+            "entrant1Id": 6744070,
+            "entrant2Id": 6744073,
+            "entrant1Name": "MC",
+            "entrant2Name": "GZ | Sock",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6744073,
+            "loserId": 6744070,
+            "winnerName": "GZ | Sock",
+            "loserName": "MC",
+            "bracketName": "Bracket",
+            "bracketId": 1443248,
+            "entrant1Players": [
+                {
+                    "playerId": 25675,
+                    "playerTag": "MC"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 34941032,
+            "entrant1Id": 6744073,
+            "entrant2Id": 6744080,
+            "entrant1Name": "GZ | Sock",
+            "entrant2Name": "Rek",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6744073,
+            "loserId": 6744080,
+            "winnerName": "GZ | Sock",
+            "loserName": "Rek",
+            "bracketName": "Bracket",
+            "bracketId": 1443248,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 352029,
+                    "playerTag": "Rek"
+                }
+            ]
+        },
+        {
+            "id": 34941029,
+            "entrant1Id": 6744073,
+            "entrant2Id": 6744065,
+            "entrant1Name": "GZ | Sock",
+            "entrant2Name": "McCloud",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6744073,
+            "loserId": 6744065,
+            "winnerName": "GZ | Sock",
+            "loserName": "McCloud",
+            "bracketName": "Bracket",
+            "bracketId": 1443248,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 961268,
+                    "playerTag": "McCloud"
+                }
+            ]
+        },
+        {
+            "id": 34941023,
+            "entrant1Id": 6744073,
+            "entrant2Id": 6744081,
+            "entrant1Name": "GZ | Sock",
+            "entrant2Name": "Goodie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6744073,
+            "loserId": 6744081,
+            "winnerName": "GZ | Sock",
+            "loserName": "Goodie",
+            "bracketName": "Bracket",
+            "bracketId": 1443248,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1164314,
+                    "playerTag": "Goodie"
+                }
+            ]
+        },
+        {
+            "id": 42187105,
+            "entrant1Id": 8711561,
+            "entrant2Id": 8711574,
+            "entrant1Name": "Sock",
+            "entrant2Name": "Thato",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8711574,
+            "loserId": 8711561,
+            "winnerName": "Thato",
+            "loserName": "Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1618849,
+            "entrant1Players": [
+                {
+                    "playerId": 126829,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1676118,
+                    "playerTag": "Thato"
+                }
+            ]
+        },
+        {
+            "id": 42187044,
+            "entrant1Id": 8711551,
+            "entrant2Id": 8711561,
+            "entrant1Name": "Pickles",
+            "entrant2Name": "Sock",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8711551,
+            "loserId": 8711561,
+            "winnerName": "Pickles",
+            "loserName": "Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1618849,
+            "entrant1Players": [
+                {
+                    "playerId": 2393525,
+                    "playerTag": "Pickles"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 126829,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 42187098,
+            "entrant1Id": 8711561,
+            "entrant2Id": 8711647,
+            "entrant1Name": "Sock",
+            "entrant2Name": "bluerose",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8711561,
+            "loserId": 8711647,
+            "winnerName": "Sock",
+            "loserName": "bluerose",
+            "bracketName": "Bracket",
+            "bracketId": 1618849,
+            "entrant1Players": [
+                {
+                    "playerId": 126829,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2452777,
+                    "playerTag": "bluerose"
+                }
+            ]
+        },
+        {
+            "id": 42187034,
+            "entrant1Id": 8711561,
+            "entrant2Id": 8711571,
+            "entrant1Name": "Sock",
+            "entrant2Name": "Krohnos",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8711561,
+            "loserId": 8711571,
+            "winnerName": "Sock",
+            "loserName": "Krohnos",
+            "bracketName": "Bracket",
+            "bracketId": 1618849,
+            "entrant1Players": [
+                {
+                    "playerId": 126829,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 525596,
+                    "playerTag": "Krohnos"
+                }
+            ]
+        },
+        {
+            "id": 43031881,
+            "entrant1Id": 8919302,
+            "entrant2Id": 8918214,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "Rei | Leviathan",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8918214,
+            "loserId": 8919302,
+            "winnerName": "Rei | Leviathan",
+            "loserName": "MF | Sock",
+            "bracketName": "Top 8",
+            "bracketId": 1641527,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22479,
+                    "playerTag": "Rei"
+                }
+            ]
+        },
+        {
+            "id": 43031882,
+            "entrant1Id": 8918214,
+            "entrant2Id": 8919302,
+            "entrant1Name": "Rei | Leviathan",
+            "entrant2Name": "MF | Sock",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8919302,
+            "loserId": 8918214,
+            "winnerName": "MF | Sock",
+            "loserName": "Rei | Leviathan",
+            "bracketName": "Top 8",
+            "bracketId": 1641527,
+            "entrant1Players": [
+                {
+                    "playerId": 22479,
+                    "playerTag": "Rei"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 43029502,
+            "entrant1Id": 8919302,
+            "entrant2Id": 8919165,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "SIMP | SirTaco",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8919302,
+            "loserId": 8919165,
+            "winnerName": "MF | Sock",
+            "loserName": "SIMP | SirTaco",
+            "bracketName": "Bracket",
+            "bracketId": 1641526,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2086583,
+                    "playerTag": "SirTaco"
+                }
+            ]
+        },
+        {
+            "id": 43031880,
+            "entrant1Id": 8919302,
+            "entrant2Id": 8918214,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "Rei | Leviathan",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8919302,
+            "loserId": 8918214,
+            "winnerName": "MF | Sock",
+            "loserName": "Rei | Leviathan",
+            "bracketName": "Top 8",
+            "bracketId": 1641527,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22479,
+                    "playerTag": "Rei"
+                }
+            ]
+        },
+        {
+            "id": 43029494,
+            "entrant1Id": 8919302,
+            "entrant2Id": 8918319,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "Izanagi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8919302,
+            "loserId": 8918319,
+            "winnerName": "MF | Sock",
+            "loserName": "Izanagi",
+            "bracketName": "Bracket",
+            "bracketId": 1641526,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2188281,
+                    "playerTag": "Izanagi"
+                }
+            ]
+        },
+        {
+            "id": 43031878,
+            "entrant1Id": 8919302,
+            "entrant2Id": 8918836,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "Solomon",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8919302,
+            "loserId": 8918836,
+            "winnerName": "MF | Sock",
+            "loserName": "Solomon",
+            "bracketName": "Top 8",
+            "bracketId": 1641527,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4317,
+                    "playerTag": "Solomon"
+                }
+            ]
+        },
+        {
+            "id": 42962720,
+            "entrant1Id": 8893215,
+            "entrant2Id": 8893063,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "Rasec",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8893215,
+            "loserId": 8893063,
+            "winnerName": "MF | Sock",
+            "loserName": "Rasec",
+            "bracketName": "Bo5 Double Elim Singles",
+            "bracketId": 1637708,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 358739,
+                    "playerTag": "Rasec"
+                }
+            ]
+        },
+        {
+            "id": 42962719,
+            "entrant1Id": 8893215,
+            "entrant2Id": 8893063,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "Rasec",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8893215,
+            "loserId": 8893063,
+            "winnerName": "MF | Sock",
+            "loserName": "Rasec",
+            "bracketName": "Bo5 Double Elim Singles",
+            "bracketId": 1637708,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 358739,
+                    "playerTag": "Rasec"
+                }
+            ]
+        },
+        {
+            "id": 42962717,
+            "entrant1Id": 8893215,
+            "entrant2Id": 8893519,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "GhettoTastic",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8893215,
+            "loserId": 8893519,
+            "winnerName": "MF | Sock",
+            "loserName": "GhettoTastic",
+            "bracketName": "Bo5 Double Elim Singles",
+            "bracketId": 1637708,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4578,
+                    "playerTag": "GhettoTastic"
+                }
+            ]
+        },
+        {
+            "id": 42962713,
+            "entrant1Id": 8893215,
+            "entrant2Id": 8893768,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "Divine Senator Kelly",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8893215,
+            "loserId": 8893768,
+            "winnerName": "MF | Sock",
+            "loserName": "Divine Senator Kelly",
+            "bracketName": "Bo5 Double Elim Singles",
+            "bracketId": 1637708,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 41492,
+                    "playerTag": "Divine Senator Kelly"
+                }
+            ]
+        },
+        {
+            "id": 42361408,
+            "entrant1Id": 8750976,
+            "entrant2Id": 8751060,
+            "entrant1Name": "Sock",
+            "entrant2Name": "GnomeDome",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8750976,
+            "loserId": 8751060,
+            "winnerName": "Sock",
+            "loserName": "GnomeDome",
+            "bracketName": "Bracket",
+            "bracketId": 1623053,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1735479,
+                    "playerTag": "GnomeDome"
+                }
+            ]
+        },
+        {
+            "id": 42361407,
+            "entrant1Id": 8750976,
+            "entrant2Id": 8750890,
+            "entrant1Name": "Sock",
+            "entrant2Name": "McCloud",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8750976,
+            "loserId": 8750890,
+            "winnerName": "Sock",
+            "loserName": "McCloud",
+            "bracketName": "Bracket",
+            "bracketId": 1623053,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 961268,
+                    "playerTag": "McCloud"
+                }
+            ]
+        },
+        {
+            "id": 42361405,
+            "entrant1Id": 8750976,
+            "entrant2Id": 8751060,
+            "entrant1Name": "Sock",
+            "entrant2Name": "GnomeDome",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8750976,
+            "loserId": 8751060,
+            "winnerName": "Sock",
+            "loserName": "GnomeDome",
+            "bracketName": "Bracket",
+            "bracketId": 1623053,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1735479,
+                    "playerTag": "GnomeDome"
+                }
+            ]
+        },
+        {
+            "id": 42361401,
+            "entrant1Id": 8750976,
+            "entrant2Id": 8751071,
+            "entrant1Name": "Sock",
+            "entrant2Name": "MD | aaron228375",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8750976,
+            "loserId": 8751071,
+            "winnerName": "Sock",
+            "loserName": "MD | aaron228375",
+            "bracketName": "Bracket",
+            "bracketId": 1623053,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1397768,
+                    "playerTag": "aaron228375"
+                }
+            ]
+        },
+        {
+            "id": 42361393,
+            "entrant1Id": 8750976,
+            "entrant2Id": 8751024,
+            "entrant1Name": "Sock",
+            "entrant2Name": "1CD | Phosphate",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8750976,
+            "loserId": 8751024,
+            "winnerName": "Sock",
+            "loserName": "1CD | Phosphate",
+            "bracketName": "Bracket",
+            "bracketId": 1623053,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 635146,
+                    "playerTag": "Phosphate"
+                }
+            ]
+        },
+        {
+            "id": 41476323,
+            "entrant1Id": 8524451,
+            "entrant2Id": 8523563,
+            "entrant1Name": "McCloud",
+            "entrant2Name": "OVERT | Sock",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8524451,
+            "loserId": 8523563,
+            "winnerName": "McCloud",
+            "loserName": "OVERT | Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1596124,
+            "entrant1Players": [
+                {
+                    "playerId": 961268,
+                    "playerTag": "McCloud"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 41476322,
+            "entrant1Id": 8523563,
+            "entrant2Id": 8524451,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "McCloud",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8524451,
+            "loserId": 8523563,
+            "winnerName": "McCloud",
+            "loserName": "OVERT | Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1596124,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 961268,
+                    "playerTag": "McCloud"
+                }
+            ]
+        },
+        {
+            "id": 41476386,
+            "entrant1Id": 8523563,
+            "entrant2Id": 8482656,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "AICOAS | Goodie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8523563,
+            "loserId": 8482656,
+            "winnerName": "OVERT | Sock",
+            "loserName": "AICOAS | Goodie",
+            "bracketName": "Bracket",
+            "bracketId": 1596124,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1164314,
+                    "playerTag": "Goodie"
+                }
+            ]
+        },
+        {
+            "id": 41476320,
+            "entrant1Id": 8523563,
+            "entrant2Id": 8482656,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "AICOAS | Goodie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8523563,
+            "loserId": 8482656,
+            "winnerName": "OVERT | Sock",
+            "loserName": "AICOAS | Goodie",
+            "bracketName": "Bracket",
+            "bracketId": 1596124,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1164314,
+                    "playerTag": "Goodie"
+                }
+            ]
+        },
+        {
+            "id": 41476316,
+            "entrant1Id": 8523563,
+            "entrant2Id": 8513657,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "MD | Aaron",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8523563,
+            "loserId": 8513657,
+            "winnerName": "OVERT | Sock",
+            "loserName": "MD | Aaron",
+            "bracketName": "Bracket",
+            "bracketId": 1596124,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1397768,
+                    "playerTag": "aaron228375"
+                }
+            ]
+        },
+        {
+            "id": 41476308,
+            "entrant1Id": 8523563,
+            "entrant2Id": 8529858,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "CoffeeRex",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8523563,
+            "loserId": 8529858,
+            "winnerName": "OVERT | Sock",
+            "loserName": "CoffeeRex",
+            "bracketName": "Bracket",
+            "bracketId": 1596124,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2147963,
+                    "playerTag": "PersonOfTheYearElonMusk"
+                }
+            ]
+        },
+        {
+            "id": 41476292,
+            "entrant1Id": 8523563,
+            "entrant2Id": 8523595,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Curly_Fries",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8523563,
+            "loserId": 8523595,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Curly_Fries",
+            "bracketName": "Bracket",
+            "bracketId": 1596124,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2488281,
+                    "playerTag": "Curly_Fries"
+                }
+            ]
+        },
+        {
+            "id": 41273168,
+            "entrant1Id": 8475665,
+            "entrant2Id": 8475660,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "McCloud",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8475665,
+            "loserId": 8475660,
+            "winnerName": "OVERT | Sock",
+            "loserName": "McCloud",
+            "bracketName": "Bracket",
+            "bracketId": 1595422,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 961268,
+                    "playerTag": "McCloud"
+                }
+            ]
+        },
+        {
+            "id": 41273167,
+            "entrant1Id": 8475665,
+            "entrant2Id": 8475660,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "McCloud",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8475665,
+            "loserId": 8475660,
+            "winnerName": "OVERT | Sock",
+            "loserName": "McCloud",
+            "bracketName": "Bracket",
+            "bracketId": 1595422,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 961268,
+                    "playerTag": "McCloud"
+                }
+            ]
+        },
+        {
+            "id": 41273165,
+            "entrant1Id": 8475665,
+            "entrant2Id": 8475657,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Lackss",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8475665,
+            "loserId": 8475657,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Lackss",
+            "bracketName": "Bracket",
+            "bracketId": 1595422,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1847536,
+                    "playerTag": "Lackss"
+                }
+            ]
+        },
+        {
+            "id": 41273161,
+            "entrant1Id": 8475665,
+            "entrant2Id": 8475638,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Emps",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8475665,
+            "loserId": 8475638,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Emps",
+            "bracketName": "Bracket",
+            "bracketId": 1595422,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 572416,
+                    "playerTag": "Emps"
+                }
+            ]
+        },
+        {
+            "id": 41273153,
+            "entrant1Id": 8475665,
+            "entrant2Id": 8475656,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Caleb",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8475665,
+            "loserId": 8475656,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Caleb",
+            "bracketName": "Bracket",
+            "bracketId": 1595422,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 356891,
+                    "playerTag": "Caleb"
+                }
+            ]
+        },
+        {
+            "id": 40857579,
+            "entrant1Id": 8367737,
+            "entrant2Id": 8345849,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "McCloud",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8367737,
+            "loserId": 8345849,
+            "winnerName": "OVERT | Sock",
+            "loserName": "McCloud",
+            "bracketName": "Bracket",
+            "bracketId": 1574948,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 961268,
+                    "playerTag": "McCloud"
+                }
+            ]
+        },
+        {
+            "id": 40857577,
+            "entrant1Id": 8367737,
+            "entrant2Id": 8345849,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "McCloud",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8345849,
+            "loserId": 8367737,
+            "winnerName": "McCloud",
+            "loserName": "OVERT | Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1574948,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 961268,
+                    "playerTag": "McCloud"
+                }
+            ]
+        },
+        {
+            "id": 40857705,
+            "entrant1Id": 8367737,
+            "entrant2Id": 8271417,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "AICOAS | Goodie",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8367737,
+            "loserId": 8271417,
+            "winnerName": "OVERT | Sock",
+            "loserName": "AICOAS | Goodie",
+            "bracketName": "Bracket",
+            "bracketId": 1574948,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1164314,
+                    "playerTag": "Goodie"
+                }
+            ]
+        },
+        {
+            "id": 40857575,
+            "entrant1Id": 8367737,
+            "entrant2Id": 8322274,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Lackss",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8367737,
+            "loserId": 8322274,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Lackss",
+            "bracketName": "Bracket",
+            "bracketId": 1574948,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1847536,
+                    "playerTag": "Lackss"
+                }
+            ]
+        },
+        {
+            "id": 40857571,
+            "entrant1Id": 8367737,
+            "entrant2Id": 8286634,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "MD | Aaron",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8367737,
+            "loserId": 8286634,
+            "winnerName": "OVERT | Sock",
+            "loserName": "MD | Aaron",
+            "bracketName": "Bracket",
+            "bracketId": 1574948,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1397768,
+                    "playerTag": "aaron228375"
+                }
+            ]
+        },
+        {
+            "id": 40857563,
+            "entrant1Id": 8367737,
+            "entrant2Id": 8271443,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Athesies",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8367737,
+            "loserId": 8271443,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Athesies",
+            "bracketName": "Bracket",
+            "bracketId": 1574948,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 281059,
+                    "playerTag": "Athesies"
+                }
+            ]
+        },
+        {
+            "id": 40857547,
+            "entrant1Id": 8367737,
+            "entrant2Id": 8352982,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Yoshling",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8367737,
+            "loserId": 8352982,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Yoshling",
+            "bracketName": "Bracket",
+            "bracketId": 1574948,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1114779,
+                    "playerTag": "Yoshling"
+                }
+            ]
+        },
+        {
+            "id": 39081543,
+            "entrant1Id": 7906522,
+            "entrant2Id": 7893667,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "AICOAS | Goodie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7906522,
+            "loserId": 7893667,
+            "winnerName": "OVERT | Sock",
+            "loserName": "AICOAS | Goodie",
+            "bracketName": "Bracket",
+            "bracketId": 1537910,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1164314,
+                    "playerTag": "Goodie"
+                }
+            ]
+        },
+        {
+            "id": 39081542,
+            "entrant1Id": 7906522,
+            "entrant2Id": 7923097,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "sumirekt",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7906522,
+            "loserId": 7923097,
+            "winnerName": "OVERT | Sock",
+            "loserName": "sumirekt",
+            "bracketName": "Bracket",
+            "bracketId": 1537910,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 452271,
+                    "playerTag": "sumirekt"
+                }
+            ]
+        },
+        {
+            "id": 39081540,
+            "entrant1Id": 7906522,
+            "entrant2Id": 7927506,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "MD | Aaron",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7906522,
+            "loserId": 7927506,
+            "winnerName": "OVERT | Sock",
+            "loserName": "MD | Aaron",
+            "bracketName": "Bracket",
+            "bracketId": 1537910,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1397768,
+                    "playerTag": "aaron228375"
+                }
+            ]
+        },
+        {
+            "id": 39081536,
+            "entrant1Id": 7906522,
+            "entrant2Id": 7908224,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "1CD | Phosphate",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7906522,
+            "loserId": 7908224,
+            "winnerName": "OVERT | Sock",
+            "loserName": "1CD | Phosphate",
+            "bracketName": "Bracket",
+            "bracketId": 1537910,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 635146,
+                    "playerTag": "Phosphate"
+                }
+            ]
+        },
+        {
+            "id": 39081528,
+            "entrant1Id": 7906522,
+            "entrant2Id": 7928778,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Stereo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7906522,
+            "loserId": 7928778,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Stereo",
+            "bracketName": "Bracket",
+            "bracketId": 1537910,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1676645,
+                    "playerTag": "Stereo"
+                }
+            ]
+        },
+        {
+            "id": 39081512,
+            "entrant1Id": 7906522,
+            "entrant2Id": 7928817,
+            "entrant1Name": "OVERT | Sock",
+            "entrant2Name": "Goldman",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7906522,
+            "loserId": 7928817,
+            "winnerName": "OVERT | Sock",
+            "loserName": "Goldman",
+            "bracketName": "Bracket",
+            "bracketId": 1537910,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2369731,
+                    "playerTag": "Goldman"
+                }
+            ]
+        },
+        {
+            "id": 38722040,
+            "entrant1Id": 7708725,
+            "entrant2Id": 7670054,
+            "entrant1Name": "Sock",
+            "entrant2Name": "Doritoes5",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7708725,
+            "loserId": 7670054,
+            "winnerName": "Sock",
+            "loserName": "Doritoes5",
+            "bracketName": "Bracket",
+            "bracketId": 1527342,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2119613,
+                    "playerTag": "Doritoes5"
+                }
+            ]
+        },
+        {
+            "id": 38722039,
+            "entrant1Id": 7708725,
+            "entrant2Id": 7675325,
+            "entrant1Name": "Sock",
+            "entrant2Name": "MD | Aaron",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7708725,
+            "loserId": 7675325,
+            "winnerName": "Sock",
+            "loserName": "MD | Aaron",
+            "bracketName": "Bracket",
+            "bracketId": 1527342,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1397768,
+                    "playerTag": "aaron228375"
+                }
+            ]
+        },
+        {
+            "id": 38722037,
+            "entrant1Id": 7708725,
+            "entrant2Id": 7716264,
+            "entrant1Name": "Sock",
+            "entrant2Name": "1CD | Phosphate",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7708725,
+            "loserId": 7716264,
+            "winnerName": "Sock",
+            "loserName": "1CD | Phosphate",
+            "bracketName": "Bracket",
+            "bracketId": 1527342,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 635146,
+                    "playerTag": "Phosphate"
+                }
+            ]
+        },
+        {
+            "id": 38722033,
+            "entrant1Id": 7708725,
+            "entrant2Id": 7716208,
+            "entrant1Name": "Sock",
+            "entrant2Name": "Sharpy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7708725,
+            "loserId": 7716208,
+            "winnerName": "Sock",
+            "loserName": "Sharpy",
+            "bracketName": "Bracket",
+            "bracketId": 1527342,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31517,
+                    "playerTag": "Sharpy"
+                }
+            ]
+        },
+        {
+            "id": 38722025,
+            "entrant1Id": 7708725,
+            "entrant2Id": 7670758,
+            "entrant1Name": "Sock",
+            "entrant2Name": "Garfield",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7708725,
+            "loserId": 7670758,
+            "winnerName": "Sock",
+            "loserName": "Garfield",
+            "bracketName": "Bracket",
+            "bracketId": 1527342,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2064069,
+                    "playerTag": "Garfield"
+                }
+            ]
+        },
+        {
+            "id": 36790442,
+            "entrant1Id": 7138529,
+            "entrant2Id": 7141624,
+            "entrant1Name": "Sock",
+            "entrant2Name": "Athesies",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7138529,
+            "loserId": 7141624,
+            "winnerName": "Sock",
+            "loserName": "Athesies",
+            "bracketName": "Bracket",
+            "bracketId": 1477795,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 281059,
+                    "playerTag": "Athesies"
+                }
+            ]
+        },
+        {
+            "id": 36790438,
+            "entrant1Id": 7138529,
+            "entrant2Id": 7205244,
+            "entrant1Name": "Sock",
+            "entrant2Name": "Doritoes5",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7138529,
+            "loserId": 7205244,
+            "winnerName": "Sock",
+            "loserName": "Doritoes5",
+            "bracketName": "Bracket",
+            "bracketId": 1477795,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2119613,
+                    "playerTag": "Doritoes5"
+                }
+            ]
+        },
+        {
+            "id": 36791765,
+            "entrant1Id": 7138529,
+            "entrant2Id": 7144012,
+            "entrant1Name": "Sock",
+            "entrant2Name": "Jem",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7138529,
+            "loserId": 7144012,
+            "winnerName": "Sock",
+            "loserName": "Jem",
+            "bracketName": "Top 4",
+            "bracketId": 1482024,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2021465,
+                    "playerTag": "Jem"
+                }
+            ]
+        },
+        {
+            "id": 36790430,
+            "entrant1Id": 7138529,
+            "entrant2Id": 7209760,
+            "entrant1Name": "Sock",
+            "entrant2Name": "ORB | Bundun",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7138529,
+            "loserId": 7209760,
+            "winnerName": "Sock",
+            "loserName": "ORB | Bundun",
+            "bracketName": "Bracket",
+            "bracketId": 1477795,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1653443,
+                    "playerTag": "bundun"
+                }
+            ]
+        },
+        {
+            "id": 36791764,
+            "entrant1Id": 7138529,
+            "entrant2Id": 7144012,
+            "entrant1Name": "Sock",
+            "entrant2Name": "Jem",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7138529,
+            "loserId": 7144012,
+            "winnerName": "Sock",
+            "loserName": "Jem",
+            "bracketName": "Top 4",
+            "bracketId": 1482024,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2021465,
+                    "playerTag": "Jem"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "Luigi Ka-Master",
+        "Nicki"
+    ],
+    "L": [
+        "Fiction",
+        "Hungrybox",
+        "Squid",
+        "Mo $",
+        "Westballz",
+        "Android 0",
+        "Dr. Lame",
+        "s2b",
+        "deft",
+        "SquirtlSquad",
+        "McCloud",
+        "McCloud",
+        "McCloud",
+        "Sora/Joshman",
+        "Sora/Joshman",
+        "Nangs",
+        "Sora/Joshman",
+        "Doritoes5",
+        "2 Uosdwis 2 Dewoh",
+        "Sora/Joshman",
+        "Sora/Joshman",
+        "Sora/Joshman",
+        "Sora/Joshman",
+        "DonB",
+        "MC",
+        "Thato",
+        "Pickles",
+        "Rei",
+        "McCloud",
+        "McCloud",
+        "McCloud"
+    ]
+}
