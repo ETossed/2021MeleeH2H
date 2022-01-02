@@ -1,0 +1,4824 @@
+{
+    "ID": 20995,
+    "Events": [
+        "575529",
+        "596002",
+        "569339",
+        "555934",
+        "555557",
+        "559475",
+        "559478",
+        "580662",
+        "574666",
+        "546191",
+        "552246",
+        "543654",
+        "554630",
+        "576083",
+        "594527",
+        "542283",
+        "601275",
+        "542054",
+        "552324",
+        "558800",
+        "438347",
+        "579754",
+        "575113",
+        "559381",
+        "557279",
+        "603700"
+    ],
+    "Sets": [
+        {
+            "id": 39095719,
+            "entrant1Id": 7523956,
+            "entrant2Id": 7914593,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Paladin",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7523956,
+            "loserId": 7914593,
+            "winnerName": "2saint",
+            "loserName": "Paladin",
+            "bracketName": "EC Pools",
+            "bracketId": 1494807,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 49875,
+                    "playerTag": "Paladin"
+                }
+            ]
+        },
+        {
+            "id": 39095715,
+            "entrant1Id": 7523956,
+            "entrant2Id": 7398350,
+            "entrant1Name": "2saint",
+            "entrant2Name": "J-Plums   IX",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7523956,
+            "loserId": 7398350,
+            "winnerName": "2saint",
+            "loserName": "J-Plums   IX",
+            "bracketName": "EC Pools",
+            "bracketId": 1494807,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2097022,
+                    "playerTag": "J-Plums   IX"
+                }
+            ]
+        },
+        {
+            "id": 39110833,
+            "entrant1Id": 7523956,
+            "entrant2Id": 7911158,
+            "entrant1Name": "2saint",
+            "entrant2Name": "TheRealThing",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7523956,
+            "loserId": 7911158,
+            "winnerName": "2saint",
+            "loserName": "TheRealThing",
+            "bracketName": "EC Top 32",
+            "bracketId": 1494821,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 8043,
+                    "playerTag": "TheRealThing"
+                }
+            ]
+        },
+        {
+            "id": 39117735,
+            "entrant1Id": 7523956,
+            "entrant2Id": 7914207,
+            "entrant1Name": "2saint",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7914207,
+            "loserId": 7523956,
+            "winnerName": "bobby big ballz",
+            "loserName": "2saint",
+            "bracketName": "Top 16",
+            "bracketId": 1541347,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 39110828,
+            "entrant1Id": 7523956,
+            "entrant2Id": 7333276,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Bones",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7523956,
+            "loserId": 7333276,
+            "winnerName": "2saint",
+            "loserName": "Bones",
+            "bracketName": "EC Top 32",
+            "bracketId": 1494821,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5457,
+                    "playerTag": "Bones"
+                }
+            ]
+        },
+        {
+            "id": 39117761,
+            "entrant1Id": 7523956,
+            "entrant2Id": 7907199,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Brotherhood | Aklo",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7907199,
+            "loserId": 7523956,
+            "winnerName": "Brotherhood | Aklo",
+            "loserName": "2saint",
+            "bracketName": "Top 16",
+            "bracketId": 1541347,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ]
+        },
+        {
+            "id": 38888201,
+            "entrant1Id": 7731744,
+            "entrant2Id": 7731735,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Tempo | Axe",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731735,
+            "loserId": 7731744,
+            "winnerName": "Tempo | Axe",
+            "loserName": "2saint",
+            "bracketName": "Group Stage",
+            "bracketId": 1534198,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 38942236,
+            "entrant1Id": 7731744,
+            "entrant2Id": 7731728,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Liquid | Hungrybox",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731728,
+            "loserId": 7731744,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "2saint",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1534193,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 38888198,
+            "entrant1Id": 7731718,
+            "entrant2Id": 7731744,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7731718,
+            "loserId": 7731744,
+            "winnerName": "Panda | iBDW",
+            "loserName": "2saint",
+            "bracketName": "Group Stage",
+            "bracketId": 1534198,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 38938873,
+            "entrant1Id": 7731722,
+            "entrant2Id": 7731744,
+            "entrant1Name": "GG | n0ne/ Bond / wizzyfan109",
+            "entrant2Name": "2saint",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731744,
+            "loserId": 7731722,
+            "winnerName": "2saint",
+            "loserName": "GG | n0ne/ Bond / wizzyfan109",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1534193,
+            "entrant1Players": [
+                {
+                    "playerId": 4107,
+                    "playerTag": "n0ne/ Bond / wizzyfan109"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 38888197,
+            "entrant1Id": 7731707,
+            "entrant2Id": 7731744,
+            "entrant1Name": "Panda RB | Plup",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7731707,
+            "loserId": 7731744,
+            "winnerName": "Panda RB | Plup",
+            "loserName": "2saint",
+            "bracketName": "Group Stage",
+            "bracketId": 1534198,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 38962573,
+            "entrant1Id": 7731744,
+            "entrant2Id": 7731716,
+            "entrant1Name": "2saint",
+            "entrant2Name": "EMG | moky",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731716,
+            "loserId": 7731744,
+            "winnerName": "EMG | moky",
+            "loserName": "2saint",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5080,
+                    "playerTag": "moky"
+                }
+            ]
+        },
+        {
+            "id": 37457917,
+            "entrant1Id": 7366229,
+            "entrant2Id": 7333314,
+            "entrant1Name": "2saint",
+            "entrant2Name": "S2J",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7366229,
+            "loserId": 7333314,
+            "winnerName": "2saint",
+            "loserName": "S2J",
+            "bracketName": "Top 64",
+            "bracketId": 1482733,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ]
+        },
+        {
+            "id": 37457916,
+            "entrant1Id": 7333314,
+            "entrant2Id": 7366229,
+            "entrant1Name": "S2J",
+            "entrant2Name": "2saint",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7366229,
+            "loserId": 7333314,
+            "winnerName": "2saint",
+            "loserName": "S2J",
+            "bracketName": "Top 64",
+            "bracketId": 1482733,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 37457915,
+            "entrant1Id": 7339539,
+            "entrant2Id": 7366229,
+            "entrant1Name": "TheRealThing",
+            "entrant2Name": "2saint",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7366229,
+            "loserId": 7339539,
+            "winnerName": "2saint",
+            "loserName": "TheRealThing",
+            "bracketName": "Top 64",
+            "bracketId": 1482733,
+            "entrant1Players": [
+                {
+                    "playerId": 8043,
+                    "playerTag": "TheRealThing"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 37451228,
+            "entrant1Id": 7366229,
+            "entrant2Id": 7365748,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Equilateral",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7366229,
+            "loserId": 7365748,
+            "winnerName": "2saint",
+            "loserName": "Equilateral",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1482727,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 673079,
+                    "playerTag": "Equilateral"
+                }
+            ]
+        },
+        {
+            "id": 37457913,
+            "entrant1Id": 7275735,
+            "entrant2Id": 7366229,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "2saint",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7366229,
+            "loserId": 7275735,
+            "winnerName": "2saint",
+            "loserName": "bobby big ballz",
+            "bracketName": "Top 64",
+            "bracketId": 1482733,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 37451142,
+            "entrant1Id": 7366229,
+            "entrant2Id": 7348174,
+            "entrant1Name": "2saint",
+            "entrant2Name": "\u0259L",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7366229,
+            "loserId": 7348174,
+            "winnerName": "2saint",
+            "loserName": "\u0259L",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1482727,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 415483,
+                    "playerTag": "\u0259L"
+                }
+            ]
+        },
+        {
+            "id": 37457909,
+            "entrant1Id": 7366229,
+            "entrant2Id": 7255419,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Joey Donuts",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7366229,
+            "loserId": 7255419,
+            "winnerName": "2saint",
+            "loserName": "Joey Donuts",
+            "bracketName": "Top 64",
+            "bracketId": 1482733,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 184637,
+                    "playerTag": "Joey Donuts"
+                }
+            ]
+        },
+        {
+            "id": 37457900,
+            "entrant1Id": 7366229,
+            "entrant2Id": 7249599,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Ober",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7366229,
+            "loserId": 7249599,
+            "winnerName": "2saint",
+            "loserName": "Ober",
+            "bracketName": "Top 64",
+            "bracketId": 1482733,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30197,
+                    "playerTag": "Ober"
+                }
+            ]
+        },
+        {
+            "id": 36113278,
+            "entrant1Id": 6928004,
+            "entrant2Id": 7014098,
+            "entrant1Name": "2saint",
+            "entrant2Name": "MoG",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6928004,
+            "loserId": 7014098,
+            "winnerName": "2saint",
+            "loserName": "MoG",
+            "bracketName": "EC Pools",
+            "bracketId": 1455365,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21772,
+                    "playerTag": "mvlvchi"
+                }
+            ]
+        },
+        {
+            "id": 36113275,
+            "entrant1Id": 6928004,
+            "entrant2Id": 7022692,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Axis",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6928004,
+            "loserId": 7022692,
+            "winnerName": "2saint",
+            "loserName": "Axis",
+            "bracketName": "EC Pools",
+            "bracketId": 1455365,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 512704,
+                    "playerTag": "Axis"
+                }
+            ]
+        },
+        {
+            "id": 36145306,
+            "entrant1Id": 6972934,
+            "entrant2Id": 6928004,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6972934,
+            "loserId": 6928004,
+            "winnerName": "LG | Ginger",
+            "loserName": "2saint",
+            "bracketName": "EC Top 32",
+            "bracketId": 1455377,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 36145366,
+            "entrant1Id": 6928004,
+            "entrant2Id": 7010271,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Colbol",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6928004,
+            "loserId": 7010271,
+            "winnerName": "2saint",
+            "loserName": "Colbol",
+            "bracketName": "EC Top 32",
+            "bracketId": 1455377,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1009,
+                    "playerTag": "Colbol"
+                }
+            ]
+        },
+        {
+            "id": 36145302,
+            "entrant1Id": 6928223,
+            "entrant2Id": 6928004,
+            "entrant1Name": "Brotherhood | Aklo",
+            "entrant2Name": "2saint",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6928004,
+            "loserId": 6928223,
+            "winnerName": "2saint",
+            "loserName": "Brotherhood | Aklo",
+            "bracketName": "EC Top 32",
+            "bracketId": 1455377,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 36151398,
+            "entrant1Id": 7018145,
+            "entrant2Id": 6928004,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "2saint",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6928004,
+            "loserId": 7018145,
+            "winnerName": "2saint",
+            "loserName": "Liquid | Hungrybox",
+            "bracketName": "Top 16",
+            "bracketId": 1455378,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 36156508,
+            "entrant1Id": 6928004,
+            "entrant2Id": 7015138,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Hax$",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7015138,
+            "loserId": 6928004,
+            "winnerName": "Hax$",
+            "loserName": "2saint",
+            "bracketName": "Top 8",
+            "bracketId": 1455379,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 36151394,
+            "entrant1Id": 6928004,
+            "entrant2Id": 7020645,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Aura",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6928004,
+            "loserId": 7020645,
+            "winnerName": "2saint",
+            "loserName": "Aura",
+            "bracketName": "Top 16",
+            "bracketId": 1455378,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46349,
+                    "playerTag": "Aura"
+                }
+            ]
+        },
+        {
+            "id": 35772926,
+            "entrant1Id": 6927638,
+            "entrant2Id": 6900396,
+            "entrant1Name": "2saint",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6900396,
+            "loserId": 6927638,
+            "winnerName": "BLE | SluG",
+            "loserName": "2saint",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1454615,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 35773179,
+            "entrant1Id": 6927638,
+            "entrant2Id": 6941664,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Prometheus",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6927638,
+            "loserId": 6941664,
+            "winnerName": "2saint",
+            "loserName": "Prometheus",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1454615,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 680265,
+                    "playerTag": "Prometheus"
+                }
+            ]
+        },
+        {
+            "id": 35772919,
+            "entrant1Id": 6927638,
+            "entrant2Id": 6941821,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Dawson",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6927638,
+            "loserId": 6941821,
+            "winnerName": "2saint",
+            "loserName": "Dawson",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1454615,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 147811,
+                    "playerTag": "Dawson"
+                }
+            ]
+        },
+        {
+            "id": 35772905,
+            "entrant1Id": 6927638,
+            "entrant2Id": 6914122,
+            "entrant1Name": "2saint",
+            "entrant2Name": "ericiscool.net",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6927638,
+            "loserId": 6914122,
+            "winnerName": "2saint",
+            "loserName": "ericiscool.net",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1454615,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 255496,
+                    "playerTag": "ericiscool.net"
+                }
+            ]
+        },
+        {
+            "id": 35772877,
+            "entrant1Id": 6927638,
+            "entrant2Id": 6930206,
+            "entrant1Name": "2saint",
+            "entrant2Name": "muurrpp",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6927638,
+            "loserId": 6930206,
+            "winnerName": "2saint",
+            "loserName": "muurrpp",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1454615,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1791598,
+                    "playerTag": "muurrpp"
+                }
+            ]
+        },
+        {
+            "id": 35783919,
+            "entrant1Id": 6913440,
+            "entrant2Id": 6927638,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6913440,
+            "loserId": 6927638,
+            "winnerName": "LG | Ginger",
+            "loserName": "2saint",
+            "bracketName": "Top 64 East",
+            "bracketId": 1460696,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 35783915,
+            "entrant1Id": 6947612,
+            "entrant2Id": 6927638,
+            "entrant1Name": "lloD",
+            "entrant2Name": "2saint",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6927638,
+            "loserId": 6947612,
+            "winnerName": "2saint",
+            "loserName": "lloD",
+            "bracketName": "Top 64 East",
+            "bracketId": 1460696,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 35783908,
+            "entrant1Id": 6946506,
+            "entrant2Id": 6927638,
+            "entrant1Name": "Zealot",
+            "entrant2Name": "2saint",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6927638,
+            "loserId": 6946506,
+            "winnerName": "2saint",
+            "loserName": "Zealot",
+            "bracketName": "Top 64 East",
+            "bracketId": 1460696,
+            "entrant1Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 35783900,
+            "entrant1Id": 6927638,
+            "entrant2Id": 6955959,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Neologism",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6927638,
+            "loserId": 6955959,
+            "winnerName": "2saint",
+            "loserName": "Neologism",
+            "bracketName": "Top 64 East",
+            "bracketId": 1460696,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 127639,
+                    "playerTag": "Neologism"
+                }
+            ]
+        },
+        {
+            "id": 35937412,
+            "entrant1Id": 6998609,
+            "entrant2Id": 7003385,
+            "entrant1Name": "2saint",
+            "entrant2Name": "JoffDuchar",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6998609,
+            "loserId": 7003385,
+            "winnerName": "2saint",
+            "loserName": "JoffDuchar",
+            "bracketName": "Bracket pools",
+            "bracketId": 1462251,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1940854,
+                    "playerTag": "JoffDuchar"
+                }
+            ]
+        },
+        {
+            "id": 35943391,
+            "entrant1Id": 6998609,
+            "entrant2Id": 7003179,
+            "entrant1Name": "2saint",
+            "entrant2Name": "PeS | Puppy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6998609,
+            "loserId": 7003179,
+            "winnerName": "2saint",
+            "loserName": "PeS | Puppy",
+            "bracketName": "Bracket top 16",
+            "bracketId": 1462253,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 328838,
+                    "playerTag": "Puppy"
+                }
+            ]
+        },
+        {
+            "id": 35947256,
+            "entrant1Id": 7004859,
+            "entrant2Id": 7004892,
+            "entrant1Name": "2saint",
+            "entrant2Name": "LFG | Eddy Mexico",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7004892,
+            "loserId": 7004859,
+            "winnerName": "LFG | Eddy Mexico",
+            "loserName": "2saint",
+            "bracketName": "Bracket",
+            "bracketId": 1462264,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1030,
+                    "playerTag": "Eddy Mexico"
+                }
+            ]
+        },
+        {
+            "id": 38388922,
+            "entrant1Id": 7523952,
+            "entrant2Id": 7437019,
+            "entrant1Name": "2saint",
+            "entrant2Name": "N2K",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7523952,
+            "loserId": 7437019,
+            "winnerName": "2saint",
+            "loserName": "N2K",
+            "bracketName": "East Pools",
+            "bracketId": 1520720,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2290467,
+                    "playerTag": "N2K"
+                }
+            ]
+        },
+        {
+            "id": 38388902,
+            "entrant1Id": 7523952,
+            "entrant2Id": 7582453,
+            "entrant1Name": "2saint",
+            "entrant2Name": "thatanimeboi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7523952,
+            "loserId": 7582453,
+            "winnerName": "2saint",
+            "loserName": "thatanimeboi",
+            "bracketName": "East Pools",
+            "bracketId": 1520720,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2328601,
+                    "playerTag": "thatanimeboi"
+                }
+            ]
+        },
+        {
+            "id": 38388864,
+            "entrant1Id": 7523952,
+            "entrant2Id": 7476069,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Khartoum",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7523952,
+            "loserId": 7476069,
+            "winnerName": "2saint",
+            "loserName": "Khartoum",
+            "bracketName": "East Pools",
+            "bracketId": 1520720,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 337495,
+                    "playerTag": "Khartoum"
+                }
+            ]
+        },
+        {
+            "id": 38410962,
+            "entrant1Id": 7618232,
+            "entrant2Id": 7523952,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "2saint",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7523952,
+            "loserId": 7618232,
+            "winnerName": "2saint",
+            "loserName": "bobby big ballz",
+            "bracketName": "Top 64",
+            "bracketId": 1520734,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 38441022,
+            "entrant1Id": 7544429,
+            "entrant2Id": 7523952,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7544429,
+            "loserId": 7523952,
+            "winnerName": "CLG | SFAT",
+            "loserName": "2saint",
+            "bracketName": "Top 8",
+            "bracketId": 1520736,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 38441021,
+            "entrant1Id": 7523952,
+            "entrant2Id": 7550767,
+            "entrant1Name": "2saint",
+            "entrant2Name": "KoDoRiN",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7523952,
+            "loserId": 7550767,
+            "winnerName": "2saint",
+            "loserName": "KoDoRiN",
+            "bracketName": "Top 8",
+            "bracketId": 1520736,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 38441005,
+            "entrant1Id": 7523952,
+            "entrant2Id": 7544429,
+            "entrant1Name": "2saint",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7544429,
+            "loserId": 7523952,
+            "winnerName": "CLG | SFAT",
+            "loserName": "2saint",
+            "bracketName": "Top 8",
+            "bracketId": 1520736,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 38431556,
+            "entrant1Id": 7594696,
+            "entrant2Id": 7523952,
+            "entrant1Name": "S2J",
+            "entrant2Name": "2saint",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7523952,
+            "loserId": 7594696,
+            "winnerName": "2saint",
+            "loserName": "S2J",
+            "bracketName": "Top 16",
+            "bracketId": 1520735,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 38410952,
+            "entrant1Id": 7435678,
+            "entrant2Id": 7523952,
+            "entrant1Name": "LFG | Bimbo",
+            "entrant2Name": "2saint",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7523952,
+            "loserId": 7435678,
+            "winnerName": "2saint",
+            "loserName": "LFG | Bimbo",
+            "bracketName": "Top 64",
+            "bracketId": 1520734,
+            "entrant1Players": [
+                {
+                    "playerId": 38255,
+                    "playerTag": "Bimbo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 38388775,
+            "entrant1Id": 7523952,
+            "entrant2Id": 7604884,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Calico",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7523952,
+            "loserId": 7604884,
+            "winnerName": "2saint",
+            "loserName": "Calico",
+            "bracketName": "East Pools",
+            "bracketId": 1520720,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 634433,
+                    "playerTag": "Calico"
+                }
+            ]
+        },
+        {
+            "id": 38441019,
+            "entrant1Id": 7523952,
+            "entrant2Id": 7591180,
+            "entrant1Name": "2saint",
+            "entrant2Name": "20GX | Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7523952,
+            "loserId": 7591180,
+            "winnerName": "2saint",
+            "loserName": "20GX | Gahtzu",
+            "bracketName": "Top 8",
+            "bracketId": 1520736,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 38211712,
+            "entrant1Id": 7523960,
+            "entrant2Id": 7314752,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Zeeker",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7523960,
+            "loserId": 7314752,
+            "winnerName": "2saint",
+            "loserName": "Zeeker",
+            "bracketName": "EC Pools",
+            "bracketId": 1492999,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 221136,
+                    "playerTag": "Zeeker"
+                }
+            ]
+        },
+        {
+            "id": 38211708,
+            "entrant1Id": 7523960,
+            "entrant2Id": 7553331,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Jet Life | Casual",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7523960,
+            "loserId": 7553331,
+            "winnerName": "2saint",
+            "loserName": "Jet Life | Casual",
+            "bracketName": "EC Pools",
+            "bracketId": 1492999,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 230813,
+                    "playerTag": "Casual"
+                }
+            ]
+        },
+        {
+            "id": 38256145,
+            "entrant1Id": 7541290,
+            "entrant2Id": 7523960,
+            "entrant1Name": "EMG | moky",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7541290,
+            "loserId": 7523960,
+            "winnerName": "EMG | moky",
+            "loserName": "2saint",
+            "bracketName": "Top 16",
+            "bracketId": 1493027,
+            "entrant1Players": [
+                {
+                    "playerId": 5080,
+                    "playerTag": "moky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 38211684,
+            "entrant1Id": 7523960,
+            "entrant2Id": 7535961,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Maz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7523960,
+            "loserId": 7535961,
+            "winnerName": "2saint",
+            "loserName": "Maz",
+            "bracketName": "EC Pools",
+            "bracketId": 1492999,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21914,
+                    "playerTag": "Maz"
+                }
+            ]
+        },
+        {
+            "id": 38222032,
+            "entrant1Id": 7556416,
+            "entrant2Id": 7523960,
+            "entrant1Name": "GG | n0ne",
+            "entrant2Name": "2saint",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7523960,
+            "loserId": 7556416,
+            "winnerName": "2saint",
+            "loserName": "GG | n0ne",
+            "bracketName": "EC Top 32",
+            "bracketId": 1517941,
+            "entrant1Players": [
+                {
+                    "playerId": 4107,
+                    "playerTag": "n0ne/ Bond / wizzyfan109"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 38256176,
+            "entrant1Id": 7523960,
+            "entrant2Id": 7556416,
+            "entrant1Name": "2saint",
+            "entrant2Name": "GG | n0ne",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7556416,
+            "loserId": 7523960,
+            "winnerName": "GG | n0ne",
+            "loserName": "2saint",
+            "bracketName": "Top 16",
+            "bracketId": 1493027,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4107,
+                    "playerTag": "n0ne/ Bond / wizzyfan109"
+                }
+            ]
+        },
+        {
+            "id": 38256142,
+            "entrant1Id": 7523960,
+            "entrant2Id": 7541255,
+            "entrant1Name": "2saint",
+            "entrant2Name": "CG | Peppi | Pappi",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7523960,
+            "loserId": 7541255,
+            "winnerName": "2saint",
+            "loserName": "CG | Peppi | Pappi",
+            "bracketName": "Top 16",
+            "bracketId": 1493027,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61570,
+                    "playerTag": "Pappi"
+                }
+            ]
+        },
+        {
+            "id": 38222026,
+            "entrant1Id": 7523960,
+            "entrant2Id": 7555661,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Sneakywill",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7523960,
+            "loserId": 7555661,
+            "winnerName": "2saint",
+            "loserName": "Sneakywill",
+            "bracketName": "EC Top 32",
+            "bracketId": 1517941,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 63313,
+                    "playerTag": "Sneakywill"
+                }
+            ]
+        },
+        {
+            "id": 35111063,
+            "entrant1Id": 6688262,
+            "entrant2Id": 6689066,
+            "entrant1Name": "2saint",
+            "entrant2Name": "TheRealThing",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6688262,
+            "loserId": 6689066,
+            "winnerName": "2saint",
+            "loserName": "TheRealThing",
+            "bracketName": "Pools",
+            "bracketId": 1441466,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 8043,
+                    "playerTag": "TheRealThing"
+                }
+            ]
+        },
+        {
+            "id": 35111059,
+            "entrant1Id": 6688262,
+            "entrant2Id": 6699642,
+            "entrant1Name": "2saint",
+            "entrant2Name": "EP | Justus",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6699642,
+            "loserId": 6688262,
+            "winnerName": "EP | Justus",
+            "loserName": "2saint",
+            "bracketName": "Pools",
+            "bracketId": 1441466,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ]
+        },
+        {
+            "id": 35111055,
+            "entrant1Id": 6688262,
+            "entrant2Id": 6705046,
+            "entrant1Name": "2saint",
+            "entrant2Name": "TED | Coolkid",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6688262,
+            "loserId": 6705046,
+            "winnerName": "2saint",
+            "loserName": "TED | Coolkid",
+            "bracketName": "Pools",
+            "bracketId": 1441466,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20079,
+                    "playerTag": "Coolkid"
+                }
+            ]
+        },
+        {
+            "id": 35111051,
+            "entrant1Id": 6688262,
+            "entrant2Id": 6697637,
+            "entrant1Name": "2saint",
+            "entrant2Name": "WKDA | Alan",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6688262,
+            "loserId": 6697637,
+            "winnerName": "2saint",
+            "loserName": "WKDA | Alan",
+            "bracketName": "Pools",
+            "bracketId": 1441466,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1895,
+                    "playerTag": "Alan"
+                }
+            ]
+        },
+        {
+            "id": 35111043,
+            "entrant1Id": 6688262,
+            "entrant2Id": 6699606,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Foonz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6688262,
+            "loserId": 6699606,
+            "winnerName": "2saint",
+            "loserName": "Foonz",
+            "bracketName": "Pools",
+            "bracketId": 1441466,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 172317,
+                    "playerTag": "Foonz"
+                }
+            ]
+        },
+        {
+            "id": 35111039,
+            "entrant1Id": 6688262,
+            "entrant2Id": 6711161,
+            "entrant1Name": "2saint",
+            "entrant2Name": "InfernoOmni",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6688262,
+            "loserId": 6711161,
+            "winnerName": "2saint",
+            "loserName": "InfernoOmni",
+            "bracketName": "Pools",
+            "bracketId": 1441466,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48385,
+                    "playerTag": "InfernoOmni"
+                }
+            ]
+        },
+        {
+            "id": 35186533,
+            "entrant1Id": 6806542,
+            "entrant2Id": 6806537,
+            "entrant1Name": "TheRealThing",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6806542,
+            "loserId": 6806537,
+            "winnerName": "TheRealThing",
+            "loserName": "2saint",
+            "bracketName": "Top 8",
+            "bracketId": 1448013,
+            "entrant1Players": [
+                {
+                    "playerId": 8043,
+                    "playerTag": "TheRealThing"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 35186532,
+            "entrant1Id": 6806537,
+            "entrant2Id": 6806542,
+            "entrant1Name": "2saint",
+            "entrant2Name": "TheRealThing",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6806542,
+            "loserId": 6806537,
+            "winnerName": "TheRealThing",
+            "loserName": "2saint",
+            "bracketName": "Top 8",
+            "bracketId": 1448013,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 8043,
+                    "playerTag": "TheRealThing"
+                }
+            ]
+        },
+        {
+            "id": 35186548,
+            "entrant1Id": 6806537,
+            "entrant2Id": 6806538,
+            "entrant1Name": "2saint",
+            "entrant2Name": "billybopeep",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6806537,
+            "loserId": 6806538,
+            "winnerName": "2saint",
+            "loserName": "billybopeep",
+            "bracketName": "Top 8",
+            "bracketId": 1448013,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 135157,
+                    "playerTag": "billybopeep"
+                }
+            ]
+        },
+        {
+            "id": 35157269,
+            "entrant1Id": 6806536,
+            "entrant2Id": 6806537,
+            "entrant1Name": "Tempo | Axe",
+            "entrant2Name": "2saint",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6806537,
+            "loserId": 6806536,
+            "winnerName": "2saint",
+            "loserName": "Tempo | Axe",
+            "bracketName": "Bracket",
+            "bracketId": 1448011,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 35186530,
+            "entrant1Id": 6806537,
+            "entrant2Id": 6806538,
+            "entrant1Name": "2saint",
+            "entrant2Name": "billybopeep",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6806537,
+            "loserId": 6806538,
+            "winnerName": "2saint",
+            "loserName": "billybopeep",
+            "bracketName": "Top 8",
+            "bracketId": 1448013,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 135157,
+                    "playerTag": "billybopeep"
+                }
+            ]
+        },
+        {
+            "id": 34583941,
+            "entrant1Id": 6663633,
+            "entrant2Id": 6666625,
+            "entrant1Name": "Tenacity | Albert",
+            "entrant2Name": "2saint",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6666625,
+            "loserId": 6663633,
+            "winnerName": "2saint",
+            "loserName": "Tenacity | Albert",
+            "bracketName": "Bracket",
+            "bracketId": 1431329,
+            "entrant1Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 34583942,
+            "entrant1Id": 6666625,
+            "entrant2Id": 6663633,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Tenacity | Albert",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6666625,
+            "loserId": 6663633,
+            "winnerName": "2saint",
+            "loserName": "Tenacity | Albert",
+            "bracketName": "Bracket",
+            "bracketId": 1431329,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ]
+        },
+        {
+            "id": 34583940,
+            "entrant1Id": 6663633,
+            "entrant2Id": 6666625,
+            "entrant1Name": "Tenacity | Albert",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6663633,
+            "loserId": 6666625,
+            "winnerName": "Tenacity | Albert",
+            "loserName": "2saint",
+            "bracketName": "Bracket",
+            "bracketId": 1431329,
+            "entrant1Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 34584196,
+            "entrant1Id": 6666625,
+            "entrant2Id": 6669503,
+            "entrant1Name": "2saint",
+            "entrant2Name": "SFOP",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6666625,
+            "loserId": 6669503,
+            "winnerName": "2saint",
+            "loserName": "SFOP",
+            "bracketName": "Bracket",
+            "bracketId": 1431329,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ]
+        },
+        {
+            "id": 34583939,
+            "entrant1Id": 6669503,
+            "entrant2Id": 6666625,
+            "entrant1Name": "SFOP",
+            "entrant2Name": "2saint",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6666625,
+            "loserId": 6669503,
+            "winnerName": "2saint",
+            "loserName": "SFOP",
+            "bracketName": "Bracket",
+            "bracketId": 1431329,
+            "entrant1Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 34583937,
+            "entrant1Id": 6668263,
+            "entrant2Id": 6666625,
+            "entrant1Name": "Zeeker",
+            "entrant2Name": "2saint",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6666625,
+            "loserId": 6668263,
+            "winnerName": "2saint",
+            "loserName": "Zeeker",
+            "bracketName": "Bracket",
+            "bracketId": 1431329,
+            "entrant1Players": [
+                {
+                    "playerId": 221136,
+                    "playerTag": "Zeeker"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 34583933,
+            "entrant1Id": 6666625,
+            "entrant2Id": 6664144,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Forrest",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6666625,
+            "loserId": 6664144,
+            "winnerName": "2saint",
+            "loserName": "Forrest",
+            "bracketName": "Bracket",
+            "bracketId": 1431329,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 397293,
+                    "playerTag": "Forrest"
+                }
+            ]
+        },
+        {
+            "id": 34583924,
+            "entrant1Id": 6666625,
+            "entrant2Id": 6665478,
+            "entrant1Name": "2saint",
+            "entrant2Name": "LanTurN",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6666625,
+            "loserId": 6665478,
+            "winnerName": "2saint",
+            "loserName": "LanTurN",
+            "bracketName": "Bracket",
+            "bracketId": 1431329,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 329937,
+                    "playerTag": "LanTurN"
+                }
+            ]
+        },
+        {
+            "id": 34583906,
+            "entrant1Id": 6666625,
+            "entrant2Id": 6669556,
+            "entrant1Name": "2saint",
+            "entrant2Name": "ChillBot | CensoredChillBot",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6666625,
+            "loserId": 6669556,
+            "winnerName": "2saint",
+            "loserName": "ChillBot | CensoredChillBot",
+            "bracketName": "Bracket",
+            "bracketId": 1431329,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2159434,
+                    "playerTag": "CensoredChillBot"
+                }
+            ]
+        },
+        {
+            "id": 41895686,
+            "entrant1Id": 8575461,
+            "entrant2Id": 8575571,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Colbol",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575571,
+            "loserId": 8575461,
+            "winnerName": "Colbol",
+            "loserName": "2saint",
+            "bracketName": "Group Stage",
+            "bracketId": 1607843,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1009,
+                    "playerTag": "Colbol"
+                }
+            ]
+        },
+        {
+            "id": 41895683,
+            "entrant1Id": 8575424,
+            "entrant2Id": 8575461,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8575424,
+            "loserId": 8575461,
+            "winnerName": "Panda | iBDW",
+            "loserName": "2saint",
+            "bracketName": "Group Stage",
+            "bracketId": 1607843,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 41895682,
+            "entrant1Id": 8575598,
+            "entrant2Id": 8575461,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575598,
+            "loserId": 8575461,
+            "winnerName": "Aspero | Logan",
+            "loserName": "2saint",
+            "bracketName": "Group Stage",
+            "bracketId": 1607843,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 41934616,
+            "entrant1Id": 8575466,
+            "entrant2Id": 8575461,
+            "entrant1Name": "Brotherhood|CM | Aklo",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575466,
+            "loserId": 8575461,
+            "winnerName": "Brotherhood|CM | Aklo",
+            "loserName": "2saint",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 38700630,
+            "entrant1Id": 7524008,
+            "entrant2Id": 7660841,
+            "entrant1Name": "2saint",
+            "entrant2Name": "CG | Koobie",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7524008,
+            "loserId": 7660841,
+            "winnerName": "2saint",
+            "loserName": "CG | Koobie",
+            "bracketName": "Bracket",
+            "bracketId": 1530834,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6865,
+                    "playerTag": "Koobie"
+                }
+            ]
+        },
+        {
+            "id": 38700620,
+            "entrant1Id": 7524008,
+            "entrant2Id": 7686198,
+            "entrant1Name": "2saint",
+            "entrant2Name": "flthd | flatline",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7524008,
+            "loserId": 7686198,
+            "winnerName": "2saint",
+            "loserName": "flthd | flatline",
+            "bracketName": "Bracket",
+            "bracketId": 1530834,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 34694,
+                    "playerTag": "flatline"
+                }
+            ]
+        },
+        {
+            "id": 38700596,
+            "entrant1Id": 7524008,
+            "entrant2Id": 7454195,
+            "entrant1Name": "2saint",
+            "entrant2Name": "GSG",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7524008,
+            "loserId": 7454195,
+            "winnerName": "2saint",
+            "loserName": "GSG",
+            "bracketName": "Bracket",
+            "bracketId": 1530834,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 776417,
+                    "playerTag": "GSG"
+                }
+            ]
+        },
+        {
+            "id": 38786030,
+            "entrant1Id": 7717273,
+            "entrant2Id": 7717313,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7717273,
+            "loserId": 7717313,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "2saint",
+            "bracketName": "Top 8",
+            "bracketId": 1531923,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 38743686,
+            "entrant1Id": 7717313,
+            "entrant2Id": 7717213,
+            "entrant1Name": "2saint",
+            "entrant2Name": "FatGoku",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7717313,
+            "loserId": 7717213,
+            "winnerName": "2saint",
+            "loserName": "FatGoku",
+            "bracketName": "Bracket",
+            "bracketId": 1530770,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4518,
+                    "playerTag": "FatGoku"
+                }
+            ]
+        },
+        {
+            "id": 38786045,
+            "entrant1Id": 7717210,
+            "entrant2Id": 7717313,
+            "entrant1Name": "KoDoRiN",
+            "entrant2Name": "2saint",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7717313,
+            "loserId": 7717210,
+            "winnerName": "2saint",
+            "loserName": "KoDoRiN",
+            "bracketName": "Top 8",
+            "bracketId": 1531923,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 38786044,
+            "entrant1Id": 7717167,
+            "entrant2Id": 7717313,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "2saint",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7717313,
+            "loserId": 7717167,
+            "winnerName": "2saint",
+            "loserName": "bc | S2J",
+            "bracketName": "Top 8",
+            "bracketId": 1531923,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 38786027,
+            "entrant1Id": 7717273,
+            "entrant2Id": 7717313,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7717273,
+            "loserId": 7717313,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "2saint",
+            "bracketName": "Top 8",
+            "bracketId": 1531923,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 38743673,
+            "entrant1Id": 7717313,
+            "entrant2Id": 7717209,
+            "entrant1Name": "2saint",
+            "entrant2Name": "SANS | Blues Clues",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7717313,
+            "loserId": 7717209,
+            "winnerName": "2saint",
+            "loserName": "SANS | Blues Clues",
+            "bracketName": "Bracket",
+            "bracketId": 1530770,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 64692,
+                    "playerTag": "Blues Clues"
+                }
+            ]
+        },
+        {
+            "id": 38786043,
+            "entrant1Id": 7717313,
+            "entrant2Id": 7717206,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Kalamazhu",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7717313,
+            "loserId": 7717206,
+            "winnerName": "2saint",
+            "loserName": "Kalamazhu",
+            "bracketName": "Top 8",
+            "bracketId": 1531923,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ]
+        },
+        {
+            "id": 34362283,
+            "entrant1Id": 6589176,
+            "entrant2Id": 6591851,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Duo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6589176,
+            "loserId": 6591851,
+            "winnerName": "2saint",
+            "loserName": "Duo",
+            "bracketName": "Bracket",
+            "bracketId": 1429312,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 14660,
+                    "playerTag": "Duo"
+                }
+            ]
+        },
+        {
+            "id": 34362279,
+            "entrant1Id": 6589176,
+            "entrant2Id": 6590165,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Zeeker",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6589176,
+            "loserId": 6590165,
+            "winnerName": "2saint",
+            "loserName": "Zeeker",
+            "bracketName": "Bracket",
+            "bracketId": 1429312,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 221136,
+                    "playerTag": "Zeeker"
+                }
+            ]
+        },
+        {
+            "id": 34362271,
+            "entrant1Id": 6589176,
+            "entrant2Id": 6590533,
+            "entrant1Name": "2saint",
+            "entrant2Name": "LuBru",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6589176,
+            "loserId": 6590533,
+            "winnerName": "2saint",
+            "loserName": "LuBru",
+            "bracketName": "Bracket",
+            "bracketId": 1429312,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1278851,
+                    "playerTag": "LuBru"
+                }
+            ]
+        },
+        {
+            "id": 34367168,
+            "entrant1Id": 6589131,
+            "entrant2Id": 6589176,
+            "entrant1Name": "Zain",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6589131,
+            "loserId": 6589176,
+            "winnerName": "Zain",
+            "loserName": "2saint",
+            "bracketName": "Top 64",
+            "bracketId": 1429308,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 34367164,
+            "entrant1Id": 6604916,
+            "entrant2Id": 6589176,
+            "entrant1Name": "LEMON | Kitcatski",
+            "entrant2Name": "2saint",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6589176,
+            "loserId": 6604916,
+            "winnerName": "2saint",
+            "loserName": "LEMON | Kitcatski",
+            "bracketName": "Top 64",
+            "bracketId": 1429308,
+            "entrant1Players": [
+                {
+                    "playerId": 227457,
+                    "playerTag": "Kitcatski"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 34362255,
+            "entrant1Id": 6589176,
+            "entrant2Id": 6606282,
+            "entrant1Name": "2saint",
+            "entrant2Name": "QFGC | Bucktown",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6589176,
+            "loserId": 6606282,
+            "winnerName": "2saint",
+            "loserName": "QFGC | Bucktown",
+            "bracketName": "Bracket",
+            "bracketId": 1429312,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5827,
+                    "playerTag": "Bucktown"
+                }
+            ]
+        },
+        {
+            "id": 34367034,
+            "entrant1Id": 6589838,
+            "entrant2Id": 6589176,
+            "entrant1Name": "Lotfy",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6589838,
+            "loserId": 6589176,
+            "winnerName": "Lotfy",
+            "loserName": "2saint",
+            "bracketName": "Top 64",
+            "bracketId": 1429308,
+            "entrant1Players": [
+                {
+                    "playerId": 257406,
+                    "playerTag": "Lotfy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 34367158,
+            "entrant1Id": 6589176,
+            "entrant2Id": 6589164,
+            "entrant1Name": "2saint",
+            "entrant2Name": "GST | Ryobeat",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6589176,
+            "loserId": 6589164,
+            "winnerName": "2saint",
+            "loserName": "GST | Ryobeat",
+            "bracketName": "Top 64",
+            "bracketId": 1429308,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4748,
+                    "playerTag": "Ryobeat"
+                }
+            ]
+        },
+        {
+            "id": 34367019,
+            "entrant1Id": 6589176,
+            "entrant2Id": 6602350,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Apollo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6589176,
+            "loserId": 6602350,
+            "winnerName": "2saint",
+            "loserName": "Apollo",
+            "bracketName": "Top 64",
+            "bracketId": 1429308,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 493342,
+                    "playerTag": "Apollo"
+                }
+            ]
+        },
+        {
+            "id": 39208779,
+            "entrant1Id": 7927629,
+            "entrant2Id": 7927633,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Brotherhood | Aklo",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7927633,
+            "loserId": 7927629,
+            "winnerName": "Brotherhood | Aklo",
+            "loserName": "2saint",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ]
+        },
+        {
+            "id": 39208906,
+            "entrant1Id": 7927629,
+            "entrant2Id": 7927666,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7927666,
+            "loserId": 7927629,
+            "winnerName": "Just Jason",
+            "loserName": "2saint",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 39208776,
+            "entrant1Id": 7927629,
+            "entrant2Id": 7927655,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7927629,
+            "loserId": 7927655,
+            "winnerName": "2saint",
+            "loserName": "Agency | Wally",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 39208770,
+            "entrant1Id": 7927629,
+            "entrant2Id": 7928859,
+            "entrant1Name": "2saint",
+            "entrant2Name": "The Golden Goose",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7927629,
+            "loserId": 7928859,
+            "winnerName": "2saint",
+            "loserName": "The Golden Goose",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2369741,
+                    "playerTag": "AGeese'sniecenamedDenise"
+                }
+            ]
+        },
+        {
+            "id": 39208758,
+            "entrant1Id": 7927629,
+            "entrant2Id": 7928648,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Buffalo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7927629,
+            "loserId": 7928648,
+            "winnerName": "2saint",
+            "loserName": "Buffalo",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 843302,
+                    "playerTag": "Buffalo"
+                }
+            ]
+        },
+        {
+            "id": 34383765,
+            "entrant1Id": 6585871,
+            "entrant2Id": 6612806,
+            "entrant1Name": "2saint",
+            "entrant2Name": "GUILD | ghettowarmachine420",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6585871,
+            "loserId": 6612806,
+            "winnerName": "2saint",
+            "loserName": "GUILD | ghettowarmachine420",
+            "bracketName": "Bracket",
+            "bracketId": 1428102,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3936,
+                    "playerTag": "grownworkingman"
+                }
+            ]
+        },
+        {
+            "id": 34385660,
+            "entrant1Id": 6612691,
+            "entrant2Id": 6585871,
+            "entrant1Name": "EGtv | FatGoku",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6612691,
+            "loserId": 6585871,
+            "winnerName": "EGtv | FatGoku",
+            "loserName": "2saint",
+            "bracketName": "Top 32",
+            "bracketId": 1430993,
+            "entrant1Players": [
+                {
+                    "playerId": 4518,
+                    "playerTag": "FatGoku"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 34383751,
+            "entrant1Id": 6585871,
+            "entrant2Id": 6598577,
+            "entrant1Name": "2saint",
+            "entrant2Name": "LocalizeIt",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6585871,
+            "loserId": 6598577,
+            "winnerName": "2saint",
+            "loserName": "LocalizeIt",
+            "bracketName": "Bracket",
+            "bracketId": 1428102,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1920513,
+                    "playerTag": "LocalizeIt"
+                }
+            ]
+        },
+        {
+            "id": 34385722,
+            "entrant1Id": 6585871,
+            "entrant2Id": 6612799,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Fable",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6585871,
+            "loserId": 6612799,
+            "winnerName": "2saint",
+            "loserName": "Fable",
+            "bracketName": "Top 32",
+            "bracketId": 1430993,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 8157,
+                    "playerTag": "Fable"
+                }
+            ]
+        },
+        {
+            "id": 34385653,
+            "entrant1Id": 6585871,
+            "entrant2Id": 6590614,
+            "entrant1Name": "2saint",
+            "entrant2Name": "DrewNG",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6585871,
+            "loserId": 6590614,
+            "winnerName": "2saint",
+            "loserName": "DrewNG",
+            "bracketName": "Top 32",
+            "bracketId": 1430993,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 155188,
+                    "playerTag": "DrewNG"
+                }
+            ]
+        },
+        {
+            "id": 34388142,
+            "entrant1Id": 6585871,
+            "entrant2Id": 6604479,
+            "entrant1Name": "2saint",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6604479,
+            "loserId": 6585871,
+            "winnerName": "IMP | Ben",
+            "loserName": "2saint",
+            "bracketName": "Top 8",
+            "bracketId": 1431324,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 35979743,
+            "entrant1Id": 6946052,
+            "entrant2Id": 7002820,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Willy P",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6946052,
+            "loserId": 7002820,
+            "winnerName": "2saint",
+            "loserName": "Willy P",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1464906,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 819230,
+                    "playerTag": "Willy P"
+                }
+            ]
+        },
+        {
+            "id": 35979735,
+            "entrant1Id": 6946052,
+            "entrant2Id": 7000713,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Smeef",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6946052,
+            "loserId": 7000713,
+            "winnerName": "2saint",
+            "loserName": "Smeef",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1464906,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 630691,
+                    "playerTag": "Smeef"
+                }
+            ]
+        },
+        {
+            "id": 35985514,
+            "entrant1Id": 6972982,
+            "entrant2Id": 6946052,
+            "entrant1Name": "rocky",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6972982,
+            "loserId": 6946052,
+            "winnerName": "rocky",
+            "loserName": "2saint",
+            "bracketName": "Top 64",
+            "bracketId": 1466095,
+            "entrant1Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 35979718,
+            "entrant1Id": 6946052,
+            "entrant2Id": 6981056,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Shmeeli",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6946052,
+            "loserId": 6981056,
+            "winnerName": "2saint",
+            "loserName": "Shmeeli",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1464906,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26574,
+                    "playerTag": "Shmeeli"
+                }
+            ]
+        },
+        {
+            "id": 35985389,
+            "entrant1Id": 6989256,
+            "entrant2Id": 6946052,
+            "entrant1Name": "KoDoRiN",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6989256,
+            "loserId": 6946052,
+            "winnerName": "KoDoRiN",
+            "loserName": "2saint",
+            "bracketName": "Top 64",
+            "bracketId": 1466095,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 35985509,
+            "entrant1Id": 6946052,
+            "entrant2Id": 6994214,
+            "entrant1Name": "2saint",
+            "entrant2Name": "SDJ",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6946052,
+            "loserId": 6994214,
+            "winnerName": "2saint",
+            "loserName": "SDJ",
+            "bracketName": "Top 64",
+            "bracketId": 1466095,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 325974,
+                    "playerTag": "SDJ"
+                }
+            ]
+        },
+        {
+            "id": 35985380,
+            "entrant1Id": 7001023,
+            "entrant2Id": 6946052,
+            "entrant1Name": "Smashdaddy",
+            "entrant2Name": "2saint",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6946052,
+            "loserId": 7001023,
+            "winnerName": "2saint",
+            "loserName": "Smashdaddy",
+            "bracketName": "Top 64",
+            "bracketId": 1466095,
+            "entrant1Players": [
+                {
+                    "playerId": 36403,
+                    "playerTag": "Smashdaddy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 35956413,
+            "entrant1Id": 6995088,
+            "entrant2Id": 7003407,
+            "entrant1Name": "2saint",
+            "entrant2Name": "lluZ | PEP | LSD",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7003407,
+            "loserId": 6995088,
+            "winnerName": "lluZ | PEP | LSD",
+            "loserName": "2saint",
+            "bracketName": "Top 8",
+            "bracketId": 1465999,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 35956414,
+            "entrant1Id": 7003407,
+            "entrant2Id": 6995088,
+            "entrant1Name": "lluZ | PEP | LSD",
+            "entrant2Name": "2saint",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6995088,
+            "loserId": 7003407,
+            "winnerName": "2saint",
+            "loserName": "lluZ | PEP | LSD",
+            "bracketName": "Top 8",
+            "bracketId": 1465999,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 35944618,
+            "entrant1Id": 6995088,
+            "entrant2Id": 7003414,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Tomz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6995088,
+            "loserId": 7003414,
+            "winnerName": "2saint",
+            "loserName": "Tomz",
+            "bracketName": "Bracket",
+            "bracketId": 1465986,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1186877,
+                    "playerTag": "Tomz"
+                }
+            ]
+        },
+        {
+            "id": 35956412,
+            "entrant1Id": 7003407,
+            "entrant2Id": 6995088,
+            "entrant1Name": "lluZ | PEP | LSD",
+            "entrant2Name": "2saint",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6995088,
+            "loserId": 7003407,
+            "winnerName": "2saint",
+            "loserName": "lluZ | PEP | LSD",
+            "bracketName": "Top 8",
+            "bracketId": 1465999,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 35944606,
+            "entrant1Id": 6995088,
+            "entrant2Id": 7003800,
+            "entrant1Name": "2saint",
+            "entrant2Name": "DI | Midnight Express",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6995088,
+            "loserId": 7003800,
+            "winnerName": "2saint",
+            "loserName": "DI | Midnight Express",
+            "bracketName": "Bracket",
+            "bracketId": 1465986,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1043824,
+                    "playerTag": "Midnight Express"
+                }
+            ]
+        },
+        {
+            "id": 35946980,
+            "entrant1Id": 6995088,
+            "entrant2Id": 6990013,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Bones",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6995088,
+            "loserId": 6990013,
+            "winnerName": "2saint",
+            "loserName": "Bones",
+            "bracketName": "Top 32",
+            "bracketId": 1465989,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5457,
+                    "playerTag": "Bones"
+                }
+            ]
+        },
+        {
+            "id": 35956411,
+            "entrant1Id": 6982282,
+            "entrant2Id": 6995088,
+            "entrant1Name": "FreeMelee | Zuppy",
+            "entrant2Name": "2saint",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6995088,
+            "loserId": 6982282,
+            "winnerName": "2saint",
+            "loserName": "FreeMelee | Zuppy",
+            "bracketName": "Top 8",
+            "bracketId": 1465999,
+            "entrant1Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 35946975,
+            "entrant1Id": 6995088,
+            "entrant2Id": 6987001,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Lotfy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6995088,
+            "loserId": 6987001,
+            "winnerName": "2saint",
+            "loserName": "Lotfy",
+            "bracketName": "Top 32",
+            "bracketId": 1465989,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 257406,
+                    "playerTag": "Lotfy"
+                }
+            ]
+        },
+        {
+            "id": 40610801,
+            "entrant1Id": 4767641,
+            "entrant2Id": 8272546,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Silver",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4767641,
+            "loserId": 8272546,
+            "winnerName": "2saint",
+            "loserName": "Silver",
+            "bracketName": "Pools",
+            "bracketId": 1183426,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 132604,
+                    "playerTag": "Silver"
+                }
+            ]
+        },
+        {
+            "id": 40628321,
+            "entrant1Id": 4767641,
+            "entrant2Id": 4819867,
+            "entrant1Name": "2saint",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 4819867,
+            "loserId": 4767641,
+            "winnerName": "BLE | SluG",
+            "loserName": "2saint",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 40610797,
+            "entrant1Id": 4767641,
+            "entrant2Id": 7897003,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Hayato",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4767641,
+            "loserId": 7897003,
+            "winnerName": "2saint",
+            "loserName": "Hayato",
+            "bracketName": "Pools",
+            "bracketId": 1183426,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4366,
+                    "playerTag": "Hayato"
+                }
+            ]
+        },
+        {
+            "id": 40628385,
+            "entrant1Id": 4767641,
+            "entrant2Id": 8286153,
+            "entrant1Name": "2saint",
+            "entrant2Name": "CG | Jflex",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8286153,
+            "loserId": 4767641,
+            "winnerName": "CG | Jflex",
+            "loserName": "2saint",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 40628319,
+            "entrant1Id": 4767641,
+            "entrant2Id": 8290058,
+            "entrant1Name": "2saint",
+            "entrant2Name": "TheSWOOPER",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4767641,
+            "loserId": 8290058,
+            "winnerName": "2saint",
+            "loserName": "TheSWOOPER",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50606,
+                    "playerTag": "TheSWOOPER"
+                }
+            ]
+        },
+        {
+            "id": 40610789,
+            "entrant1Id": 4767641,
+            "entrant2Id": 7997469,
+            "entrant1Name": "2saint",
+            "entrant2Name": "DART | BSAO | BRUCE",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4767641,
+            "loserId": 7997469,
+            "winnerName": "2saint",
+            "loserName": "DART | BSAO | BRUCE",
+            "bracketName": "Pools",
+            "bracketId": 1183426,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 671783,
+                    "playerTag": "BRUCE"
+                }
+            ]
+        },
+        {
+            "id": 40628315,
+            "entrant1Id": 4767641,
+            "entrant2Id": 8287523,
+            "entrant1Name": "2saint",
+            "entrant2Name": "MP | Bank",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4767641,
+            "loserId": 8287523,
+            "winnerName": "2saint",
+            "loserName": "MP | Bank",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 352066,
+                    "playerTag": "Bank"
+                }
+            ]
+        },
+        {
+            "id": 37702337,
+            "entrant1Id": 7435494,
+            "entrant2Id": 7435406,
+            "entrant1Name": "2saint",
+            "entrant2Name": "CG | Jflex",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7435406,
+            "loserId": 7435494,
+            "winnerName": "CG | Jflex",
+            "loserName": "2saint",
+            "bracketName": "Bracket",
+            "bracketId": 1503601,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 37702593,
+            "entrant1Id": 7435494,
+            "entrant2Id": 7433500,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Akir",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7435494,
+            "loserId": 7433500,
+            "winnerName": "2saint",
+            "loserName": "Akir",
+            "bracketName": "Bracket",
+            "bracketId": 1503601,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 144798,
+                    "playerTag": "Akir"
+                }
+            ]
+        },
+        {
+            "id": 37702333,
+            "entrant1Id": 7435494,
+            "entrant2Id": 7435582,
+            "entrant1Name": "2saint",
+            "entrant2Name": "404 YC | Salt",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7435494,
+            "loserId": 7435582,
+            "winnerName": "2saint",
+            "loserName": "404 YC | Salt",
+            "bracketName": "Bracket",
+            "bracketId": 1503601,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 133666,
+                    "playerTag": "Salt"
+                }
+            ]
+        },
+        {
+            "id": 37702325,
+            "entrant1Id": 7435494,
+            "entrant2Id": 7431588,
+            "entrant1Name": "2saint",
+            "entrant2Name": "K8A",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7435494,
+            "loserId": 7431588,
+            "winnerName": "2saint",
+            "loserName": "K8A",
+            "bracketName": "Bracket",
+            "bracketId": 1503601,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12048,
+                    "playerTag": "K8A"
+                }
+            ]
+        },
+        {
+            "id": 37702309,
+            "entrant1Id": 7435494,
+            "entrant2Id": 7435343,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Jada | The Beetle King",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7435494,
+            "loserId": 7435343,
+            "winnerName": "2saint",
+            "loserName": "Jada | The Beetle King",
+            "bracketName": "Bracket",
+            "bracketId": 1503601,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 18679,
+                    "playerTag": "Jada"
+                }
+            ]
+        },
+        {
+            "id": 37702277,
+            "entrant1Id": 7435494,
+            "entrant2Id": 7420956,
+            "entrant1Name": "2saint",
+            "entrant2Name": "DJAN",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7435494,
+            "loserId": 7420956,
+            "winnerName": "2saint",
+            "loserName": "DJAN",
+            "bracketName": "Bracket",
+            "bracketId": 1503601,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175446,
+                    "playerTag": "DJAN"
+                }
+            ]
+        },
+        {
+            "id": 37709505,
+            "entrant1Id": 7435494,
+            "entrant2Id": 7435719,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Brotherhood | Aklo",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7435719,
+            "loserId": 7435494,
+            "winnerName": "Brotherhood | Aklo",
+            "loserName": "2saint",
+            "bracketName": "Top 8",
+            "bracketId": 1503603,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ]
+        },
+        {
+            "id": 37709503,
+            "entrant1Id": 7433709,
+            "entrant2Id": 7435494,
+            "entrant1Name": "UGS | Michael",
+            "entrant2Name": "2saint",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7435494,
+            "loserId": 7433709,
+            "winnerName": "2saint",
+            "loserName": "UGS | Michael",
+            "bracketName": "Top 8",
+            "bracketId": 1503603,
+            "entrant1Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 37709501,
+            "entrant1Id": 7435494,
+            "entrant2Id": 7428120,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Grab",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7435494,
+            "loserId": 7428120,
+            "winnerName": "2saint",
+            "loserName": "Grab",
+            "bracketName": "Top 8",
+            "bracketId": 1503603,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 244116,
+                    "playerTag": "Grab"
+                }
+            ]
+        },
+        {
+            "id": 37212642,
+            "entrant1Id": 7314211,
+            "entrant2Id": 7314699,
+            "entrant1Name": "2saint",
+            "entrant2Name": "K8A",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7314211,
+            "loserId": 7314699,
+            "winnerName": "2saint",
+            "loserName": "K8A",
+            "bracketName": "Bracket",
+            "bracketId": 1493828,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12048,
+                    "playerTag": "K8A"
+                }
+            ]
+        },
+        {
+            "id": 37212638,
+            "entrant1Id": 7314211,
+            "entrant2Id": 7315318,
+            "entrant1Name": "2saint",
+            "entrant2Name": "FKN Silver",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7314211,
+            "loserId": 7315318,
+            "winnerName": "2saint",
+            "loserName": "FKN Silver",
+            "bracketName": "Bracket",
+            "bracketId": 1493828,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 220377,
+                    "playerTag": "fknsilver"
+                }
+            ]
+        },
+        {
+            "id": 37212630,
+            "entrant1Id": 7314211,
+            "entrant2Id": 7313906,
+            "entrant1Name": "2saint",
+            "entrant2Name": "119 | Douglas.J.Gov",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7314211,
+            "loserId": 7313906,
+            "winnerName": "2saint",
+            "loserName": "119 | Douglas.J.Gov",
+            "bracketName": "Bracket",
+            "bracketId": 1493828,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 789026,
+                    "playerTag": "Douglas.J.Gov"
+                }
+            ]
+        },
+        {
+            "id": 37219109,
+            "entrant1Id": 7314211,
+            "entrant2Id": 7315477,
+            "entrant1Name": "2saint",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7314211,
+            "loserId": 7315477,
+            "winnerName": "2saint",
+            "loserName": "TG | Mot$",
+            "bracketName": "Top 8",
+            "bracketId": 1493830,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 37219108,
+            "entrant1Id": 7314211,
+            "entrant2Id": 7315477,
+            "entrant1Name": "2saint",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7314211,
+            "loserId": 7315477,
+            "winnerName": "2saint",
+            "loserName": "TG | Mot$",
+            "bracketName": "Top 8",
+            "bracketId": 1493830,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 37212614,
+            "entrant1Id": 7314211,
+            "entrant2Id": 7314605,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Scuffed | Mirai",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7314211,
+            "loserId": 7314605,
+            "winnerName": "2saint",
+            "loserName": "Scuffed | Mirai",
+            "bracketName": "Bracket",
+            "bracketId": 1493828,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 215223,
+                    "playerTag": "Mirai"
+                }
+            ]
+        },
+        {
+            "id": 37219106,
+            "entrant1Id": 7314211,
+            "entrant2Id": 7315052,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Pi#374",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7314211,
+            "loserId": 7315052,
+            "winnerName": "2saint",
+            "loserName": "Pi#374",
+            "bracketName": "Top 8",
+            "bracketId": 1493830,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 25975,
+                    "playerTag": "Pi#374"
+                }
+            ]
+        },
+        {
+            "id": 35883818,
+            "entrant1Id": 6988055,
+            "entrant2Id": 6991683,
+            "entrant1Name": "2saint",
+            "entrant2Name": "FreeMelee | Zuppy",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6991683,
+            "loserId": 6988055,
+            "winnerName": "FreeMelee | Zuppy",
+            "loserName": "2saint",
+            "bracketName": "Bracket",
+            "bracketId": 1462076,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ]
+        },
+        {
+            "id": 35883815,
+            "entrant1Id": 6988055,
+            "entrant2Id": 6990412,
+            "entrant1Name": "2saint",
+            "entrant2Name": "TG NBR | Panayiotis",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6988055,
+            "loserId": 6990412,
+            "winnerName": "2saint",
+            "loserName": "TG NBR | Panayiotis",
+            "bracketName": "Bracket",
+            "bracketId": 1462076,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16066,
+                    "playerTag": "Panos"
+                }
+            ]
+        },
+        {
+            "id": 35883809,
+            "entrant1Id": 6988055,
+            "entrant2Id": 6992740,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Anvil",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6988055,
+            "loserId": 6992740,
+            "winnerName": "2saint",
+            "loserName": "Anvil",
+            "bracketName": "Bracket",
+            "bracketId": 1462076,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 224511,
+                    "playerTag": "Anvil"
+                }
+            ]
+        },
+        {
+            "id": 35883797,
+            "entrant1Id": 6988055,
+            "entrant2Id": 6986378,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Arvin K",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6988055,
+            "loserId": 6986378,
+            "winnerName": "2saint",
+            "loserName": "Arvin K",
+            "bracketName": "Bracket",
+            "bracketId": 1462076,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 852342,
+                    "playerTag": "Arvin K"
+                }
+            ]
+        },
+        {
+            "id": 35883773,
+            "entrant1Id": 6988055,
+            "entrant2Id": 6993247,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Meyer",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6988055,
+            "loserId": 6993247,
+            "winnerName": "2saint",
+            "loserName": "Meyer",
+            "bracketName": "Bracket",
+            "bracketId": 1462076,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1724840,
+                    "playerTag": "Meyer"
+                }
+            ]
+        },
+        {
+            "id": 35727402,
+            "entrant1Id": 6952942,
+            "entrant2Id": 6949853,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Juicebox",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6952942,
+            "loserId": 6949853,
+            "winnerName": "2saint",
+            "loserName": "Juicebox",
+            "bracketName": "Bracket",
+            "bracketId": 1457778,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6304,
+                    "playerTag": "Juicebox"
+                }
+            ]
+        },
+        {
+            "id": 35727399,
+            "entrant1Id": 6952942,
+            "entrant2Id": 6954947,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Bbatts",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6952942,
+            "loserId": 6954947,
+            "winnerName": "2saint",
+            "loserName": "Bbatts",
+            "bracketName": "Bracket",
+            "bracketId": 1457778,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 542693,
+                    "playerTag": "Bbatts"
+                }
+            ]
+        },
+        {
+            "id": 35727393,
+            "entrant1Id": 6952942,
+            "entrant2Id": 6954244,
+            "entrant1Name": "2saint",
+            "entrant2Name": "LAGr | Travioli",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6952942,
+            "loserId": 6954244,
+            "winnerName": "2saint",
+            "loserName": "LAGr | Travioli",
+            "bracketName": "Bracket",
+            "bracketId": 1457778,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 215584,
+                    "playerTag": "Travioli"
+                }
+            ]
+        },
+        {
+            "id": 35731001,
+            "entrant1Id": 6952942,
+            "entrant2Id": 6952717,
+            "entrant1Name": "2saint",
+            "entrant2Name": "UMF | Jmook",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6952942,
+            "loserId": 6952717,
+            "winnerName": "2saint",
+            "loserName": "UMF | Jmook",
+            "bracketName": "Top 8",
+            "bracketId": 1457780,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 35727381,
+            "entrant1Id": 6952942,
+            "entrant2Id": 6954247,
+            "entrant1Name": "2saint",
+            "entrant2Name": "NS | Frog",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6952942,
+            "loserId": 6954247,
+            "winnerName": "2saint",
+            "loserName": "NS | Frog",
+            "bracketName": "Bracket",
+            "bracketId": 1457778,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 153599,
+                    "playerTag": "NSFrog"
+                }
+            ]
+        },
+        {
+            "id": 35731000,
+            "entrant1Id": 6952942,
+            "entrant2Id": 6954491,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Komodo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6952942,
+            "loserId": 6954491,
+            "winnerName": "2saint",
+            "loserName": "Komodo",
+            "bracketName": "Top 8",
+            "bracketId": 1457780,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 275598,
+                    "playerTag": "Komodo"
+                }
+            ]
+        },
+        {
+            "id": 35730998,
+            "entrant1Id": 6953149,
+            "entrant2Id": 6952942,
+            "entrant1Name": "Bones",
+            "entrant2Name": "2saint",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6952942,
+            "loserId": 6953149,
+            "winnerName": "2saint",
+            "loserName": "Bones",
+            "bracketName": "Top 8",
+            "bracketId": 1457780,
+            "entrant1Players": [
+                {
+                    "playerId": 5457,
+                    "playerTag": "Bones"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 39364867,
+            "entrant1Id": 7978055,
+            "entrant2Id": 7978451,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Captain Smuckers",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7978451,
+            "loserId": 7978055,
+            "winnerName": "Captain Smuckers",
+            "loserName": "2saint",
+            "bracketName": "Bracket",
+            "bracketId": 1545817,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4824,
+                    "playerTag": "Captain Smuckers"
+                }
+            ]
+        },
+        {
+            "id": 39364740,
+            "entrant1Id": 7978055,
+            "entrant2Id": 7978028,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Bbatts",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7978028,
+            "loserId": 7978055,
+            "winnerName": "Bbatts",
+            "loserName": "2saint",
+            "bracketName": "Bracket",
+            "bracketId": 1545817,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 542693,
+                    "playerTag": "Bbatts"
+                }
+            ]
+        },
+        {
+            "id": 39364863,
+            "entrant1Id": 7978055,
+            "entrant2Id": 7978040,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Dub | 7 | Error",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7978055,
+            "loserId": 7978040,
+            "winnerName": "2saint",
+            "loserName": "Dub | 7 | Error",
+            "bracketName": "Bracket",
+            "bracketId": 1545817,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 173824,
+                    "playerTag": "Error"
+                }
+            ]
+        },
+        {
+            "id": 39364734,
+            "entrant1Id": 7978055,
+            "entrant2Id": 7978470,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Son2",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7978055,
+            "loserId": 7978470,
+            "winnerName": "2saint",
+            "loserName": "Son2",
+            "bracketName": "Bracket",
+            "bracketId": 1545817,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4309,
+                    "playerTag": "Son2"
+                }
+            ]
+        },
+        {
+            "id": 39364722,
+            "entrant1Id": 7978055,
+            "entrant2Id": 7979303,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Drew",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7978055,
+            "loserId": 7979303,
+            "winnerName": "2saint",
+            "loserName": "Drew",
+            "bracketName": "Bracket",
+            "bracketId": 1545817,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2132205,
+                    "playerTag": "Drew6"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "Bones",
+        "n0ne/ Bond / wizzyfan109",
+        "S2J",
+        "S2J",
+        "bobby big ballz",
+        "Colbol",
+        "Aklo",
+        "Hungrybox",
+        "Aura",
+        "lloD",
+        "Zealot",
+        "bobby big ballz",
+        "KoDoRiN",
+        "S2J",
+        "Gahtzu",
+        "n0ne/ Bond / wizzyfan109",
+        "Pappi",
+        "billybopeep",
+        "Axe",
+        "billybopeep",
+        "Albert",
+        "Albert",
+        "SFOP",
+        "SFOP",
+        "KoDoRiN",
+        "S2J",
+        "Kalamazhu",
+        "Ryobeat",
+        "Wally",
+        "SDJ",
+        "Logan",
+        "Logan",
+        "Bones",
+        "Zuppy",
+        "TheSWOOPER",
+        "Michael",
+        "Mot$",
+        "Mot$",
+        "Juicebox",
+        "Jmook",
+        "Bones"
+    ],
+    "L": [
+        "bobby big ballz",
+        "Aklo",
+        "Axe",
+        "Hungrybox",
+        "iBDW",
+        "Plup",
+        "moky",
+        "Ginger",
+        "Hax$",
+        "SluG",
+        "Ginger",
+        "Eddy Mexico",
+        "SFAT",
+        "SFAT",
+        "moky",
+        "n0ne/ Bond / wizzyfan109",
+        "Justus",
+        "TheRealThing",
+        "TheRealThing",
+        "Albert",
+        "Colbol",
+        "iBDW",
+        "Logan",
+        "Aklo",
+        "Wizzrobe",
+        "Wizzrobe",
+        "Zain",
+        "Lotfy",
+        "Aklo",
+        "Just Jason",
+        "FatGoku",
+        "Ben",
+        "Rocky",
+        "KoDoRiN",
+        "Logan",
+        "SluG",
+        "Jflex",
+        "Jflex",
+        "Aklo",
+        "Zuppy",
+        "Captain Smuckers",
+        "Bbatts"
+    ]
+}
