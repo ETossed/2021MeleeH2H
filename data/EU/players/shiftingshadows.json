@@ -1,0 +1,2408 @@
+{
+    "Events": [
+        570804,
+        545157,
+        550373,
+        549952,
+        549684,
+        543662,
+        554988,
+        550163,
+        541113
+    ],
+    "Sets": [
+        {
+            "id": 40030638,
+            "entrant1Id": 7984596,
+            "entrant2Id": 7306736,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Pi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7984596,
+            "loserId": 7306736,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Pi",
+            "bracketName": "Pools",
+            "bracketId": 1485633,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54828,
+                    "playerTag": "Pi"
+                }
+            ]
+        },
+        {
+            "id": 40030635,
+            "entrant1Id": 7984596,
+            "entrant2Id": 8055881,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Phoenix | Shais Young",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7984596,
+            "loserId": 8055881,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Phoenix | Shais Young",
+            "bracketName": "Pools",
+            "bracketId": 1485633,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47337,
+                    "playerTag": "Shais Young"
+                }
+            ]
+        },
+        {
+            "id": 40036004,
+            "entrant1Id": 7304788,
+            "entrant2Id": 7984596,
+            "entrant1Name": "Lost Souls | GG",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7304788,
+            "loserId": 7984596,
+            "winnerName": "Lost Souls | GG",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 36947,
+                    "playerTag": "GG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 40035999,
+            "entrant1Id": 7481629,
+            "entrant2Id": 7984596,
+            "entrant1Name": "Silas",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7984596,
+            "loserId": 7481629,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Silas",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 132637,
+                    "playerTag": "Silas"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 40030632,
+            "entrant1Id": 7984596,
+            "entrant2Id": 7510948,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "A2BS",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7984596,
+            "loserId": 7510948,
+            "winnerName": "ShiftingShadows",
+            "loserName": "A2BS",
+            "bracketName": "Pools",
+            "bracketId": 1485633,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1215036,
+                    "playerTag": "A2BS"
+                }
+            ]
+        },
+        {
+            "id": 40035991,
+            "entrant1Id": 7984596,
+            "entrant2Id": 7993004,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Modentor",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7984596,
+            "loserId": 7993004,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Modentor",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 409237,
+                    "playerTag": "Modentor"
+                }
+            ]
+        },
+        {
+            "id": 40035862,
+            "entrant1Id": 7984596,
+            "entrant2Id": 7949844,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "4kPlaya",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7949844,
+            "loserId": 7984596,
+            "winnerName": "4kPlaya",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 244974,
+                    "playerTag": "4kPlaya"
+                }
+            ]
+        },
+        {
+            "id": 40035980,
+            "entrant1Id": 7984596,
+            "entrant2Id": 8055858,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Heir | X1",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7984596,
+            "loserId": 8055858,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Heir | X1",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12343,
+                    "playerTag": "X1"
+                }
+            ]
+        },
+        {
+            "id": 40030629,
+            "entrant1Id": 7984596,
+            "entrant2Id": 8055839,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Jichar",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7984596,
+            "loserId": 8055839,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Jichar",
+            "bracketName": "Pools",
+            "bracketId": 1485633,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 454247,
+                    "playerTag": "Jichar"
+                }
+            ]
+        },
+        {
+            "id": 40035835,
+            "entrant1Id": 7984596,
+            "entrant2Id": 7399117,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Skips",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7984596,
+            "loserId": 7399117,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Skips",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 523928,
+                    "playerTag": "Skips"
+                }
+            ]
+        },
+        {
+            "id": 39836868,
+            "entrant1Id": 8076040,
+            "entrant2Id": 8020772,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "qemp | AshClaye",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8076040,
+            "loserId": 8020772,
+            "winnerName": "ShiftingShadows",
+            "loserName": "qemp | AshClaye",
+            "bracketName": "Round Robin",
+            "bracketId": 1434147,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2147013,
+                    "playerTag": "AshClaye"
+                }
+            ]
+        },
+        {
+            "id": 39836858,
+            "entrant1Id": 8081597,
+            "entrant2Id": 8076040,
+            "entrant1Name": "PS | Ice",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081597,
+            "loserId": 8076040,
+            "winnerName": "PS | Ice",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Round Robin",
+            "bracketId": 1434147,
+            "entrant1Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 39836846,
+            "entrant1Id": 8014793,
+            "entrant2Id": 8076040,
+            "entrant1Name": "Khobz",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8076040,
+            "loserId": 8014793,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Khobz",
+            "bracketName": "Round Robin",
+            "bracketId": 1434147,
+            "entrant1Players": [
+                {
+                    "playerId": 2097667,
+                    "playerTag": "Khobz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 39886568,
+            "entrant1Id": 8081977,
+            "entrant2Id": 8076040,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8081977,
+            "loserId": 8076040,
+            "winnerName": "Levingy",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 39836840,
+            "entrant1Id": 8017221,
+            "entrant2Id": 8076040,
+            "entrant1Name": "skullbro",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8076040,
+            "loserId": 8017221,
+            "winnerName": "ShiftingShadows",
+            "loserName": "skullbro",
+            "bracketName": "Round Robin",
+            "bracketId": 1434147,
+            "entrant1Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 39886564,
+            "entrant1Id": 8076040,
+            "entrant2Id": 8012935,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "CW | Noxxa",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8076040,
+            "loserId": 8012935,
+            "winnerName": "ShiftingShadows",
+            "loserName": "CW | Noxxa",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 283651,
+                    "playerTag": "Noxxa"
+                }
+            ]
+        },
+        {
+            "id": 39886559,
+            "entrant1Id": 8096887,
+            "entrant2Id": 8076040,
+            "entrant1Name": "abbearv",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8076040,
+            "loserId": 8096887,
+            "winnerName": "ShiftingShadows",
+            "loserName": "abbearv",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 1853889,
+                    "playerTag": "abbearv"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 39836832,
+            "entrant1Id": 8076040,
+            "entrant2Id": 8082402,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "EuO",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8076040,
+            "loserId": 8082402,
+            "winnerName": "ShiftingShadows",
+            "loserName": "EuO",
+            "bracketName": "Round Robin",
+            "bracketId": 1434147,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40016,
+                    "playerTag": "EuO"
+                }
+            ]
+        },
+        {
+            "id": 39886551,
+            "entrant1Id": 8096574,
+            "entrant2Id": 8076040,
+            "entrant1Name": "Brave",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8076040,
+            "loserId": 8096574,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Brave",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 2114558,
+                    "playerTag": "BraveHeart"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 39886493,
+            "entrant1Id": 8076040,
+            "entrant2Id": 8081989,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Velani",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8081989,
+            "loserId": 8076040,
+            "winnerName": "Velani",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 517638,
+                    "playerTag": "Velani"
+                }
+            ]
+        },
+        {
+            "id": 39836824,
+            "entrant1Id": 8076040,
+            "entrant2Id": 8097466,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Pilot",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8076040,
+            "loserId": 8097466,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Pilot",
+            "bracketName": "Round Robin",
+            "bracketId": 1434147,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 14677,
+                    "playerTag": "Pilot"
+                }
+            ]
+        },
+        {
+            "id": 39272650,
+            "entrant1Id": 7939381,
+            "entrant2Id": 7641554,
+            "entrant1Name": "Setchi",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7939381,
+            "loserId": 7641554,
+            "winnerName": "Setchi",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545568,
+            "entrant1Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 39272647,
+            "entrant1Id": 7634184,
+            "entrant2Id": 7641554,
+            "entrant1Name": "BFM | upgamer | ECS1312",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7641554,
+            "loserId": 7634184,
+            "winnerName": "ShiftingShadows",
+            "loserName": "BFM | upgamer | ECS1312",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545568,
+            "entrant1Players": [
+                {
+                    "playerId": 563223,
+                    "playerTag": "ECS"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 39317106,
+            "entrant1Id": 7640530,
+            "entrant2Id": 7641554,
+            "entrant1Name": "Sharp",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7640530,
+            "loserId": 7641554,
+            "winnerName": "Sharp",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 39272641,
+            "entrant1Id": 7946002,
+            "entrant2Id": 7641554,
+            "entrant1Name": "Liax",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7946002,
+            "loserId": 7641554,
+            "winnerName": "Liax",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545568,
+            "entrant1Players": [
+                {
+                    "playerId": 9653,
+                    "playerTag": "Liax"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 39317098,
+            "entrant1Id": 7929930,
+            "entrant2Id": 7641554,
+            "entrant1Name": "PSG | Madness",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7641554,
+            "loserId": 7929930,
+            "winnerName": "ShiftingShadows",
+            "loserName": "PSG | Madness",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 896272,
+                    "playerTag": "Madness"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 39316974,
+            "entrant1Id": 7908381,
+            "entrant2Id": 7641554,
+            "entrant1Name": "abbearv",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7908381,
+            "loserId": 7641554,
+            "winnerName": "abbearv",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 1853889,
+                    "playerTag": "abbearv"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 39317086,
+            "entrant1Id": 7641554,
+            "entrant2Id": 7942588,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Jormis",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7641554,
+            "loserId": 7942588,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Jormis",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 688393,
+                    "playerTag": "Jormis"
+                }
+            ]
+        },
+        {
+            "id": 39272637,
+            "entrant1Id": 7641554,
+            "entrant2Id": 7641172,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Touffe",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7641554,
+            "loserId": 7641172,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Touffe",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545568,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 503722,
+                    "playerTag": "Touffe"
+                }
+            ]
+        },
+        {
+            "id": 39316951,
+            "entrant1Id": 7641554,
+            "entrant2Id": 7876210,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "EuO",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7641554,
+            "loserId": 7876210,
+            "winnerName": "ShiftingShadows",
+            "loserName": "EuO",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40016,
+                    "playerTag": "EuO"
+                }
+            ]
+        },
+        {
+            "id": 39272632,
+            "entrant1Id": 7641554,
+            "entrant2Id": 7895198,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Geryaa",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7641554,
+            "loserId": 7895198,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Geryaa",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545568,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1656879,
+                    "playerTag": "Geryaa"
+                }
+            ]
+        },
+        {
+            "id": 38374554,
+            "entrant1Id": 7415552,
+            "entrant2Id": 7475772,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7415552,
+            "loserId": 7475772,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Pools",
+            "bracketId": 1521931,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 38374549,
+            "entrant1Id": 7602999,
+            "entrant2Id": 7475772,
+            "entrant1Name": "Juice",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7475772,
+            "loserId": 7602999,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Juice",
+            "bracketName": "Pools",
+            "bracketId": 1521931,
+            "entrant1Players": [
+                {
+                    "playerId": 2268844,
+                    "playerTag": "Juice"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 38374545,
+            "entrant1Id": 7566469,
+            "entrant2Id": 7475772,
+            "entrant1Name": "Ghoul",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7475772,
+            "loserId": 7566469,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Ghoul",
+            "bracketName": "Pools",
+            "bracketId": 1521931,
+            "entrant1Players": [
+                {
+                    "playerId": 228711,
+                    "playerTag": "Ghoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 38374539,
+            "entrant1Id": 7600934,
+            "entrant2Id": 7475772,
+            "entrant1Name": "Psylo",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7600934,
+            "loserId": 7475772,
+            "winnerName": "Psylo",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Pools",
+            "bracketId": 1521931,
+            "entrant1Players": [
+                {
+                    "playerId": 233945,
+                    "playerTag": "Psylo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 38424600,
+            "entrant1Id": 7475772,
+            "entrant2Id": 7600744,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "PSG | Madness",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7600744,
+            "loserId": 7475772,
+            "winnerName": "PSG | Madness",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 896272,
+                    "playerTag": "Madness"
+                }
+            ]
+        },
+        {
+            "id": 38424587,
+            "entrant1Id": 7446172,
+            "entrant2Id": 7475772,
+            "entrant1Name": "FANA | Niklas2912",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7475772,
+            "loserId": 7446172,
+            "winnerName": "ShiftingShadows",
+            "loserName": "FANA | Niklas2912",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 23781,
+                    "playerTag": "Niklas2912"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 38374533,
+            "entrant1Id": 7475772,
+            "entrant2Id": 7541951,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Xin",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7475772,
+            "loserId": 7541951,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Xin",
+            "bracketName": "Pools",
+            "bracketId": 1521931,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23289,
+                    "playerTag": "Xin"
+                }
+            ]
+        },
+        {
+            "id": 38424449,
+            "entrant1Id": 7559452,
+            "entrant2Id": 7475772,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7559452,
+            "loserId": 7475772,
+            "winnerName": "Laurster",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 38374526,
+            "entrant1Id": 7475772,
+            "entrant2Id": 7497221,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "MadsVH",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7475772,
+            "loserId": 7497221,
+            "winnerName": "ShiftingShadows",
+            "loserName": "MadsVH",
+            "bracketName": "Pools",
+            "bracketId": 1521931,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 502995,
+                    "playerTag": "MadsVH"
+                }
+            ]
+        },
+        {
+            "id": 37559588,
+            "entrant1Id": 7243167,
+            "entrant2Id": 7311712,
+            "entrant1Name": "Paju",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7311712,
+            "loserId": 7243167,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Paju",
+            "bracketName": "Changing room",
+            "bracketId": 1500139,
+            "entrant1Players": [
+                {
+                    "playerId": 12882,
+                    "playerTag": "Paju"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 37559587,
+            "entrant1Id": 7374552,
+            "entrant2Id": 7311712,
+            "entrant1Name": "Nano",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7374552,
+            "loserId": 7311712,
+            "winnerName": "Nano",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Changing room",
+            "bracketId": 1500139,
+            "entrant1Players": [
+                {
+                    "playerId": 26319,
+                    "playerTag": "Nano"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 37613495,
+            "entrant1Id": 7311712,
+            "entrant2Id": 7371272,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Sharp",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7371272,
+            "loserId": 7311712,
+            "winnerName": "Sharp",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ]
+        },
+        {
+            "id": 37613369,
+            "entrant1Id": 7275750,
+            "entrant2Id": 7311712,
+            "entrant1Name": "Meady",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7275750,
+            "loserId": 7311712,
+            "winnerName": "Meady",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 37613483,
+            "entrant1Id": 7311712,
+            "entrant2Id": 7369756,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7311712,
+            "loserId": 7369756,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Laurster",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 37559583,
+            "entrant1Id": 7311712,
+            "entrant2Id": 7260581,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Touffe",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7311712,
+            "loserId": 7260581,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Touffe",
+            "bracketName": "Changing room",
+            "bracketId": 1500139,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 503722,
+                    "playerTag": "Touffe"
+                }
+            ]
+        },
+        {
+            "id": 37613345,
+            "entrant1Id": 7370731,
+            "entrant2Id": 7311712,
+            "entrant1Name": "PSG | Madness",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7311712,
+            "loserId": 7370731,
+            "winnerName": "ShiftingShadows",
+            "loserName": "PSG | Madness",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 896272,
+                    "playerTag": "Madness"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 37559580,
+            "entrant1Id": 7311712,
+            "entrant2Id": 7366516,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Syltapa",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7311712,
+            "loserId": 7366516,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Syltapa",
+            "bracketName": "Changing room",
+            "bracketId": 1500139,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 550111,
+                    "playerTag": "Syltapa"
+                }
+            ]
+        },
+        {
+            "id": 36914547,
+            "entrant1Id": 7094405,
+            "entrant2Id": 7092260,
+            "entrant1Name": "nebbii",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7094405,
+            "loserId": 7092260,
+            "winnerName": "nebbii",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Pools",
+            "bracketId": 1472609,
+            "entrant1Players": [
+                {
+                    "playerId": 5736,
+                    "playerTag": "nebbii"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 36914545,
+            "entrant1Id": 7230159,
+            "entrant2Id": 7092260,
+            "entrant1Name": "soyboy",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7092260,
+            "loserId": 7230159,
+            "winnerName": "ShiftingShadows",
+            "loserName": "soyboy",
+            "bracketName": "Pools",
+            "bracketId": 1472609,
+            "entrant1Players": [
+                {
+                    "playerId": 250949,
+                    "playerTag": "soyboy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 36954578,
+            "entrant1Id": 7229114,
+            "entrant2Id": 7092260,
+            "entrant1Name": "ISTE | Dr. Essmann",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7229114,
+            "loserId": 7092260,
+            "winnerName": "ISTE | Dr. Essmann",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1488048,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 36954632,
+            "entrant1Id": 7092260,
+            "entrant2Id": 7228802,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "RestlessWhale",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7228802,
+            "loserId": 7092260,
+            "winnerName": "RestlessWhale",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1488048,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11992,
+                    "playerTag": "RestlessWhale"
+                }
+            ]
+        },
+        {
+            "id": 36914540,
+            "entrant1Id": 7092260,
+            "entrant2Id": 7079711,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Mad4Men",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7092260,
+            "loserId": 7079711,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Mad4Men",
+            "bracketName": "Pools",
+            "bracketId": 1472609,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11473,
+                    "playerTag": "Mad4Men"
+                }
+            ]
+        },
+        {
+            "id": 36954568,
+            "entrant1Id": 7092260,
+            "entrant2Id": 7219629,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "LELA",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7092260,
+            "loserId": 7219629,
+            "winnerName": "ShiftingShadows",
+            "loserName": "LELA",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1488048,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11927,
+                    "playerTag": "LELA"
+                }
+            ]
+        },
+        {
+            "id": 36914536,
+            "entrant1Id": 7092260,
+            "entrant2Id": 7094548,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Bronol",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7092260,
+            "loserId": 7094548,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Bronol",
+            "bracketName": "Pools",
+            "bracketId": 1472609,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 633082,
+                    "playerTag": "Bronol"
+                }
+            ]
+        },
+        {
+            "id": 36297568,
+            "entrant1Id": 6929369,
+            "entrant2Id": 7013860,
+            "entrant1Name": "RedBlaze",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6929369,
+            "loserId": 7013860,
+            "winnerName": "RedBlaze",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Pools",
+            "bracketId": 1470137,
+            "entrant1Players": [
+                {
+                    "playerId": 39225,
+                    "playerTag": "RedBlaze"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 36297541,
+            "entrant1Id": 7013860,
+            "entrant2Id": 6935861,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Ping",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7013860,
+            "loserId": 6935861,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Ping",
+            "bracketName": "Pools",
+            "bracketId": 1470137,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 256670,
+                    "playerTag": "Ping"
+                }
+            ]
+        },
+        {
+            "id": 36299174,
+            "entrant1Id": 7013860,
+            "entrant2Id": 6919595,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Velani",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7013860,
+            "loserId": 6919595,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Velani",
+            "bracketName": "Top 96",
+            "bracketId": 1473244,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 517638,
+                    "playerTag": "Velani"
+                }
+            ]
+        },
+        {
+            "id": 36299110,
+            "entrant1Id": 6918399,
+            "entrant2Id": 7013860,
+            "entrant1Name": "Meady",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6918399,
+            "loserId": 7013860,
+            "winnerName": "Meady",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Top 96",
+            "bracketId": 1473244,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 36299168,
+            "entrant1Id": 7013860,
+            "entrant2Id": 7050357,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Gainz | Bort",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7013860,
+            "loserId": 7050357,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Gainz | Bort",
+            "bracketName": "Top 96",
+            "bracketId": 1473244,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 233222,
+                    "playerTag": "Bort"
+                }
+            ]
+        },
+        {
+            "id": 36297536,
+            "entrant1Id": 7013860,
+            "entrant2Id": 7062807,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Heketzu",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7013860,
+            "loserId": 7062807,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Heketzu",
+            "bracketName": "Pools",
+            "bracketId": 1470137,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26433,
+                    "playerTag": "Heketzu"
+                }
+            ]
+        },
+        {
+            "id": 36299098,
+            "entrant1Id": 7013860,
+            "entrant2Id": 6918442,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "CTM | Ryzon",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7013860,
+            "loserId": 6918442,
+            "winnerName": "ShiftingShadows",
+            "loserName": "CTM | Ryzon",
+            "bracketName": "Top 96",
+            "bracketId": 1473244,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 69542,
+                    "playerTag": "Ryzon"
+                }
+            ]
+        },
+        {
+            "id": 36297531,
+            "entrant1Id": 7013860,
+            "entrant2Id": 7035398,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Yophi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7013860,
+            "loserId": 7035398,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Yophi",
+            "bracketName": "Pools",
+            "bracketId": 1470137,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1075236,
+                    "playerTag": "Yophi"
+                }
+            ]
+        },
+        {
+            "id": 36300314,
+            "entrant1Id": 7052804,
+            "entrant2Id": 7013860,
+            "entrant1Name": "T3G | mayhem092",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7052804,
+            "loserId": 7013860,
+            "winnerName": "T3G | mayhem092",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 12872,
+                    "playerTag": "mayhem092"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 35641694,
+            "entrant1Id": 6812821,
+            "entrant2Id": 6772947,
+            "entrant1Name": "FANA | Niklas2912",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6772947,
+            "loserId": 6812821,
+            "winnerName": "ShiftingShadows",
+            "loserName": "FANA | Niklas2912",
+            "bracketName": "Pools",
+            "bracketId": 1458032,
+            "entrant1Players": [
+                {
+                    "playerId": 23781,
+                    "playerTag": "Niklas2912"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 35641691,
+            "entrant1Id": 6782693,
+            "entrant2Id": 6772947,
+            "entrant1Name": "Qual",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6772947,
+            "loserId": 6782693,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Qual",
+            "bracketName": "Pools",
+            "bracketId": 1458032,
+            "entrant1Players": [
+                {
+                    "playerId": 5950,
+                    "playerTag": "Qual"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 35641688,
+            "entrant1Id": 6777258,
+            "entrant2Id": 6772947,
+            "entrant1Name": "BOUS | TBAG",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6772947,
+            "loserId": 6777258,
+            "winnerName": "ShiftingShadows",
+            "loserName": "BOUS | TBAG",
+            "bracketName": "Pools",
+            "bracketId": 1458032,
+            "entrant1Players": [
+                {
+                    "playerId": 257479,
+                    "playerTag": "TBAG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 35641685,
+            "entrant1Id": 6874478,
+            "entrant2Id": 6772947,
+            "entrant1Name": "okamari",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6772947,
+            "loserId": 6874478,
+            "winnerName": "ShiftingShadows",
+            "loserName": "okamari",
+            "bracketName": "Pools",
+            "bracketId": 1458032,
+            "entrant1Players": [
+                {
+                    "playerId": 2196285,
+                    "playerTag": "okamari"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 35642484,
+            "entrant1Id": 6772947,
+            "entrant2Id": 6772699,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "JohsyJam",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6772947,
+            "loserId": 6772699,
+            "winnerName": "ShiftingShadows",
+            "loserName": "JohsyJam",
+            "bracketName": "Top 96",
+            "bracketId": 1458050,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37036,
+                    "playerTag": "JohsyJam"
+                }
+            ]
+        },
+        {
+            "id": 35641676,
+            "entrant1Id": 6772947,
+            "entrant2Id": 6773657,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Zorniborni",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6772947,
+            "loserId": 6773657,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Zorniborni",
+            "bracketName": "Pools",
+            "bracketId": 1458032,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6772,
+                    "playerTag": "Zorniborni"
+                }
+            ]
+        },
+        {
+            "id": 35644440,
+            "entrant1Id": 6843628,
+            "entrant2Id": 6772947,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6843628,
+            "loserId": 6772947,
+            "winnerName": "Pipsqueak",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Top 32",
+            "bracketId": 1458614,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 35644089,
+            "entrant1Id": 6772947,
+            "entrant2Id": 6890109,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "abbearv",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6772947,
+            "loserId": 6890109,
+            "winnerName": "ShiftingShadows",
+            "loserName": "abbearv",
+            "bracketName": "Top 64",
+            "bracketId": 1458612,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1853889,
+                    "playerTag": "abbearv"
+                }
+            ]
+        },
+        {
+            "id": 35644504,
+            "entrant1Id": 6772947,
+            "entrant2Id": 6893027,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Fat Tino",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6893027,
+            "loserId": 6772947,
+            "winnerName": "Fat Tino",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Top 32",
+            "bracketId": 1458614,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 667216,
+                    "playerTag": "Fat Tino"
+                }
+            ]
+        },
+        {
+            "id": 35641671,
+            "entrant1Id": 6772947,
+            "entrant2Id": 6773900,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "DQJ",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6772947,
+            "loserId": 6773900,
+            "winnerName": "ShiftingShadows",
+            "loserName": "DQJ",
+            "bracketName": "Pools",
+            "bracketId": 1458032,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1448428,
+                    "playerTag": "DQJ"
+                }
+            ]
+        },
+        {
+            "id": 34993221,
+            "entrant1Id": 6679306,
+            "entrant2Id": 6733655,
+            "entrant1Name": "Niklas2912",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6733655,
+            "loserId": 6679306,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Niklas2912",
+            "bracketName": "Pools",
+            "bracketId": 1438930,
+            "entrant1Players": [
+                {
+                    "playerId": 23781,
+                    "playerTag": "Niklas2912"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 34993216,
+            "entrant1Id": 6726811,
+            "entrant2Id": 6733655,
+            "entrant1Name": "Jormis",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6733655,
+            "loserId": 6726811,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Jormis",
+            "bracketName": "Pools",
+            "bracketId": 1438930,
+            "entrant1Players": [
+                {
+                    "playerId": 688393,
+                    "playerTag": "Jormis"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 34993213,
+            "entrant1Id": 6685595,
+            "entrant2Id": 6733655,
+            "entrant1Name": "Avry",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6733655,
+            "loserId": 6685595,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Avry",
+            "bracketName": "Pools",
+            "bracketId": 1438930,
+            "entrant1Players": [
+                {
+                    "playerId": 47800,
+                    "playerTag": "Avry"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 34993210,
+            "entrant1Id": 6730621,
+            "entrant2Id": 6733655,
+            "entrant1Name": "1-800-Ebog | Drizzly Bear",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6733655,
+            "loserId": 6730621,
+            "winnerName": "ShiftingShadows",
+            "loserName": "1-800-Ebog | Drizzly Bear",
+            "bracketName": "Pools",
+            "bracketId": 1438930,
+            "entrant1Players": [
+                {
+                    "playerId": 227661,
+                    "playerTag": "Drizzly Bear"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 34993206,
+            "entrant1Id": 6733655,
+            "entrant2Id": 6686445,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Axarth",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6686445,
+            "loserId": 6733655,
+            "winnerName": "Axarth",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Pools",
+            "bracketId": 1438930,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 153926,
+                    "playerTag": "Axarth"
+                }
+            ]
+        },
+        {
+            "id": 34996919,
+            "entrant1Id": 6727059,
+            "entrant2Id": 6733655,
+            "entrant1Name": "Omen",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6727059,
+            "loserId": 6733655,
+            "winnerName": "Omen",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 1174060,
+                    "playerTag": "Omen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 34993201,
+            "entrant1Id": 6733655,
+            "entrant2Id": 6675215,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Gappy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6733655,
+            "loserId": 6675215,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Gappy",
+            "bracketName": "Pools",
+            "bracketId": 1438930,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1461959,
+                    "playerTag": "Gappy"
+                }
+            ]
+        },
+        {
+            "id": 34996887,
+            "entrant1Id": 6649594,
+            "entrant2Id": 6733655,
+            "entrant1Name": "Kimye",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6733655,
+            "loserId": 6649594,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Kimye",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 5616,
+                    "playerTag": "Kimye"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 34996641,
+            "entrant1Id": 6733655,
+            "entrant2Id": 6729580,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Tinker",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6729580,
+            "loserId": 6733655,
+            "winnerName": "Tinker",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223012,
+                    "playerTag": "Tinker"
+                }
+            ]
+        },
+        {
+            "id": 34993192,
+            "entrant1Id": 6733655,
+            "entrant2Id": 6650035,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Timothy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6733655,
+            "loserId": 6650035,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Timothy",
+            "bracketName": "Pools",
+            "bracketId": 1438930,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 229667,
+                    "playerTag": "Timothy"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "skullbro",
+        "noxxa",
+        "abbearv",
+        "niklas2912",
+        "paju",
+        "laurster",
+        "velani",
+        "niklas2912",
+        "abbearv",
+        "niklas2912"
+    ],
+    "L": [
+        "gg",
+        "4kPlaya",
+        "ice",
+        "levingy",
+        "velani",
+        "setchi",
+        "sharp",
+        "liax",
+        "abbearv",
+        "rikzz",
+        "Psylo",
+        "Madness",
+        "laurster",
+        "Nano",
+        "sharp",
+        "meady",
+        "nebbii",
+        "prins esse",
+        "RestlessWhale",
+        "RedBlaze",
+        "meady",
+        "mayhem092",
+        "pipsqueak",
+        "fat tino",
+        "Axarth",
+        "Omen",
+        "Tinker"
+    ]
+}

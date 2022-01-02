@@ -1,0 +1,1465 @@
+{
+    "Events": [
+        543662,
+        554988,
+        592222,
+        607431,
+        622655,
+        648241
+    ],
+    "Sets": [
+        {
+            "id": 36912462,
+            "entrant1Id": 7207438,
+            "entrant2Id": 7208067,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "NGNS | Schima",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7208067,
+            "loserId": 7207438,
+            "winnerName": "NGNS | Schima",
+            "loserName": "Mahie",
+            "bracketName": "Pools",
+            "bracketId": 1472592,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ]
+        },
+        {
+            "id": 36912455,
+            "entrant1Id": 7199786,
+            "entrant2Id": 7208067,
+            "entrant1Name": "SenX",
+            "entrant2Name": "NGNS | Schima",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7208067,
+            "loserId": 7199786,
+            "winnerName": "NGNS | Schima",
+            "loserName": "SenX",
+            "bracketName": "Pools",
+            "bracketId": 1472592,
+            "entrant1Players": [
+                {
+                    "playerId": 184913,
+                    "playerTag": "SenX"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ]
+        },
+        {
+            "id": 36912449,
+            "entrant1Id": 7165493,
+            "entrant2Id": 7208067,
+            "entrant1Name": "MC NICE",
+            "entrant2Name": "NGNS | Schima",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7208067,
+            "loserId": 7165493,
+            "winnerName": "NGNS | Schima",
+            "loserName": "MC NICE",
+            "bracketName": "Pools",
+            "bracketId": 1472592,
+            "entrant1Players": [
+                {
+                    "playerId": 180955,
+                    "playerTag": "MC NICE"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ]
+        },
+        {
+            "id": 36954638,
+            "entrant1Id": 7223397,
+            "entrant2Id": 7208067,
+            "entrant1Name": "Lost Souls | GG",
+            "entrant2Name": "NGNS | Schima",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7223397,
+            "loserId": 7208067,
+            "winnerName": "Lost Souls | GG",
+            "loserName": "NGNS | Schima",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1488048,
+            "entrant1Players": [
+                {
+                    "playerId": 36947,
+                    "playerTag": "GG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ]
+        },
+        {
+            "id": 36954579,
+            "entrant1Id": 7208067,
+            "entrant2Id": 7213568,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7213568,
+            "loserId": 7208067,
+            "winnerName": "Jamie",
+            "loserName": "NGNS | Schima",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1488048,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 36954631,
+            "entrant1Id": 7208067,
+            "entrant2Id": 7219250,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "BFM | Chaler",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7208067,
+            "loserId": 7219250,
+            "winnerName": "NGNS | Schima",
+            "loserName": "BFM | Chaler",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1488048,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 127417,
+                    "playerTag": "Chaler"
+                }
+            ]
+        },
+        {
+            "id": 36912439,
+            "entrant1Id": 7208067,
+            "entrant2Id": 7193560,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "J-squad | Lucretio",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7208067,
+            "loserId": 7193560,
+            "winnerName": "NGNS | Schima",
+            "loserName": "J-squad | Lucretio",
+            "bracketName": "Pools",
+            "bracketId": 1472592,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51837,
+                    "playerTag": "Lucretio"
+                }
+            ]
+        },
+        {
+            "id": 36912432,
+            "entrant1Id": 7208067,
+            "entrant2Id": 7211686,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "MASL",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7208067,
+            "loserId": 7211686,
+            "winnerName": "NGNS | Schima",
+            "loserName": "MASL",
+            "bracketName": "Pools",
+            "bracketId": 1472592,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 341820,
+                    "playerTag": "MASL"
+                }
+            ]
+        },
+        {
+            "id": 36298276,
+            "entrant1Id": 6919142,
+            "entrant2Id": 6947839,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "NGNS | Schima",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6919142,
+            "loserId": 6947839,
+            "winnerName": "Jah Ridin'",
+            "loserName": "NGNS | Schima",
+            "bracketName": "Pools",
+            "bracketId": 1470125,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ]
+        },
+        {
+            "id": 36298274,
+            "entrant1Id": 7051017,
+            "entrant2Id": 6947839,
+            "entrant1Name": "Lomo Cat",
+            "entrant2Name": "NGNS | Schima",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6947839,
+            "loserId": 7051017,
+            "winnerName": "NGNS | Schima",
+            "loserName": "Lomo Cat",
+            "bracketName": "Pools",
+            "bracketId": 1470125,
+            "entrant1Players": [
+                {
+                    "playerId": 250790,
+                    "playerTag": "Lomo Cat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ]
+        },
+        {
+            "id": 36298266,
+            "entrant1Id": 6947839,
+            "entrant2Id": 6946523,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "Pi",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6946523,
+            "loserId": 6947839,
+            "winnerName": "Pi",
+            "loserName": "NGNS | Schima",
+            "bracketName": "Pools",
+            "bracketId": 1470125,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54828,
+                    "playerTag": "Pi"
+                }
+            ]
+        },
+        {
+            "id": 36298826,
+            "entrant1Id": 6934064,
+            "entrant2Id": 6947839,
+            "entrant1Name": "PS | Makenshi",
+            "entrant2Name": "NGNS | Schima",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6934064,
+            "loserId": 6947839,
+            "winnerName": "PS | Makenshi",
+            "loserName": "NGNS | Schima",
+            "bracketName": "Top 96",
+            "bracketId": 1467110,
+            "entrant1Players": [
+                {
+                    "playerId": 157306,
+                    "playerTag": "Makenshi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ]
+        },
+        {
+            "id": 36298882,
+            "entrant1Id": 6947839,
+            "entrant2Id": 6929396,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "Kingu",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6929396,
+            "loserId": 6947839,
+            "winnerName": "Kingu",
+            "loserName": "NGNS | Schima",
+            "bracketName": "Top 96",
+            "bracketId": 1467110,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1400299,
+                    "playerTag": "Kingu"
+                }
+            ]
+        },
+        {
+            "id": 36298262,
+            "entrant1Id": 6947839,
+            "entrant2Id": 7050497,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "Link69",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6947839,
+            "loserId": 7050497,
+            "winnerName": "NGNS | Schima",
+            "loserName": "Link69",
+            "bracketName": "Pools",
+            "bracketId": 1470125,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 41164,
+                    "playerTag": "Link69"
+                }
+            ]
+        },
+        {
+            "id": 36298815,
+            "entrant1Id": 7061709,
+            "entrant2Id": 6947839,
+            "entrant1Name": "CptNebula",
+            "entrant2Name": "NGNS | Schima",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6947839,
+            "loserId": 7061709,
+            "winnerName": "NGNS | Schima",
+            "loserName": "CptNebula",
+            "bracketName": "Top 96",
+            "bracketId": 1467110,
+            "entrant1Players": [
+                {
+                    "playerId": 11502,
+                    "playerTag": "CptNebula"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ]
+        },
+        {
+            "id": 39085941,
+            "entrant1Id": 7725691,
+            "entrant2Id": 7738147,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "Zluchs",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7725691,
+            "loserId": 7738147,
+            "winnerName": "NGNS | Schima",
+            "loserName": "Zluchs",
+            "bracketName": "Pools",
+            "bracketId": 1533150,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6702,
+                    "playerTag": "Zluchs"
+                }
+            ]
+        },
+        {
+            "id": 39085939,
+            "entrant1Id": 7725691,
+            "entrant2Id": 7680225,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "drowsing",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7725691,
+            "loserId": 7680225,
+            "winnerName": "NGNS | Schima",
+            "loserName": "drowsing",
+            "bracketName": "Pools",
+            "bracketId": 1533150,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 549435,
+                    "playerTag": "drowsing"
+                }
+            ]
+        },
+        {
+            "id": 39086859,
+            "entrant1Id": 7725691,
+            "entrant2Id": 7725628,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "NGNS | Parsec",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7725628,
+            "loserId": 7725691,
+            "winnerName": "NGNS | Parsec",
+            "loserName": "NGNS | Schima",
+            "bracketName": "Top 16",
+            "bracketId": 1526430,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54535,
+                    "playerTag": "Parsec"
+                }
+            ]
+        },
+        {
+            "id": 39086826,
+            "entrant1Id": 7729553,
+            "entrant2Id": 7725691,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "NGNS | Schima",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7729553,
+            "loserId": 7725691,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "NGNS | Schima",
+            "bracketName": "Top 16",
+            "bracketId": 1526430,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ]
+        },
+        {
+            "id": 39086857,
+            "entrant1Id": 7725691,
+            "entrant2Id": 7739120,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "Steff$",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7725691,
+            "loserId": 7739120,
+            "winnerName": "NGNS | Schima",
+            "loserName": "Steff$",
+            "bracketName": "Top 16",
+            "bracketId": 1526430,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 885219,
+                    "playerTag": "Steff$"
+                }
+            ]
+        },
+        {
+            "id": 39085937,
+            "entrant1Id": 7725691,
+            "entrant2Id": 7760012,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "Sabo Crown",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7725691,
+            "loserId": 7760012,
+            "winnerName": "NGNS | Schima",
+            "loserName": "Sabo Crown",
+            "bracketName": "Pools",
+            "bracketId": 1533150,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1769958,
+                    "playerTag": "Sabo Crown"
+                }
+            ]
+        },
+        {
+            "id": 39086823,
+            "entrant1Id": 7725691,
+            "entrant2Id": 7725618,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "King",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7725691,
+            "loserId": 7725618,
+            "winnerName": "NGNS | Schima",
+            "loserName": "King",
+            "bracketName": "Top 16",
+            "bracketId": 1526430,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 796398,
+                    "playerTag": "King"
+                }
+            ]
+        },
+        {
+            "id": 39085935,
+            "entrant1Id": 7725691,
+            "entrant2Id": 7732884,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "upgamer | Blackpixel",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7725691,
+            "loserId": 7732884,
+            "winnerName": "NGNS | Schima",
+            "loserName": "upgamer | Blackpixel",
+            "bracketName": "Pools",
+            "bracketId": 1533150,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2031143,
+                    "playerTag": "Blackpixel"
+                }
+            ]
+        },
+        {
+            "id": 39086816,
+            "entrant1Id": 7725691,
+            "entrant2Id": 7695501,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "Coro",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7725691,
+            "loserId": 7695501,
+            "winnerName": "NGNS | Schima",
+            "loserName": "Coro",
+            "bracketName": "Top 16",
+            "bracketId": 1526430,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 269287,
+                    "playerTag": "Coro"
+                }
+            ]
+        },
+        {
+            "id": 40410332,
+            "entrant1Id": 8062785,
+            "entrant2Id": 8078749,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "Floursnail",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8078749,
+            "loserId": 8062785,
+            "winnerName": "Floursnail",
+            "loserName": "NGNS | Schima",
+            "bracketName": "Pools",
+            "bracketId": 1552055,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175864,
+                    "playerTag": "Floursnail"
+                }
+            ]
+        },
+        {
+            "id": 40410330,
+            "entrant1Id": 8062785,
+            "entrant2Id": 8062918,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "Max",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8062785,
+            "loserId": 8062918,
+            "winnerName": "NGNS | Schima",
+            "loserName": "Max",
+            "bracketName": "Pools",
+            "bracketId": 1552055,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 559191,
+                    "playerTag": "Max"
+                }
+            ]
+        },
+        {
+            "id": 40410328,
+            "entrant1Id": 8062785,
+            "entrant2Id": 8063081,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "soyboy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8062785,
+            "loserId": 8063081,
+            "winnerName": "NGNS | Schima",
+            "loserName": "soyboy",
+            "bracketName": "Pools",
+            "bracketId": 1552055,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250949,
+                    "playerTag": "soyboy"
+                }
+            ]
+        },
+        {
+            "id": 40413858,
+            "entrant1Id": 8062785,
+            "entrant2Id": 8062707,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "King",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8062707,
+            "loserId": 8062785,
+            "winnerName": "King",
+            "loserName": "NGNS | Schima",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1552060,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 796398,
+                    "playerTag": "King"
+                }
+            ]
+        },
+        {
+            "id": 40413828,
+            "entrant1Id": 8062785,
+            "entrant2Id": 8082658,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "hot atze sommer",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8082658,
+            "loserId": 8062785,
+            "winnerName": "hot atze sommer",
+            "loserName": "NGNS | Schima",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1552060,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6642,
+                    "playerTag": "hot atze sommer"
+                }
+            ]
+        },
+        {
+            "id": 40410326,
+            "entrant1Id": 8062785,
+            "entrant2Id": 8077832,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "lemone",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8062785,
+            "loserId": 8077832,
+            "winnerName": "NGNS | Schima",
+            "loserName": "lemone",
+            "bracketName": "Pools",
+            "bracketId": 1552055,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1270308,
+                    "playerTag": "lemone"
+                }
+            ]
+        },
+        {
+            "id": 40413854,
+            "entrant1Id": 8062785,
+            "entrant2Id": 8076364,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "Team Jasmin | yung Ullrich",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8062785,
+            "loserId": 8076364,
+            "winnerName": "NGNS | Schima",
+            "loserName": "Team Jasmin | yung Ullrich",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1552060,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5767,
+                    "playerTag": "yung Ullrich"
+                }
+            ]
+        },
+        {
+            "id": 40413823,
+            "entrant1Id": 8238063,
+            "entrant2Id": 8062785,
+            "entrant1Name": "astar",
+            "entrant2Name": "NGNS | Schima",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8062785,
+            "loserId": 8238063,
+            "winnerName": "NGNS | Schima",
+            "loserName": "astar",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1552060,
+            "entrant1Players": [
+                {
+                    "playerId": 674647,
+                    "playerTag": "astar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ]
+        },
+        {
+            "id": 42304311,
+            "entrant1Id": 8462955,
+            "entrant2Id": 8714895,
+            "entrant1Name": "Schima",
+            "entrant2Name": "Tyra",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8462955,
+            "loserId": 8714895,
+            "winnerName": "Schima",
+            "loserName": "Tyra",
+            "bracketName": "Pools",
+            "bracketId": 1579414,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 66380,
+                    "playerTag": "Tyra"
+                }
+            ]
+        },
+        {
+            "id": 42312227,
+            "entrant1Id": 8462759,
+            "entrant2Id": 8462955,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "Schima",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8462759,
+            "loserId": 8462955,
+            "winnerName": "Kins0",
+            "loserName": "Schima",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1579421,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ]
+        },
+        {
+            "id": 42312259,
+            "entrant1Id": 8462955,
+            "entrant2Id": 8423810,
+            "entrant1Name": "Schima",
+            "entrant2Name": "astar",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8423810,
+            "loserId": 8462955,
+            "winnerName": "astar",
+            "loserName": "Schima",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1579421,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 674647,
+                    "playerTag": "astar"
+                }
+            ]
+        },
+        {
+            "id": 42304309,
+            "entrant1Id": 8462955,
+            "entrant2Id": 8660195,
+            "entrant1Name": "Schima",
+            "entrant2Name": "Komori",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8462955,
+            "loserId": 8660195,
+            "winnerName": "Schima",
+            "loserName": "Komori",
+            "bracketName": "Pools",
+            "bracketId": 1579414,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 64952,
+                    "playerTag": "Komori"
+                }
+            ]
+        },
+        {
+            "id": 42312226,
+            "entrant1Id": 8462955,
+            "entrant2Id": 8423810,
+            "entrant1Name": "Schima",
+            "entrant2Name": "astar",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8462955,
+            "loserId": 8423810,
+            "winnerName": "Schima",
+            "loserName": "astar",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1579421,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 674647,
+                    "playerTag": "astar"
+                }
+            ]
+        },
+        {
+            "id": 42304307,
+            "entrant1Id": 8462955,
+            "entrant2Id": 8539220,
+            "entrant1Name": "Schima",
+            "entrant2Name": "Elect",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8462955,
+            "loserId": 8539220,
+            "winnerName": "Schima",
+            "loserName": "Elect",
+            "bracketName": "Pools",
+            "bracketId": 1579414,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2174459,
+                    "playerTag": "Elect"
+                }
+            ]
+        },
+        {
+            "id": 42312223,
+            "entrant1Id": 8462955,
+            "entrant2Id": 8422666,
+            "entrant1Name": "Schima",
+            "entrant2Name": "104 | yung Ullrich",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8462955,
+            "loserId": 8422666,
+            "winnerName": "Schima",
+            "loserName": "104 | yung Ullrich",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1579421,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5767,
+                    "playerTag": "yung Ullrich"
+                }
+            ]
+        },
+        {
+            "id": 42304305,
+            "entrant1Id": 8462955,
+            "entrant2Id": 8613279,
+            "entrant1Name": "Schima",
+            "entrant2Name": "Wittgenstoner",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8462955,
+            "loserId": 8613279,
+            "winnerName": "Schima",
+            "loserName": "Wittgenstoner",
+            "bracketName": "Pools",
+            "bracketId": 1579414,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1486225,
+                    "playerTag": "Wittgenstoner"
+                }
+            ]
+        },
+        {
+            "id": 42312217,
+            "entrant1Id": 8462955,
+            "entrant2Id": 8646635,
+            "entrant1Name": "Schima",
+            "entrant2Name": "lilfroozy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8462955,
+            "loserId": 8646635,
+            "winnerName": "Schima",
+            "loserName": "lilfroozy",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1579421,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5388,
+                    "playerTag": "lilfroozy"
+                }
+            ]
+        },
+        {
+            "id": 43253966,
+            "entrant1Id": 8824102,
+            "entrant2Id": 8822378,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Schima",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8824102,
+            "loserId": 8822378,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Schima",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1624014,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ]
+        },
+        {
+            "id": 43248781,
+            "entrant1Id": 8822378,
+            "entrant2Id": 8931230,
+            "entrant1Name": "Schima",
+            "entrant2Name": "lilfroozy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8822378,
+            "loserId": 8931230,
+            "winnerName": "Schima",
+            "loserName": "lilfroozy",
+            "bracketName": "Pools",
+            "bracketId": 1624008,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5388,
+                    "playerTag": "lilfroozy"
+                }
+            ]
+        },
+        {
+            "id": 43253965,
+            "entrant1Id": 8824102,
+            "entrant2Id": 8822378,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Schima",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8824102,
+            "loserId": 8822378,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Schima",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1624014,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ]
+        },
+        {
+            "id": 43253997,
+            "entrant1Id": 8822378,
+            "entrant2Id": 8821106,
+            "entrant1Name": "Schima",
+            "entrant2Name": "Parsec",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8822378,
+            "loserId": 8821106,
+            "winnerName": "Schima",
+            "loserName": "Parsec",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1624014,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54535,
+                    "playerTag": "Parsec"
+                }
+            ]
+        },
+        {
+            "id": 43248779,
+            "entrant1Id": 8822378,
+            "entrant2Id": 8821138,
+            "entrant1Name": "Schima",
+            "entrant2Name": "Bux_Baum",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8822378,
+            "loserId": 8821138,
+            "winnerName": "Schima",
+            "loserName": "Bux_Baum",
+            "bracketName": "Pools",
+            "bracketId": 1624008,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5267,
+                    "playerTag": "Bux_Baum"
+                }
+            ]
+        },
+        {
+            "id": 43253964,
+            "entrant1Id": 8849708,
+            "entrant2Id": 8822378,
+            "entrant1Name": "3rd",
+            "entrant2Name": "Schima",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8822378,
+            "loserId": 8849708,
+            "winnerName": "Schima",
+            "loserName": "3rd",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1624014,
+            "entrant1Players": [
+                {
+                    "playerId": 859325,
+                    "playerTag": "3rd"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ]
+        },
+        {
+            "id": 43248777,
+            "entrant1Id": 8822378,
+            "entrant2Id": 8825956,
+            "entrant1Name": "Schima",
+            "entrant2Name": "fys | Cyric",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8822378,
+            "loserId": 8825956,
+            "winnerName": "Schima",
+            "loserName": "fys | Cyric",
+            "bracketName": "Pools",
+            "bracketId": 1624008,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 69281,
+                    "playerTag": "Cyric"
+                }
+            ]
+        },
+        {
+            "id": 43253962,
+            "entrant1Id": 8822378,
+            "entrant2Id": 8829291,
+            "entrant1Name": "Schima",
+            "entrant2Name": "Raisem",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8822378,
+            "loserId": 8829291,
+            "winnerName": "Schima",
+            "loserName": "Raisem",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1624014,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 150040,
+                    "playerTag": "Raisem"
+                }
+            ]
+        },
+        {
+            "id": 43248775,
+            "entrant1Id": 8822378,
+            "entrant2Id": 8850289,
+            "entrant1Name": "Schima",
+            "entrant2Name": "Bluetenx",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8822378,
+            "loserId": 8850289,
+            "winnerName": "Schima",
+            "loserName": "Bluetenx",
+            "bracketName": "Pools",
+            "bracketId": 1624008,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1360002,
+                    "playerTag": "Bluetenx"
+                }
+            ]
+        },
+        {
+            "id": 43253957,
+            "entrant1Id": 8822378,
+            "entrant2Id": 8830909,
+            "entrant1Name": "Schima",
+            "entrant2Name": "Coro",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8822378,
+            "loserId": 8830909,
+            "winnerName": "Schima",
+            "loserName": "Coro",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1624014,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 269287,
+                    "playerTag": "Coro"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "mahie",
+        "senx",
+        "steff$",
+        "king",
+        "max",
+        "parsec"
+    ],
+    "L": [
+        "gg",
+        "jamie",
+        "jah ridin'",
+        "Pi",
+        "makenshi",
+        "kingu",
+        "parsec",
+        "kins0",
+        "Floursnail",
+        "king",
+        "hot atze sommer",
+        "kins0",
+        "astar",
+        "rikzz",
+        "rikzz"
+    ]
+}

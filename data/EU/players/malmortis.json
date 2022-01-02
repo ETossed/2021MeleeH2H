@@ -1,0 +1,210 @@
+{
+    "Events": [
+        550373
+    ],
+    "Sets": [
+        {
+            "id": 39272527,
+            "entrant1Id": 7642258,
+            "entrant2Id": 7943909,
+            "entrant1Name": "Malmortis",
+            "entrant2Name": "Weston",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7943909,
+            "loserId": 7642258,
+            "winnerName": "Weston",
+            "loserName": "Malmortis",
+            "bracketName": "Singles Pools",
+            "bracketId": 1444668,
+            "entrant1Players": [
+                {
+                    "playerId": 38145,
+                    "playerTag": "Malmortis"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45404,
+                    "playerTag": "Weston"
+                }
+            ]
+        },
+        {
+            "id": 39272522,
+            "entrant1Id": 7691443,
+            "entrant2Id": 7642258,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "Malmortis",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7691443,
+            "loserId": 7642258,
+            "winnerName": "PS | Trif",
+            "loserName": "Malmortis",
+            "bracketName": "Singles Pools",
+            "bracketId": 1444668,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38145,
+                    "playerTag": "Malmortis"
+                }
+            ]
+        },
+        {
+            "id": 39272512,
+            "entrant1Id": 7673164,
+            "entrant2Id": 7642258,
+            "entrant1Name": "Humpe",
+            "entrant2Name": "Malmortis",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7673164,
+            "loserId": 7642258,
+            "winnerName": "Humpe",
+            "loserName": "Malmortis",
+            "bracketName": "Singles Pools",
+            "bracketId": 1444668,
+            "entrant1Players": [
+                {
+                    "playerId": 49595,
+                    "playerTag": "Humpe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38145,
+                    "playerTag": "Malmortis"
+                }
+            ]
+        },
+        {
+            "id": 39316979,
+            "entrant1Id": 7939984,
+            "entrant2Id": 7642258,
+            "entrant1Name": "Velani",
+            "entrant2Name": "Malmortis",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7939984,
+            "loserId": 7642258,
+            "winnerName": "Velani",
+            "loserName": "Malmortis",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 517638,
+                    "playerTag": "Velani"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38145,
+                    "playerTag": "Malmortis"
+                }
+            ]
+        },
+        {
+            "id": 39272509,
+            "entrant1Id": 7963566,
+            "entrant2Id": 7642258,
+            "entrant1Name": "Askeflink",
+            "entrant2Name": "Malmortis",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7642258,
+            "loserId": 7963566,
+            "winnerName": "Malmortis",
+            "loserName": "Askeflink",
+            "bracketName": "Singles Pools",
+            "bracketId": 1444668,
+            "entrant1Players": [
+                {
+                    "playerId": 4916,
+                    "playerTag": "Askeflink"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38145,
+                    "playerTag": "Malmortis"
+                }
+            ]
+        },
+        {
+            "id": 39316961,
+            "entrant1Id": 7943559,
+            "entrant2Id": 7642258,
+            "entrant1Name": "Aiika",
+            "entrant2Name": "Malmortis",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7642258,
+            "loserId": 7943559,
+            "winnerName": "Malmortis",
+            "loserName": "Aiika",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 156136,
+                    "playerTag": "Aiika"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38145,
+                    "playerTag": "Malmortis"
+                }
+            ]
+        },
+        {
+            "id": 39272505,
+            "entrant1Id": 7642258,
+            "entrant2Id": 7899393,
+            "entrant1Name": "Malmortis",
+            "entrant2Name": "Coral",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7642258,
+            "loserId": 7899393,
+            "winnerName": "Malmortis",
+            "loserName": "Coral",
+            "bracketName": "Singles Pools",
+            "bracketId": 1444668,
+            "entrant1Players": [
+                {
+                    "playerId": 38145,
+                    "playerTag": "Malmortis"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 432751,
+                    "playerTag": "Coral"
+                }
+            ]
+        }
+    ],
+    "W": [],
+    "L": [
+        "Weston",
+        "trif",
+        "humpe",
+        "velani"
+    ]
+}

@@ -1,0 +1,1949 @@
+{
+    "Events": [
+        570804,
+        550373,
+        549952,
+        549684,
+        543662,
+        554988,
+        550163,
+        541113
+    ],
+    "Sets": [
+        {
+            "id": 40032715,
+            "entrant1Id": 8004135,
+            "entrant2Id": 7306713,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "NoPressure1",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8004135,
+            "loserId": 7306713,
+            "winnerName": "Laurster",
+            "loserName": "NoPressure1",
+            "bracketName": "Pools",
+            "bracketId": 1485628,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 127472,
+                    "playerTag": "NoPressure1"
+                }
+            ]
+        },
+        {
+            "id": 40035881,
+            "entrant1Id": 7304871,
+            "entrant2Id": 8004135,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7304871,
+            "loserId": 8004135,
+            "winnerName": "Frenzy",
+            "loserName": "Laurster",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 40036008,
+            "entrant1Id": 8004135,
+            "entrant2Id": 7304788,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Lost Souls | GG",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7304788,
+            "loserId": 8004135,
+            "winnerName": "Lost Souls | GG",
+            "loserName": "Laurster",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36947,
+                    "playerTag": "GG"
+                }
+            ]
+        },
+        {
+            "id": 40035874,
+            "entrant1Id": 8004135,
+            "entrant2Id": 7908299,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "ModestMajor",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8004135,
+            "loserId": 7908299,
+            "winnerName": "Laurster",
+            "loserName": "ModestMajor",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13386,
+                    "playerTag": "ModestMajor"
+                }
+            ]
+        },
+        {
+            "id": 40035859,
+            "entrant1Id": 8004135,
+            "entrant2Id": 8055840,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "4QS | Antz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8004135,
+            "loserId": 8055840,
+            "winnerName": "Laurster",
+            "loserName": "4QS | Antz",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 776725,
+                    "playerTag": "Antz"
+                }
+            ]
+        },
+        {
+            "id": 40032706,
+            "entrant1Id": 8004135,
+            "entrant2Id": 7305014,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Munx",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8004135,
+            "loserId": 7305014,
+            "winnerName": "Laurster",
+            "loserName": "Munx",
+            "bracketName": "Pools",
+            "bracketId": 1485628,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5647,
+                    "playerTag": "Munx"
+                }
+            ]
+        },
+        {
+            "id": 40035829,
+            "entrant1Id": 8004135,
+            "entrant2Id": 7960349,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Moby",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8004135,
+            "loserId": 7960349,
+            "winnerName": "Laurster",
+            "loserName": "Moby",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 25694,
+                    "playerTag": "Moby"
+                }
+            ]
+        },
+        {
+            "id": 40032703,
+            "entrant1Id": 8004135,
+            "entrant2Id": 7979000,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Kel",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8004135,
+            "loserId": 7979000,
+            "winnerName": "Laurster",
+            "loserName": "Kel",
+            "bracketName": "Pools",
+            "bracketId": 1485628,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 571661,
+                    "playerTag": "Kel"
+                }
+            ]
+        },
+        {
+            "id": 39272598,
+            "entrant1Id": 7944919,
+            "entrant2Id": 7946309,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7946309,
+            "loserId": 7944919,
+            "winnerName": "Laurster",
+            "loserName": "RLB | Kins0",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545566,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 39272595,
+            "entrant1Id": 7965397,
+            "entrant2Id": 7946309,
+            "entrant1Name": "Acke",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7946309,
+            "loserId": 7965397,
+            "winnerName": "Laurster",
+            "loserName": "Acke",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545566,
+            "entrant1Players": [
+                {
+                    "playerId": 360715,
+                    "playerTag": "Acke"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 39272592,
+            "entrant1Id": 7952596,
+            "entrant2Id": 7946309,
+            "entrant1Name": "Fecfec",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7946309,
+            "loserId": 7952596,
+            "winnerName": "Laurster",
+            "loserName": "Fecfec",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545566,
+            "entrant1Players": [
+                {
+                    "playerId": 2047652,
+                    "playerTag": "Fecfec"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 39272585,
+            "entrant1Id": 7946309,
+            "entrant2Id": 7937428,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Fat Tino",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7937428,
+            "loserId": 7946309,
+            "winnerName": "Fat Tino",
+            "loserName": "Laurster",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545566,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 667216,
+                    "playerTag": "Fat Tino"
+                }
+            ]
+        },
+        {
+            "id": 39317101,
+            "entrant1Id": 7898758,
+            "entrant2Id": 7946309,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7898758,
+            "loserId": 7946309,
+            "winnerName": "Fout NL",
+            "loserName": "Laurster",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 39316968,
+            "entrant1Id": 7724227,
+            "entrant2Id": 7946309,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7724227,
+            "loserId": 7946309,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Laurster",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 39317092,
+            "entrant1Id": 7946309,
+            "entrant2Id": 7943559,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Aiika",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7946309,
+            "loserId": 7943559,
+            "winnerName": "Laurster",
+            "loserName": "Aiika",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 156136,
+                    "playerTag": "Aiika"
+                }
+            ]
+        },
+        {
+            "id": 39272580,
+            "entrant1Id": 7946309,
+            "entrant2Id": 7942674,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Smarted",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7946309,
+            "loserId": 7942674,
+            "winnerName": "Laurster",
+            "loserName": "Smarted",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545566,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1512859,
+                    "playerTag": "Smarted"
+                }
+            ]
+        },
+        {
+            "id": 39316939,
+            "entrant1Id": 7946309,
+            "entrant2Id": 7881349,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "PlatanoCanario | IuDKing",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7946309,
+            "loserId": 7881349,
+            "winnerName": "Laurster",
+            "loserName": "PlatanoCanario | IuDKing",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15053,
+                    "playerTag": "IuDKing"
+                }
+            ]
+        },
+        {
+            "id": 38374553,
+            "entrant1Id": 7414828,
+            "entrant2Id": 7559452,
+            "entrant1Name": "max",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7414828,
+            "loserId": 7559452,
+            "winnerName": "max",
+            "loserName": "Laurster",
+            "bracketName": "Pools",
+            "bracketId": 1521929,
+            "entrant1Players": [
+                {
+                    "playerId": 818697,
+                    "playerTag": "max"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 38374550,
+            "entrant1Id": 7602579,
+            "entrant2Id": 7559452,
+            "entrant1Name": "SKBG | Ba$$",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7559452,
+            "loserId": 7602579,
+            "winnerName": "Laurster",
+            "loserName": "SKBG | Ba$$",
+            "bracketName": "Pools",
+            "bracketId": 1521929,
+            "entrant1Players": [
+                {
+                    "playerId": 40855,
+                    "playerTag": "Ba$$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 38374546,
+            "entrant1Id": 7602318,
+            "entrant2Id": 7559452,
+            "entrant1Name": "gongong",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7559452,
+            "loserId": 7602318,
+            "winnerName": "Laurster",
+            "loserName": "gongong",
+            "bracketName": "Pools",
+            "bracketId": 1521929,
+            "entrant1Players": [
+                {
+                    "playerId": 4177,
+                    "playerTag": "gongong"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 38374534,
+            "entrant1Id": 7559452,
+            "entrant2Id": 7598301,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Branspeed",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7559452,
+            "loserId": 7598301,
+            "winnerName": "Laurster",
+            "loserName": "Branspeed",
+            "bracketName": "Pools",
+            "bracketId": 1521929,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 127403,
+                    "playerTag": "Branspeed"
+                }
+            ]
+        },
+        {
+            "id": 38424601,
+            "entrant1Id": 7413204,
+            "entrant2Id": 7559452,
+            "entrant1Name": "Savestate",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7413204,
+            "loserId": 7559452,
+            "winnerName": "Savestate",
+            "loserName": "Laurster",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 38424474,
+            "entrant1Id": 7403983,
+            "entrant2Id": 7559452,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7403983,
+            "loserId": 7559452,
+            "winnerName": "Meady",
+            "loserName": "Laurster",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 38424590,
+            "entrant1Id": 7559452,
+            "entrant2Id": 7413227,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "ILikeTurtles",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7559452,
+            "loserId": 7413227,
+            "winnerName": "Laurster",
+            "loserName": "ILikeTurtles",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 318564,
+                    "playerTag": "ILikeTurtles"
+                }
+            ]
+        },
+        {
+            "id": 38374525,
+            "entrant1Id": 7559452,
+            "entrant2Id": 7542185,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Tisk",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7559452,
+            "loserId": 7542185,
+            "winnerName": "Laurster",
+            "loserName": "Tisk",
+            "bracketName": "Pools",
+            "bracketId": 1521929,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1879975,
+                    "playerTag": "Tisk"
+                }
+            ]
+        },
+        {
+            "id": 38424449,
+            "entrant1Id": 7559452,
+            "entrant2Id": 7475772,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7559452,
+            "loserId": 7475772,
+            "winnerName": "Laurster",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 37559742,
+            "entrant1Id": 7325602,
+            "entrant2Id": 7369756,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7325602,
+            "loserId": 7369756,
+            "winnerName": "Jamie",
+            "loserName": "Laurster",
+            "bracketName": "Changing room",
+            "bracketId": 1501270,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 37559740,
+            "entrant1Id": 7261780,
+            "entrant2Id": 7369756,
+            "entrant1Name": "LGDD | Sovlo",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7369756,
+            "loserId": 7261780,
+            "winnerName": "Laurster",
+            "loserName": "LGDD | Sovlo",
+            "bracketName": "Changing room",
+            "bracketId": 1501270,
+            "entrant1Players": [
+                {
+                    "playerId": 30308,
+                    "playerTag": "Sovlo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 37613483,
+            "entrant1Id": 7311712,
+            "entrant2Id": 7369756,
+            "entrant1Name": "ShiftingShadows",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7311712,
+            "loserId": 7369756,
+            "winnerName": "ShiftingShadows",
+            "loserName": "Laurster",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 37613467,
+            "entrant1Id": 7248694,
+            "entrant2Id": 7369756,
+            "entrant1Name": "CTM | Ryzon",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7369756,
+            "loserId": 7248694,
+            "winnerName": "Laurster",
+            "loserName": "CTM | Ryzon",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 69542,
+                    "playerTag": "Ryzon"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 37613347,
+            "entrant1Id": 7370669,
+            "entrant2Id": 7369756,
+            "entrant1Name": "Calle W",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7370669,
+            "loserId": 7369756,
+            "winnerName": "Calle W",
+            "loserName": "Laurster",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 36562,
+                    "playerTag": "Calle W"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 36919266,
+            "entrant1Id": 7222752,
+            "entrant2Id": 7231334,
+            "entrant1Name": "Brog",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7231334,
+            "loserId": 7222752,
+            "winnerName": "Laurster",
+            "loserName": "Brog",
+            "bracketName": "Pools",
+            "bracketId": 1472599,
+            "entrant1Players": [
+                {
+                    "playerId": 5771,
+                    "playerTag": "Brog"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 36951973,
+            "entrant1Id": 7227805,
+            "entrant2Id": 7231334,
+            "entrant1Name": "Madness",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7231334,
+            "loserId": 7227805,
+            "winnerName": "Laurster",
+            "loserName": "Madness",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1472624,
+            "entrant1Players": [
+                {
+                    "playerId": 896272,
+                    "playerTag": "Madness"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 36951969,
+            "entrant1Id": 7208735,
+            "entrant2Id": 7231334,
+            "entrant1Name": "lasse",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7231334,
+            "loserId": 7208735,
+            "winnerName": "Laurster",
+            "loserName": "lasse",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1472624,
+            "entrant1Players": [
+                {
+                    "playerId": 35849,
+                    "playerTag": "lasse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 36919263,
+            "entrant1Id": 7231334,
+            "entrant2Id": 7221881,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Matt Smith",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7221881,
+            "loserId": 7231334,
+            "winnerName": "Matt Smith",
+            "loserName": "Laurster",
+            "bracketName": "Pools",
+            "bracketId": 1472599,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 211563,
+                    "playerTag": "Matt Smith"
+                }
+            ]
+        },
+        {
+            "id": 36951904,
+            "entrant1Id": 7231334,
+            "entrant2Id": 7211198,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "NVZ",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7211198,
+            "loserId": 7231334,
+            "winnerName": "NVZ",
+            "loserName": "Laurster",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1472624,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 280500,
+                    "playerTag": "NVZ"
+                }
+            ]
+        },
+        {
+            "id": 36919259,
+            "entrant1Id": 7231334,
+            "entrant2Id": 7227967,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Wabi Sabi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7231334,
+            "loserId": 7227967,
+            "winnerName": "Laurster",
+            "loserName": "Wabi Sabi",
+            "bracketName": "Pools",
+            "bracketId": 1472599,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 157026,
+                    "playerTag": "Wabi Sabi"
+                }
+            ]
+        },
+        {
+            "id": 36956012,
+            "entrant1Id": 7139179,
+            "entrant2Id": 7231334,
+            "entrant1Name": "FANA | Niklas2912",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7139179,
+            "loserId": 7231334,
+            "winnerName": "FANA | Niklas2912",
+            "loserName": "Laurster",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 23781,
+                    "playerTag": "Niklas2912"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 36297834,
+            "entrant1Id": 7053051,
+            "entrant2Id": 7056548,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Gr4pe",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7056548,
+            "loserId": 7053051,
+            "winnerName": "Gr4pe",
+            "loserName": "Laurster",
+            "bracketName": "Pools",
+            "bracketId": 1470144,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 276138,
+                    "playerTag": "Gr4pe"
+                }
+            ]
+        },
+        {
+            "id": 36297830,
+            "entrant1Id": 7053051,
+            "entrant2Id": 6948619,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Spino",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6948619,
+            "loserId": 7053051,
+            "winnerName": "Spino",
+            "loserName": "Laurster",
+            "bracketName": "Pools",
+            "bracketId": 1470144,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 231726,
+                    "playerTag": "Spino"
+                }
+            ]
+        },
+        {
+            "id": 36297822,
+            "entrant1Id": 7053051,
+            "entrant2Id": 7061955,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "TomSPAIN",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7053051,
+            "loserId": 7061955,
+            "winnerName": "Laurster",
+            "loserName": "TomSPAIN",
+            "bracketName": "Pools",
+            "bracketId": 1470144,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2160207,
+                    "playerTag": "TomSPAIN"
+                }
+            ]
+        },
+        {
+            "id": 36297818,
+            "entrant1Id": 7053051,
+            "entrant2Id": 7037164,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "lum",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7053051,
+            "loserId": 7037164,
+            "winnerName": "Laurster",
+            "loserName": "lum",
+            "bracketName": "Pools",
+            "bracketId": 1470144,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46906,
+                    "playerTag": "lum"
+                }
+            ]
+        },
+        {
+            "id": 36299175,
+            "entrant1Id": 7053051,
+            "entrant2Id": 7052317,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Verdant",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7053051,
+            "loserId": 7052317,
+            "winnerName": "Laurster",
+            "loserName": "Verdant",
+            "bracketName": "Top 96",
+            "bracketId": 1473244,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45296,
+                    "playerTag": "Verdant"
+                }
+            ]
+        },
+        {
+            "id": 36299108,
+            "entrant1Id": 6919488,
+            "entrant2Id": 7053051,
+            "entrant1Name": "R23",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6919488,
+            "loserId": 7053051,
+            "winnerName": "R23",
+            "loserName": "Laurster",
+            "bracketName": "Top 96",
+            "bracketId": 1473244,
+            "entrant1Players": [
+                {
+                    "playerId": 5519,
+                    "playerTag": "R23"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 36299170,
+            "entrant1Id": 7053051,
+            "entrant2Id": 7063008,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "PS | kenshu",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7053051,
+            "loserId": 7063008,
+            "winnerName": "Laurster",
+            "loserName": "PS | kenshu",
+            "bracketName": "Top 96",
+            "bracketId": 1473244,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2160310,
+                    "playerTag": "kenshu"
+                }
+            ]
+        },
+        {
+            "id": 36297814,
+            "entrant1Id": 7053051,
+            "entrant2Id": 7057816,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "POP",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7053051,
+            "loserId": 7057816,
+            "winnerName": "Laurster",
+            "loserName": "POP",
+            "bracketName": "Pools",
+            "bracketId": 1470144,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6224,
+                    "playerTag": "POP"
+                }
+            ]
+        },
+        {
+            "id": 36299094,
+            "entrant1Id": 7053051,
+            "entrant2Id": 7061429,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Acke",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7053051,
+            "loserId": 7061429,
+            "winnerName": "Laurster",
+            "loserName": "Acke",
+            "bracketName": "Top 96",
+            "bracketId": 1473244,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 360715,
+                    "playerTag": "Acke"
+                }
+            ]
+        },
+        {
+            "id": 36297810,
+            "entrant1Id": 7053051,
+            "entrant2Id": 7055070,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Matty",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7053051,
+            "loserId": 7055070,
+            "winnerName": "Laurster",
+            "loserName": "Matty",
+            "bracketName": "Pools",
+            "bracketId": 1470144,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1175352,
+                    "playerTag": "Matty"
+                }
+            ]
+        },
+        {
+            "id": 36300313,
+            "entrant1Id": 7001536,
+            "entrant2Id": 7053051,
+            "entrant1Name": "FANA | Niklas2912",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7001536,
+            "loserId": 7053051,
+            "winnerName": "FANA | Niklas2912",
+            "loserName": "Laurster",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 23781,
+                    "playerTag": "Niklas2912"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 35641311,
+            "entrant1Id": 6783396,
+            "entrant2Id": 6868986,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Vivi",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6783396,
+            "loserId": 6868986,
+            "winnerName": "Laurster",
+            "loserName": "Vivi",
+            "bracketName": "Pools",
+            "bracketId": 1458041,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16299,
+                    "playerTag": "Vivi"
+                }
+            ]
+        },
+        {
+            "id": 35641302,
+            "entrant1Id": 6783396,
+            "entrant2Id": 6766865,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Noxxa",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6783396,
+            "loserId": 6766865,
+            "winnerName": "Laurster",
+            "loserName": "Noxxa",
+            "bracketName": "Pools",
+            "bracketId": 1458041,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 283651,
+                    "playerTag": "Noxxa"
+                }
+            ]
+        },
+        {
+            "id": 35641294,
+            "entrant1Id": 6783396,
+            "entrant2Id": 6887166,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Saftblandarn",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6783396,
+            "loserId": 6887166,
+            "winnerName": "Laurster",
+            "loserName": "Saftblandarn",
+            "bracketName": "Pools",
+            "bracketId": 1458041,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 994220,
+                    "playerTag": "Saftblandarn"
+                }
+            ]
+        },
+        {
+            "id": 35641290,
+            "entrant1Id": 6783396,
+            "entrant2Id": 6797365,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Cillit",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6783396,
+            "loserId": 6797365,
+            "winnerName": "Laurster",
+            "loserName": "Cillit",
+            "bracketName": "Pools",
+            "bracketId": 1458041,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 25585,
+                    "playerTag": "Cillit"
+                }
+            ]
+        },
+        {
+            "id": 35641286,
+            "entrant1Id": 6783396,
+            "entrant2Id": 6900636,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "gamma | Sho",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6783396,
+            "loserId": 6900636,
+            "winnerName": "Laurster",
+            "loserName": "gamma | Sho",
+            "bracketName": "Pools",
+            "bracketId": 1458041,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 135827,
+                    "playerTag": "Sho"
+                }
+            ]
+        },
+        {
+            "id": 35642487,
+            "entrant1Id": 6783396,
+            "entrant2Id": 6794981,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "skullbro",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6794981,
+            "loserId": 6783396,
+            "winnerName": "skullbro",
+            "loserName": "Laurster",
+            "bracketName": "Top 96",
+            "bracketId": 1458050,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ]
+        },
+        {
+            "id": 35642605,
+            "entrant1Id": 6783396,
+            "entrant2Id": 6900425,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Ludderix",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6900425,
+            "loserId": 6783396,
+            "winnerName": "Ludderix",
+            "loserName": "Laurster",
+            "bracketName": "Top 96",
+            "bracketId": 1458050,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30979,
+                    "playerTag": "Ludderix"
+                }
+            ]
+        },
+        {
+            "id": 35641273,
+            "entrant1Id": 6783396,
+            "entrant2Id": 6854668,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "They/He | Peribat",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6783396,
+            "loserId": 6854668,
+            "winnerName": "Laurster",
+            "loserName": "They/He | Peribat",
+            "bracketName": "Pools",
+            "bracketId": 1458041,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1635702,
+                    "playerTag": "Peribat"
+                }
+            ]
+        },
+        {
+            "id": 34993135,
+            "entrant1Id": 6732346,
+            "entrant2Id": 6733607,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "NGNS | astar",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6732346,
+            "loserId": 6733607,
+            "winnerName": "Laurster",
+            "loserName": "NGNS | astar",
+            "bracketName": "Pools",
+            "bracketId": 1438926,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 674647,
+                    "playerTag": "astar"
+                }
+            ]
+        },
+        {
+            "id": 34993131,
+            "entrant1Id": 6732346,
+            "entrant2Id": 6732769,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Natts",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6732346,
+            "loserId": 6732769,
+            "winnerName": "Laurster",
+            "loserName": "Natts",
+            "bracketName": "Pools",
+            "bracketId": 1438926,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 674092,
+                    "playerTag": "Natts"
+                }
+            ]
+        },
+        {
+            "id": 34993127,
+            "entrant1Id": 6732346,
+            "entrant2Id": 6657393,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "G.I. Moe",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6732346,
+            "loserId": 6657393,
+            "winnerName": "Laurster",
+            "loserName": "G.I. Moe",
+            "bracketName": "Pools",
+            "bracketId": 1438926,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11687,
+                    "playerTag": "G.I. Moe"
+                }
+            ]
+        },
+        {
+            "id": 34993123,
+            "entrant1Id": 6732346,
+            "entrant2Id": 6733186,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Lomo Cat",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6732346,
+            "loserId": 6733186,
+            "winnerName": "Laurster",
+            "loserName": "Lomo Cat",
+            "bracketName": "Pools",
+            "bracketId": 1438926,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250790,
+                    "playerTag": "Lomo Cat"
+                }
+            ]
+        },
+        {
+            "id": 34996727,
+            "entrant1Id": 6729968,
+            "entrant2Id": 6732346,
+            "entrant1Name": "Jeapie",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6729968,
+            "loserId": 6732346,
+            "winnerName": "Jeapie",
+            "loserName": "Laurster",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 5124,
+                    "playerTag": "Jeapie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 34996969,
+            "entrant1Id": 6732346,
+            "entrant2Id": 6649829,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "PSG | Madness",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6732346,
+            "loserId": 6649829,
+            "winnerName": "Laurster",
+            "loserName": "PSG | Madness",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 896272,
+                    "playerTag": "Madness"
+                }
+            ]
+        },
+        {
+            "id": 34993119,
+            "entrant1Id": 6732346,
+            "entrant2Id": 6679536,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Savo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6732346,
+            "loserId": 6679536,
+            "winnerName": "Laurster",
+            "loserName": "Savo",
+            "bracketName": "Pools",
+            "bracketId": 1438926,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 698885,
+                    "playerTag": "Savo"
+                }
+            ]
+        },
+        {
+            "id": 34996707,
+            "entrant1Id": 6732346,
+            "entrant2Id": 6650562,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Velani",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6732346,
+            "loserId": 6650562,
+            "winnerName": "Laurster",
+            "loserName": "Velani",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 517638,
+                    "playerTag": "Velani"
+                }
+            ]
+        },
+        {
+            "id": 34993115,
+            "entrant1Id": 6732346,
+            "entrant2Id": 6680068,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "DP",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6732346,
+            "loserId": 6680068,
+            "winnerName": "Laurster",
+            "loserName": "DP",
+            "bracketName": "Pools",
+            "bracketId": 1438926,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 66844,
+                    "playerTag": "DP"
+                }
+            ]
+        },
+        {
+            "id": 34996666,
+            "entrant1Id": 6732346,
+            "entrant2Id": 6668250,
+            "entrant1Name": "Laurster",
+            "entrant2Name": "Friso",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6732346,
+            "loserId": 6668250,
+            "winnerName": "Laurster",
+            "loserName": "Friso",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 150921,
+                    "playerTag": "Friso"
+                }
+            ]
+        },
+        {
+            "id": 34998353,
+            "entrant1Id": 6668378,
+            "entrant2Id": 6732346,
+            "entrant1Name": "Paju",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6668378,
+            "loserId": 6732346,
+            "winnerName": "Paju",
+            "loserName": "Laurster",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 12882,
+                    "playerTag": "Paju"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "modestmajor",
+        "kins0",
+        "shiftingshadows",
+        "noxxa",
+        "velani"
+    ],
+    "L": [
+        "frenzy",
+        "gg",
+        "fat tino",
+        "fout nl",
+        "rikzz",
+        "max",
+        "savestate",
+        "meady",
+        "jamie",
+        "shiftingshadows",
+        "Calle W",
+        "Matt Smith",
+        "NVZ",
+        "niklas2912",
+        "Gr4pe",
+        "Spino",
+        "r23",
+        "niklas2912",
+        "skullbro",
+        "Ludderix",
+        "jeapie",
+        "paju"
+    ]
+}

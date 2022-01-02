@@ -1,0 +1,439 @@
+{
+    "Events": [
+        549684,
+        550163
+    ],
+    "Sets": [
+        {
+            "id": 37559518,
+            "entrant1Id": 7336345,
+            "entrant2Id": 7376547,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Raiden",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7376547,
+            "loserId": 7336345,
+            "winnerName": "Raiden",
+            "loserName": "Mahie",
+            "bracketName": "Changing room",
+            "bracketId": 1487076,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21773,
+                    "playerTag": "Raiden"
+                }
+            ]
+        },
+        {
+            "id": 37559513,
+            "entrant1Id": 7376547,
+            "entrant2Id": 7246776,
+            "entrant1Name": "Raiden",
+            "entrant2Name": "pika | Wobl",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7246776,
+            "loserId": 7376547,
+            "winnerName": "pika | Wobl",
+            "loserName": "Raiden",
+            "bracketName": "Changing room",
+            "bracketId": 1487076,
+            "entrant1Players": [
+                {
+                    "playerId": 21773,
+                    "playerTag": "Raiden"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 701767,
+                    "playerTag": "Wobl"
+                }
+            ]
+        },
+        {
+            "id": 37613466,
+            "entrant1Id": 7376547,
+            "entrant2Id": 7370731,
+            "entrant1Name": "Raiden",
+            "entrant2Name": "PSG | Madness",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7370731,
+            "loserId": 7376547,
+            "winnerName": "PSG | Madness",
+            "loserName": "Raiden",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 21773,
+                    "playerTag": "Raiden"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 896272,
+                    "playerTag": "Madness"
+                }
+            ]
+        },
+        {
+            "id": 37613344,
+            "entrant1Id": 7275750,
+            "entrant2Id": 7376547,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Raiden",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7275750,
+            "loserId": 7376547,
+            "winnerName": "Meady",
+            "loserName": "Raiden",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21773,
+                    "playerTag": "Raiden"
+                }
+            ]
+        },
+        {
+            "id": 37559510,
+            "entrant1Id": 7376547,
+            "entrant2Id": 7373434,
+            "entrant1Name": "Raiden",
+            "entrant2Name": "Chagi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7376547,
+            "loserId": 7373434,
+            "winnerName": "Raiden",
+            "loserName": "Chagi",
+            "bracketName": "Changing room",
+            "bracketId": 1487076,
+            "entrant1Players": [
+                {
+                    "playerId": 21773,
+                    "playerTag": "Raiden"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2230480,
+                    "playerTag": "Chagi"
+                }
+            ]
+        },
+        {
+            "id": 35640871,
+            "entrant1Id": 6890230,
+            "entrant2Id": 6897138,
+            "entrant1Name": "SSP | Timi",
+            "entrant2Name": "Raiden",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6890230,
+            "loserId": 6897138,
+            "winnerName": "SSP | Timi",
+            "loserName": "Raiden",
+            "bracketName": "Pools",
+            "bracketId": 1458028,
+            "entrant1Players": [
+                {
+                    "playerId": 6747,
+                    "playerTag": "Timi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21773,
+                    "playerTag": "Raiden"
+                }
+            ]
+        },
+        {
+            "id": 35640861,
+            "entrant1Id": 6900425,
+            "entrant2Id": 6897138,
+            "entrant1Name": "Ludderix",
+            "entrant2Name": "Raiden",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6897138,
+            "loserId": 6900425,
+            "winnerName": "Raiden",
+            "loserName": "Ludderix",
+            "bracketName": "Pools",
+            "bracketId": 1458028,
+            "entrant1Players": [
+                {
+                    "playerId": 30979,
+                    "playerTag": "Ludderix"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21773,
+                    "playerTag": "Raiden"
+                }
+            ]
+        },
+        {
+            "id": 35640850,
+            "entrant1Id": 6773723,
+            "entrant2Id": 6897138,
+            "entrant1Name": "Geryaa",
+            "entrant2Name": "Raiden",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6897138,
+            "loserId": 6773723,
+            "winnerName": "Raiden",
+            "loserName": "Geryaa",
+            "bracketName": "Pools",
+            "bracketId": 1458028,
+            "entrant1Players": [
+                {
+                    "playerId": 1656879,
+                    "playerTag": "Geryaa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21773,
+                    "playerTag": "Raiden"
+                }
+            ]
+        },
+        {
+            "id": 35640810,
+            "entrant1Id": 6897138,
+            "entrant2Id": 6777916,
+            "entrant1Name": "Raiden",
+            "entrant2Name": "subtrat de porc",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6897138,
+            "loserId": 6777916,
+            "winnerName": "Raiden",
+            "loserName": "subtrat de porc",
+            "bracketName": "Pools",
+            "bracketId": 1458028,
+            "entrant1Players": [
+                {
+                    "playerId": 21773,
+                    "playerTag": "Raiden"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2096038,
+                    "playerTag": "substrat de porc"
+                }
+            ]
+        },
+        {
+            "id": 35642488,
+            "entrant1Id": 6782640,
+            "entrant2Id": 6897138,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Raiden",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6782640,
+            "loserId": 6897138,
+            "winnerName": "Levingy",
+            "loserName": "Raiden",
+            "bracketName": "Top 96",
+            "bracketId": 1458050,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21773,
+                    "playerTag": "Raiden"
+                }
+            ]
+        },
+        {
+            "id": 35642604,
+            "entrant1Id": 6897138,
+            "entrant2Id": 6785564,
+            "entrant1Name": "Raiden",
+            "entrant2Name": "HoorayForJay",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6897138,
+            "loserId": 6785564,
+            "winnerName": "Raiden",
+            "loserName": "HoorayForJay",
+            "bracketName": "Top 96",
+            "bracketId": 1458050,
+            "entrant1Players": [
+                {
+                    "playerId": 21773,
+                    "playerTag": "Raiden"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54277,
+                    "playerTag": "HoorayForJay"
+                }
+            ]
+        },
+        {
+            "id": 35640793,
+            "entrant1Id": 6897138,
+            "entrant2Id": 6835750,
+            "entrant1Name": "Raiden",
+            "entrant2Name": "Venictus",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6897138,
+            "loserId": 6835750,
+            "winnerName": "Raiden",
+            "loserName": "Venictus",
+            "bracketName": "Pools",
+            "bracketId": 1458028,
+            "entrant1Players": [
+                {
+                    "playerId": 21773,
+                    "playerTag": "Raiden"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 950501,
+                    "playerTag": "Venictus"
+                }
+            ]
+        },
+        {
+            "id": 35642463,
+            "entrant1Id": 6897138,
+            "entrant2Id": 6782693,
+            "entrant1Name": "Raiden",
+            "entrant2Name": "Qual",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6897138,
+            "loserId": 6782693,
+            "winnerName": "Raiden",
+            "loserName": "Qual",
+            "bracketName": "Top 96",
+            "bracketId": 1458050,
+            "entrant1Players": [
+                {
+                    "playerId": 21773,
+                    "playerTag": "Raiden"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5950,
+                    "playerTag": "Qual"
+                }
+            ]
+        },
+        {
+            "id": 35640781,
+            "entrant1Id": 6897138,
+            "entrant2Id": 6890826,
+            "entrant1Name": "Raiden",
+            "entrant2Name": "Zelpher",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6897138,
+            "loserId": 6890826,
+            "winnerName": "Raiden",
+            "loserName": "Zelpher",
+            "bracketName": "Pools",
+            "bracketId": 1458028,
+            "entrant1Players": [
+                {
+                    "playerId": 21773,
+                    "playerTag": "Raiden"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50670,
+                    "playerTag": "Zelpher"
+                }
+            ]
+        },
+        {
+            "id": 35644192,
+            "entrant1Id": 6897138,
+            "entrant2Id": 6833764,
+            "entrant1Name": "Raiden",
+            "entrant2Name": "PS | Psylo",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6833764,
+            "loserId": 6897138,
+            "winnerName": "PS | Psylo",
+            "loserName": "Raiden",
+            "bracketName": "Top 64",
+            "bracketId": 1458612,
+            "entrant1Players": [
+                {
+                    "playerId": 21773,
+                    "playerTag": "Raiden"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 233945,
+                    "playerTag": "Psylo"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "mahie"
+    ],
+    "L": [
+        "Wobl",
+        "Madness",
+        "meady",
+        "timi",
+        "levingy",
+        "Psylo"
+    ]
+}

@@ -1,0 +1,1979 @@
+{
+    "Events": [
+        457669,
+        550373,
+        549684,
+        543662,
+        554988,
+        550163,
+        428582,
+        123
+    ],
+    "Sets": [
+        {
+            "id": 41431293,
+            "entrant1Id": 8331036,
+            "entrant2Id": 8053254,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "10QuidShoes",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8053254,
+            "loserId": 8331036,
+            "winnerName": "10QuidShoes",
+            "loserName": "Fout NL",
+            "bracketName": "Pools",
+            "bracketId": 1550995,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11087,
+                    "playerTag": "10QuidShoes"
+                }
+            ]
+        },
+        {
+            "id": 41431290,
+            "entrant1Id": 8331036,
+            "entrant2Id": 8421721,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "War | NoPressure1",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8331036,
+            "loserId": 8421721,
+            "winnerName": "Fout NL",
+            "loserName": "War | NoPressure1",
+            "bracketName": "Pools",
+            "bracketId": 1550995,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 127472,
+                    "playerTag": "NoPressure1"
+                }
+            ]
+        },
+        {
+            "id": 41431287,
+            "entrant1Id": 8331036,
+            "entrant2Id": 8188487,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "JoMo",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8331036,
+            "loserId": 8188487,
+            "winnerName": "Fout NL",
+            "loserName": "JoMo",
+            "bracketName": "Pools",
+            "bracketId": 1550995,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 133685,
+                    "playerTag": "JoMo"
+                }
+            ]
+        },
+        {
+            "id": 41438209,
+            "entrant1Id": 8062619,
+            "entrant2Id": 8331036,
+            "entrant1Name": "Kidder",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8331036,
+            "loserId": 8062619,
+            "winnerName": "Fout NL",
+            "loserName": "Kidder",
+            "bracketName": "A Bracket",
+            "bracketId": 1550999,
+            "entrant1Players": [
+                {
+                    "playerId": 278205,
+                    "playerTag": "Kidder"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 41431284,
+            "entrant1Id": 8331036,
+            "entrant2Id": 8398265,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Brongus",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8331036,
+            "loserId": 8398265,
+            "winnerName": "Fout NL",
+            "loserName": "Brongus",
+            "bracketName": "Pools",
+            "bracketId": 1550995,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11061,
+                    "playerTag": "Brongus"
+                }
+            ]
+        },
+        {
+            "id": 41438205,
+            "entrant1Id": 8042712,
+            "entrant2Id": 8331036,
+            "entrant1Name": "Okameed",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8331036,
+            "loserId": 8042712,
+            "winnerName": "Fout NL",
+            "loserName": "Okameed",
+            "bracketName": "A Bracket",
+            "bracketId": 1550999,
+            "entrant1Players": [
+                {
+                    "playerId": 4393,
+                    "playerTag": "Okameed"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 41438077,
+            "entrant1Id": 8052521,
+            "entrant2Id": 8331036,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8052521,
+            "loserId": 8331036,
+            "winnerName": "Frenzy",
+            "loserName": "Fout NL",
+            "bracketName": "A Bracket",
+            "bracketId": 1550999,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 41438201,
+            "entrant1Id": 8331036,
+            "entrant2Id": 8428844,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "\u03c9Z | Calvin",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8331036,
+            "loserId": 8428844,
+            "winnerName": "Fout NL",
+            "loserName": "\u03c9Z | Calvin",
+            "bracketName": "A Bracket",
+            "bracketId": 1550999,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6546,
+                    "playerTag": "Calvin"
+                }
+            ]
+        },
+        {
+            "id": 41431281,
+            "entrant1Id": 8331036,
+            "entrant2Id": 8070472,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Vintageshark",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8331036,
+            "loserId": 8070472,
+            "winnerName": "Fout NL",
+            "loserName": "Vintageshark",
+            "bracketName": "Pools",
+            "bracketId": 1550995,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1581552,
+                    "playerTag": "Vintageshark"
+                }
+            ]
+        },
+        {
+            "id": 41438066,
+            "entrant1Id": 8331036,
+            "entrant2Id": 8055484,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "MS | 2000bluntz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8331036,
+            "loserId": 8055484,
+            "winnerName": "Fout NL",
+            "loserName": "MS | 2000bluntz",
+            "bracketName": "A Bracket",
+            "bracketId": 1550999,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 244311,
+                    "playerTag": "2000bluntz"
+                }
+            ]
+        },
+        {
+            "id": 41431278,
+            "entrant1Id": 8331036,
+            "entrant2Id": 8456000,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "G-Dog",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8331036,
+            "loserId": 8456000,
+            "winnerName": "Fout NL",
+            "loserName": "G-Dog",
+            "bracketName": "Pools",
+            "bracketId": 1550995,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1082479,
+                    "playerTag": "GhostDog"
+                }
+            ]
+        },
+        {
+            "id": 41447684,
+            "entrant1Id": 8066289,
+            "entrant2Id": 8331036,
+            "entrant1Name": "Kingu",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8066289,
+            "loserId": 8331036,
+            "winnerName": "Kingu",
+            "loserName": "Fout NL",
+            "bracketName": "Top 8",
+            "bracketId": 1551000,
+            "entrant1Players": [
+                {
+                    "playerId": 1400299,
+                    "playerTag": "Kingu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 41447682,
+            "entrant1Id": 8052575,
+            "entrant2Id": 8331036,
+            "entrant1Name": "Squeachu",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8331036,
+            "loserId": 8052575,
+            "winnerName": "Fout NL",
+            "loserName": "Squeachu",
+            "bracketName": "Top 8",
+            "bracketId": 1551000,
+            "entrant1Players": [
+                {
+                    "playerId": 66980,
+                    "playerTag": "Squeachu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 39272738,
+            "entrant1Id": 7893989,
+            "entrant2Id": 7898758,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7898758,
+            "loserId": 7893989,
+            "winnerName": "Fout NL",
+            "loserName": "raoul",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545571,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 39272735,
+            "entrant1Id": 7616233,
+            "entrant2Id": 7898758,
+            "entrant1Name": "DAFT | Wobl",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7898758,
+            "loserId": 7616233,
+            "winnerName": "Fout NL",
+            "loserName": "DAFT | Wobl",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545571,
+            "entrant1Players": [
+                {
+                    "playerId": 701767,
+                    "playerTag": "Wobl"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 39317109,
+            "entrant1Id": 7673164,
+            "entrant2Id": 7898758,
+            "entrant1Name": "Humpe",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7673164,
+            "loserId": 7898758,
+            "winnerName": "Humpe",
+            "loserName": "Fout NL",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 49595,
+                    "playerTag": "Humpe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 39272725,
+            "entrant1Id": 7898758,
+            "entrant2Id": 7953134,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "HoorayForJay",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7898758,
+            "loserId": 7953134,
+            "winnerName": "Fout NL",
+            "loserName": "HoorayForJay",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545571,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54277,
+                    "playerTag": "HoorayForJay"
+                }
+            ]
+        },
+        {
+            "id": 39317101,
+            "entrant1Id": 7898758,
+            "entrant2Id": 7946309,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7898758,
+            "loserId": 7946309,
+            "winnerName": "Fout NL",
+            "loserName": "Laurster",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 39316969,
+            "entrant1Id": 7898758,
+            "entrant2Id": 7957643,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7957643,
+            "loserId": 7898758,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Fout NL",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 39317091,
+            "entrant1Id": 7898758,
+            "entrant2Id": 7634164,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Savestate",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7898758,
+            "loserId": 7634164,
+            "winnerName": "Fout NL",
+            "loserName": "Savestate",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ]
+        },
+        {
+            "id": 39272720,
+            "entrant1Id": 7898758,
+            "entrant2Id": 7939985,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "lum",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7898758,
+            "loserId": 7939985,
+            "winnerName": "Fout NL",
+            "loserName": "lum",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545571,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46906,
+                    "playerTag": "lum"
+                }
+            ]
+        },
+        {
+            "id": 39272715,
+            "entrant1Id": 7898758,
+            "entrant2Id": 7952458,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Tasteless Curry",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7898758,
+            "loserId": 7952458,
+            "winnerName": "Fout NL",
+            "loserName": "Tasteless Curry",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545571,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1569184,
+                    "playerTag": "Tasteless Curry"
+                }
+            ]
+        },
+        {
+            "id": 37559618,
+            "entrant1Id": 7361660,
+            "entrant2Id": 7364674,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Bose",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7364674,
+            "loserId": 7361660,
+            "winnerName": "Bose",
+            "loserName": "Fout NL",
+            "bracketName": "Changing room",
+            "bracketId": 1500142,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37209,
+                    "playerTag": "Bose"
+                }
+            ]
+        },
+        {
+            "id": 37613514,
+            "entrant1Id": 7374537,
+            "entrant2Id": 7361660,
+            "entrant1Name": "PS | Ice",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7374537,
+            "loserId": 7361660,
+            "winnerName": "PS | Ice",
+            "loserName": "Fout NL",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 37559616,
+            "entrant1Id": 7361660,
+            "entrant2Id": 7314540,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Gappy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7361660,
+            "loserId": 7314540,
+            "winnerName": "Fout NL",
+            "loserName": "Gappy",
+            "bracketName": "Changing room",
+            "bracketId": 1500142,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1461959,
+                    "playerTag": "Gappy"
+                }
+            ]
+        },
+        {
+            "id": 37613510,
+            "entrant1Id": 7361660,
+            "entrant2Id": 7351506,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "skullbro",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7361660,
+            "loserId": 7351506,
+            "winnerName": "Fout NL",
+            "loserName": "skullbro",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ]
+        },
+        {
+            "id": 37613383,
+            "entrant1Id": 7361660,
+            "entrant2Id": 7341715,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7341715,
+            "loserId": 7361660,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Fout NL",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 37613505,
+            "entrant1Id": 7361660,
+            "entrant2Id": 7353917,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "NVZ",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7361660,
+            "loserId": 7353917,
+            "winnerName": "Fout NL",
+            "loserName": "NVZ",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 280500,
+                    "playerTag": "NVZ"
+                }
+            ]
+        },
+        {
+            "id": 37559614,
+            "entrant1Id": 7361660,
+            "entrant2Id": 7327571,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "JJLinyard",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7361660,
+            "loserId": 7327571,
+            "winnerName": "Fout NL",
+            "loserName": "JJLinyard",
+            "bracketName": "Changing room",
+            "bracketId": 1500142,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11203,
+                    "playerTag": "JJLinyard"
+                }
+            ]
+        },
+        {
+            "id": 37613372,
+            "entrant1Id": 7291718,
+            "entrant2Id": 7361660,
+            "entrant1Name": "Tisk",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7361660,
+            "loserId": 7291718,
+            "winnerName": "Fout NL",
+            "loserName": "Tisk",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 1879975,
+                    "playerTag": "Tisk"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 37613351,
+            "entrant1Id": 7351421,
+            "entrant2Id": 7361660,
+            "entrant1Name": "nebbii",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7361660,
+            "loserId": 7351421,
+            "winnerName": "Fout NL",
+            "loserName": "nebbii",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 5736,
+                    "playerTag": "nebbii"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 36912518,
+            "entrant1Id": 7123875,
+            "entrant2Id": 7127395,
+            "entrant1Name": "NGNS | Parsec",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7123875,
+            "loserId": 7127395,
+            "winnerName": "NGNS | Parsec",
+            "loserName": "Fout NL",
+            "bracketName": "Pools",
+            "bracketId": 1472611,
+            "entrant1Players": [
+                {
+                    "playerId": 54535,
+                    "playerTag": "Parsec"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 36912516,
+            "entrant1Id": 7132447,
+            "entrant2Id": 7127395,
+            "entrant1Name": "Instinct | bazoo",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7127395,
+            "loserId": 7132447,
+            "winnerName": "Fout NL",
+            "loserName": "Instinct | bazoo",
+            "bracketName": "Pools",
+            "bracketId": 1472611,
+            "entrant1Players": [
+                {
+                    "playerId": 45309,
+                    "playerTag": "bazoo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 36912514,
+            "entrant1Id": 7208095,
+            "entrant2Id": 7127395,
+            "entrant1Name": "Trut",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7127395,
+            "loserId": 7208095,
+            "winnerName": "Fout NL",
+            "loserName": "Trut",
+            "bracketName": "Pools",
+            "bracketId": 1472611,
+            "entrant1Players": [
+                {
+                    "playerId": 286435,
+                    "playerTag": "Trut"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 36951875,
+            "entrant1Id": 7127395,
+            "entrant2Id": 7231839,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "astar",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7127395,
+            "loserId": 7231839,
+            "winnerName": "Fout NL",
+            "loserName": "astar",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1472623,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 351025,
+                    "playerTag": "astar"
+                }
+            ]
+        },
+        {
+            "id": 36951814,
+            "entrant1Id": 7094546,
+            "entrant2Id": 7127395,
+            "entrant1Name": "King",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7094546,
+            "loserId": 7127395,
+            "winnerName": "King",
+            "loserName": "Fout NL",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1472623,
+            "entrant1Players": [
+                {
+                    "playerId": 796398,
+                    "playerTag": "King"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 36951868,
+            "entrant1Id": 7127395,
+            "entrant2Id": 7234959,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "DeaconBlues",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7127395,
+            "loserId": 7234959,
+            "winnerName": "Fout NL",
+            "loserName": "DeaconBlues",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1472623,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10538,
+                    "playerTag": "DeaconBlues"
+                }
+            ]
+        },
+        {
+            "id": 36912511,
+            "entrant1Id": 7127395,
+            "entrant2Id": 7211685,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Bears",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7127395,
+            "loserId": 7211685,
+            "winnerName": "Fout NL",
+            "loserName": "Bears",
+            "bracketName": "Pools",
+            "bracketId": 1472611,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 67416,
+                    "playerTag": "Bears"
+                }
+            ]
+        },
+        {
+            "id": 36951804,
+            "entrant1Id": 7127395,
+            "entrant2Id": 7230314,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "GonJa",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7127395,
+            "loserId": 7230314,
+            "winnerName": "Fout NL",
+            "loserName": "GonJa",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1472623,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 463183,
+                    "playerTag": "GonJa"
+                }
+            ]
+        },
+        {
+            "id": 36912507,
+            "entrant1Id": 7127395,
+            "entrant2Id": 7170771,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Frenje",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7127395,
+            "loserId": 7170771,
+            "winnerName": "Fout NL",
+            "loserName": "Frenje",
+            "bracketName": "Pools",
+            "bracketId": 1472611,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 387381,
+                    "playerTag": "Frenje"
+                }
+            ]
+        },
+        {
+            "id": 36956018,
+            "entrant1Id": 7127395,
+            "entrant2Id": 7227651,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Humpe",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7227651,
+            "loserId": 7127395,
+            "winnerName": "Humpe",
+            "loserName": "Fout NL",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 49595,
+                    "playerTag": "Humpe"
+                }
+            ]
+        },
+        {
+            "id": 36956006,
+            "entrant1Id": 7171329,
+            "entrant2Id": 7127395,
+            "entrant1Name": "Widl",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7127395,
+            "loserId": 7171329,
+            "winnerName": "Fout NL",
+            "loserName": "Widl",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 10178,
+                    "playerTag": "Little Bear"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 36297862,
+            "entrant1Id": 6919488,
+            "entrant2Id": 7020866,
+            "entrant1Name": "R23",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6919488,
+            "loserId": 7020866,
+            "winnerName": "R23",
+            "loserName": "Fout NL",
+            "bracketName": "Pools",
+            "bracketId": 1470145,
+            "entrant1Players": [
+                {
+                    "playerId": 5519,
+                    "playerTag": "R23"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 36297859,
+            "entrant1Id": 7050433,
+            "entrant2Id": 7020866,
+            "entrant1Name": "EvilS | Nikstrat",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7020866,
+            "loserId": 7050433,
+            "winnerName": "Fout NL",
+            "loserName": "EvilS | Nikstrat",
+            "bracketName": "Pools",
+            "bracketId": 1470145,
+            "entrant1Players": [
+                {
+                    "playerId": 579172,
+                    "playerTag": "Nikstrat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 36297856,
+            "entrant1Id": 7062494,
+            "entrant2Id": 7020866,
+            "entrant1Name": "Ronsteri",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7020866,
+            "loserId": 7062494,
+            "winnerName": "Fout NL",
+            "loserName": "Ronsteri",
+            "bracketName": "Pools",
+            "bracketId": 1470145,
+            "entrant1Players": [
+                {
+                    "playerId": 1038055,
+                    "playerTag": "Ronsteri"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 36297853,
+            "entrant1Id": 7027683,
+            "entrant2Id": 7020866,
+            "entrant1Name": "soyboy",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7020866,
+            "loserId": 7027683,
+            "winnerName": "Fout NL",
+            "loserName": "soyboy",
+            "bracketName": "Pools",
+            "bracketId": 1470145,
+            "entrant1Players": [
+                {
+                    "playerId": 250949,
+                    "playerTag": "soyboy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 36299117,
+            "entrant1Id": 7026816,
+            "entrant2Id": 7020866,
+            "entrant1Name": "CGN | Ice",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7026816,
+            "loserId": 7020866,
+            "winnerName": "CGN | Ice",
+            "loserName": "Fout NL",
+            "bracketName": "Top 96",
+            "bracketId": 1473244,
+            "entrant1Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 36297849,
+            "entrant1Id": 7020866,
+            "entrant2Id": 6918442,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "CTM | Ryzon",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7020866,
+            "loserId": 6918442,
+            "winnerName": "Fout NL",
+            "loserName": "CTM | Ryzon",
+            "bracketName": "Pools",
+            "bracketId": 1470145,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 69542,
+                    "playerTag": "Ryzon"
+                }
+            ]
+        },
+        {
+            "id": 36299112,
+            "entrant1Id": 7056548,
+            "entrant2Id": 7020866,
+            "entrant1Name": "Gr4pe",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7020866,
+            "loserId": 7056548,
+            "winnerName": "Fout NL",
+            "loserName": "Gr4pe",
+            "bracketName": "Top 96",
+            "bracketId": 1473244,
+            "entrant1Players": [
+                {
+                    "playerId": 276138,
+                    "playerTag": "Gr4pe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 36299102,
+            "entrant1Id": 7020866,
+            "entrant2Id": 6935861,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Ping",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7020866,
+            "loserId": 6935861,
+            "winnerName": "Fout NL",
+            "loserName": "Ping",
+            "bracketName": "Top 96",
+            "bracketId": 1473244,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 256670,
+                    "playerTag": "Ping"
+                }
+            ]
+        },
+        {
+            "id": 36300316,
+            "entrant1Id": 7020866,
+            "entrant2Id": 7051661,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "PS | Charlon",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7051661,
+            "loserId": 7020866,
+            "winnerName": "PS | Charlon",
+            "loserName": "Fout NL",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5293,
+                    "playerTag": "Charlon"
+                }
+            ]
+        },
+        {
+            "id": 35641366,
+            "entrant1Id": 6794860,
+            "entrant2Id": 6893027,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Fat Tino",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6893027,
+            "loserId": 6794860,
+            "winnerName": "Fat Tino",
+            "loserName": "Fout NL",
+            "bracketName": "Pools",
+            "bracketId": 1458043,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 667216,
+                    "playerTag": "Fat Tino"
+                }
+            ]
+        },
+        {
+            "id": 35641354,
+            "entrant1Id": 6794860,
+            "entrant2Id": 6865419,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "EvilS | Lele",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6794860,
+            "loserId": 6865419,
+            "winnerName": "Fout NL",
+            "loserName": "EvilS | Lele",
+            "bracketName": "Pools",
+            "bracketId": 1458043,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 579173,
+                    "playerTag": "Lele"
+                }
+            ]
+        },
+        {
+            "id": 35641350,
+            "entrant1Id": 6794860,
+            "entrant2Id": 6892136,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "De Klok | Windje",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6794860,
+            "loserId": 6892136,
+            "winnerName": "Fout NL",
+            "loserName": "De Klok | Windje",
+            "bracketName": "Pools",
+            "bracketId": 1458043,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 530030,
+                    "playerTag": "Windje"
+                }
+            ]
+        },
+        {
+            "id": 35642678,
+            "entrant1Id": 6771413,
+            "entrant2Id": 6794860,
+            "entrant1Name": "max",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6794860,
+            "loserId": 6771413,
+            "winnerName": "Fout NL",
+            "loserName": "max",
+            "bracketName": "Top 96",
+            "bracketId": 1458611,
+            "entrant1Players": [
+                {
+                    "playerId": 818697,
+                    "playerTag": "max"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 35642652,
+            "entrant1Id": 6794860,
+            "entrant2Id": 6772416,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Mezzy",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6794860,
+            "loserId": 6772416,
+            "winnerName": "Fout NL",
+            "loserName": "Mezzy",
+            "bracketName": "Top 96",
+            "bracketId": 1458611,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 323610,
+                    "playerTag": "Mezzy"
+                }
+            ]
+        },
+        {
+            "id": 35644098,
+            "entrant1Id": 6843641,
+            "entrant2Id": 6794860,
+            "entrant1Name": "CGN | Nicki",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6843641,
+            "loserId": 6794860,
+            "winnerName": "CGN | Nicki",
+            "loserName": "Fout NL",
+            "bracketName": "Top 64",
+            "bracketId": 1458612,
+            "entrant1Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 35641342,
+            "entrant1Id": 6794860,
+            "entrant2Id": 6853776,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "granis",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6794860,
+            "loserId": 6853776,
+            "winnerName": "Fout NL",
+            "loserName": "granis",
+            "bracketName": "Pools",
+            "bracketId": 1458043,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1928579,
+                    "playerTag": "granis"
+                }
+            ]
+        },
+        {
+            "id": 35644206,
+            "entrant1Id": 6794860,
+            "entrant2Id": 6763891,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "PS | Charlon",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6763891,
+            "loserId": 6794860,
+            "winnerName": "PS | Charlon",
+            "loserName": "Fout NL",
+            "bracketName": "Top 64",
+            "bracketId": 1458612,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5293,
+                    "playerTag": "Charlon"
+                }
+            ]
+        },
+        {
+            "id": 42517630,
+            "entrant1Id": 4347656,
+            "entrant2Id": 4347669,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Nestea",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4347656,
+            "loserId": 4347669,
+            "winnerName": "Fout NL",
+            "loserName": "Nestea",
+            "bracketName": "Pools",
+            "bracketId": 1234677,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 256964,
+                    "playerTag": "Nestea"
+                }
+            ]
+        },
+        {
+            "id": 42573169,
+            "entrant1Id": 4347656,
+            "entrant2Id": 4728822,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 4728822,
+            "loserId": 4347656,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Fout NL",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 42572917,
+            "entrant1Id": 4487359,
+            "entrant2Id": 4347656,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4487359,
+            "loserId": 4347656,
+            "winnerName": "Professor Pro",
+            "loserName": "Fout NL",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 42517628,
+            "entrant1Id": 4347656,
+            "entrant2Id": 8506414,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "PressTab | MisFaya",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4347656,
+            "loserId": 8506414,
+            "winnerName": "Fout NL",
+            "loserName": "PressTab | MisFaya",
+            "bracketName": "Pools",
+            "bracketId": 1234677,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 157305,
+                    "playerTag": "MisFaya"
+                }
+            ]
+        },
+        {
+            "id": 42573162,
+            "entrant1Id": 4347656,
+            "entrant2Id": 8601872,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Ravio",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4347656,
+            "loserId": 8601872,
+            "winnerName": "Fout NL",
+            "loserName": "Ravio",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 270446,
+                    "playerTag": "Ravio"
+                }
+            ]
+        },
+        {
+            "id": 42572908,
+            "entrant1Id": 4347656,
+            "entrant2Id": 4731679,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Renzo",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4347656,
+            "loserId": 4731679,
+            "winnerName": "Fout NL",
+            "loserName": "Renzo",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 329862,
+                    "playerTag": "Renzo"
+                }
+            ]
+        },
+        {
+            "id": 42517626,
+            "entrant1Id": 4347656,
+            "entrant2Id": 4733340,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "GiveMeYourLiver",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4347656,
+            "loserId": 4733340,
+            "winnerName": "Fout NL",
+            "loserName": "GiveMeYourLiver",
+            "bracketName": "Pools",
+            "bracketId": 1234677,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1034961,
+                    "playerTag": "GiveMeYourLiver"
+                }
+            ]
+        },
+        {
+            "id": 42572889,
+            "entrant1Id": 4347656,
+            "entrant2Id": 8628118,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Tobide",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4347656,
+            "loserId": 8628118,
+            "winnerName": "Fout NL",
+            "loserName": "Tobide",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46082,
+                    "playerTag": "Tobide"
+                }
+            ]
+        },
+        {
+            "id": 42517624,
+            "entrant1Id": 4347656,
+            "entrant2Id": 8722755,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Kamitael",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4347656,
+            "loserId": 8722755,
+            "winnerName": "Fout NL",
+            "loserName": "Kamitael",
+            "bracketName": "Pools",
+            "bracketId": 1234677,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1028347,
+                    "playerTag": "Kamitael"
+                }
+            ]
+        },
+        {
+            "id": 42572851,
+            "entrant1Id": 4347656,
+            "entrant2Id": 8490332,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Nirozyka",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4347656,
+            "loserId": 8490332,
+            "winnerName": "Fout NL",
+            "loserName": "Nirozyka",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2189543,
+                    "playerTag": "Nirozyka"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "raoul",
+        "laurster",
+        "savestate",
+        "skullbro",
+        "max",
+        "renzo",
+        "savestate",
+        "skullbro"
+    ],
+    "L": [
+        "10QuidShoes",
+        "frenzy",
+        "kingu",
+        "humpe",
+        "frenzy",
+        "bose",
+        "ice",
+        "kins0",
+        "parsec",
+        "king",
+        "humpe",
+        "r23",
+        "ice",
+        "charlon",
+        "fat tino",
+        "nicki",
+        "charlon",
+        "rikzz",
+        "professor pro",
+        "skullbro",
+        "nicki"
+    ]
+}

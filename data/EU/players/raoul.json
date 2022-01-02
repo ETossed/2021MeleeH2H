@@ -1,0 +1,2124 @@
+{
+    "Events": [
+        554625,
+        550396,
+        545157,
+        550373,
+        549952,
+        549684,
+        543662,
+        541113,
+        428582
+    ],
+    "Sets": [
+        {
+            "id": 41638468,
+            "entrant1Id": 8552811,
+            "entrant2Id": 8552831,
+            "entrant1Name": "skullbro",
+            "entrant2Name": "raoul",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552811,
+            "loserId": 8552831,
+            "winnerName": "skullbro",
+            "loserName": "raoul",
+            "bracketName": "Group Stage",
+            "bracketId": 1603242,
+            "entrant1Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 41638466,
+            "entrant1Id": 8552831,
+            "entrant2Id": 8552801,
+            "entrant1Name": "raoul",
+            "entrant2Name": "PS | Ice",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552801,
+            "loserId": 8552831,
+            "winnerName": "PS | Ice",
+            "loserName": "raoul",
+            "bracketName": "Group Stage",
+            "bracketId": 1603242,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 41638463,
+            "entrant1Id": 8552778,
+            "entrant2Id": 8552831,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "raoul",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552831,
+            "loserId": 8552778,
+            "winnerName": "raoul",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Group Stage",
+            "bracketId": 1603242,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 41697239,
+            "entrant1Id": 8552804,
+            "entrant2Id": 8552831,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "raoul",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552804,
+            "loserId": 8552831,
+            "winnerName": "Jah Ridin'",
+            "loserName": "raoul",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 41697235,
+            "entrant1Id": 8552831,
+            "entrant2Id": 8552818,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552831,
+            "loserId": 8552818,
+            "winnerName": "raoul",
+            "loserName": "Mahie",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 40800752,
+            "entrant1Id": 8338750,
+            "entrant2Id": 8297335,
+            "entrant1Name": "raoul",
+            "entrant2Name": "SKBG | Ba$$",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8338750,
+            "loserId": 8297335,
+            "winnerName": "raoul",
+            "loserName": "SKBG | Ba$$",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554149,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40855,
+                    "playerTag": "Ba$$"
+                }
+            ]
+        },
+        {
+            "id": 40863696,
+            "entrant1Id": 8151208,
+            "entrant2Id": 8338750,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "raoul",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8151208,
+            "loserId": 8338750,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "raoul",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 40800746,
+            "entrant1Id": 8338750,
+            "entrant2Id": 8157353,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Syltapa",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8338750,
+            "loserId": 8157353,
+            "winnerName": "raoul",
+            "loserName": "Syltapa",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554149,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 550111,
+                    "playerTag": "Syltapa"
+                }
+            ]
+        },
+        {
+            "id": 40863692,
+            "entrant1Id": 8338750,
+            "entrant2Id": 8126773,
+            "entrant1Name": "raoul",
+            "entrant2Name": "skullbro",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8338750,
+            "loserId": 8126773,
+            "winnerName": "raoul",
+            "loserName": "skullbro",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ]
+        },
+        {
+            "id": 40863566,
+            "entrant1Id": 8240826,
+            "entrant2Id": 8338750,
+            "entrant1Name": "Nicki",
+            "entrant2Name": "raoul",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8240826,
+            "loserId": 8338750,
+            "winnerName": "Nicki",
+            "loserName": "raoul",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 40863684,
+            "entrant1Id": 8338750,
+            "entrant2Id": 8127122,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Glaikit",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8338750,
+            "loserId": 8127122,
+            "winnerName": "raoul",
+            "loserName": "Glaikit",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30631,
+                    "playerTag": "Glaikit"
+                }
+            ]
+        },
+        {
+            "id": 40800743,
+            "entrant1Id": 8338750,
+            "entrant2Id": 8147154,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Marks Friend | Blackpixel",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8338750,
+            "loserId": 8147154,
+            "winnerName": "raoul",
+            "loserName": "Marks Friend | Blackpixel",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554149,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2031143,
+                    "playerTag": "Blackpixel"
+                }
+            ]
+        },
+        {
+            "id": 40863554,
+            "entrant1Id": 8338750,
+            "entrant2Id": 8326304,
+            "entrant1Name": "raoul",
+            "entrant2Name": "SenX",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8338750,
+            "loserId": 8326304,
+            "winnerName": "raoul",
+            "loserName": "SenX",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 184913,
+                    "playerTag": "SenX"
+                }
+            ]
+        },
+        {
+            "id": 39839923,
+            "entrant1Id": 8063281,
+            "entrant2Id": 8081901,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "raoul",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8063281,
+            "loserId": 8081901,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "raoul",
+            "bracketName": "Round Robin",
+            "bracketId": 1434146,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 39839920,
+            "entrant1Id": 8077668,
+            "entrant2Id": 8081901,
+            "entrant1Name": "SKBG | Ba$$",
+            "entrant2Name": "raoul",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8081901,
+            "loserId": 8077668,
+            "winnerName": "raoul",
+            "loserName": "SKBG | Ba$$",
+            "bracketName": "Round Robin",
+            "bracketId": 1434146,
+            "entrant1Players": [
+                {
+                    "playerId": 40855,
+                    "playerTag": "Ba$$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 39839914,
+            "entrant1Id": 8010115,
+            "entrant2Id": 8081901,
+            "entrant1Name": "E-CLICK | Doran",
+            "entrant2Name": "raoul",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8081901,
+            "loserId": 8010115,
+            "winnerName": "raoul",
+            "loserName": "E-CLICK | Doran",
+            "bracketName": "Round Robin",
+            "bracketId": 1434146,
+            "entrant1Players": [
+                {
+                    "playerId": 601098,
+                    "playerTag": "Doran"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 39839910,
+            "entrant1Id": 8081901,
+            "entrant2Id": 8081598,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Verdant",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081901,
+            "loserId": 8081598,
+            "winnerName": "raoul",
+            "loserName": "Verdant",
+            "bracketName": "Round Robin",
+            "bracketId": 1434146,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45296,
+                    "playerTag": "Verdant"
+                }
+            ]
+        },
+        {
+            "id": 39886498,
+            "entrant1Id": 8081597,
+            "entrant2Id": 8081901,
+            "entrant1Name": "PS | Ice",
+            "entrant2Name": "raoul",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081597,
+            "loserId": 8081901,
+            "winnerName": "PS | Ice",
+            "loserName": "raoul",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 39886558,
+            "entrant1Id": 8081901,
+            "entrant2Id": 8017187,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Meady",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8017187,
+            "loserId": 8081901,
+            "winnerName": "Meady",
+            "loserName": "raoul",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 39839905,
+            "entrant1Id": 8081901,
+            "entrant2Id": 8098841,
+            "entrant1Name": "raoul",
+            "entrant2Name": "lum",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081901,
+            "loserId": 8098841,
+            "winnerName": "raoul",
+            "loserName": "lum",
+            "bracketName": "Round Robin",
+            "bracketId": 1434146,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46906,
+                    "playerTag": "lum"
+                }
+            ]
+        },
+        {
+            "id": 39886485,
+            "entrant1Id": 8081901,
+            "entrant2Id": 8073230,
+            "entrant1Name": "raoul",
+            "entrant2Name": "SenX",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8081901,
+            "loserId": 8073230,
+            "winnerName": "raoul",
+            "loserName": "SenX",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 184913,
+                    "playerTag": "SenX"
+                }
+            ]
+        },
+        {
+            "id": 39839900,
+            "entrant1Id": 8081901,
+            "entrant2Id": 8032232,
+            "entrant1Name": "raoul",
+            "entrant2Name": "E-CLICK | Valentine",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081901,
+            "loserId": 8032232,
+            "winnerName": "raoul",
+            "loserName": "E-CLICK | Valentine",
+            "bracketName": "Round Robin",
+            "bracketId": 1434146,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65824,
+                    "playerTag": "Valentine"
+                }
+            ]
+        },
+        {
+            "id": 39272738,
+            "entrant1Id": 7893989,
+            "entrant2Id": 7898758,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7898758,
+            "loserId": 7893989,
+            "winnerName": "Fout NL",
+            "loserName": "raoul",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545571,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 39272734,
+            "entrant1Id": 7893989,
+            "entrant2Id": 7953134,
+            "entrant1Name": "raoul",
+            "entrant2Name": "HoorayForJay",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7893989,
+            "loserId": 7953134,
+            "winnerName": "raoul",
+            "loserName": "HoorayForJay",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545571,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54277,
+                    "playerTag": "HoorayForJay"
+                }
+            ]
+        },
+        {
+            "id": 39272730,
+            "entrant1Id": 7893989,
+            "entrant2Id": 7616233,
+            "entrant1Name": "raoul",
+            "entrant2Name": "DAFT | Wobl",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7893989,
+            "loserId": 7616233,
+            "winnerName": "raoul",
+            "loserName": "DAFT | Wobl",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545571,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 701767,
+                    "playerTag": "Wobl"
+                }
+            ]
+        },
+        {
+            "id": 39272726,
+            "entrant1Id": 7893989,
+            "entrant2Id": 7939985,
+            "entrant1Name": "raoul",
+            "entrant2Name": "lum",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7893989,
+            "loserId": 7939985,
+            "winnerName": "raoul",
+            "loserName": "lum",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545571,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46906,
+                    "playerTag": "lum"
+                }
+            ]
+        },
+        {
+            "id": 39316986,
+            "entrant1Id": 7908381,
+            "entrant2Id": 7893989,
+            "entrant1Name": "abbearv",
+            "entrant2Name": "raoul",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7908381,
+            "loserId": 7893989,
+            "winnerName": "abbearv",
+            "loserName": "raoul",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 1853889,
+                    "playerTag": "abbearv"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 39316975,
+            "entrant1Id": 7893989,
+            "entrant2Id": 7929930,
+            "entrant1Name": "raoul",
+            "entrant2Name": "PSG | Madness",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7893989,
+            "loserId": 7929930,
+            "winnerName": "raoul",
+            "loserName": "PSG | Madness",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 896272,
+                    "playerTag": "Madness"
+                }
+            ]
+        },
+        {
+            "id": 39272718,
+            "entrant1Id": 7893989,
+            "entrant2Id": 7952458,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Tasteless Curry",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7893989,
+            "loserId": 7952458,
+            "winnerName": "raoul",
+            "loserName": "Tasteless Curry",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545571,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1569184,
+                    "playerTag": "Tasteless Curry"
+                }
+            ]
+        },
+        {
+            "id": 38377027,
+            "entrant1Id": 7552898,
+            "entrant2Id": 7474286,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Velani",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7552898,
+            "loserId": 7474286,
+            "winnerName": "raoul",
+            "loserName": "Velani",
+            "bracketName": "Pools",
+            "bracketId": 1521930,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 517638,
+                    "playerTag": "Velani"
+                }
+            ]
+        },
+        {
+            "id": 38377021,
+            "entrant1Id": 7552898,
+            "entrant2Id": 7573867,
+            "entrant1Name": "raoul",
+            "entrant2Name": "SenX",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7552898,
+            "loserId": 7573867,
+            "winnerName": "raoul",
+            "loserName": "SenX",
+            "bracketName": "Pools",
+            "bracketId": 1521930,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 184913,
+                    "playerTag": "SenX"
+                }
+            ]
+        },
+        {
+            "id": 38424494,
+            "entrant1Id": 7399082,
+            "entrant2Id": 7552898,
+            "entrant1Name": "R23",
+            "entrant2Name": "raoul",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7552898,
+            "loserId": 7399082,
+            "winnerName": "raoul",
+            "loserName": "R23",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 5519,
+                    "playerTag": "R23"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 38377015,
+            "entrant1Id": 7552898,
+            "entrant2Id": 7599935,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Pilot",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7552898,
+            "loserId": 7599935,
+            "winnerName": "raoul",
+            "loserName": "Pilot",
+            "bracketName": "Pools",
+            "bracketId": 1521930,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 14677,
+                    "playerTag": "Pilot"
+                }
+            ]
+        },
+        {
+            "id": 38424489,
+            "entrant1Id": 7552898,
+            "entrant2Id": 7462266,
+            "entrant1Name": "raoul",
+            "entrant2Name": "PS | Charlon",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7552898,
+            "loserId": 7462266,
+            "winnerName": "raoul",
+            "loserName": "PS | Charlon",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5293,
+                    "playerTag": "Charlon"
+                }
+            ]
+        },
+        {
+            "id": 38424478,
+            "entrant1Id": 7552898,
+            "entrant2Id": 7600934,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Psylo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7552898,
+            "loserId": 7600934,
+            "winnerName": "raoul",
+            "loserName": "Psylo",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 233945,
+                    "playerTag": "Psylo"
+                }
+            ]
+        },
+        {
+            "id": 38429505,
+            "entrant1Id": 7552898,
+            "entrant2Id": 7577167,
+            "entrant1Name": "raoul",
+            "entrant2Name": "PS | Ice",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7577167,
+            "loserId": 7552898,
+            "winnerName": "PS | Ice",
+            "loserName": "raoul",
+            "bracketName": "Top 8",
+            "bracketId": 1521947,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 38429519,
+            "entrant1Id": 7552898,
+            "entrant2Id": 7575212,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Fuzzyness",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7575212,
+            "loserId": 7552898,
+            "winnerName": "Fuzzyness",
+            "loserName": "raoul",
+            "bracketName": "Top 8",
+            "bracketId": 1521947,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6103,
+                    "playerTag": "Fuzzyness"
+                }
+            ]
+        },
+        {
+            "id": 37559558,
+            "entrant1Id": 7283131,
+            "entrant2Id": 7269432,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Tinker",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7283131,
+            "loserId": 7269432,
+            "winnerName": "raoul",
+            "loserName": "Tinker",
+            "bracketName": "Changing room",
+            "bracketId": 1487082,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223012,
+                    "playerTag": "Tinker"
+                }
+            ]
+        },
+        {
+            "id": 37559556,
+            "entrant1Id": 7283131,
+            "entrant2Id": 7296307,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Dennis",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7283131,
+            "loserId": 7296307,
+            "winnerName": "raoul",
+            "loserName": "Dennis",
+            "bracketName": "Changing room",
+            "bracketId": 1487082,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44705,
+                    "playerTag": "Dennis"
+                }
+            ]
+        },
+        {
+            "id": 37613378,
+            "entrant1Id": 7272155,
+            "entrant2Id": 7283131,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "raoul",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7272155,
+            "loserId": 7283131,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "raoul",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 37613502,
+            "entrant1Id": 7283131,
+            "entrant2Id": 7370669,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Calle W",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7370669,
+            "loserId": 7283131,
+            "winnerName": "Calle W",
+            "loserName": "raoul",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36562,
+                    "playerTag": "Calle W"
+                }
+            ]
+        },
+        {
+            "id": 37613363,
+            "entrant1Id": 7351506,
+            "entrant2Id": 7283131,
+            "entrant1Name": "skullbro",
+            "entrant2Name": "raoul",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7283131,
+            "loserId": 7351506,
+            "winnerName": "raoul",
+            "loserName": "skullbro",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 37613333,
+            "entrant1Id": 7283131,
+            "entrant2Id": 7371436,
+            "entrant1Name": "raoul",
+            "entrant2Name": "KGSwe | Muren",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7283131,
+            "loserId": 7371436,
+            "winnerName": "raoul",
+            "loserName": "KGSwe | Muren",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 850472,
+                    "playerTag": "Muren"
+                }
+            ]
+        },
+        {
+            "id": 36912503,
+            "entrant1Id": 7171117,
+            "entrant2Id": 7211198,
+            "entrant1Name": "raoul",
+            "entrant2Name": "NVZ",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7171117,
+            "loserId": 7211198,
+            "winnerName": "raoul",
+            "loserName": "NVZ",
+            "bracketName": "Pools",
+            "bracketId": 1472607,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 280500,
+                    "playerTag": "NVZ"
+                }
+            ]
+        },
+        {
+            "id": 36912500,
+            "entrant1Id": 7171117,
+            "entrant2Id": 7227805,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Madness",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7171117,
+            "loserId": 7227805,
+            "winnerName": "raoul",
+            "loserName": "Madness",
+            "bracketName": "Pools",
+            "bracketId": 1472607,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 896272,
+                    "playerTag": "Madness"
+                }
+            ]
+        },
+        {
+            "id": 36951915,
+            "entrant1Id": 7094605,
+            "entrant2Id": 7171117,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "raoul",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7094605,
+            "loserId": 7171117,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "raoul",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1472624,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 36912497,
+            "entrant1Id": 7171117,
+            "entrant2Id": 7157186,
+            "entrant1Name": "raoul",
+            "entrant2Name": "S@W | Knullebibs",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7171117,
+            "loserId": 7157186,
+            "winnerName": "raoul",
+            "loserName": "S@W | Knullebibs",
+            "bracketName": "Pools",
+            "bracketId": 1472607,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 129949,
+                    "playerTag": "Knullebibs"
+                }
+            ]
+        },
+        {
+            "id": 36951910,
+            "entrant1Id": 7171117,
+            "entrant2Id": 7216178,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Calle W",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7171117,
+            "loserId": 7216178,
+            "winnerName": "raoul",
+            "loserName": "Calle W",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1472624,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36562,
+                    "playerTag": "Calle W"
+                }
+            ]
+        },
+        {
+            "id": 36956034,
+            "entrant1Id": 7128589,
+            "entrant2Id": 7171117,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "raoul",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7128589,
+            "loserId": 7171117,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "raoul",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 36956030,
+            "entrant1Id": 7171117,
+            "entrant2Id": 7212763,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Psylo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7171117,
+            "loserId": 7212763,
+            "winnerName": "raoul",
+            "loserName": "Psylo",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 233945,
+                    "playerTag": "Psylo"
+                }
+            ]
+        },
+        {
+            "id": 36912491,
+            "entrant1Id": 7171117,
+            "entrant2Id": 7209351,
+            "entrant1Name": "raoul",
+            "entrant2Name": "LGDD | Sovlo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7171117,
+            "loserId": 7209351,
+            "winnerName": "raoul",
+            "loserName": "LGDD | Sovlo",
+            "bracketName": "Pools",
+            "bracketId": 1472607,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30308,
+                    "playerTag": "Sovlo"
+                }
+            ]
+        },
+        {
+            "id": 36956022,
+            "entrant1Id": 7213568,
+            "entrant2Id": 7171117,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "raoul",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7171117,
+            "loserId": 7213568,
+            "winnerName": "raoul",
+            "loserName": "Jamie",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 36956014,
+            "entrant1Id": 7223637,
+            "entrant2Id": 7171117,
+            "entrant1Name": "dank",
+            "entrant2Name": "raoul",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7171117,
+            "loserId": 7223637,
+            "winnerName": "raoul",
+            "loserName": "dank",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 37539,
+                    "playerTag": "dank"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 36955999,
+            "entrant1Id": 7171117,
+            "entrant2Id": 7202053,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Xin",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7171117,
+            "loserId": 7202053,
+            "winnerName": "raoul",
+            "loserName": "Xin",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23289,
+                    "playerTag": "Xin"
+                }
+            ]
+        },
+        {
+            "id": 34992855,
+            "entrant1Id": 6652622,
+            "entrant2Id": 6681028,
+            "entrant1Name": "PS | raoul",
+            "entrant2Name": "Sprak",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6652622,
+            "loserId": 6681028,
+            "winnerName": "PS | raoul",
+            "loserName": "Sprak",
+            "bracketName": "Pools",
+            "bracketId": 1438918,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40872,
+                    "playerTag": "Sprak"
+                }
+            ]
+        },
+        {
+            "id": 34992851,
+            "entrant1Id": 6652622,
+            "entrant2Id": 6733119,
+            "entrant1Name": "PS | raoul",
+            "entrant2Name": "benjamin",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6652622,
+            "loserId": 6733119,
+            "winnerName": "PS | raoul",
+            "loserName": "benjamin",
+            "bracketName": "Pools",
+            "bracketId": 1438918,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2162888,
+                    "playerTag": "benjamin"
+                }
+            ]
+        },
+        {
+            "id": 34992847,
+            "entrant1Id": 6652622,
+            "entrant2Id": 6649571,
+            "entrant1Name": "PS | raoul",
+            "entrant2Name": "Mezzy",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6652622,
+            "loserId": 6649571,
+            "winnerName": "PS | raoul",
+            "loserName": "Mezzy",
+            "bracketName": "Pools",
+            "bracketId": 1438918,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 323610,
+                    "playerTag": "Mezzy"
+                }
+            ]
+        },
+        {
+            "id": 34992843,
+            "entrant1Id": 6652622,
+            "entrant2Id": 6649683,
+            "entrant1Name": "PS | raoul",
+            "entrant2Name": "lilfroozy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6652622,
+            "loserId": 6649683,
+            "winnerName": "PS | raoul",
+            "loserName": "lilfroozy",
+            "bracketName": "Pools",
+            "bracketId": 1438918,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5388,
+                    "playerTag": "lilfroozy"
+                }
+            ]
+        },
+        {
+            "id": 34996725,
+            "entrant1Id": 6652622,
+            "entrant2Id": 6696677,
+            "entrant1Name": "PS | raoul",
+            "entrant2Name": "Sverre",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6652622,
+            "loserId": 6696677,
+            "winnerName": "PS | raoul",
+            "loserName": "Sverre",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 25699,
+                    "playerTag": "Sverre"
+                }
+            ]
+        },
+        {
+            "id": 34992839,
+            "entrant1Id": 6652622,
+            "entrant2Id": 6651943,
+            "entrant1Name": "PS | raoul",
+            "entrant2Name": "Heaps",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6652622,
+            "loserId": 6651943,
+            "winnerName": "PS | raoul",
+            "loserName": "Heaps",
+            "bracketName": "Pools",
+            "bracketId": 1438918,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 252423,
+                    "playerTag": "Heaps"
+                }
+            ]
+        },
+        {
+            "id": 34996702,
+            "entrant1Id": 6652622,
+            "entrant2Id": 6655316,
+            "entrant1Name": "PS | raoul",
+            "entrant2Name": "lasse",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6652622,
+            "loserId": 6655316,
+            "winnerName": "PS | raoul",
+            "loserName": "lasse",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 35849,
+                    "playerTag": "lasse"
+                }
+            ]
+        },
+        {
+            "id": 34996656,
+            "entrant1Id": 6652622,
+            "entrant2Id": 6649903,
+            "entrant1Name": "PS | raoul",
+            "entrant2Name": "EuO",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6652622,
+            "loserId": 6649903,
+            "winnerName": "PS | raoul",
+            "loserName": "EuO",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40016,
+                    "playerTag": "EuO"
+                }
+            ]
+        },
+        {
+            "id": 34998303,
+            "entrant1Id": 6728609,
+            "entrant2Id": 6652622,
+            "entrant1Name": "MINT",
+            "entrant2Name": "PS | raoul",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6728609,
+            "loserId": 6652622,
+            "winnerName": "MINT",
+            "loserName": "PS | raoul",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 128932,
+                    "playerTag": "MINT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 34992831,
+            "entrant1Id": 6652622,
+            "entrant2Id": 6650239,
+            "entrant1Name": "PS | raoul",
+            "entrant2Name": "Tuutti",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6652622,
+            "loserId": 6650239,
+            "winnerName": "PS | raoul",
+            "loserName": "Tuutti",
+            "bracketName": "Pools",
+            "bracketId": 1438918,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54288,
+                    "playerTag": "Tuutti"
+                }
+            ]
+        },
+        {
+            "id": 34998359,
+            "entrant1Id": 6652622,
+            "entrant2Id": 6654040,
+            "entrant1Name": "PS | raoul",
+            "entrant2Name": "T3G | mayhem092",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6654040,
+            "loserId": 6652622,
+            "winnerName": "T3G | mayhem092",
+            "loserName": "PS | raoul",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12872,
+                    "playerTag": "mayhem092"
+                }
+            ]
+        },
+        {
+            "id": 42517330,
+            "entrant1Id": 4444787,
+            "entrant2Id": 8482662,
+            "entrant1Name": "PS | raoul",
+            "entrant2Name": "LeCloqueRecords | Yung Drerrie",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4444787,
+            "loserId": 8482662,
+            "winnerName": "PS | raoul",
+            "loserName": "LeCloqueRecords | Yung Drerrie",
+            "bracketName": "Pools",
+            "bracketId": 1234667,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 842771,
+                    "playerTag": "Yung Drerrie"
+                }
+            ]
+        },
+        {
+            "id": 42573175,
+            "entrant1Id": 8612382,
+            "entrant2Id": 4444787,
+            "entrant1Name": "FrankTheFisher",
+            "entrant2Name": "PS | raoul",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8612382,
+            "loserId": 4444787,
+            "winnerName": "FrankTheFisher",
+            "loserName": "PS | raoul",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 2491740,
+                    "playerTag": "FrankTheFisher"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 42573171,
+            "entrant1Id": 4444787,
+            "entrant2Id": 8603356,
+            "entrant1Name": "PS | raoul",
+            "entrant2Name": "Luan",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4444787,
+            "loserId": 8603356,
+            "winnerName": "PS | raoul",
+            "loserName": "Luan",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1328400,
+                    "playerTag": "Luan"
+                }
+            ]
+        },
+        {
+            "id": 42572913,
+            "entrant1Id": 4444787,
+            "entrant2Id": 4762754,
+            "entrant1Name": "PS | raoul",
+            "entrant2Name": "LunarySSF2",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 4762754,
+            "loserId": 4444787,
+            "winnerName": "LunarySSF2",
+            "loserName": "PS | raoul",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 28190,
+                    "playerTag": "It's Ok If I Lose"
+                }
+            ]
+        },
+        {
+            "id": 42517328,
+            "entrant1Id": 4444787,
+            "entrant2Id": 8736530,
+            "entrant1Name": "PS | raoul",
+            "entrant2Name": "1Tan",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4444787,
+            "loserId": 8736530,
+            "winnerName": "PS | raoul",
+            "loserName": "1Tan",
+            "bracketName": "Pools",
+            "bracketId": 1234667,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 271872,
+                    "playerTag": "1Tan"
+                }
+            ]
+        },
+        {
+            "id": 42573166,
+            "entrant1Id": 4444787,
+            "entrant2Id": 8454239,
+            "entrant1Name": "PS | raoul",
+            "entrant2Name": "Parsec",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4444787,
+            "loserId": 8454239,
+            "winnerName": "PS | raoul",
+            "loserName": "Parsec",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54535,
+                    "playerTag": "Parsec"
+                }
+            ]
+        },
+        {
+            "id": 42572899,
+            "entrant1Id": 4444787,
+            "entrant2Id": 8462224,
+            "entrant1Name": "PS | raoul",
+            "entrant2Name": "ThommyN",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4444787,
+            "loserId": 8462224,
+            "winnerName": "PS | raoul",
+            "loserName": "ThommyN",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 733555,
+                    "playerTag": "ThommyN"
+                }
+            ]
+        },
+        {
+            "id": 42572871,
+            "entrant1Id": 4444787,
+            "entrant2Id": 8721552,
+            "entrant1Name": "PS | raoul",
+            "entrant2Name": "Brambles",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4444787,
+            "loserId": 8721552,
+            "winnerName": "PS | raoul",
+            "loserName": "Brambles",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1159399,
+                    "playerTag": "Brambles"
+                }
+            ]
+        },
+        {
+            "id": 42572815,
+            "entrant1Id": 4444787,
+            "entrant2Id": 8582817,
+            "entrant1Name": "PS | raoul",
+            "entrant2Name": "BG | HauntedArmchair",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4444787,
+            "loserId": 8582817,
+            "winnerName": "PS | raoul",
+            "loserName": "BG | HauntedArmchair",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2099891,
+                    "playerTag": "HauntedArmchair"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "frenzy",
+        "mahie",
+        "skullbro",
+        "senx",
+        "senx",
+        "velani",
+        "senx",
+        "r23",
+        "charlon",
+        "skullbro",
+        "jamie",
+        "luan",
+        "parsec"
+    ],
+    "L": [
+        "skullbro",
+        "ice",
+        "jah ridin'",
+        "pipsqueak",
+        "nicki",
+        "frenzy",
+        "ice",
+        "meady",
+        "fout nl",
+        "abbearv",
+        "ice",
+        "fuzzyness",
+        "frenzy",
+        "Calle W",
+        "frenzy",
+        "pipsqueak",
+        "mint",
+        "mayhem092",
+        "FrankTheFisher",
+        "It's Ok If I Lose"
+    ]
+}

@@ -1,0 +1,704 @@
+{
+    "Events": [
+        545157,
+        550373,
+        549952,
+        123
+    ],
+    "Sets": [
+        {
+            "id": 39839971,
+            "entrant1Id": 8030590,
+            "entrant2Id": 8081735,
+            "entrant1Name": "MINT",
+            "entrant2Name": "Savestate",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8030590,
+            "loserId": 8081735,
+            "winnerName": "MINT",
+            "loserName": "Savestate",
+            "bracketName": "Round Robin",
+            "bracketId": 1557211,
+            "entrant1Players": [
+                {
+                    "playerId": 128932,
+                    "playerTag": "MINT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ]
+        },
+        {
+            "id": 39839965,
+            "entrant1Id": 8098192,
+            "entrant2Id": 8081735,
+            "entrant1Name": "Juice",
+            "entrant2Name": "Savestate",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8098192,
+            "loserId": 8081735,
+            "winnerName": "Juice",
+            "loserName": "Savestate",
+            "bracketName": "Round Robin",
+            "bracketId": 1557211,
+            "entrant1Players": [
+                {
+                    "playerId": 2268844,
+                    "playerTag": "Juice"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ]
+        },
+        {
+            "id": 39839953,
+            "entrant1Id": 8070401,
+            "entrant2Id": 8081735,
+            "entrant1Name": "Foxy",
+            "entrant2Name": "Savestate",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8081735,
+            "loserId": 8070401,
+            "winnerName": "Savestate",
+            "loserName": "Foxy",
+            "bracketName": "Round Robin",
+            "bracketId": 1557211,
+            "entrant1Players": [
+                {
+                    "playerId": 2379568,
+                    "playerTag": "Foxy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ]
+        },
+        {
+            "id": 39839945,
+            "entrant1Id": 8100383,
+            "entrant2Id": 8081735,
+            "entrant1Name": "max",
+            "entrant2Name": "Savestate",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8100383,
+            "loserId": 8081735,
+            "winnerName": "max",
+            "loserName": "Savestate",
+            "bracketName": "Round Robin",
+            "bracketId": 1557211,
+            "entrant1Players": [
+                {
+                    "playerId": 818697,
+                    "playerTag": "max"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ]
+        },
+        {
+            "id": 39839938,
+            "entrant1Id": 8081735,
+            "entrant2Id": 8010264,
+            "entrant1Name": "Savestate",
+            "entrant2Name": "ILikeTurtles",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8010264,
+            "loserId": 8081735,
+            "winnerName": "ILikeTurtles",
+            "loserName": "Savestate",
+            "bracketName": "Round Robin",
+            "bracketId": 1557211,
+            "entrant1Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 318564,
+                    "playerTag": "ILikeTurtles"
+                }
+            ]
+        },
+        {
+            "id": 39839933,
+            "entrant1Id": 8081735,
+            "entrant2Id": 8099025,
+            "entrant1Name": "Savestate",
+            "entrant2Name": "disot",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8099025,
+            "loserId": 8081735,
+            "winnerName": "disot",
+            "loserName": "Savestate",
+            "bracketName": "Round Robin",
+            "bracketId": 1557211,
+            "entrant1Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2212539,
+                    "playerTag": "disot"
+                }
+            ]
+        },
+        {
+            "id": 39272766,
+            "entrant1Id": 7640530,
+            "entrant2Id": 7634164,
+            "entrant1Name": "Sharp",
+            "entrant2Name": "Savestate",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7640530,
+            "loserId": 7634164,
+            "winnerName": "Sharp",
+            "loserName": "Savestate",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545572,
+            "entrant1Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ]
+        },
+        {
+            "id": 39272763,
+            "entrant1Id": 7936481,
+            "entrant2Id": 7634164,
+            "entrant1Name": "Xardov",
+            "entrant2Name": "Savestate",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7634164,
+            "loserId": 7936481,
+            "winnerName": "Savestate",
+            "loserName": "Xardov",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545572,
+            "entrant1Players": [
+                {
+                    "playerId": 46502,
+                    "playerTag": "Xardov"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ]
+        },
+        {
+            "id": 39272760,
+            "entrant1Id": 7947246,
+            "entrant2Id": 7634164,
+            "entrant1Name": "Galaga",
+            "entrant2Name": "Savestate",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7634164,
+            "loserId": 7947246,
+            "winnerName": "Savestate",
+            "loserName": "Galaga",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545572,
+            "entrant1Players": [
+                {
+                    "playerId": 1869345,
+                    "playerTag": "Galaga"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ]
+        },
+        {
+            "id": 39272757,
+            "entrant1Id": 7883382,
+            "entrant2Id": 7634164,
+            "entrant1Name": "Ali",
+            "entrant2Name": "Savestate",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7634164,
+            "loserId": 7883382,
+            "winnerName": "Savestate",
+            "loserName": "Ali",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545572,
+            "entrant1Players": [
+                {
+                    "playerId": 1062106,
+                    "playerTag": "Ali"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ]
+        },
+        {
+            "id": 39272753,
+            "entrant1Id": 7634164,
+            "entrant2Id": 7636925,
+            "entrant1Name": "Savestate",
+            "entrant2Name": "CW | Noxxa",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7636925,
+            "loserId": 7634164,
+            "winnerName": "CW | Noxxa",
+            "loserName": "Savestate",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545572,
+            "entrant1Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 283651,
+                    "playerTag": "Noxxa"
+                }
+            ]
+        },
+        {
+            "id": 39317091,
+            "entrant1Id": 7898758,
+            "entrant2Id": 7634164,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "Savestate",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7898758,
+            "loserId": 7634164,
+            "winnerName": "Fout NL",
+            "loserName": "Savestate",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ]
+        },
+        {
+            "id": 39272748,
+            "entrant1Id": 7634164,
+            "entrant2Id": 7649176,
+            "entrant1Name": "Savestate",
+            "entrant2Name": "Thai",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7634164,
+            "loserId": 7649176,
+            "winnerName": "Savestate",
+            "loserName": "Thai",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545572,
+            "entrant1Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1950815,
+                    "playerTag": "Thai"
+                }
+            ]
+        },
+        {
+            "id": 39272743,
+            "entrant1Id": 7634164,
+            "entrant2Id": 7952557,
+            "entrant1Name": "Savestate",
+            "entrant2Name": "Gilbeurt",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7634164,
+            "loserId": 7952557,
+            "winnerName": "Savestate",
+            "loserName": "Gilbeurt",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545572,
+            "entrant1Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2043816,
+                    "playerTag": "Gilbeurt"
+                }
+            ]
+        },
+        {
+            "id": 38377058,
+            "entrant1Id": 7454690,
+            "entrant2Id": 7413204,
+            "entrant1Name": "nebbii",
+            "entrant2Name": "Savestate",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7454690,
+            "loserId": 7413204,
+            "winnerName": "nebbii",
+            "loserName": "Savestate",
+            "bracketName": "Pools",
+            "bracketId": 1521932,
+            "entrant1Players": [
+                {
+                    "playerId": 5736,
+                    "playerTag": "nebbii"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ]
+        },
+        {
+            "id": 38377054,
+            "entrant1Id": 7519300,
+            "entrant2Id": 7413204,
+            "entrant1Name": "EvilS | Lele",
+            "entrant2Name": "Savestate",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7519300,
+            "loserId": 7413204,
+            "winnerName": "EvilS | Lele",
+            "loserName": "Savestate",
+            "bracketName": "Pools",
+            "bracketId": 1521932,
+            "entrant1Players": [
+                {
+                    "playerId": 579173,
+                    "playerTag": "Lele"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ]
+        },
+        {
+            "id": 38424615,
+            "entrant1Id": 7413204,
+            "entrant2Id": 7601829,
+            "entrant1Name": "Savestate",
+            "entrant2Name": "NinjagoFan72",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7601829,
+            "loserId": 7413204,
+            "winnerName": "NinjagoFan72",
+            "loserName": "Savestate",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46448,
+                    "playerTag": "NinjagoFan72"
+                }
+            ]
+        },
+        {
+            "id": 38424609,
+            "entrant1Id": 7414828,
+            "entrant2Id": 7413204,
+            "entrant1Name": "max",
+            "entrant2Name": "Savestate",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7413204,
+            "loserId": 7414828,
+            "winnerName": "Savestate",
+            "loserName": "max",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 818697,
+                    "playerTag": "max"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ]
+        },
+        {
+            "id": 38377048,
+            "entrant1Id": 7413204,
+            "entrant2Id": 7400540,
+            "entrant1Name": "Savestate",
+            "entrant2Name": "CTM | Ryzon",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7413204,
+            "loserId": 7400540,
+            "winnerName": "Savestate",
+            "loserName": "CTM | Ryzon",
+            "bracketName": "Pools",
+            "bracketId": 1521932,
+            "entrant1Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 69542,
+                    "playerTag": "Ryzon"
+                }
+            ]
+        },
+        {
+            "id": 38424601,
+            "entrant1Id": 7413204,
+            "entrant2Id": 7559452,
+            "entrant1Name": "Savestate",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7413204,
+            "loserId": 7559452,
+            "winnerName": "Savestate",
+            "loserName": "Laurster",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 38424475,
+            "entrant1Id": 7457300,
+            "entrant2Id": 7413204,
+            "entrant1Name": "Steff$",
+            "entrant2Name": "Savestate",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7457300,
+            "loserId": 7413204,
+            "winnerName": "Steff$",
+            "loserName": "Savestate",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 885219,
+                    "playerTag": "Steff$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ]
+        },
+        {
+            "id": 38424589,
+            "entrant1Id": 7413204,
+            "entrant2Id": 7409843,
+            "entrant1Name": "Savestate",
+            "entrant2Name": "Okameed",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7413204,
+            "loserId": 7409843,
+            "winnerName": "Savestate",
+            "loserName": "Okameed",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4393,
+                    "playerTag": "Okameed"
+                }
+            ]
+        },
+        {
+            "id": 38377044,
+            "entrant1Id": 7413204,
+            "entrant2Id": 7602385,
+            "entrant1Name": "Savestate",
+            "entrant2Name": "KeyboardIsOP | BlackH4ze",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7413204,
+            "loserId": 7602385,
+            "winnerName": "Savestate",
+            "loserName": "KeyboardIsOP | BlackH4ze",
+            "bracketName": "Pools",
+            "bracketId": 1521932,
+            "entrant1Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1227361,
+                    "playerTag": "BlackH4ze"
+                }
+            ]
+        },
+        {
+            "id": 38424451,
+            "entrant1Id": 7600744,
+            "entrant2Id": 7413204,
+            "entrant1Name": "PSG | Madness",
+            "entrant2Name": "Savestate",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7413204,
+            "loserId": 7600744,
+            "winnerName": "Savestate",
+            "loserName": "PSG | Madness",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 896272,
+                    "playerTag": "Madness"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 58670,
+                    "playerTag": "Savestate"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "max",
+        "laurster",
+        "blackh4ze",
+        "renzo"
+    ],
+    "L": [
+        "mint",
+        "Juice",
+        "max",
+        "ILikeTurtles",
+        "disot",
+        "sharp",
+        "noxxa",
+        "fout nl",
+        "nebbii",
+        "Lele",
+        "ninjagofan72",
+        "steff$",
+        "fout nl",
+        "fout nl"
+    ]
+}

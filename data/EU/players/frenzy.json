@@ -1,0 +1,4880 @@
+{
+    "Events": [
+        554625,
+        457669,
+        570804,
+        572809,
+        550396,
+        545157,
+        550373,
+        549952,
+        549684,
+        543662,
+        554988,
+        550163,
+        541113,
+        428582
+    ],
+    "Sets": [
+        {
+            "id": 41638467,
+            "entrant1Id": 8552778,
+            "entrant2Id": 8552801,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "PS | Ice",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552778,
+            "loserId": 8552801,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "PS | Ice",
+            "bracketName": "Group Stage",
+            "bracketId": 1603242,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 41697214,
+            "entrant1Id": 8552770,
+            "entrant2Id": 8552778,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552770,
+            "loserId": 8552778,
+            "winnerName": "PS | Trif",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 41638465,
+            "entrant1Id": 8552778,
+            "entrant2Id": 8552811,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "skullbro",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552778,
+            "loserId": 8552811,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "skullbro",
+            "bracketName": "Group Stage",
+            "bracketId": 1603242,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ]
+        },
+        {
+            "id": 41697245,
+            "entrant1Id": 8552778,
+            "entrant2Id": 8552784,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552784,
+            "loserId": 8552778,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 41697212,
+            "entrant1Id": 8552778,
+            "entrant2Id": 8552791,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552778,
+            "loserId": 8552791,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Professor Pro",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 41638463,
+            "entrant1Id": 8552778,
+            "entrant2Id": 8552831,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "raoul",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552831,
+            "loserId": 8552778,
+            "winnerName": "raoul",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Group Stage",
+            "bracketId": 1603242,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 41430563,
+            "entrant1Id": 8052521,
+            "entrant2Id": 8078893,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Pi",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8052521,
+            "loserId": 8078893,
+            "winnerName": "Frenzy",
+            "loserName": "Pi",
+            "bracketName": "Pools",
+            "bracketId": 1550988,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54828,
+                    "playerTag": "Pi"
+                }
+            ]
+        },
+        {
+            "id": 41430559,
+            "entrant1Id": 8052521,
+            "entrant2Id": 8052451,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "EuO",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8052521,
+            "loserId": 8052451,
+            "winnerName": "Frenzy",
+            "loserName": "EuO",
+            "bracketName": "Pools",
+            "bracketId": 1550988,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40016,
+                    "playerTag": "EuO"
+                }
+            ]
+        },
+        {
+            "id": 41430555,
+            "entrant1Id": 8052521,
+            "entrant2Id": 8206777,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "BFM | upgamer | ECS1312",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8052521,
+            "loserId": 8206777,
+            "winnerName": "Frenzy",
+            "loserName": "BFM | upgamer | ECS1312",
+            "bracketName": "Pools",
+            "bracketId": 1550988,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 563223,
+                    "playerTag": "ECS"
+                }
+            ]
+        },
+        {
+            "id": 41438083,
+            "entrant1Id": 8052521,
+            "entrant2Id": 8182160,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Fat Tino",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8052521,
+            "loserId": 8182160,
+            "winnerName": "Frenzy",
+            "loserName": "Fat Tino",
+            "bracketName": "A Bracket",
+            "bracketId": 1550999,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 667216,
+                    "playerTag": "Fat Tino"
+                }
+            ]
+        },
+        {
+            "id": 41430551,
+            "entrant1Id": 8052521,
+            "entrant2Id": 8059724,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Leeum",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8052521,
+            "loserId": 8059724,
+            "winnerName": "Frenzy",
+            "loserName": "Leeum",
+            "bracketName": "Pools",
+            "bracketId": 1550988,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46170,
+                    "playerTag": "Leeum"
+                }
+            ]
+        },
+        {
+            "id": 41447672,
+            "entrant1Id": 8052521,
+            "entrant2Id": 8053554,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8053554,
+            "loserId": 8052521,
+            "winnerName": "Professor Pro",
+            "loserName": "Frenzy",
+            "bracketName": "Top 8",
+            "bracketId": 1551000,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 41447673,
+            "entrant1Id": 8053554,
+            "entrant2Id": 8052521,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Frenzy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8052521,
+            "loserId": 8053554,
+            "winnerName": "Frenzy",
+            "loserName": "Professor Pro",
+            "bracketName": "Top 8",
+            "bracketId": 1551000,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 41438077,
+            "entrant1Id": 8052521,
+            "entrant2Id": 8331036,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8052521,
+            "loserId": 8331036,
+            "winnerName": "Frenzy",
+            "loserName": "Fout NL",
+            "bracketName": "A Bracket",
+            "bracketId": 1550999,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 41430547,
+            "entrant1Id": 8052521,
+            "entrant2Id": 8175196,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Stylo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8052521,
+            "loserId": 8175196,
+            "winnerName": "Frenzy",
+            "loserName": "Stylo",
+            "bracketName": "Pools",
+            "bracketId": 1550988,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1765304,
+                    "playerTag": "Stylo"
+                }
+            ]
+        },
+        {
+            "id": 41447671,
+            "entrant1Id": 8053554,
+            "entrant2Id": 8052521,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Frenzy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8052521,
+            "loserId": 8053554,
+            "winnerName": "Frenzy",
+            "loserName": "Professor Pro",
+            "bracketName": "Top 8",
+            "bracketId": 1551000,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 41438065,
+            "entrant1Id": 8052521,
+            "entrant2Id": 8123824,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "GOON",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8052521,
+            "loserId": 8123824,
+            "winnerName": "Frenzy",
+            "loserName": "GOON",
+            "bracketName": "A Bracket",
+            "bracketId": 1550999,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 283105,
+                    "playerTag": "GOON"
+                }
+            ]
+        },
+        {
+            "id": 41430543,
+            "entrant1Id": 8052521,
+            "entrant2Id": 8322043,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Devvo | Devvom8",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8052521,
+            "loserId": 8322043,
+            "winnerName": "Frenzy",
+            "loserName": "Devvo | Devvom8",
+            "bracketName": "Pools",
+            "bracketId": 1550988,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2210249,
+                    "playerTag": "Devvom8"
+                }
+            ]
+        },
+        {
+            "id": 41447670,
+            "entrant1Id": 8052521,
+            "entrant2Id": 8066289,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Kingu",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8052521,
+            "loserId": 8066289,
+            "winnerName": "Frenzy",
+            "loserName": "Kingu",
+            "bracketName": "Top 8",
+            "bracketId": 1551000,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1400299,
+                    "playerTag": "Kingu"
+                }
+            ]
+        },
+        {
+            "id": 41430539,
+            "entrant1Id": 8052521,
+            "entrant2Id": 8478625,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "smarfy2009",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8052521,
+            "loserId": 8478625,
+            "winnerName": "Frenzy",
+            "loserName": "smarfy2009",
+            "bracketName": "Pools",
+            "bracketId": 1550988,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2471582,
+                    "playerTag": "smarfy2009"
+                }
+            ]
+        },
+        {
+            "id": 40035888,
+            "entrant1Id": 7304871,
+            "entrant2Id": 7304869,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "max",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7304871,
+            "loserId": 7304869,
+            "winnerName": "Frenzy",
+            "loserName": "max",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 818697,
+                    "playerTag": "max"
+                }
+            ]
+        },
+        {
+            "id": 40029690,
+            "entrant1Id": 7304871,
+            "entrant2Id": 8055858,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Heir | X1",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7304871,
+            "loserId": 8055858,
+            "winnerName": "Frenzy",
+            "loserName": "Heir | X1",
+            "bracketName": "Pools",
+            "bracketId": 1485618,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12343,
+                    "playerTag": "X1"
+                }
+            ]
+        },
+        {
+            "id": 40035887,
+            "entrant1Id": 7304871,
+            "entrant2Id": 8055900,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Setchi",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7304871,
+            "loserId": 8055900,
+            "winnerName": "Frenzy",
+            "loserName": "Setchi",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ]
+        },
+        {
+            "id": 40035885,
+            "entrant1Id": 7304871,
+            "entrant2Id": 7304869,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "max",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7304871,
+            "loserId": 7304869,
+            "winnerName": "Frenzy",
+            "loserName": "max",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 818697,
+                    "playerTag": "max"
+                }
+            ]
+        },
+        {
+            "id": 40029684,
+            "entrant1Id": 7304871,
+            "entrant2Id": 7975436,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "nisien",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7304871,
+            "loserId": 7975436,
+            "winnerName": "Frenzy",
+            "loserName": "nisien",
+            "bracketName": "Pools",
+            "bracketId": 1485618,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1386639,
+                    "playerTag": "nisien"
+                }
+            ]
+        },
+        {
+            "id": 40035881,
+            "entrant1Id": 7304871,
+            "entrant2Id": 8004135,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7304871,
+            "loserId": 8004135,
+            "winnerName": "Frenzy",
+            "loserName": "Laurster",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 40029681,
+            "entrant1Id": 7304871,
+            "entrant2Id": 7991201,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "FRM | Mozzy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7304871,
+            "loserId": 7991201,
+            "winnerName": "Frenzy",
+            "loserName": "FRM | Mozzy",
+            "bracketName": "Pools",
+            "bracketId": 1485618,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 540807,
+                    "playerTag": "Mozzy"
+                }
+            ]
+        },
+        {
+            "id": 40035873,
+            "entrant1Id": 7304871,
+            "entrant2Id": 7943407,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "mordo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7304871,
+            "loserId": 7943407,
+            "winnerName": "Frenzy",
+            "loserName": "mordo",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40012,
+                    "playerTag": "mordo"
+                }
+            ]
+        },
+        {
+            "id": 40029678,
+            "entrant1Id": 7304871,
+            "entrant2Id": 8055867,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Phoenix | scout",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7304871,
+            "loserId": 8055867,
+            "winnerName": "Frenzy",
+            "loserName": "Phoenix | scout",
+            "bracketName": "Pools",
+            "bracketId": 1485618,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 674687,
+                    "playerTag": "scout"
+                }
+            ]
+        },
+        {
+            "id": 40035857,
+            "entrant1Id": 7304871,
+            "entrant2Id": 7319209,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Molten",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7304871,
+            "loserId": 7319209,
+            "winnerName": "Frenzy",
+            "loserName": "Molten",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72086,
+                    "playerTag": "Molten"
+                }
+            ]
+        },
+        {
+            "id": 40029675,
+            "entrant1Id": 7304871,
+            "entrant2Id": 8018044,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Galvon",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7304871,
+            "loserId": 8018044,
+            "winnerName": "Frenzy",
+            "loserName": "Galvon",
+            "bracketName": "Pools",
+            "bracketId": 1485618,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2270821,
+                    "playerTag": "Galvon"
+                }
+            ]
+        },
+        {
+            "id": 37245173,
+            "entrant1Id": 7265677,
+            "entrant2Id": 7265713,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265677,
+            "loserId": 7265713,
+            "winnerName": "PS | Trif",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 37245170,
+            "entrant1Id": 7265717,
+            "entrant2Id": 7265713,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265713,
+            "loserId": 7265717,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Levingy",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 37245167,
+            "entrant1Id": 7265714,
+            "entrant2Id": 7265713,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265713,
+            "loserId": 7265714,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 37245164,
+            "entrant1Id": 7265724,
+            "entrant2Id": 7265713,
+            "entrant1Name": "Isdsar",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265713,
+            "loserId": 7265724,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Isdsar",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 185165,
+                    "playerTag": "Isdsar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 37282870,
+            "entrant1Id": 7265743,
+            "entrant2Id": 7265713,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265743,
+            "loserId": 7265713,
+            "winnerName": "TSM | Leffen",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Bracket",
+            "bracketId": 1490266,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 37245160,
+            "entrant1Id": 7265713,
+            "entrant2Id": 7265691,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265691,
+            "loserId": 7265713,
+            "winnerName": "Professor Pro",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 37282902,
+            "entrant1Id": 7265713,
+            "entrant2Id": 7265691,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265691,
+            "loserId": 7265713,
+            "winnerName": "Professor Pro",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Bracket",
+            "bracketId": 1490266,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 37282869,
+            "entrant1Id": 7265691,
+            "entrant2Id": 7265713,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265713,
+            "loserId": 7265691,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Professor Pro",
+            "bracketName": "Bracket",
+            "bracketId": 1490266,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 37245155,
+            "entrant1Id": 7265713,
+            "entrant2Id": 7265738,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265738,
+            "loserId": 7265713,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 37282867,
+            "entrant1Id": 7265723,
+            "entrant2Id": 7265713,
+            "entrant1Name": "MINT",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265713,
+            "loserId": 7265723,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "MINT",
+            "bracketName": "Bracket",
+            "bracketId": 1490266,
+            "entrant1Players": [
+                {
+                    "playerId": 128932,
+                    "playerTag": "MINT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 37245150,
+            "entrant1Id": 7265713,
+            "entrant2Id": 7265678,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265713,
+            "loserId": 7265678,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Meady",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 40800629,
+            "entrant1Id": 8198304,
+            "entrant2Id": 8325932,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Raisem",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8325932,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Raisem",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554132,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 150040,
+                    "playerTag": "Raisem"
+                }
+            ]
+        },
+        {
+            "id": 40800626,
+            "entrant1Id": 8198304,
+            "entrant2Id": 8283320,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Brambles",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8283320,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Brambles",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554132,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1159399,
+                    "playerTag": "Brambles"
+                }
+            ]
+        },
+        {
+            "id": 40800623,
+            "entrant1Id": 8198304,
+            "entrant2Id": 8342638,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Chagi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8342638,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Chagi",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554132,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2230480,
+                    "playerTag": "Chagi"
+                }
+            ]
+        },
+        {
+            "id": 40863698,
+            "entrant1Id": 8325848,
+            "entrant2Id": 8198304,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8325848,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 40800620,
+            "entrant1Id": 8198304,
+            "entrant2Id": 8198243,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Jekku",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8198243,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Jekku",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554132,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 9967,
+                    "playerTag": "Jekku"
+                }
+            ]
+        },
+        {
+            "id": 40863694,
+            "entrant1Id": 8130446,
+            "entrant2Id": 8198304,
+            "entrant1Name": "Meady",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8130446,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Meady",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 40863569,
+            "entrant1Id": 8198304,
+            "entrant2Id": 8127438,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Sharp",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8127438,
+            "loserId": 8198304,
+            "winnerName": "Sharp",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ]
+        },
+        {
+            "id": 40870053,
+            "entrant1Id": 8301824,
+            "entrant2Id": 8198304,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8301824,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "PS | Trif",
+            "bracketName": "Bagarre Top8",
+            "bracketId": 1554139,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 40870054,
+            "entrant1Id": 8198304,
+            "entrant2Id": 8301824,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "PS | Trif",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8301824,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "PS | Trif",
+            "bracketName": "Bagarre Top8",
+            "bracketId": 1554139,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ]
+        },
+        {
+            "id": 40863689,
+            "entrant1Id": 8198304,
+            "entrant2Id": 8328926,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Liax",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8328926,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Liax",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 9653,
+                    "playerTag": "Liax"
+                }
+            ]
+        },
+        {
+            "id": 40863559,
+            "entrant1Id": 8198304,
+            "entrant2Id": 8199224,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Jormis",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8199224,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Jormis",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 688393,
+                    "playerTag": "Jormis"
+                }
+            ]
+        },
+        {
+            "id": 40800614,
+            "entrant1Id": 8198304,
+            "entrant2Id": 8120012,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "AshClaye",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8120012,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "AshClaye",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554132,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2147013,
+                    "playerTag": "AshClaye"
+                }
+            ]
+        },
+        {
+            "id": 40870068,
+            "entrant1Id": 8342309,
+            "entrant2Id": 8198304,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8342309,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "RLB | Kins0",
+            "bracketName": "Bagarre Top8",
+            "bracketId": 1554139,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 40870067,
+            "entrant1Id": 8198304,
+            "entrant2Id": 8151208,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8151208,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "PS | Pipsqueak",
+            "bracketName": "Bagarre Top8",
+            "bracketId": 1554139,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 40870065,
+            "entrant1Id": 8271728,
+            "entrant2Id": 8198304,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8271728,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Bagarre Top8",
+            "bracketId": 1554139,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 40870063,
+            "entrant1Id": 8198304,
+            "entrant2Id": 8302219,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8302219,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Mahie",
+            "bracketName": "Bagarre Top8",
+            "bracketId": 1554139,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 39839923,
+            "entrant1Id": 8063281,
+            "entrant2Id": 8081901,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "raoul",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8063281,
+            "loserId": 8081901,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "raoul",
+            "bracketName": "Round Robin",
+            "bracketId": 1434146,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 39886511,
+            "entrant1Id": 8109989,
+            "entrant2Id": 8063281,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8109989,
+            "loserId": 8063281,
+            "winnerName": "PS | Trif",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 39839919,
+            "entrant1Id": 8063281,
+            "entrant2Id": 8081598,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Verdant",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8063281,
+            "loserId": 8081598,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Verdant",
+            "bracketName": "Round Robin",
+            "bracketId": 1434146,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45296,
+                    "playerTag": "Verdant"
+                }
+            ]
+        },
+        {
+            "id": 39886510,
+            "entrant1Id": 8109989,
+            "entrant2Id": 8063281,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8109989,
+            "loserId": 8063281,
+            "winnerName": "PS | Trif",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 39886574,
+            "entrant1Id": 8063281,
+            "entrant2Id": 8083811,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8063281,
+            "loserId": 8083811,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Professor Pro",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 39839915,
+            "entrant1Id": 8063281,
+            "entrant2Id": 8077668,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "SKBG | Ba$$",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8063281,
+            "loserId": 8077668,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "SKBG | Ba$$",
+            "bracketName": "Round Robin",
+            "bracketId": 1434146,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40855,
+                    "playerTag": "Ba$$"
+                }
+            ]
+        },
+        {
+            "id": 39886509,
+            "entrant1Id": 8083811,
+            "entrant2Id": 8063281,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8063281,
+            "loserId": 8083811,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Professor Pro",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 39839911,
+            "entrant1Id": 8063281,
+            "entrant2Id": 8098841,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "lum",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8063281,
+            "loserId": 8098841,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "lum",
+            "bracketName": "Round Robin",
+            "bracketId": 1434146,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46906,
+                    "playerTag": "lum"
+                }
+            ]
+        },
+        {
+            "id": 39886507,
+            "entrant1Id": 8063281,
+            "entrant2Id": 8076827,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8063281,
+            "loserId": 8076827,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Mahie",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 39839907,
+            "entrant1Id": 8063281,
+            "entrant2Id": 8007311,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Stylo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8063281,
+            "loserId": 8007311,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Stylo",
+            "bracketName": "Round Robin",
+            "bracketId": 1434146,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1765304,
+                    "playerTag": "Stylo"
+                }
+            ]
+        },
+        {
+            "id": 39886502,
+            "entrant1Id": 8063281,
+            "entrant2Id": 8081989,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Velani",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8063281,
+            "loserId": 8081989,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Velani",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 517638,
+                    "playerTag": "Velani"
+                }
+            ]
+        },
+        {
+            "id": 39839903,
+            "entrant1Id": 8063281,
+            "entrant2Id": 8032232,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "E-CLICK | Valentine",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8063281,
+            "loserId": 8032232,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "E-CLICK | Valentine",
+            "bracketName": "Round Robin",
+            "bracketId": 1434146,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65824,
+                    "playerTag": "Valentine"
+                }
+            ]
+        },
+        {
+            "id": 39886492,
+            "entrant1Id": 8063281,
+            "entrant2Id": 8096574,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Brave",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8063281,
+            "loserId": 8096574,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Brave",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2114558,
+                    "playerTag": "BraveHeart"
+                }
+            ]
+        },
+        {
+            "id": 39839899,
+            "entrant1Id": 8063281,
+            "entrant2Id": 8010115,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "E-CLICK | Doran",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8063281,
+            "loserId": 8010115,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "E-CLICK | Doran",
+            "bracketName": "Round Robin",
+            "bracketId": 1434146,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 601098,
+                    "playerTag": "Doran"
+                }
+            ]
+        },
+        {
+            "id": 39272570,
+            "entrant1Id": 7957643,
+            "entrant2Id": 7908381,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "abbearv",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7908381,
+            "loserId": 7957643,
+            "winnerName": "abbearv",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545564,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1853889,
+                    "playerTag": "abbearv"
+                }
+            ]
+        },
+        {
+            "id": 39316997,
+            "entrant1Id": 7691443,
+            "entrant2Id": 7957643,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7691443,
+            "loserId": 7957643,
+            "winnerName": "PS | Trif",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 39272562,
+            "entrant1Id": 7957643,
+            "entrant2Id": 7634958,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Glaikit",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7957643,
+            "loserId": 7634958,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Glaikit",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545564,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30631,
+                    "playerTag": "Glaikit"
+                }
+            ]
+        },
+        {
+            "id": 39317124,
+            "entrant1Id": 7942393,
+            "entrant2Id": 7957643,
+            "entrant1Name": "PS | Ice",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7957643,
+            "loserId": 7942393,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "PS | Ice",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 39272558,
+            "entrant1Id": 7957643,
+            "entrant2Id": 7947781,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "PS | kenshu",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7957643,
+            "loserId": 7947781,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "PS | kenshu",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545564,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2160310,
+                    "playerTag": "kenshu"
+                }
+            ]
+        },
+        {
+            "id": 39317123,
+            "entrant1Id": 7957794,
+            "entrant2Id": 7957643,
+            "entrant1Name": "ISTE | Dr. Essmann",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7957643,
+            "loserId": 7957794,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "ISTE | Dr. Essmann",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 39317122,
+            "entrant1Id": 7908381,
+            "entrant2Id": 7957643,
+            "entrant1Name": "abbearv",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7957643,
+            "loserId": 7908381,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "abbearv",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 1853889,
+                    "playerTag": "abbearv"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 39272554,
+            "entrant1Id": 7957643,
+            "entrant2Id": 7943898,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "granis",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7957643,
+            "loserId": 7943898,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "granis",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545564,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1928579,
+                    "playerTag": "granis"
+                }
+            ]
+        },
+        {
+            "id": 39317120,
+            "entrant1Id": 7957643,
+            "entrant2Id": 7634514,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "skullbro",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7957643,
+            "loserId": 7634514,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "skullbro",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ]
+        },
+        {
+            "id": 39316990,
+            "entrant1Id": 7691443,
+            "entrant2Id": 7957643,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7691443,
+            "loserId": 7957643,
+            "winnerName": "PS | Trif",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 39317117,
+            "entrant1Id": 7957643,
+            "entrant2Id": 7939984,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Velani",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7957643,
+            "loserId": 7939984,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Velani",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 517638,
+                    "playerTag": "Velani"
+                }
+            ]
+        },
+        {
+            "id": 39272550,
+            "entrant1Id": 7957643,
+            "entrant2Id": 7942490,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "B.G.",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7957643,
+            "loserId": 7942490,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "B.G.",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545564,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 251734,
+                    "playerTag": "Private Parts"
+                }
+            ]
+        },
+        {
+            "id": 39316983,
+            "entrant1Id": 7724227,
+            "entrant2Id": 7957643,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7957643,
+            "loserId": 7724227,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 39316969,
+            "entrant1Id": 7898758,
+            "entrant2Id": 7957643,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7957643,
+            "loserId": 7898758,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Fout NL",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 39316941,
+            "entrant1Id": 7957643,
+            "entrant2Id": 7641172,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Touffe",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7957643,
+            "loserId": 7641172,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Touffe",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 503722,
+                    "playerTag": "Touffe"
+                }
+            ]
+        },
+        {
+            "id": 38374464,
+            "entrant1Id": 7398897,
+            "entrant2Id": 7409843,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Okameed",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7398897,
+            "loserId": 7409843,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Okameed",
+            "bracketName": "Pools",
+            "bracketId": 1443776,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4393,
+                    "playerTag": "Okameed"
+                }
+            ]
+        },
+        {
+            "id": 38424492,
+            "entrant1Id": 7398897,
+            "entrant2Id": 7575212,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Fuzzyness",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7398897,
+            "loserId": 7575212,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Fuzzyness",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6103,
+                    "playerTag": "Fuzzyness"
+                }
+            ]
+        },
+        {
+            "id": 38374445,
+            "entrant1Id": 7398897,
+            "entrant2Id": 7418094,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "BFM | upgamer | ECS1312",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7398897,
+            "loserId": 7418094,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "BFM | upgamer | ECS1312",
+            "bracketName": "Pools",
+            "bracketId": 1443776,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 563223,
+                    "playerTag": "ECS"
+                }
+            ]
+        },
+        {
+            "id": 38424484,
+            "entrant1Id": 7398897,
+            "entrant2Id": 7561946,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Liax",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7398897,
+            "loserId": 7561946,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Liax",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 9653,
+                    "playerTag": "Liax"
+                }
+            ]
+        },
+        {
+            "id": 38429507,
+            "entrant1Id": 7577167,
+            "entrant2Id": 7398897,
+            "entrant1Name": "PS | Ice",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7398897,
+            "loserId": 7577167,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "PS | Ice",
+            "bracketName": "Top 8",
+            "bracketId": 1521947,
+            "entrant1Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 38429508,
+            "entrant1Id": 7398897,
+            "entrant2Id": 7577167,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "PS | Ice",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7398897,
+            "loserId": 7577167,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "PS | Ice",
+            "bracketName": "Top 8",
+            "bracketId": 1521947,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 38424468,
+            "entrant1Id": 7398897,
+            "entrant2Id": 7482988,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "10QuidShoes",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7398897,
+            "loserId": 7482988,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "10QuidShoes",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11087,
+                    "playerTag": "10QuidShoes"
+                }
+            ]
+        },
+        {
+            "id": 38374433,
+            "entrant1Id": 7398897,
+            "entrant2Id": 7415576,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Peribat",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7398897,
+            "loserId": 7415576,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Peribat",
+            "bracketName": "Pools",
+            "bracketId": 1443776,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1635702,
+                    "playerTag": "Peribat"
+                }
+            ]
+        },
+        {
+            "id": 38429522,
+            "entrant1Id": 7403983,
+            "entrant2Id": 7398897,
+            "entrant1Name": "Meady",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7398897,
+            "loserId": 7403983,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Meady",
+            "bracketName": "Top 8",
+            "bracketId": 1521947,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 38429521,
+            "entrant1Id": 7575212,
+            "entrant2Id": 7398897,
+            "entrant1Name": "Fuzzyness",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7398897,
+            "loserId": 7575212,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Fuzzyness",
+            "bracketName": "Top 8",
+            "bracketId": 1521947,
+            "entrant1Players": [
+                {
+                    "playerId": 6103,
+                    "playerTag": "Fuzzyness"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 38429504,
+            "entrant1Id": 7398897,
+            "entrant2Id": 7403983,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Meady",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7403983,
+            "loserId": 7398897,
+            "winnerName": "Meady",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Top 8",
+            "bracketId": 1521947,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 38429504,
+            "entrant1Id": 7398897,
+            "entrant2Id": 7403983,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Meady",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7403983,
+            "loserId": 7398897,
+            "winnerName": "Meady",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Top 8",
+            "bracketId": 1521947,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 38429520,
+            "entrant1Id": 7398897,
+            "entrant2Id": 7425302,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Sharp",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7398897,
+            "loserId": 7425302,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Sharp",
+            "bracketName": "Top 8",
+            "bracketId": 1521947,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ]
+        },
+        {
+            "id": 37559458,
+            "entrant1Id": 7272155,
+            "entrant2Id": 7248694,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "CTM | Ryzon",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7272155,
+            "loserId": 7248694,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "CTM | Ryzon",
+            "bracketName": "Changing room",
+            "bracketId": 1443324,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 69542,
+                    "playerTag": "Ryzon"
+                }
+            ]
+        },
+        {
+            "id": 37613386,
+            "entrant1Id": 7272155,
+            "entrant2Id": 7316913,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "MINT",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7272155,
+            "loserId": 7316913,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "MINT",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 128932,
+                    "playerTag": "MINT"
+                }
+            ]
+        },
+        {
+            "id": 37559456,
+            "entrant1Id": 7272155,
+            "entrant2Id": 7252619,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Risc",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7272155,
+            "loserId": 7252619,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Risc",
+            "bracketName": "Changing room",
+            "bracketId": 1443324,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 358684,
+                    "playerTag": "Risc"
+                }
+            ]
+        },
+        {
+            "id": 37613378,
+            "entrant1Id": 7272155,
+            "entrant2Id": 7283131,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "raoul",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7272155,
+            "loserId": 7283131,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "raoul",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 37559454,
+            "entrant1Id": 7272155,
+            "entrant2Id": 7307577,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Slipkid",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7272155,
+            "loserId": 7307577,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Slipkid",
+            "bracketName": "Changing room",
+            "bracketId": 1443324,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 265169,
+                    "playerTag": "Slipkid"
+                }
+            ]
+        },
+        {
+            "id": 37613362,
+            "entrant1Id": 7272155,
+            "entrant2Id": 7325602,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7272155,
+            "loserId": 7325602,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Jamie",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 37559452,
+            "entrant1Id": 7272155,
+            "entrant2Id": 7306903,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Savo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7272155,
+            "loserId": 7306903,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Savo",
+            "bracketName": "Changing room",
+            "bracketId": 1443324,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 698885,
+                    "playerTag": "Savo"
+                }
+            ]
+        },
+        {
+            "id": 37624952,
+            "entrant1Id": 7272155,
+            "entrant2Id": 7306872,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7306872,
+            "loserId": 7272155,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Top 8",
+            "bracketId": 1479079,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 37613330,
+            "entrant1Id": 7272155,
+            "entrant2Id": 7252220,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "MskJ",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7272155,
+            "loserId": 7252220,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "MskJ",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54732,
+                    "playerTag": "\u043foo\u043f"
+                }
+            ]
+        },
+        {
+            "id": 37624968,
+            "entrant1Id": 7272155,
+            "entrant2Id": 7331339,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "PS | Nicki",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7331339,
+            "loserId": 7272155,
+            "winnerName": "PS | Nicki",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Top 8",
+            "bracketId": 1479079,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ]
+        },
+        {
+            "id": 36914071,
+            "entrant1Id": 7094605,
+            "entrant2Id": 7208735,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "lasse",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7094605,
+            "loserId": 7208735,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "lasse",
+            "bracketName": "Pools",
+            "bracketId": 1472586,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 35849,
+                    "playerTag": "lasse"
+                }
+            ]
+        },
+        {
+            "id": 36914066,
+            "entrant1Id": 7094605,
+            "entrant2Id": 7090978,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "BandanaT",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7094605,
+            "loserId": 7090978,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "BandanaT",
+            "bracketName": "Pools",
+            "bracketId": 1472586,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 131063,
+                    "playerTag": "BandanaT"
+                }
+            ]
+        },
+        {
+            "id": 36914061,
+            "entrant1Id": 7094605,
+            "entrant2Id": 7097043,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Pakos",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7094605,
+            "loserId": 7097043,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Pakos",
+            "bracketName": "Pools",
+            "bracketId": 1472586,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1734562,
+                    "playerTag": "Pakos"
+                }
+            ]
+        },
+        {
+            "id": 36973175,
+            "entrant1Id": 7094605,
+            "entrant2Id": 7149297,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Solobattle",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7149297,
+            "loserId": 7094605,
+            "winnerName": "Solobattle",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Pro - Top 8",
+            "bracketId": 1472572,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 219891,
+                    "playerTag": "Solobattle"
+                }
+            ]
+        },
+        {
+            "id": 36973176,
+            "entrant1Id": 7149297,
+            "entrant2Id": 7094605,
+            "entrant1Name": "Solobattle",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7094605,
+            "loserId": 7149297,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Solobattle",
+            "bracketName": "Pro - Top 8",
+            "bracketId": 1472572,
+            "entrant1Players": [
+                {
+                    "playerId": 219891,
+                    "playerTag": "Solobattle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 36951915,
+            "entrant1Id": 7094605,
+            "entrant2Id": 7171117,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "raoul",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7094605,
+            "loserId": 7171117,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "raoul",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1472624,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 36914056,
+            "entrant1Id": 7094605,
+            "entrant2Id": 7230779,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Sui",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7094605,
+            "loserId": 7230779,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Sui",
+            "bracketName": "Pools",
+            "bracketId": 1472586,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1427857,
+                    "playerTag": "Sui"
+                }
+            ]
+        },
+        {
+            "id": 36973174,
+            "entrant1Id": 7196631,
+            "entrant2Id": 7094605,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7094605,
+            "loserId": 7196631,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Levingy",
+            "bracketName": "Pro - Top 8",
+            "bracketId": 1472572,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 36955912,
+            "entrant1Id": 7217568,
+            "entrant2Id": 7094605,
+            "entrant1Name": "PS | Ice",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7094605,
+            "loserId": 7217568,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "PS | Ice",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 36951909,
+            "entrant1Id": 7094605,
+            "entrant2Id": 7205682,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Saile",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7094605,
+            "loserId": 7205682,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Saile",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1472624,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 455118,
+                    "playerTag": "Saile"
+                }
+            ]
+        },
+        {
+            "id": 36914050,
+            "entrant1Id": 7094605,
+            "entrant2Id": 7224621,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "LSB | 6pool",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7094605,
+            "loserId": 7224621,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "LSB | 6pool",
+            "bracketName": "Pools",
+            "bracketId": 1472586,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1338451,
+                    "playerTag": "6pool"
+                }
+            ]
+        },
+        {
+            "id": 36973173,
+            "entrant1Id": 7213044,
+            "entrant2Id": 7094605,
+            "entrant1Name": "MINT",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7094605,
+            "loserId": 7213044,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "MINT",
+            "bracketName": "Pro - Top 8",
+            "bracketId": 1472572,
+            "entrant1Players": [
+                {
+                    "playerId": 128932,
+                    "playerTag": "MINT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 36955908,
+            "entrant1Id": 7094605,
+            "entrant2Id": 7229946,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Timi",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7094605,
+            "loserId": 7229946,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Timi",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6747,
+                    "playerTag": "Timi"
+                }
+            ]
+        },
+        {
+            "id": 36297989,
+            "entrant1Id": 6920817,
+            "entrant2Id": 6919595,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Velani",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6920817,
+            "loserId": 6919595,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Velani",
+            "bracketName": "Pools",
+            "bracketId": 1470120,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 517638,
+                    "playerTag": "Velani"
+                }
+            ]
+        },
+        {
+            "id": 36297986,
+            "entrant1Id": 6920817,
+            "entrant2Id": 6920221,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Tellman",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6920817,
+            "loserId": 6920221,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Tellman",
+            "bracketName": "Pools",
+            "bracketId": 1470120,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261388,
+                    "playerTag": "Tellman"
+                }
+            ]
+        },
+        {
+            "id": 36297983,
+            "entrant1Id": 6920817,
+            "entrant2Id": 7050442,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "VooDoo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6920817,
+            "loserId": 7050442,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "VooDoo",
+            "bracketName": "Pools",
+            "bracketId": 1470120,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10702,
+                    "playerTag": "VooDoo"
+                }
+            ]
+        },
+        {
+            "id": 36297980,
+            "entrant1Id": 6920817,
+            "entrant2Id": 7057686,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "timpz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6920817,
+            "loserId": 7057686,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "timpz",
+            "bracketName": "Pools",
+            "bracketId": 1470120,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37154,
+                    "playerTag": "timpz"
+                }
+            ]
+        },
+        {
+            "id": 36299115,
+            "entrant1Id": 6920817,
+            "entrant2Id": 6919488,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "R23",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6920817,
+            "loserId": 6919488,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "R23",
+            "bracketName": "Top 96",
+            "bracketId": 1473244,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5519,
+                    "playerTag": "R23"
+                }
+            ]
+        },
+        {
+            "id": 36297977,
+            "entrant1Id": 6920817,
+            "entrant2Id": 6929680,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "4Qs | Danubi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6920817,
+            "loserId": 6929680,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "4Qs | Danubi",
+            "bracketName": "Pools",
+            "bracketId": 1470120,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 916363,
+                    "playerTag": "Danubi"
+                }
+            ]
+        },
+        {
+            "id": 36299107,
+            "entrant1Id": 6920817,
+            "entrant2Id": 7052317,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Verdant",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6920817,
+            "loserId": 7052317,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Verdant",
+            "bracketName": "Top 96",
+            "bracketId": 1473244,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45296,
+                    "playerTag": "Verdant"
+                }
+            ]
+        },
+        {
+            "id": 36300219,
+            "entrant1Id": 6920817,
+            "entrant2Id": 7026816,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "CGN | Ice",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7026816,
+            "loserId": 6920817,
+            "winnerName": "CGN | Ice",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 36300346,
+            "entrant1Id": 6920817,
+            "entrant2Id": 6930085,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Humpe",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6920817,
+            "loserId": 6930085,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Humpe",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 49595,
+                    "playerTag": "Humpe"
+                }
+            ]
+        },
+        {
+            "id": 36297974,
+            "entrant1Id": 6920817,
+            "entrant2Id": 6931160,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "[LSC] | Meo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6920817,
+            "loserId": 6931160,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "[LSC] | Meo",
+            "bracketName": "Pools",
+            "bracketId": 1470120,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1356951,
+                    "playerTag": "Meo"
+                }
+            ]
+        },
+        {
+            "id": 36300212,
+            "entrant1Id": 6920817,
+            "entrant2Id": 6918399,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6920817,
+            "loserId": 6918399,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Meady",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 36302136,
+            "entrant1Id": 6919142,
+            "entrant2Id": 6920817,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6919142,
+            "loserId": 6920817,
+            "winnerName": "Jah Ridin'",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Top 8",
+            "bracketId": 1473245,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 35641522,
+            "entrant1Id": 6772145,
+            "entrant2Id": 6772186,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "King",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6772145,
+            "loserId": 6772186,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "King",
+            "bracketName": "Pools",
+            "bracketId": 1458020,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 796398,
+                    "playerTag": "King"
+                }
+            ]
+        },
+        {
+            "id": 35641518,
+            "entrant1Id": 6772145,
+            "entrant2Id": 6899911,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Matt Smith",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6772145,
+            "loserId": 6899911,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Matt Smith",
+            "bracketName": "Pools",
+            "bracketId": 1458020,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 211563,
+                    "playerTag": "Matt Smith"
+                }
+            ]
+        },
+        {
+            "id": 35641514,
+            "entrant1Id": 6772145,
+            "entrant2Id": 6875883,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "enfy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6772145,
+            "loserId": 6875883,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "enfy",
+            "bracketName": "Pools",
+            "bracketId": 1458020,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 522221,
+                    "playerTag": "enfy"
+                }
+            ]
+        },
+        {
+            "id": 35641502,
+            "entrant1Id": 6772145,
+            "entrant2Id": 6858508,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "BFM | ECS1312",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6772145,
+            "loserId": 6858508,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "BFM | ECS1312",
+            "bracketName": "Pools",
+            "bracketId": 1458020,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 563223,
+                    "playerTag": "ECS"
+                }
+            ]
+        },
+        {
+            "id": 35641498,
+            "entrant1Id": 6772145,
+            "entrant2Id": 6899058,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Luka",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6772145,
+            "loserId": 6899058,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Luka",
+            "bracketName": "Pools",
+            "bracketId": 1458020,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1753392,
+                    "playerTag": "Luka"
+                }
+            ]
+        },
+        {
+            "id": 35653614,
+            "entrant1Id": 6772145,
+            "entrant2Id": 6918630,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "TSM | Leffen",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6918630,
+            "loserId": 6772145,
+            "winnerName": "TSM | Leffen",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Top 8",
+            "bracketId": 1458055,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ]
+        },
+        {
+            "id": 35644449,
+            "entrant1Id": 6772145,
+            "entrant2Id": 6867549,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Solobattle",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6772145,
+            "loserId": 6867549,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Solobattle",
+            "bracketName": "Top 32",
+            "bracketId": 1458614,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 219891,
+                    "playerTag": "Solobattle"
+                }
+            ]
+        },
+        {
+            "id": 35642490,
+            "entrant1Id": 6772145,
+            "entrant2Id": 6782158,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Okameed",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6772145,
+            "loserId": 6782158,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Okameed",
+            "bracketName": "Top 96",
+            "bracketId": 1458050,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4393,
+                    "playerTag": "Okameed"
+                }
+            ]
+        },
+        {
+            "id": 35641494,
+            "entrant1Id": 6772145,
+            "entrant2Id": 6791880,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "ytpmv | lastlight",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6772145,
+            "loserId": 6791880,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "ytpmv | lastlight",
+            "bracketName": "Pools",
+            "bracketId": 1458020,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47784,
+                    "playerTag": "lastlight"
+                }
+            ]
+        },
+        {
+            "id": 35653630,
+            "entrant1Id": 6772145,
+            "entrant2Id": 6800816,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "PS | Trif",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6800816,
+            "loserId": 6772145,
+            "winnerName": "PS | Trif",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Top 8",
+            "bracketId": 1458055,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ]
+        },
+        {
+            "id": 35653612,
+            "entrant1Id": 6843628,
+            "entrant2Id": 6772145,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6772145,
+            "loserId": 6843628,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Pipsqueak",
+            "bracketName": "Top 8",
+            "bracketId": 1458055,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 35644442,
+            "entrant1Id": 6772145,
+            "entrant2Id": 6775155,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "PS | Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6772145,
+            "loserId": 6775155,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "PS | Mahie",
+            "bracketName": "Top 32",
+            "bracketId": 1458614,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 35644092,
+            "entrant1Id": 6772145,
+            "entrant2Id": 6899956,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "ISTE | Mythra",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6772145,
+            "loserId": 6899956,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "ISTE | Mythra",
+            "bracketName": "Top 64",
+            "bracketId": 1458612,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ]
+        },
+        {
+            "id": 34993303,
+            "entrant1Id": 6649592,
+            "entrant2Id": 6731154,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "fatnomen",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649592,
+            "loserId": 6731154,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "fatnomen",
+            "bracketName": "Pools",
+            "bracketId": 1438906,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45016,
+                    "playerTag": "fatnomen"
+                }
+            ]
+        },
+        {
+            "id": 34993295,
+            "entrant1Id": 6649592,
+            "entrant2Id": 6726670,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "flippy_o",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649592,
+            "loserId": 6726670,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "flippy_o",
+            "bracketName": "Pools",
+            "bracketId": 1438906,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40756,
+                    "playerTag": "flippy_o"
+                }
+            ]
+        },
+        {
+            "id": 34996728,
+            "entrant1Id": 6649592,
+            "entrant2Id": 6708758,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Eekim",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6649592,
+            "loserId": 6708758,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Eekim",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30214,
+                    "playerTag": "Eekim"
+                }
+            ]
+        },
+        {
+            "id": 34993287,
+            "entrant1Id": 6649592,
+            "entrant2Id": 6730633,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "EXPOG | Icemaz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649592,
+            "loserId": 6730633,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "EXPOG | Icemaz",
+            "bracketName": "Pools",
+            "bracketId": 1438906,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 28637,
+                    "playerTag": "Icemaz"
+                }
+            ]
+        },
+        {
+            "id": 34996708,
+            "entrant1Id": 6649592,
+            "entrant2Id": 6724624,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "WA | Nils",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649592,
+            "loserId": 6724624,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "WA | Nils",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30608,
+                    "playerTag": "Nils"
+                }
+            ]
+        },
+        {
+            "id": 35000244,
+            "entrant1Id": 6649719,
+            "entrant2Id": 6649592,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6649719,
+            "loserId": 6649592,
+            "winnerName": "Pipsqueak",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Fenris Bracket - Top 8",
+            "bracketId": 1442845,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 34998310,
+            "entrant1Id": 6649592,
+            "entrant2Id": 6651828,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "PS | Makenshi",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6649592,
+            "loserId": 6651828,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "PS | Makenshi",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 157306,
+                    "playerTag": "Makenshi"
+                }
+            ]
+        },
+        {
+            "id": 34993283,
+            "entrant1Id": 6649592,
+            "entrant2Id": 6649845,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "GonJa",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649592,
+            "loserId": 6649845,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "GonJa",
+            "bracketName": "Pools",
+            "bracketId": 1438906,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 463183,
+                    "playerTag": "GonJa"
+                }
+            ]
+        },
+        {
+            "id": 35000260,
+            "entrant1Id": 6649592,
+            "entrant2Id": 6649949,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "TSM | Leffen",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6649949,
+            "loserId": 6649592,
+            "winnerName": "TSM | Leffen",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Fenris Bracket - Top 8",
+            "bracketId": 1442845,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ]
+        },
+        {
+            "id": 35000243,
+            "entrant1Id": 6651818,
+            "entrant2Id": 6649592,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6649592,
+            "loserId": 6651818,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Kins0",
+            "bracketName": "Fenris Bracket - Top 8",
+            "bracketId": 1442845,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 34998305,
+            "entrant1Id": 6649592,
+            "entrant2Id": 6701494,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Poppmaister6000",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6649592,
+            "loserId": 6701494,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Poppmaister6000",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12410,
+                    "playerTag": "Poppmaister6000"
+                }
+            ]
+        },
+        {
+            "id": 42573179,
+            "entrant1Id": 4698716,
+            "entrant2Id": 4485012,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Frenzy",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 4698716,
+            "loserId": 4485012,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Frenzy",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 42573177,
+            "entrant1Id": 4485012,
+            "entrant2Id": 8612382,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "FrankTheFisher",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4485012,
+            "loserId": 8612382,
+            "winnerName": "Frenzy",
+            "loserName": "FrankTheFisher",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2491740,
+                    "playerTag": "FrankTheFisher"
+                }
+            ]
+        },
+        {
+            "id": 42572921,
+            "entrant1Id": 4485012,
+            "entrant2Id": 8713927,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Meady",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8713927,
+            "loserId": 4485012,
+            "winnerName": "Meady",
+            "loserName": "Frenzy",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 42517284,
+            "entrant1Id": 4485012,
+            "entrant2Id": 4347964,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "DJ PJ757",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4485012,
+            "loserId": 4347964,
+            "winnerName": "Frenzy",
+            "loserName": "DJ PJ757",
+            "bracketName": "Pools",
+            "bracketId": 1234665,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 33685,
+                    "playerTag": "DJ PJ757"
+                }
+            ]
+        },
+        {
+            "id": 42573174,
+            "entrant1Id": 4485012,
+            "entrant2Id": 4758971,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "skullbro",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4485012,
+            "loserId": 4758971,
+            "winnerName": "Frenzy",
+            "loserName": "skullbro",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ]
+        },
+        {
+            "id": 42572915,
+            "entrant1Id": 4485012,
+            "entrant2Id": 8693542,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Tony Bomboni",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4485012,
+            "loserId": 8693542,
+            "winnerName": "Frenzy",
+            "loserName": "Tony Bomboni",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 231743,
+                    "playerTag": "Tony Bomboni"
+                }
+            ]
+        },
+        {
+            "id": 42517282,
+            "entrant1Id": 4485012,
+            "entrant2Id": 8500768,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Metony",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4485012,
+            "loserId": 8500768,
+            "winnerName": "Frenzy",
+            "loserName": "Metony",
+            "bracketName": "Pools",
+            "bracketId": 1234665,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2207927,
+                    "playerTag": "Metony"
+                }
+            ]
+        },
+        {
+            "id": 42572903,
+            "entrant1Id": 4485012,
+            "entrant2Id": 8649837,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "substrat de porc",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4485012,
+            "loserId": 8649837,
+            "winnerName": "Frenzy",
+            "loserName": "substrat de porc",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2096038,
+                    "playerTag": "substrat de porc"
+                }
+            ]
+        },
+        {
+            "id": 42517280,
+            "entrant1Id": 4485012,
+            "entrant2Id": 8720480,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "42 | one",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4485012,
+            "loserId": 8720480,
+            "winnerName": "Frenzy",
+            "loserName": "42 | one",
+            "bracketName": "Pools",
+            "bracketId": 1234665,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1633016,
+                    "playerTag": "one"
+                }
+            ]
+        },
+        {
+            "id": 42572879,
+            "entrant1Id": 4485012,
+            "entrant2Id": 8708201,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "MANA - | Mr.Rit",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4485012,
+            "loserId": 8708201,
+            "winnerName": "Frenzy",
+            "loserName": "MANA - | Mr.Rit",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2043878,
+                    "playerTag": "Mr.Rit"
+                }
+            ]
+        },
+        {
+            "id": 42517278,
+            "entrant1Id": 4485012,
+            "entrant2Id": 8449062,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Jean",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4485012,
+            "loserId": 8449062,
+            "winnerName": "Frenzy",
+            "loserName": "Jean",
+            "bracketName": "Pools",
+            "bracketId": 1234665,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2146971,
+                    "playerTag": "Jean"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "ice",
+        "skullbro",
+        "professor pro",
+        "fat tino",
+        "professor pro",
+        "fout nl",
+        "professor pro",
+        "kingu",
+        "max",
+        "setchi",
+        "max",
+        "laurster",
+        "levingy",
+        "rikzz",
+        "isdsar",
+        "professor pro",
+        "mint",
+        "meady",
+        "rikzz",
+        "meady",
+        "trif",
+        "trif",
+        "liax",
+        "kins0",
+        "pipsqueak",
+        "jah ridin'",
+        "mahie",
+        "raoul",
+        "professor pro",
+        "professor pro",
+        "mahie",
+        "velani",
+        "ice",
+        "prins esse",
+        "abbearv",
+        "skullbro",
+        "velani",
+        "rikzz",
+        "fout nl",
+        "fuzzyness",
+        "liax",
+        "ice",
+        "ice",
+        "meady",
+        "fuzzyness",
+        "sharp",
+        "mint",
+        "raoul",
+        "jamie",
+        "solobattle",
+        "raoul",
+        "levingy",
+        "ice",
+        "mint",
+        "timi",
+        "velani",
+        "r23",
+        "humpe",
+        "meady",
+        "king",
+        "solobattle",
+        "pipsqueak",
+        "mahie",
+        "prins esse",
+        "makenshi",
+        "kins0",
+        "poppmaister6000",
+        "skullbro"
+    ],
+    "L": [
+        "trif",
+        "pipsqueak",
+        "raoul",
+        "professor pro",
+        "trif",
+        "leffen",
+        "professor pro",
+        "professor pro",
+        "kins0",
+        "sharp",
+        "trif",
+        "trif",
+        "abbearv",
+        "trif",
+        "trif",
+        "meady",
+        "meady",
+        "pipsqueak",
+        "nicki",
+        "solobattle",
+        "ice",
+        "jah ridin'",
+        "leffen",
+        "trif",
+        "pipsqueak",
+        "leffen",
+        "kins0",
+        "meady"
+    ]
+}

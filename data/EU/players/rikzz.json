@@ -1,0 +1,3499 @@
+{
+    "Events": [
+        554625,
+        457669,
+        572809,
+        550396,
+        545157,
+        550373,
+        549952,
+        549684,
+        543662,
+        554988,
+        541113,
+        428582,
+        648241,
+        456
+    ],
+    "Sets": [
+        {
+            "id": 41641405,
+            "entrant1Id": 8552814,
+            "entrant2Id": 8552818,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552814,
+            "loserId": 8552818,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Mahie",
+            "bracketName": "Group Stage",
+            "bracketId": 1603243,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 41641402,
+            "entrant1Id": 8552784,
+            "entrant2Id": 8552814,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552784,
+            "loserId": 8552814,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Group Stage",
+            "bracketId": 1603243,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 41641401,
+            "entrant1Id": 8552791,
+            "entrant2Id": 8552814,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552791,
+            "loserId": 8552814,
+            "winnerName": "Professor Pro",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Group Stage",
+            "bracketId": 1603243,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 41697237,
+            "entrant1Id": 8552814,
+            "entrant2Id": 8552811,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "skullbro",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552811,
+            "loserId": 8552814,
+            "winnerName": "skullbro",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ]
+        },
+        {
+            "id": 41435438,
+            "entrant1Id": 8081694,
+            "entrant2Id": 8063894,
+            "entrant1Name": "Rikzz",
+            "entrant2Name": "Modentor",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081694,
+            "loserId": 8063894,
+            "winnerName": "Rikzz",
+            "loserName": "Modentor",
+            "bracketName": "Pools",
+            "bracketId": 1550989,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 409237,
+                    "playerTag": "Modentor"
+                }
+            ]
+        },
+        {
+            "id": 41435435,
+            "entrant1Id": 8081694,
+            "entrant2Id": 8069738,
+            "entrant1Name": "Rikzz",
+            "entrant2Name": "Thai",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081694,
+            "loserId": 8069738,
+            "winnerName": "Rikzz",
+            "loserName": "Thai",
+            "bracketName": "Pools",
+            "bracketId": 1550989,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1950815,
+                    "playerTag": "Thai"
+                }
+            ]
+        },
+        {
+            "id": 41435432,
+            "entrant1Id": 8081694,
+            "entrant2Id": 8052696,
+            "entrant1Name": "Rikzz",
+            "entrant2Name": "lum",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081694,
+            "loserId": 8052696,
+            "winnerName": "Rikzz",
+            "loserName": "lum",
+            "bracketName": "Pools",
+            "bracketId": 1550989,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46906,
+                    "playerTag": "lum"
+                }
+            ]
+        },
+        {
+            "id": 41438084,
+            "entrant1Id": 8081694,
+            "entrant2Id": 8066289,
+            "entrant1Name": "Rikzz",
+            "entrant2Name": "Kingu",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8066289,
+            "loserId": 8081694,
+            "winnerName": "Kingu",
+            "loserName": "Rikzz",
+            "bracketName": "A Bracket",
+            "bracketId": 1550999,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1400299,
+                    "playerTag": "Kingu"
+                }
+            ]
+        },
+        {
+            "id": 41438207,
+            "entrant1Id": 8081694,
+            "entrant2Id": 8063894,
+            "entrant1Name": "Rikzz",
+            "entrant2Name": "Modentor",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081694,
+            "loserId": 8063894,
+            "winnerName": "Rikzz",
+            "loserName": "Modentor",
+            "bracketName": "A Bracket",
+            "bracketId": 1550999,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 409237,
+                    "playerTag": "Modentor"
+                }
+            ]
+        },
+        {
+            "id": 41435429,
+            "entrant1Id": 8081694,
+            "entrant2Id": 8440308,
+            "entrant1Name": "Rikzz",
+            "entrant2Name": "F\u00eate | Heir | Picky",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081694,
+            "loserId": 8440308,
+            "winnerName": "Rikzz",
+            "loserName": "F\u00eate | Heir | Picky",
+            "bracketName": "Pools",
+            "bracketId": 1550989,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12611,
+                    "playerTag": "Picky"
+                }
+            ]
+        },
+        {
+            "id": 41438079,
+            "entrant1Id": 8081694,
+            "entrant2Id": 8185951,
+            "entrant1Name": "Rikzz",
+            "entrant2Name": "GG",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081694,
+            "loserId": 8185951,
+            "winnerName": "Rikzz",
+            "loserName": "GG",
+            "bracketName": "A Bracket",
+            "bracketId": 1550999,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36947,
+                    "playerTag": "GG"
+                }
+            ]
+        },
+        {
+            "id": 41435426,
+            "entrant1Id": 8081694,
+            "entrant2Id": 8190212,
+            "entrant1Name": "Rikzz",
+            "entrant2Name": "soup",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081694,
+            "loserId": 8190212,
+            "winnerName": "Rikzz",
+            "loserName": "soup",
+            "bracketName": "Pools",
+            "bracketId": 1550989,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 908868,
+                    "playerTag": "soup"
+                }
+            ]
+        },
+        {
+            "id": 41438069,
+            "entrant1Id": 8081694,
+            "entrant2Id": 8196056,
+            "entrant1Name": "Rikzz",
+            "entrant2Name": "meamking",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081694,
+            "loserId": 8196056,
+            "winnerName": "Rikzz",
+            "loserName": "meamking",
+            "bracketName": "A Bracket",
+            "bracketId": 1550999,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13251,
+                    "playerTag": "meamking"
+                }
+            ]
+        },
+        {
+            "id": 41435423,
+            "entrant1Id": 8081694,
+            "entrant2Id": 8345929,
+            "entrant1Name": "Rikzz",
+            "entrant2Name": "Eli",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081694,
+            "loserId": 8345929,
+            "winnerName": "Rikzz",
+            "loserName": "Eli",
+            "bracketName": "Pools",
+            "bracketId": 1550989,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1430880,
+                    "playerTag": "Eli"
+                }
+            ]
+        },
+        {
+            "id": 41447687,
+            "entrant1Id": 8053554,
+            "entrant2Id": 8081694,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8053554,
+            "loserId": 8081694,
+            "winnerName": "Professor Pro",
+            "loserName": "Rikzz",
+            "bracketName": "Top 8",
+            "bracketId": 1551000,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 41447686,
+            "entrant1Id": 8066289,
+            "entrant2Id": 8081694,
+            "entrant1Name": "Kingu",
+            "entrant2Name": "Rikzz",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8081694,
+            "loserId": 8066289,
+            "winnerName": "Rikzz",
+            "loserName": "Kingu",
+            "bracketName": "Top 8",
+            "bracketId": 1551000,
+            "entrant1Players": [
+                {
+                    "playerId": 1400299,
+                    "playerTag": "Kingu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 41447685,
+            "entrant1Id": 8431494,
+            "entrant2Id": 8081694,
+            "entrant1Name": "4Qs | 23",
+            "entrant2Name": "Rikzz",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8081694,
+            "loserId": 8431494,
+            "winnerName": "Rikzz",
+            "loserName": "4Qs | 23",
+            "bracketName": "Top 8",
+            "bracketId": 1551000,
+            "entrant1Players": [
+                {
+                    "playerId": 47763,
+                    "playerTag": "23"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 41447683,
+            "entrant1Id": 8065626,
+            "entrant2Id": 8081694,
+            "entrant1Name": "max",
+            "entrant2Name": "Rikzz",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8081694,
+            "loserId": 8065626,
+            "winnerName": "Rikzz",
+            "loserName": "max",
+            "bracketName": "Top 8",
+            "bracketId": 1551000,
+            "entrant1Players": [
+                {
+                    "playerId": 818697,
+                    "playerTag": "max"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 37245176,
+            "entrant1Id": 7265738,
+            "entrant2Id": 7265714,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265714,
+            "loserId": 7265738,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "NGNS | Kins0",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 37245172,
+            "entrant1Id": 7265714,
+            "entrant2Id": 7265678,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Meady",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265678,
+            "loserId": 7265714,
+            "winnerName": "Meady",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 37245167,
+            "entrant1Id": 7265714,
+            "entrant2Id": 7265713,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265713,
+            "loserId": 7265714,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 37245162,
+            "entrant1Id": 7265714,
+            "entrant2Id": 7265717,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7265714,
+            "loserId": 7265717,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Levingy",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 37245157,
+            "entrant1Id": 7265677,
+            "entrant2Id": 7265714,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7265677,
+            "loserId": 7265714,
+            "winnerName": "PS | Trif",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 37245151,
+            "entrant1Id": 7265691,
+            "entrant2Id": 7265714,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265691,
+            "loserId": 7265714,
+            "winnerName": "Professor Pro",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 37282891,
+            "entrant1Id": 7265735,
+            "entrant2Id": 7265714,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265735,
+            "loserId": 7265714,
+            "winnerName": "Mahie",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Bracket",
+            "bracketId": 1490266,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 40800602,
+            "entrant1Id": 8325848,
+            "entrant2Id": 8325625,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Kalua",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8325848,
+            "loserId": 8325625,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Kalua",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554146,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 139595,
+                    "playerTag": "Kalua"
+                }
+            ]
+        },
+        {
+            "id": 40863571,
+            "entrant1Id": 8301824,
+            "entrant2Id": 8325848,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8301824,
+            "loserId": 8325848,
+            "winnerName": "PS | Trif",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 40863698,
+            "entrant1Id": 8325848,
+            "entrant2Id": 8198304,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8325848,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 40800599,
+            "entrant1Id": 8325848,
+            "entrant2Id": 8189741,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Mr.Rit",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8325848,
+            "loserId": 8189741,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Mr.Rit",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554146,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2043878,
+                    "playerTag": "Mr.Rit"
+                }
+            ]
+        },
+        {
+            "id": 40863564,
+            "entrant1Id": 8281538,
+            "entrant2Id": 8325848,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8325848,
+            "loserId": 8281538,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Levingy",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 40863550,
+            "entrant1Id": 8325848,
+            "entrant2Id": 8138991,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Aellgi",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8325848,
+            "loserId": 8138991,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Aellgi",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50330,
+                    "playerTag": "Aellgi"
+                }
+            ]
+        },
+        {
+            "id": 40800593,
+            "entrant1Id": 8325848,
+            "entrant2Id": 8286743,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "(talon",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8325848,
+            "loserId": 8286743,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "(talon",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554146,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2424076,
+                    "playerTag": "(talon"
+                }
+            ]
+        },
+        {
+            "id": 39839987,
+            "entrant1Id": 8081669,
+            "entrant2Id": 7996613,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Sharp",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081669,
+            "loserId": 7996613,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Sharp",
+            "bracketName": "Round Robin",
+            "bracketId": 1557212,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ]
+        },
+        {
+            "id": 39839980,
+            "entrant1Id": 8081669,
+            "entrant2Id": 8088538,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Raptori",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081669,
+            "loserId": 8088538,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Raptori",
+            "bracketName": "Round Robin",
+            "bracketId": 1557212,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 148278,
+                    "playerTag": "Raptori"
+                }
+            ]
+        },
+        {
+            "id": 39839972,
+            "entrant1Id": 8081669,
+            "entrant2Id": 8076346,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Jormis",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081669,
+            "loserId": 8076346,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Jormis",
+            "bracketName": "Round Robin",
+            "bracketId": 1557212,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 688393,
+                    "playerTag": "Jormis"
+                }
+            ]
+        },
+        {
+            "id": 39839964,
+            "entrant1Id": 8081669,
+            "entrant2Id": 8010269,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Slipkid",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081669,
+            "loserId": 8010269,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Slipkid",
+            "bracketName": "Round Robin",
+            "bracketId": 1557212,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 265169,
+                    "playerTag": "Slipkid"
+                }
+            ]
+        },
+        {
+            "id": 39886565,
+            "entrant1Id": 8081597,
+            "entrant2Id": 8081669,
+            "entrant1Name": "PS | Ice",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8081597,
+            "loserId": 8081669,
+            "winnerName": "PS | Ice",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 39839956,
+            "entrant1Id": 8081669,
+            "entrant2Id": 8036556,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "eClick | HaunteR",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081669,
+            "loserId": 8036556,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "eClick | HaunteR",
+            "bracketName": "Round Robin",
+            "bracketId": 1557212,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 62373,
+                    "playerTag": "HaunteR"
+                }
+            ]
+        },
+        {
+            "id": 39886561,
+            "entrant1Id": 8081669,
+            "entrant2Id": 8081989,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Velani",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8081669,
+            "loserId": 8081989,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Velani",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 517638,
+                    "playerTag": "Velani"
+                }
+            ]
+        },
+        {
+            "id": 39886503,
+            "entrant1Id": 8081669,
+            "entrant2Id": 8076827,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8076827,
+            "loserId": 8081669,
+            "winnerName": "Mahie",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 39886553,
+            "entrant1Id": 8081669,
+            "entrant2Id": 8082402,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "EuO",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081669,
+            "loserId": 8082402,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "EuO",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40016,
+                    "playerTag": "EuO"
+                }
+            ]
+        },
+        {
+            "id": 39839948,
+            "entrant1Id": 8081669,
+            "entrant2Id": 8048994,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Guik",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081669,
+            "loserId": 8048994,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Guik",
+            "bracketName": "Round Robin",
+            "bracketId": 1557212,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1326898,
+                    "playerTag": "Guik"
+                }
+            ]
+        },
+        {
+            "id": 39839940,
+            "entrant1Id": 8081669,
+            "entrant2Id": 8082513,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "LGDD | Sovlo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081669,
+            "loserId": 8082513,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "LGDD | Sovlo",
+            "bracketName": "Round Robin",
+            "bracketId": 1557212,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30308,
+                    "playerTag": "Sovlo"
+                }
+            ]
+        },
+        {
+            "id": 39272710,
+            "entrant1Id": 7724227,
+            "entrant2Id": 7929930,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "PSG | Madness",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7724227,
+            "loserId": 7929930,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "PSG | Madness",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545570,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 896272,
+                    "playerTag": "Madness"
+                }
+            ]
+        },
+        {
+            "id": 39272706,
+            "entrant1Id": 7724227,
+            "entrant2Id": 7950325,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "sauske_uchiha122",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7724227,
+            "loserId": 7950325,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "sauske_uchiha122",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545570,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 180114,
+                    "playerTag": "sauske_uchiha122"
+                }
+            ]
+        },
+        {
+            "id": 39272702,
+            "entrant1Id": 7724227,
+            "entrant2Id": 7942292,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Raptori",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7724227,
+            "loserId": 7942292,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Raptori",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545570,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 148278,
+                    "playerTag": "Raptori"
+                }
+            ]
+        },
+        {
+            "id": 39317119,
+            "entrant1Id": 7957794,
+            "entrant2Id": 7724227,
+            "entrant1Name": "ISTE | Dr. Essmann",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7957794,
+            "loserId": 7724227,
+            "winnerName": "ISTE | Dr. Essmann",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 39317116,
+            "entrant1Id": 7937428,
+            "entrant2Id": 7724227,
+            "entrant1Name": "Fat Tino",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7724227,
+            "loserId": 7937428,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Fat Tino",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 667216,
+                    "playerTag": "Fat Tino"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 39272698,
+            "entrant1Id": 7724227,
+            "entrant2Id": 7709367,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "M\u00e4joras",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7724227,
+            "loserId": 7709367,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "M\u00e4joras",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545570,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 145843,
+                    "playerTag": "M\u00e4joras"
+                }
+            ]
+        },
+        {
+            "id": 39317112,
+            "entrant1Id": 7724227,
+            "entrant2Id": 7640530,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Sharp",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7724227,
+            "loserId": 7640530,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Sharp",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ]
+        },
+        {
+            "id": 39316983,
+            "entrant1Id": 7724227,
+            "entrant2Id": 7957643,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7957643,
+            "loserId": 7724227,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 39317105,
+            "entrant1Id": 7724227,
+            "entrant2Id": 7896361,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7724227,
+            "loserId": 7896361,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Levingy",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 39316968,
+            "entrant1Id": 7724227,
+            "entrant2Id": 7946309,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7724227,
+            "loserId": 7946309,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Laurster",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 39272690,
+            "entrant1Id": 7724227,
+            "entrant2Id": 7952449,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Holy Chickpea",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7724227,
+            "loserId": 7952449,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Holy Chickpea",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545570,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1569189,
+                    "playerTag": "Holy Chickpea"
+                }
+            ]
+        },
+        {
+            "id": 39272686,
+            "entrant1Id": 7724227,
+            "entrant2Id": 7936978,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Mocho",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7724227,
+            "loserId": 7936978,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Mocho",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545570,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 988169,
+                    "playerTag": "Mocho"
+                }
+            ]
+        },
+        {
+            "id": 38374559,
+            "entrant1Id": 7415552,
+            "entrant2Id": 7600934,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Psylo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7415552,
+            "loserId": 7600934,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Psylo",
+            "bracketName": "Pools",
+            "bracketId": 1521931,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 233945,
+                    "playerTag": "Psylo"
+                }
+            ]
+        },
+        {
+            "id": 38374554,
+            "entrant1Id": 7415552,
+            "entrant2Id": 7475772,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7415552,
+            "loserId": 7475772,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Pools",
+            "bracketId": 1521931,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 38374547,
+            "entrant1Id": 7415552,
+            "entrant2Id": 7541951,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Xin",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7415552,
+            "loserId": 7541951,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Xin",
+            "bracketName": "Pools",
+            "bracketId": 1521931,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23289,
+                    "playerTag": "Xin"
+                }
+            ]
+        },
+        {
+            "id": 38424618,
+            "entrant1Id": 7552850,
+            "entrant2Id": 7415552,
+            "entrant1Name": "skullbro",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7552850,
+            "loserId": 7415552,
+            "winnerName": "skullbro",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 38374542,
+            "entrant1Id": 7415552,
+            "entrant2Id": 7602999,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Juice",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7415552,
+            "loserId": 7602999,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Juice",
+            "bracketName": "Pools",
+            "bracketId": 1521931,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2268844,
+                    "playerTag": "Juice"
+                }
+            ]
+        },
+        {
+            "id": 38424614,
+            "entrant1Id": 7415552,
+            "entrant2Id": 7600744,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "PSG | Madness",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7415552,
+            "loserId": 7600744,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "PSG | Madness",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 896272,
+                    "playerTag": "Madness"
+                }
+            ]
+        },
+        {
+            "id": 38424485,
+            "entrant1Id": 7415552,
+            "entrant2Id": 7575212,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Fuzzyness",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7575212,
+            "loserId": 7415552,
+            "winnerName": "Fuzzyness",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6103,
+                    "playerTag": "Fuzzyness"
+                }
+            ]
+        },
+        {
+            "id": 38424607,
+            "entrant1Id": 7415552,
+            "entrant2Id": 7600934,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Psylo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7415552,
+            "loserId": 7600934,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Psylo",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 233945,
+                    "playerTag": "Psylo"
+                }
+            ]
+        },
+        {
+            "id": 38374535,
+            "entrant1Id": 7415552,
+            "entrant2Id": 7497221,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "MadsVH",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7415552,
+            "loserId": 7497221,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "MadsVH",
+            "bracketName": "Pools",
+            "bracketId": 1521931,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 502995,
+                    "playerTag": "MadsVH"
+                }
+            ]
+        },
+        {
+            "id": 38424470,
+            "entrant1Id": 7415552,
+            "entrant2Id": 7474286,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Velani",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7415552,
+            "loserId": 7474286,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Velani",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 517638,
+                    "playerTag": "Velani"
+                }
+            ]
+        },
+        {
+            "id": 38374529,
+            "entrant1Id": 7415552,
+            "entrant2Id": 7566469,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Ghoul",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7415552,
+            "loserId": 7566469,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Ghoul",
+            "bracketName": "Pools",
+            "bracketId": 1521931,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 228711,
+                    "playerTag": "Ghoul"
+                }
+            ]
+        },
+        {
+            "id": 37559497,
+            "entrant1Id": 7269357,
+            "entrant2Id": 7278075,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "HoorayForJay",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7269357,
+            "loserId": 7278075,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "HoorayForJay",
+            "bracketName": "Changing room",
+            "bracketId": 1487078,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54277,
+                    "playerTag": "HoorayForJay"
+                }
+            ]
+        },
+        {
+            "id": 37559492,
+            "entrant1Id": 7269357,
+            "entrant2Id": 7324695,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Rabbitalex",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7269357,
+            "loserId": 7324695,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Rabbitalex",
+            "bracketName": "Changing room",
+            "bracketId": 1487078,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 148437,
+                    "playerTag": "Rabbitalex"
+                }
+            ]
+        },
+        {
+            "id": 37613380,
+            "entrant1Id": 7306872,
+            "entrant2Id": 7269357,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7306872,
+            "loserId": 7269357,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 37613500,
+            "entrant1Id": 7269357,
+            "entrant2Id": 7334671,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Velani",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7334671,
+            "loserId": 7269357,
+            "winnerName": "Velani",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 517638,
+                    "playerTag": "Velani"
+                }
+            ]
+        },
+        {
+            "id": 37559488,
+            "entrant1Id": 7269357,
+            "entrant2Id": 7312404,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Zluchs",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7269357,
+            "loserId": 7312404,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Zluchs",
+            "bracketName": "Changing room",
+            "bracketId": 1487078,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6702,
+                    "playerTag": "Zluchs"
+                }
+            ]
+        },
+        {
+            "id": 37613367,
+            "entrant1Id": 7269357,
+            "entrant2Id": 7239797,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "King",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7269357,
+            "loserId": 7239797,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "King",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 796398,
+                    "playerTag": "King"
+                }
+            ]
+        },
+        {
+            "id": 36919255,
+            "entrant1Id": 7094568,
+            "entrant2Id": 7236174,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "enerj",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7094568,
+            "loserId": 7236174,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "enerj",
+            "bracketName": "Pools",
+            "bracketId": 1472597,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 153641,
+                    "playerTag": "Jayson"
+                }
+            ]
+        },
+        {
+            "id": 36919252,
+            "entrant1Id": 7094568,
+            "entrant2Id": 7199846,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "DestiKnee",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7094568,
+            "loserId": 7199846,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "DestiKnee",
+            "bracketName": "Pools",
+            "bracketId": 1472597,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 155050,
+                    "playerTag": "DestiKnee"
+                }
+            ]
+        },
+        {
+            "id": 36951723,
+            "entrant1Id": 7139179,
+            "entrant2Id": 7094568,
+            "entrant1Name": "FANA | Niklas2912",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7094568,
+            "loserId": 7139179,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "FANA | Niklas2912",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1472570,
+            "entrant1Players": [
+                {
+                    "playerId": 23781,
+                    "playerTag": "Niklas2912"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 36919249,
+            "entrant1Id": 7094568,
+            "entrant2Id": 7189431,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "spaisi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7094568,
+            "loserId": 7189431,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "spaisi",
+            "bracketName": "Pools",
+            "bracketId": 1472597,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2148150,
+                    "playerTag": "spaisi"
+                }
+            ]
+        },
+        {
+            "id": 36951717,
+            "entrant1Id": 7094568,
+            "entrant2Id": 7117225,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Jormis",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7094568,
+            "loserId": 7117225,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Jormis",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1472570,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 688393,
+                    "playerTag": "Jormis"
+                }
+            ]
+        },
+        {
+            "id": 36919246,
+            "entrant1Id": 7094568,
+            "entrant2Id": 7144846,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Gappy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7094568,
+            "loserId": 7144846,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Gappy",
+            "bracketName": "Pools",
+            "bracketId": 1472597,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1461959,
+                    "playerTag": "Gappy"
+                }
+            ]
+        },
+        {
+            "id": 36955901,
+            "entrant1Id": 7121353,
+            "entrant2Id": 7094568,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7121353,
+            "loserId": 7094568,
+            "winnerName": "PS | Trif",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 36919243,
+            "entrant1Id": 7094568,
+            "entrant2Id": 7165617,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Koolan",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7094568,
+            "loserId": 7165617,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Koolan",
+            "bracketName": "Pools",
+            "bracketId": 1472597,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2157519,
+                    "playerTag": "Koolan"
+                }
+            ]
+        },
+        {
+            "id": 36956025,
+            "entrant1Id": 7094568,
+            "entrant2Id": 7120437,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7120437,
+            "loserId": 7094568,
+            "winnerName": "Professor Pro",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 36297401,
+            "entrant1Id": 6932339,
+            "entrant2Id": 6971748,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Rev",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6932339,
+            "loserId": 6971748,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Rev",
+            "bracketName": "Pools",
+            "bracketId": 1470126,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48814,
+                    "playerTag": "Rev"
+                }
+            ]
+        },
+        {
+            "id": 36297398,
+            "entrant1Id": 6932339,
+            "entrant2Id": 7058238,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6932339,
+            "loserId": 7058238,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Jamie",
+            "bracketName": "Pools",
+            "bracketId": 1470126,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 36297395,
+            "entrant1Id": 6932339,
+            "entrant2Id": 6934703,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Roryx",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6932339,
+            "loserId": 6934703,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Roryx",
+            "bracketName": "Pools",
+            "bracketId": 1470126,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10954,
+                    "playerTag": "Roryx"
+                }
+            ]
+        },
+        {
+            "id": 36297392,
+            "entrant1Id": 6932339,
+            "entrant2Id": 6929939,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "gongong",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6932339,
+            "loserId": 6929939,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "gongong",
+            "bracketName": "Pools",
+            "bracketId": 1470126,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4177,
+                    "playerTag": "gongong"
+                }
+            ]
+        },
+        {
+            "id": 36298928,
+            "entrant1Id": 6932339,
+            "entrant2Id": 7053146,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "dronin",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7053146,
+            "loserId": 6932339,
+            "winnerName": "dronin",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Top 96",
+            "bracketId": 1473242,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 69201,
+                    "playerTag": "dronin"
+                }
+            ]
+        },
+        {
+            "id": 36297389,
+            "entrant1Id": 6932339,
+            "entrant2Id": 6928723,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Guik",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6932339,
+            "loserId": 6928723,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Guik",
+            "bracketName": "Pools",
+            "bracketId": 1470126,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1326898,
+                    "playerTag": "Guik"
+                }
+            ]
+        },
+        {
+            "id": 36298923,
+            "entrant1Id": 6932339,
+            "entrant2Id": 6939212,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Okameed",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6932339,
+            "loserId": 6939212,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Okameed",
+            "bracketName": "Top 96",
+            "bracketId": 1473242,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4393,
+                    "playerTag": "Okameed"
+                }
+            ]
+        },
+        {
+            "id": 36297386,
+            "entrant1Id": 6932339,
+            "entrant2Id": 6935091,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Marzipann",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6932339,
+            "loserId": 6935091,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Marzipann",
+            "bracketName": "Pools",
+            "bracketId": 1470126,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2143307,
+                    "playerTag": "Marzipann"
+                }
+            ]
+        },
+        {
+            "id": 36300333,
+            "entrant1Id": 6934064,
+            "entrant2Id": 6932339,
+            "entrant1Name": "PS | Makenshi",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6934064,
+            "loserId": 6932339,
+            "winnerName": "PS | Makenshi",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 157306,
+                    "playerTag": "Makenshi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 36300325,
+            "entrant1Id": 6932339,
+            "entrant2Id": 6969800,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "PS | Poilon",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6932339,
+            "loserId": 6969800,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "PS | Poilon",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47760,
+                    "playerTag": "Poilon"
+                }
+            ]
+        },
+        {
+            "id": 36300311,
+            "entrant1Id": 6932339,
+            "entrant2Id": 7056548,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Gr4pe",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6932339,
+            "loserId": 7056548,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Gr4pe",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 276138,
+                    "playerTag": "Gr4pe"
+                }
+            ]
+        },
+        {
+            "id": 34993719,
+            "entrant1Id": 6649885,
+            "entrant2Id": 6732960,
+            "entrant1Name": "Rikzz",
+            "entrant2Name": "LGDD | zck",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649885,
+            "loserId": 6732960,
+            "winnerName": "Rikzz",
+            "loserName": "LGDD | zck",
+            "bracketName": "Pools",
+            "bracketId": 1438911,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6008,
+                    "playerTag": "zck"
+                }
+            ]
+        },
+        {
+            "id": 34993715,
+            "entrant1Id": 6649885,
+            "entrant2Id": 6730325,
+            "entrant1Name": "Rikzz",
+            "entrant2Name": "klucers",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649885,
+            "loserId": 6730325,
+            "winnerName": "Rikzz",
+            "loserName": "klucers",
+            "bracketName": "Pools",
+            "bracketId": 1438911,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 57411,
+                    "playerTag": "klucers"
+                }
+            ]
+        },
+        {
+            "id": 34993711,
+            "entrant1Id": 6649885,
+            "entrant2Id": 6668160,
+            "entrant1Name": "Rikzz",
+            "entrant2Name": "TA | Exy-",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649885,
+            "loserId": 6668160,
+            "winnerName": "Rikzz",
+            "loserName": "TA | Exy-",
+            "bracketName": "Pools",
+            "bracketId": 1438911,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 508749,
+                    "playerTag": "Exy-"
+                }
+            ]
+        },
+        {
+            "id": 34996718,
+            "entrant1Id": 6649885,
+            "entrant2Id": 6650521,
+            "entrant1Name": "Rikzz",
+            "entrant2Name": "RLB | Kaese",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649885,
+            "loserId": 6650521,
+            "winnerName": "Rikzz",
+            "loserName": "RLB | Kaese",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6656,
+                    "playerTag": "Kaese"
+                }
+            ]
+        },
+        {
+            "id": 34993707,
+            "entrant1Id": 6649885,
+            "entrant2Id": 6662747,
+            "entrant1Name": "Rikzz",
+            "entrant2Name": "Piney",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649885,
+            "loserId": 6662747,
+            "winnerName": "Rikzz",
+            "loserName": "Piney",
+            "bracketName": "Pools",
+            "bracketId": 1438911,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 316878,
+                    "playerTag": "Piney"
+                }
+            ]
+        },
+        {
+            "id": 34996688,
+            "entrant1Id": 6649885,
+            "entrant2Id": 6731803,
+            "entrant1Name": "Rikzz",
+            "entrant2Name": "Pi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649885,
+            "loserId": 6731803,
+            "winnerName": "Rikzz",
+            "loserName": "Pi",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54828,
+                    "playerTag": "Pi"
+                }
+            ]
+        },
+        {
+            "id": 34998367,
+            "entrant1Id": 6649885,
+            "entrant2Id": 6679306,
+            "entrant1Name": "Rikzz",
+            "entrant2Name": "Niklas2912",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6679306,
+            "loserId": 6649885,
+            "winnerName": "Niklas2912",
+            "loserName": "Rikzz",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23781,
+                    "playerTag": "Niklas2912"
+                }
+            ]
+        },
+        {
+            "id": 34998300,
+            "entrant1Id": 6649885,
+            "entrant2Id": 6649628,
+            "entrant1Name": "Rikzz",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6649628,
+            "loserId": 6649885,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Rikzz",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 34998362,
+            "entrant1Id": 6649885,
+            "entrant2Id": 6651839,
+            "entrant1Name": "Rikzz",
+            "entrant2Name": "Daydee",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649885,
+            "loserId": 6651839,
+            "winnerName": "Rikzz",
+            "loserName": "Daydee",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10886,
+                    "playerTag": "Daydee"
+                }
+            ]
+        },
+        {
+            "id": 42573178,
+            "entrant1Id": 8713927,
+            "entrant2Id": 4728822,
+            "entrant1Name": "Meady",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8713927,
+            "loserId": 4728822,
+            "winnerName": "Meady",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 42573176,
+            "entrant1Id": 8561805,
+            "entrant2Id": 4728822,
+            "entrant1Name": "Sharp",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 4728822,
+            "loserId": 8561805,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Sharp",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 42517373,
+            "entrant1Id": 4728822,
+            "entrant2Id": 8457583,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "MANA | kirbyvert",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4728822,
+            "loserId": 8457583,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "MANA | kirbyvert",
+            "bracketName": "Pools",
+            "bracketId": 1234669,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151078,
+                    "playerTag": "kirbyvert"
+                }
+            ]
+        },
+        {
+            "id": 42573173,
+            "entrant1Id": 4762754,
+            "entrant2Id": 4728822,
+            "entrant1Name": "LunarySSF2",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 4728822,
+            "loserId": 4762754,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "LunarySSF2",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 28190,
+                    "playerTag": "It's Ok If I Lose"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 42573169,
+            "entrant1Id": 4347656,
+            "entrant2Id": 4728822,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 4728822,
+            "loserId": 4347656,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Fout NL",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 42572918,
+            "entrant1Id": 4728822,
+            "entrant2Id": 8612382,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "FrankTheFisher",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8612382,
+            "loserId": 4728822,
+            "winnerName": "FrankTheFisher",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2491740,
+                    "playerTag": "FrankTheFisher"
+                }
+            ]
+        },
+        {
+            "id": 42517371,
+            "entrant1Id": 4728822,
+            "entrant2Id": 8740870,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "JakChibrac",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4728822,
+            "loserId": 8740870,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "JakChibrac",
+            "bracketName": "Pools",
+            "bracketId": 1234669,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2178716,
+                    "playerTag": "JakChibrac"
+                }
+            ]
+        },
+        {
+            "id": 42573163,
+            "entrant1Id": 4728822,
+            "entrant2Id": 4349276,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "PS | Charlon",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4728822,
+            "loserId": 4349276,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "PS | Charlon",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5293,
+                    "playerTag": "Charlon"
+                }
+            ]
+        },
+        {
+            "id": 42572909,
+            "entrant1Id": 4728822,
+            "entrant2Id": 8448679,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Bico",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4728822,
+            "loserId": 8448679,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Bico",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 32909,
+                    "playerTag": "Bico"
+                }
+            ]
+        },
+        {
+            "id": 42517369,
+            "entrant1Id": 4728822,
+            "entrant2Id": 8720881,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "McRango",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4728822,
+            "loserId": 8720881,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "McRango",
+            "bracketName": "Pools",
+            "bracketId": 1234669,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1284031,
+                    "playerTag": "McRango"
+                }
+            ]
+        },
+        {
+            "id": 42572891,
+            "entrant1Id": 4728822,
+            "entrant2Id": 8658529,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "BG | NekoKaze",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4728822,
+            "loserId": 8658529,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "BG | NekoKaze",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1285533,
+                    "playerTag": "NekoKaze"
+                }
+            ]
+        },
+        {
+            "id": 42572855,
+            "entrant1Id": 4728822,
+            "entrant2Id": 8452697,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Guik",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4728822,
+            "loserId": 8452697,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Guik",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1326898,
+                    "playerTag": "Guik"
+                }
+            ]
+        },
+        {
+            "id": 43253966,
+            "entrant1Id": 8824102,
+            "entrant2Id": 8822378,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Schima",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8824102,
+            "loserId": 8822378,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Schima",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1624014,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ]
+        },
+        {
+            "id": 43248627,
+            "entrant1Id": 8824102,
+            "entrant2Id": 8940210,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Max",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8824102,
+            "loserId": 8940210,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Max",
+            "bracketName": "Pools",
+            "bracketId": 1624006,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 559191,
+                    "playerTag": "Max"
+                }
+            ]
+        },
+        {
+            "id": 43253965,
+            "entrant1Id": 8824102,
+            "entrant2Id": 8822378,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Schima",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8824102,
+            "loserId": 8822378,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Schima",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1624014,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ]
+        },
+        {
+            "id": 43248625,
+            "entrant1Id": 8824102,
+            "entrant2Id": 8849708,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "3rd",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8824102,
+            "loserId": 8849708,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "3rd",
+            "bracketName": "Pools",
+            "bracketId": 1624006,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 859325,
+                    "playerTag": "3rd"
+                }
+            ]
+        },
+        {
+            "id": 43253963,
+            "entrant1Id": 8824102,
+            "entrant2Id": 8821106,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Parsec",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8824102,
+            "loserId": 8821106,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Parsec",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1624014,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54535,
+                    "playerTag": "Parsec"
+                }
+            ]
+        },
+        {
+            "id": 43248623,
+            "entrant1Id": 8824102,
+            "entrant2Id": 8822394,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Sandbag | cheddar",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8824102,
+            "loserId": 8822394,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Sandbag | cheddar",
+            "bracketName": "Pools",
+            "bracketId": 1624006,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2370096,
+                    "playerTag": "cheddar"
+                }
+            ]
+        },
+        {
+            "id": 43253959,
+            "entrant1Id": 8824102,
+            "entrant2Id": 8822327,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "King",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8824102,
+            "loserId": 8822327,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "King",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1624014,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 796398,
+                    "playerTag": "King"
+                }
+            ]
+        },
+        {
+            "id": 43248621,
+            "entrant1Id": 8824102,
+            "entrant2Id": 8826502,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "leaves",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8824102,
+            "loserId": 8826502,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "leaves",
+            "bracketName": "Pools",
+            "bracketId": 1624006,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1198966,
+                    "playerTag": "leaves"
+                }
+            ]
+        },
+        {
+            "id": 43253951,
+            "entrant1Id": 8824102,
+            "entrant2Id": 8855981,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Strawstream",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8824102,
+            "loserId": 8855981,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Strawstream",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1624014,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6672,
+                    "playerTag": "Strawstream"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "mahie",
+        "gg",
+        "kingu",
+        "23",
+        "max",
+        "kins0",
+        "levingy",
+        "levingy",
+        "sharp",
+        "velani",
+        "fat tino",
+        "sharp",
+        "levingy",
+        "laurster",
+        "shiftingshadows",
+        "velani",
+        "king",
+        "niklas2912",
+        "jamie",
+        "poilon",
+        "daydee",
+        "sharp",
+        "fout nl",
+        "charlon",
+        "schima",
+        "max",
+        "schima",
+        "parsec",
+        "king"
+    ],
+    "L": [
+        "pipsqueak",
+        "professor pro",
+        "skullbro",
+        "kingu",
+        "professor pro",
+        "meady",
+        "frenzy",
+        "trif",
+        "professor pro",
+        "mahie",
+        "trif",
+        "frenzy",
+        "ice",
+        "mahie",
+        "prins esse",
+        "frenzy",
+        "skullbro",
+        "fuzzyness",
+        "pipsqueak",
+        "velani",
+        "trif",
+        "professor pro",
+        "dronin",
+        "makenshi",
+        "niklas2912",
+        "jah ridin'",
+        "meady",
+        "FrankTheFisher",
+        "kins0",
+        "kins0"
+    ]
+}

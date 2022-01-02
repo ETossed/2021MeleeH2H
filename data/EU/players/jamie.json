@@ -1,0 +1,1559 @@
+{
+    "Events": [
+        545157,
+        550373,
+        549952,
+        549684,
+        543662,
+        554988,
+        541113
+    ],
+    "Sets": [
+        {
+            "id": 39836818,
+            "entrant1Id": 8109989,
+            "entrant2Id": 8096192,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8109989,
+            "loserId": 8096192,
+            "winnerName": "PS | Trif",
+            "loserName": "Jamie",
+            "bracketName": "Round Robin",
+            "bracketId": 1434144,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 39836815,
+            "entrant1Id": 8096574,
+            "entrant2Id": 8096192,
+            "entrant1Name": "Brave",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8096192,
+            "loserId": 8096574,
+            "winnerName": "Jamie",
+            "loserName": "Brave",
+            "bracketName": "Round Robin",
+            "bracketId": 1434144,
+            "entrant1Players": [
+                {
+                    "playerId": 2114558,
+                    "playerTag": "BraveHeart"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 39836801,
+            "entrant1Id": 8096192,
+            "entrant2Id": 8073230,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "SenX",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8096192,
+            "loserId": 8073230,
+            "winnerName": "Jamie",
+            "loserName": "SenX",
+            "bracketName": "Round Robin",
+            "bracketId": 1434144,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 184913,
+                    "playerTag": "SenX"
+                }
+            ]
+        },
+        {
+            "id": 39886549,
+            "entrant1Id": 8017221,
+            "entrant2Id": 8096192,
+            "entrant1Name": "skullbro",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8017221,
+            "loserId": 8096192,
+            "winnerName": "skullbro",
+            "loserName": "Jamie",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 39886489,
+            "entrant1Id": 8096192,
+            "entrant2Id": 8081598,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "Verdant",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8081598,
+            "loserId": 8096192,
+            "winnerName": "Verdant",
+            "loserName": "Jamie",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45296,
+                    "playerTag": "Verdant"
+                }
+            ]
+        },
+        {
+            "id": 39272682,
+            "entrant1Id": 7896361,
+            "entrant2Id": 7943563,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7896361,
+            "loserId": 7943563,
+            "winnerName": "Levingy",
+            "loserName": "Jamie",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545569,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 39272679,
+            "entrant1Id": 7942588,
+            "entrant2Id": 7943563,
+            "entrant1Name": "Jormis",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7943563,
+            "loserId": 7942588,
+            "winnerName": "Jamie",
+            "loserName": "Jormis",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545569,
+            "entrant1Players": [
+                {
+                    "playerId": 688393,
+                    "playerTag": "Jormis"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 39317114,
+            "entrant1Id": 7673164,
+            "entrant2Id": 7943563,
+            "entrant1Name": "Humpe",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7673164,
+            "loserId": 7943563,
+            "winnerName": "Humpe",
+            "loserName": "Jamie",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 49595,
+                    "playerTag": "Humpe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 39272669,
+            "entrant1Id": 7943563,
+            "entrant2Id": 7942568,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "Psylo",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7943563,
+            "loserId": 7942568,
+            "winnerName": "Jamie",
+            "loserName": "Psylo",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545569,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 233945,
+                    "playerTag": "Psylo"
+                }
+            ]
+        },
+        {
+            "id": 39317102,
+            "entrant1Id": 7943563,
+            "entrant2Id": 7636849,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7943563,
+            "loserId": 7636849,
+            "winnerName": "Jamie",
+            "loserName": "Meady",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 39316967,
+            "entrant1Id": 7640530,
+            "entrant2Id": 7943563,
+            "entrant1Name": "Sharp",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7640530,
+            "loserId": 7943563,
+            "winnerName": "Sharp",
+            "loserName": "Jamie",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 39317093,
+            "entrant1Id": 7943563,
+            "entrant2Id": 7953134,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "HoorayForJay",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7943563,
+            "loserId": 7953134,
+            "winnerName": "Jamie",
+            "loserName": "HoorayForJay",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54277,
+                    "playerTag": "HoorayForJay"
+                }
+            ]
+        },
+        {
+            "id": 39272664,
+            "entrant1Id": 7943563,
+            "entrant2Id": 7901699,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "Kalua",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7943563,
+            "loserId": 7901699,
+            "winnerName": "Jamie",
+            "loserName": "Kalua",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545569,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 139595,
+                    "playerTag": "Kalua"
+                }
+            ]
+        },
+        {
+            "id": 39316937,
+            "entrant1Id": 7943563,
+            "entrant2Id": 7950309,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "BFM | Chaler",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7943563,
+            "loserId": 7950309,
+            "winnerName": "Jamie",
+            "loserName": "BFM | Chaler",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 127417,
+                    "playerTag": "Chaler"
+                }
+            ]
+        },
+        {
+            "id": 39272659,
+            "entrant1Id": 7943563,
+            "entrant2Id": 7952122,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "royu",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7943563,
+            "loserId": 7952122,
+            "winnerName": "Jamie",
+            "loserName": "royu",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545569,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2186243,
+                    "playerTag": "royu"
+                }
+            ]
+        },
+        {
+            "id": 38374478,
+            "entrant1Id": 7577167,
+            "entrant2Id": 7428529,
+            "entrant1Name": "PS | Ice",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7577167,
+            "loserId": 7428529,
+            "winnerName": "PS | Ice",
+            "loserName": "Jamie",
+            "bracketName": "Pools",
+            "bracketId": 1521926,
+            "entrant1Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 38374475,
+            "entrant1Id": 7592384,
+            "entrant2Id": 7428529,
+            "entrant1Name": "FinalTaco",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7428529,
+            "loserId": 7592384,
+            "winnerName": "Jamie",
+            "loserName": "FinalTaco",
+            "bracketName": "Pools",
+            "bracketId": 1521926,
+            "entrant1Players": [
+                {
+                    "playerId": 40787,
+                    "playerTag": "FinalTaco"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 38424616,
+            "entrant1Id": 7474286,
+            "entrant2Id": 7428529,
+            "entrant1Name": "Velani",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7474286,
+            "loserId": 7428529,
+            "winnerName": "Velani",
+            "loserName": "Jamie",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 517638,
+                    "playerTag": "Velani"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 38424488,
+            "entrant1Id": 7428529,
+            "entrant2Id": 7399082,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "R23",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7399082,
+            "loserId": 7428529,
+            "winnerName": "R23",
+            "loserName": "Jamie",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5519,
+                    "playerTag": "R23"
+                }
+            ]
+        },
+        {
+            "id": 38424612,
+            "entrant1Id": 7428529,
+            "entrant2Id": 7459694,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "Smash Sauna | mayhem092",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7428529,
+            "loserId": 7459694,
+            "winnerName": "Jamie",
+            "loserName": "Smash Sauna | mayhem092",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12872,
+                    "playerTag": "mayhem092"
+                }
+            ]
+        },
+        {
+            "id": 38424476,
+            "entrant1Id": 7457931,
+            "entrant2Id": 7428529,
+            "entrant1Name": "Lost Souls | GG",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7428529,
+            "loserId": 7457931,
+            "winnerName": "Jamie",
+            "loserName": "Lost Souls | GG",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 36947,
+                    "playerTag": "GG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 38424453,
+            "entrant1Id": 7409843,
+            "entrant2Id": 7428529,
+            "entrant1Name": "Okameed",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7428529,
+            "loserId": 7409843,
+            "winnerName": "Jamie",
+            "loserName": "Okameed",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 4393,
+                    "playerTag": "Okameed"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 38374443,
+            "entrant1Id": 7428529,
+            "entrant2Id": 7399026,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "Winnable",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7428529,
+            "loserId": 7399026,
+            "winnerName": "Jamie",
+            "loserName": "Winnable",
+            "bracketName": "Pools",
+            "bracketId": 1521926,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1031972,
+                    "playerTag": "Winnable"
+                }
+            ]
+        },
+        {
+            "id": 37559742,
+            "entrant1Id": 7325602,
+            "entrant2Id": 7369756,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7325602,
+            "loserId": 7369756,
+            "winnerName": "Jamie",
+            "loserName": "Laurster",
+            "bracketName": "Changing room",
+            "bracketId": 1501270,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 37559734,
+            "entrant1Id": 7325602,
+            "entrant2Id": 7261780,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "LGDD | Sovlo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7325602,
+            "loserId": 7261780,
+            "winnerName": "Jamie",
+            "loserName": "LGDD | Sovlo",
+            "bracketName": "Changing room",
+            "bracketId": 1501270,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30308,
+                    "playerTag": "Sovlo"
+                }
+            ]
+        },
+        {
+            "id": 37613498,
+            "entrant1Id": 7351506,
+            "entrant2Id": 7325602,
+            "entrant1Name": "skullbro",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7351506,
+            "loserId": 7325602,
+            "winnerName": "skullbro",
+            "loserName": "Jamie",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 37613362,
+            "entrant1Id": 7272155,
+            "entrant2Id": 7325602,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7272155,
+            "loserId": 7325602,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Jamie",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 37613490,
+            "entrant1Id": 7325602,
+            "entrant2Id": 7370835,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "RestlessWhale",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7325602,
+            "loserId": 7370835,
+            "winnerName": "Jamie",
+            "loserName": "RestlessWhale",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11992,
+                    "playerTag": "RestlessWhale"
+                }
+            ]
+        },
+        {
+            "id": 37613331,
+            "entrant1Id": 7325602,
+            "entrant2Id": 7371039,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "stormrat",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7325602,
+            "loserId": 7371039,
+            "winnerName": "Jamie",
+            "loserName": "stormrat",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54547,
+                    "playerTag": "stormrat"
+                }
+            ]
+        },
+        {
+            "id": 36914597,
+            "entrant1Id": 7149297,
+            "entrant2Id": 7213568,
+            "entrant1Name": "Solobattle",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7149297,
+            "loserId": 7213568,
+            "winnerName": "Solobattle",
+            "loserName": "Jamie",
+            "bracketName": "Pools",
+            "bracketId": 1472585,
+            "entrant1Players": [
+                {
+                    "playerId": 219891,
+                    "playerTag": "Solobattle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 36914593,
+            "entrant1Id": 7227808,
+            "entrant2Id": 7213568,
+            "entrant1Name": "Wobl",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7213568,
+            "loserId": 7227808,
+            "winnerName": "Jamie",
+            "loserName": "Wobl",
+            "bracketName": "Pools",
+            "bracketId": 1472585,
+            "entrant1Players": [
+                {
+                    "playerId": 701767,
+                    "playerTag": "Wobl"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 36954584,
+            "entrant1Id": 7213568,
+            "entrant2Id": 7171329,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "Widl",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7213568,
+            "loserId": 7171329,
+            "winnerName": "Jamie",
+            "loserName": "Widl",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1488048,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10178,
+                    "playerTag": "Little Bear"
+                }
+            ]
+        },
+        {
+            "id": 36914588,
+            "entrant1Id": 7209950,
+            "entrant2Id": 7213568,
+            "entrant1Name": "Renzo",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7209950,
+            "loserId": 7213568,
+            "winnerName": "Renzo",
+            "loserName": "Jamie",
+            "bracketName": "Pools",
+            "bracketId": 1472585,
+            "entrant1Players": [
+                {
+                    "playerId": 329862,
+                    "playerTag": "Renzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 36954579,
+            "entrant1Id": 7208067,
+            "entrant2Id": 7213568,
+            "entrant1Name": "NGNS | Schima",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7213568,
+            "loserId": 7208067,
+            "winnerName": "Jamie",
+            "loserName": "NGNS | Schima",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1488048,
+            "entrant1Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 36914583,
+            "entrant1Id": 7213568,
+            "entrant2Id": 7231348,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "Shakenbacon",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7213568,
+            "loserId": 7231348,
+            "winnerName": "Jamie",
+            "loserName": "Shakenbacon",
+            "bracketName": "Pools",
+            "bracketId": 1472585,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1981064,
+                    "playerTag": "Shakenbacon"
+                }
+            ]
+        },
+        {
+            "id": 36955904,
+            "entrant1Id": 7149297,
+            "entrant2Id": 7213568,
+            "entrant1Name": "Solobattle",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7149297,
+            "loserId": 7213568,
+            "winnerName": "Solobattle",
+            "loserName": "Jamie",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 219891,
+                    "playerTag": "Solobattle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 36954570,
+            "entrant1Id": 7230706,
+            "entrant2Id": 7213568,
+            "entrant1Name": "FluentCoding",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7213568,
+            "loserId": 7230706,
+            "winnerName": "Jamie",
+            "loserName": "FluentCoding",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1488048,
+            "entrant1Players": [
+                {
+                    "playerId": 1718913,
+                    "playerTag": "FluentCoding"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 36956022,
+            "entrant1Id": 7213568,
+            "entrant2Id": 7171117,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "raoul",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7171117,
+            "loserId": 7213568,
+            "winnerName": "raoul",
+            "loserName": "Jamie",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 36297398,
+            "entrant1Id": 6932339,
+            "entrant2Id": 7058238,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6932339,
+            "loserId": 7058238,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Jamie",
+            "bracketName": "Pools",
+            "bracketId": 1470126,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 36297396,
+            "entrant1Id": 6929939,
+            "entrant2Id": 7058238,
+            "entrant1Name": "gongong",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7058238,
+            "loserId": 6929939,
+            "winnerName": "Jamie",
+            "loserName": "gongong",
+            "bracketName": "Pools",
+            "bracketId": 1470126,
+            "entrant1Players": [
+                {
+                    "playerId": 4177,
+                    "playerTag": "gongong"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 36297394,
+            "entrant1Id": 6935091,
+            "entrant2Id": 7058238,
+            "entrant1Name": "Marzipann",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7058238,
+            "loserId": 6935091,
+            "winnerName": "Jamie",
+            "loserName": "Marzipann",
+            "bracketName": "Pools",
+            "bracketId": 1470126,
+            "entrant1Players": [
+                {
+                    "playerId": 2143307,
+                    "playerTag": "Marzipann"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 36297391,
+            "entrant1Id": 6971748,
+            "entrant2Id": 7058238,
+            "entrant1Name": "Rev",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6971748,
+            "loserId": 7058238,
+            "winnerName": "Rev",
+            "loserName": "Jamie",
+            "bracketName": "Pools",
+            "bracketId": 1470126,
+            "entrant1Players": [
+                {
+                    "playerId": 48814,
+                    "playerTag": "Rev"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 36298978,
+            "entrant1Id": 7049481,
+            "entrant2Id": 7058238,
+            "entrant1Name": "NVZ",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7049481,
+            "loserId": 7058238,
+            "winnerName": "NVZ",
+            "loserName": "Jamie",
+            "bracketName": "Top 96",
+            "bracketId": 1473242,
+            "entrant1Players": [
+                {
+                    "playerId": 280500,
+                    "playerTag": "NVZ"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 36297388,
+            "entrant1Id": 7058238,
+            "entrant2Id": 6934703,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "Roryx",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6934703,
+            "loserId": 7058238,
+            "winnerName": "Roryx",
+            "loserName": "Jamie",
+            "bracketName": "Pools",
+            "bracketId": 1470126,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10954,
+                    "playerTag": "Roryx"
+                }
+            ]
+        },
+        {
+            "id": 36298910,
+            "entrant1Id": 6924889,
+            "entrant2Id": 7058238,
+            "entrant1Name": "Valhalla | King Funk",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6924889,
+            "loserId": 7058238,
+            "winnerName": "Valhalla | King Funk",
+            "loserName": "Jamie",
+            "bracketName": "Top 96",
+            "bracketId": 1473242,
+            "entrant1Players": [
+                {
+                    "playerId": 10555,
+                    "playerTag": "King Funk"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 36297384,
+            "entrant1Id": 7058238,
+            "entrant2Id": 6928723,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "Guik",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7058238,
+            "loserId": 6928723,
+            "winnerName": "Jamie",
+            "loserName": "Guik",
+            "bracketName": "Pools",
+            "bracketId": 1470126,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1326898,
+                    "playerTag": "Guik"
+                }
+            ]
+        },
+        {
+            "id": 34993663,
+            "entrant1Id": 6651818,
+            "entrant2Id": 6734090,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6651818,
+            "loserId": 6734090,
+            "winnerName": "Kins0",
+            "loserName": "Jamie",
+            "bracketName": "Pools",
+            "bracketId": 1438910,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 34993660,
+            "entrant1Id": 6730646,
+            "entrant2Id": 6734090,
+            "entrant1Name": "BUGL | Tasty",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6734090,
+            "loserId": 6730646,
+            "winnerName": "Jamie",
+            "loserName": "BUGL | Tasty",
+            "bracketName": "Pools",
+            "bracketId": 1438910,
+            "entrant1Players": [
+                {
+                    "playerId": 152579,
+                    "playerTag": "Tasty"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 34993657,
+            "entrant1Id": 6729816,
+            "entrant2Id": 6734090,
+            "entrant1Name": "Gin",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6734090,
+            "loserId": 6729816,
+            "winnerName": "Jamie",
+            "loserName": "Gin",
+            "bracketName": "Pools",
+            "bracketId": 1438910,
+            "entrant1Players": [
+                {
+                    "playerId": 273644,
+                    "playerTag": "Gin"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 34996924,
+            "entrant1Id": 6652076,
+            "entrant2Id": 6734090,
+            "entrant1Name": "Widl",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6652076,
+            "loserId": 6734090,
+            "winnerName": "Widl",
+            "loserName": "Jamie",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 10178,
+                    "playerTag": "Little Bear"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 34993650,
+            "entrant1Id": 6734090,
+            "entrant2Id": 6731803,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "Pi",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6731803,
+            "loserId": 6734090,
+            "winnerName": "Pi",
+            "loserName": "Jamie",
+            "bracketName": "Pools",
+            "bracketId": 1438910,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54828,
+                    "playerTag": "Pi"
+                }
+            ]
+        },
+        {
+            "id": 34996892,
+            "entrant1Id": 6652741,
+            "entrant2Id": 6734090,
+            "entrant1Name": "Weston",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6734090,
+            "loserId": 6652741,
+            "winnerName": "Jamie",
+            "loserName": "Weston",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 45404,
+                    "playerTag": "Weston"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 34996651,
+            "entrant1Id": 6730426,
+            "entrant2Id": 6734090,
+            "entrant1Name": "Vivi",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6730426,
+            "loserId": 6734090,
+            "winnerName": "Vivi",
+            "loserName": "Jamie",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 16299,
+                    "playerTag": "Vivi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 34993645,
+            "entrant1Id": 6734090,
+            "entrant2Id": 6684328,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "Pungsacken",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6734090,
+            "loserId": 6684328,
+            "winnerName": "Jamie",
+            "loserName": "Pungsacken",
+            "bracketName": "Pools",
+            "bracketId": 1438910,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30757,
+                    "playerTag": "Pungsacken"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "senx",
+        "meady",
+        "mayhem092",
+        "gg",
+        "laurster",
+        "schima"
+    ],
+    "L": [
+        "trif",
+        "skullbro",
+        "Verdant",
+        "levingy",
+        "humpe",
+        "sharp",
+        "ice",
+        "velani",
+        "r23",
+        "skullbro",
+        "frenzy",
+        "solobattle",
+        "renzo",
+        "solobattle",
+        "raoul",
+        "rikzz",
+        "Rev",
+        "NVZ",
+        "Roryx",
+        "King Funk",
+        "kins0",
+        "Little Bear",
+        "Pi",
+        "Vivi"
+    ]
+}

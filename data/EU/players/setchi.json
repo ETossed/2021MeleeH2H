@@ -1,0 +1,578 @@
+{
+    "Events": [
+        570804,
+        550373
+    ],
+    "Sets": [
+        {
+            "id": 40028924,
+            "entrant1Id": 8055900,
+            "entrant2Id": 7323196,
+            "entrant1Name": "Setchi",
+            "entrant2Name": "Hydro | Neproxin",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8055900,
+            "loserId": 7323196,
+            "winnerName": "Setchi",
+            "loserName": "Hydro | Neproxin",
+            "bracketName": "Pools",
+            "bracketId": 1485622,
+            "entrant1Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 351721,
+                    "playerTag": "Neproxin"
+                }
+            ]
+        },
+        {
+            "id": 40035887,
+            "entrant1Id": 7304871,
+            "entrant2Id": 8055900,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Setchi",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7304871,
+            "loserId": 8055900,
+            "winnerName": "Frenzy",
+            "loserName": "Setchi",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ]
+        },
+        {
+            "id": 40036015,
+            "entrant1Id": 8055900,
+            "entrant2Id": 7304869,
+            "entrant1Name": "Setchi",
+            "entrant2Name": "max",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7304869,
+            "loserId": 8055900,
+            "winnerName": "max",
+            "loserName": "Setchi",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 818697,
+                    "playerTag": "max"
+                }
+            ]
+        },
+        {
+            "id": 40028921,
+            "entrant1Id": 8055900,
+            "entrant2Id": 8055840,
+            "entrant1Name": "Setchi",
+            "entrant2Name": "4QS | Antz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8055900,
+            "loserId": 8055840,
+            "winnerName": "Setchi",
+            "loserName": "4QS | Antz",
+            "bracketName": "Pools",
+            "bracketId": 1485622,
+            "entrant1Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 776725,
+                    "playerTag": "Antz"
+                }
+            ]
+        },
+        {
+            "id": 40035886,
+            "entrant1Id": 8055900,
+            "entrant2Id": 7306560,
+            "entrant1Name": "Setchi",
+            "entrant2Name": "Okameed",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8055900,
+            "loserId": 7306560,
+            "winnerName": "Setchi",
+            "loserName": "Okameed",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4393,
+                    "playerTag": "Okameed"
+                }
+            ]
+        },
+        {
+            "id": 40028918,
+            "entrant1Id": 8055900,
+            "entrant2Id": 7937994,
+            "entrant1Name": "Setchi",
+            "entrant2Name": "zondy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8055900,
+            "loserId": 7937994,
+            "winnerName": "Setchi",
+            "loserName": "zondy",
+            "bracketName": "Pools",
+            "bracketId": 1485622,
+            "entrant1Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1623165,
+                    "playerTag": "zondy"
+                }
+            ]
+        },
+        {
+            "id": 40035883,
+            "entrant1Id": 8055900,
+            "entrant2Id": 8055898,
+            "entrant1Name": "Setchi",
+            "entrant2Name": "Phade",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8055900,
+            "loserId": 8055898,
+            "winnerName": "Setchi",
+            "loserName": "Phade",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 25771,
+                    "playerTag": "Phade"
+                }
+            ]
+        },
+        {
+            "id": 40028915,
+            "entrant1Id": 8055900,
+            "entrant2Id": 7922606,
+            "entrant1Name": "Setchi",
+            "entrant2Name": "Eli",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8055900,
+            "loserId": 7922606,
+            "winnerName": "Setchi",
+            "loserName": "Eli",
+            "bracketName": "Pools",
+            "bracketId": 1485622,
+            "entrant1Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1430880,
+                    "playerTag": "Eli"
+                }
+            ]
+        },
+        {
+            "id": 40035877,
+            "entrant1Id": 8055900,
+            "entrant2Id": 7482398,
+            "entrant1Name": "Setchi",
+            "entrant2Name": "10QuidShoes",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8055900,
+            "loserId": 7482398,
+            "winnerName": "Setchi",
+            "loserName": "10QuidShoes",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11087,
+                    "playerTag": "10QuidShoes"
+                }
+            ]
+        },
+        {
+            "id": 40028912,
+            "entrant1Id": 8055900,
+            "entrant2Id": 7956801,
+            "entrant1Name": "Setchi",
+            "entrant2Name": "6pool",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8055900,
+            "loserId": 7956801,
+            "winnerName": "Setchi",
+            "loserName": "6pool",
+            "bracketName": "Pools",
+            "bracketId": 1485622,
+            "entrant1Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1338451,
+                    "playerTag": "6pool"
+                }
+            ]
+        },
+        {
+            "id": 40035865,
+            "entrant1Id": 8055900,
+            "entrant2Id": 7306713,
+            "entrant1Name": "Setchi",
+            "entrant2Name": "NoPressure1",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8055900,
+            "loserId": 7306713,
+            "winnerName": "Setchi",
+            "loserName": "NoPressure1",
+            "bracketName": "Singles Pro bracket",
+            "bracketId": 1485621,
+            "entrant1Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 127472,
+                    "playerTag": "NoPressure1"
+                }
+            ]
+        },
+        {
+            "id": 39272654,
+            "entrant1Id": 7939381,
+            "entrant2Id": 7946002,
+            "entrant1Name": "Setchi",
+            "entrant2Name": "Liax",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7939381,
+            "loserId": 7946002,
+            "winnerName": "Setchi",
+            "loserName": "Liax",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545568,
+            "entrant1Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 9653,
+                    "playerTag": "Liax"
+                }
+            ]
+        },
+        {
+            "id": 39272650,
+            "entrant1Id": 7939381,
+            "entrant2Id": 7641554,
+            "entrant1Name": "Setchi",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7939381,
+            "loserId": 7641554,
+            "winnerName": "Setchi",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545568,
+            "entrant1Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 39272646,
+            "entrant1Id": 7939381,
+            "entrant2Id": 7641172,
+            "entrant1Name": "Setchi",
+            "entrant2Name": "Touffe",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7939381,
+            "loserId": 7641172,
+            "winnerName": "Setchi",
+            "loserName": "Touffe",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545568,
+            "entrant1Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 503722,
+                    "playerTag": "Touffe"
+                }
+            ]
+        },
+        {
+            "id": 39272642,
+            "entrant1Id": 7939381,
+            "entrant2Id": 7634184,
+            "entrant1Name": "Setchi",
+            "entrant2Name": "BFM | upgamer | ECS1312",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7939381,
+            "loserId": 7634184,
+            "winnerName": "Setchi",
+            "loserName": "BFM | upgamer | ECS1312",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545568,
+            "entrant1Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 563223,
+                    "playerTag": "ECS"
+                }
+            ]
+        },
+        {
+            "id": 39317113,
+            "entrant1Id": 7939381,
+            "entrant2Id": 7939984,
+            "entrant1Name": "Setchi",
+            "entrant2Name": "Velani",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7939984,
+            "loserId": 7939381,
+            "winnerName": "Velani",
+            "loserName": "Setchi",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 517638,
+                    "playerTag": "Velani"
+                }
+            ]
+        },
+        {
+            "id": 39316989,
+            "entrant1Id": 7939381,
+            "entrant2Id": 7937428,
+            "entrant1Name": "Setchi",
+            "entrant2Name": "Fat Tino",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7937428,
+            "loserId": 7939381,
+            "winnerName": "Fat Tino",
+            "loserName": "Setchi",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 667216,
+                    "playerTag": "Fat Tino"
+                }
+            ]
+        },
+        {
+            "id": 39317107,
+            "entrant1Id": 7939381,
+            "entrant2Id": 7937899,
+            "entrant1Name": "Setchi",
+            "entrant2Name": "mordo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7939381,
+            "loserId": 7937899,
+            "winnerName": "Setchi",
+            "loserName": "mordo",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40012,
+                    "playerTag": "mordo"
+                }
+            ]
+        },
+        {
+            "id": 39272638,
+            "entrant1Id": 7939381,
+            "entrant2Id": 7895198,
+            "entrant1Name": "Setchi",
+            "entrant2Name": "Geryaa",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7939381,
+            "loserId": 7895198,
+            "winnerName": "Setchi",
+            "loserName": "Geryaa",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545568,
+            "entrant1Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1656879,
+                    "playerTag": "Geryaa"
+                }
+            ]
+        },
+        {
+            "id": 39316980,
+            "entrant1Id": 7939381,
+            "entrant2Id": 7634958,
+            "entrant1Name": "Setchi",
+            "entrant2Name": "Glaikit",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7939381,
+            "loserId": 7634958,
+            "winnerName": "Setchi",
+            "loserName": "Glaikit",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 31327,
+                    "playerTag": "Setchi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30631,
+                    "playerTag": "Glaikit"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "liax",
+        "shiftingshadows"
+    ],
+    "L": [
+        "frenzy",
+        "max",
+        "velani",
+        "fat tino"
+    ]
+}

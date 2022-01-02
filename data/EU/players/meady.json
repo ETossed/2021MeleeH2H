@@ -1,0 +1,3246 @@
+{
+    "Events": [
+        554625,
+        572809,
+        550396,
+        545157,
+        550373,
+        549952,
+        549684,
+        543662,
+        554988,
+        550163,
+        541113,
+        428582
+    ],
+    "Sets": [
+        {
+            "id": 41634296,
+            "entrant1Id": 8552806,
+            "entrant2Id": 8558916,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Fat Tino",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8558916,
+            "loserId": 8552806,
+            "winnerName": "Fat Tino",
+            "loserName": "Meady",
+            "bracketName": "Group Stage",
+            "bracketId": 1603241,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 667216,
+                    "playerTag": "Fat Tino"
+                }
+            ]
+        },
+        {
+            "id": 41634293,
+            "entrant1Id": 8552770,
+            "entrant2Id": 8552806,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552770,
+            "loserId": 8552806,
+            "winnerName": "PS | Trif",
+            "loserName": "Meady",
+            "bracketName": "Group Stage",
+            "bracketId": 1603241,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 41634292,
+            "entrant1Id": 8552803,
+            "entrant2Id": 8552806,
+            "entrant1Name": "PS | Nicki",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552803,
+            "loserId": 8552806,
+            "winnerName": "PS | Nicki",
+            "loserName": "Meady",
+            "bracketName": "Group Stage",
+            "bracketId": 1603241,
+            "entrant1Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 41697236,
+            "entrant1Id": 8552805,
+            "entrant2Id": 8552806,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552805,
+            "loserId": 8552806,
+            "winnerName": "RLB | Kins0",
+            "loserName": "Meady",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 37245175,
+            "entrant1Id": 7265717,
+            "entrant2Id": 7265678,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7265717,
+            "loserId": 7265678,
+            "winnerName": "Levingy",
+            "loserName": "Meady",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 37245172,
+            "entrant1Id": 7265714,
+            "entrant2Id": 7265678,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Meady",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265678,
+            "loserId": 7265714,
+            "winnerName": "Meady",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 37245163,
+            "entrant1Id": 7265678,
+            "entrant2Id": 7265691,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265691,
+            "loserId": 7265678,
+            "winnerName": "Professor Pro",
+            "loserName": "Meady",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 37245158,
+            "entrant1Id": 7265678,
+            "entrant2Id": 7265738,
+            "entrant1Name": "Meady",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265738,
+            "loserId": 7265678,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Meady",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 37245153,
+            "entrant1Id": 7265677,
+            "entrant2Id": 7265678,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265677,
+            "loserId": 7265678,
+            "winnerName": "PS | Trif",
+            "loserName": "Meady",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 37245150,
+            "entrant1Id": 7265713,
+            "entrant2Id": 7265678,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265713,
+            "loserId": 7265678,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Meady",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 37282892,
+            "entrant1Id": 7265678,
+            "entrant2Id": 7265710,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Solobattle",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265710,
+            "loserId": 7265678,
+            "winnerName": "Solobattle",
+            "loserName": "Meady",
+            "bracketName": "Bracket",
+            "bracketId": 1490266,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 219891,
+                    "playerTag": "Solobattle"
+                }
+            ]
+        },
+        {
+            "id": 40800713,
+            "entrant1Id": 8130446,
+            "entrant2Id": 8326304,
+            "entrant1Name": "Meady",
+            "entrant2Name": "SenX",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8130446,
+            "loserId": 8326304,
+            "winnerName": "Meady",
+            "loserName": "SenX",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554148,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 184913,
+                    "playerTag": "SenX"
+                }
+            ]
+        },
+        {
+            "id": 40800704,
+            "entrant1Id": 8130446,
+            "entrant2Id": 8138743,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Smeuh",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8130446,
+            "loserId": 8138743,
+            "winnerName": "Meady",
+            "loserName": "Smeuh",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554148,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 71483,
+                    "playerTag": "Smeuh"
+                }
+            ]
+        },
+        {
+            "id": 40863694,
+            "entrant1Id": 8130446,
+            "entrant2Id": 8198304,
+            "entrant1Name": "Meady",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8130446,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Meady",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 40863570,
+            "entrant1Id": 8271728,
+            "entrant2Id": 8130446,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8271728,
+            "loserId": 8130446,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Meady",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 40863688,
+            "entrant1Id": 8130446,
+            "entrant2Id": 8326304,
+            "entrant1Name": "Meady",
+            "entrant2Name": "SenX",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8130446,
+            "loserId": 8326304,
+            "winnerName": "Meady",
+            "loserName": "SenX",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 184913,
+                    "playerTag": "SenX"
+                }
+            ]
+        },
+        {
+            "id": 40800701,
+            "entrant1Id": 8130446,
+            "entrant2Id": 8211467,
+            "entrant1Name": "Meady",
+            "entrant2Name": "NintenJoe",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8130446,
+            "loserId": 8211467,
+            "winnerName": "Meady",
+            "loserName": "NintenJoe",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554148,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1259768,
+                    "playerTag": "NintenJoe"
+                }
+            ]
+        },
+        {
+            "id": 40863562,
+            "entrant1Id": 8130446,
+            "entrant2Id": 8297335,
+            "entrant1Name": "Meady",
+            "entrant2Name": "SKBG | Ba$$",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8130446,
+            "loserId": 8297335,
+            "winnerName": "Meady",
+            "loserName": "SKBG | Ba$$",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40855,
+                    "playerTag": "Ba$$"
+                }
+            ]
+        },
+        {
+            "id": 39840015,
+            "entrant1Id": 8017187,
+            "entrant2Id": 8096887,
+            "entrant1Name": "Meady",
+            "entrant2Name": "abbearv",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8096887,
+            "loserId": 8017187,
+            "winnerName": "abbearv",
+            "loserName": "Meady",
+            "bracketName": "Round Robin",
+            "bracketId": 1557214,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1853889,
+                    "playerTag": "abbearv"
+                }
+            ]
+        },
+        {
+            "id": 39840011,
+            "entrant1Id": 8017187,
+            "entrant2Id": 8089932,
+            "entrant1Name": "Meady",
+            "entrant2Name": "bakedgoods",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8017187,
+            "loserId": 8089932,
+            "winnerName": "Meady",
+            "loserName": "bakedgoods",
+            "bracketName": "Round Robin",
+            "bracketId": 1557214,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 387659,
+                    "playerTag": "bakedgoods"
+                }
+            ]
+        },
+        {
+            "id": 39840007,
+            "entrant1Id": 8017187,
+            "entrant2Id": 8099643,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Askeflink",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8017187,
+            "loserId": 8099643,
+            "winnerName": "Meady",
+            "loserName": "Askeflink",
+            "bracketName": "Round Robin",
+            "bracketId": 1557214,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4916,
+                    "playerTag": "Askeflink"
+                }
+            ]
+        },
+        {
+            "id": 39840003,
+            "entrant1Id": 8017187,
+            "entrant2Id": 8042453,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Thai",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8017187,
+            "loserId": 8042453,
+            "winnerName": "Meady",
+            "loserName": "Thai",
+            "bracketName": "Round Robin",
+            "bracketId": 1557214,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1950815,
+                    "playerTag": "Thai"
+                }
+            ]
+        },
+        {
+            "id": 39839999,
+            "entrant1Id": 8017187,
+            "entrant2Id": 7996925,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Aldo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8017187,
+            "loserId": 7996925,
+            "winnerName": "Meady",
+            "loserName": "Aldo",
+            "bracketName": "Round Robin",
+            "bracketId": 1557214,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 229514,
+                    "playerTag": "Aldo"
+                }
+            ]
+        },
+        {
+            "id": 39886563,
+            "entrant1Id": 8017221,
+            "entrant2Id": 8017187,
+            "entrant1Name": "skullbro",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8017221,
+            "loserId": 8017187,
+            "winnerName": "skullbro",
+            "loserName": "Meady",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 39886558,
+            "entrant1Id": 8081901,
+            "entrant2Id": 8017187,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Meady",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8017187,
+            "loserId": 8081901,
+            "winnerName": "Meady",
+            "loserName": "raoul",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 39839995,
+            "entrant1Id": 8017187,
+            "entrant2Id": 8095869,
+            "entrant1Name": "Meady",
+            "entrant2Name": "niqi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8017187,
+            "loserId": 8095869,
+            "winnerName": "Meady",
+            "loserName": "niqi",
+            "bracketName": "Round Robin",
+            "bracketId": 1557214,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2246314,
+                    "playerTag": "niqi"
+                }
+            ]
+        },
+        {
+            "id": 39886550,
+            "entrant1Id": 8098192,
+            "entrant2Id": 8017187,
+            "entrant1Name": "Juice",
+            "entrant2Name": "Meady",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8017187,
+            "loserId": 8098192,
+            "winnerName": "Meady",
+            "loserName": "Juice",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 2268844,
+                    "playerTag": "Juice"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 39886491,
+            "entrant1Id": 8017187,
+            "entrant2Id": 7996613,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Sharp",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7996613,
+            "loserId": 8017187,
+            "winnerName": "Sharp",
+            "loserName": "Meady",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ]
+        },
+        {
+            "id": 39839991,
+            "entrant1Id": 8017187,
+            "entrant2Id": 8006956,
+            "entrant1Name": "Meady",
+            "entrant2Name": "EdgyMurphy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8017187,
+            "loserId": 8006956,
+            "winnerName": "Meady",
+            "loserName": "EdgyMurphy",
+            "bracketName": "Round Robin",
+            "bracketId": 1557214,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2114447,
+                    "playerTag": "EdgyMurphy"
+                }
+            ]
+        },
+        {
+            "id": 39272626,
+            "entrant1Id": 7636849,
+            "entrant2Id": 7965578,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Modentor Inc. | Kingu",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7965578,
+            "loserId": 7636849,
+            "winnerName": "Modentor Inc. | Kingu",
+            "loserName": "Meady",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545567,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1400299,
+                    "playerTag": "Kingu"
+                }
+            ]
+        },
+        {
+            "id": 39272618,
+            "entrant1Id": 7636849,
+            "entrant2Id": 7943559,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Aiika",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7943559,
+            "loserId": 7636849,
+            "winnerName": "Aiika",
+            "loserName": "Meady",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545567,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 156136,
+                    "playerTag": "Aiika"
+                }
+            ]
+        },
+        {
+            "id": 39272614,
+            "entrant1Id": 7636849,
+            "entrant2Id": 7943673,
+            "entrant1Name": "Meady",
+            "entrant2Name": "SKBG | Ba$$",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7636849,
+            "loserId": 7943673,
+            "winnerName": "Meady",
+            "loserName": "SKBG | Ba$$",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545567,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40855,
+                    "playerTag": "Ba$$"
+                }
+            ]
+        },
+        {
+            "id": 39317102,
+            "entrant1Id": 7943563,
+            "entrant2Id": 7636849,
+            "entrant1Name": "Jamie",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7943563,
+            "loserId": 7636849,
+            "winnerName": "Jamie",
+            "loserName": "Meady",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 39316966,
+            "entrant1Id": 7691443,
+            "entrant2Id": 7636849,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7691443,
+            "loserId": 7636849,
+            "winnerName": "PS | Trif",
+            "loserName": "Meady",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 39317094,
+            "entrant1Id": 7636849,
+            "entrant2Id": 7942292,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Raptori",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7636849,
+            "loserId": 7942292,
+            "winnerName": "Meady",
+            "loserName": "Raptori",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 148278,
+                    "playerTag": "Raptori"
+                }
+            ]
+        },
+        {
+            "id": 39272606,
+            "entrant1Id": 7636849,
+            "entrant2Id": 7909600,
+            "entrant1Name": "Meady",
+            "entrant2Name": "AshClaye",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7636849,
+            "loserId": 7909600,
+            "winnerName": "Meady",
+            "loserName": "AshClaye",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545567,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2147013,
+                    "playerTag": "AshClaye"
+                }
+            ]
+        },
+        {
+            "id": 39316935,
+            "entrant1Id": 7636849,
+            "entrant2Id": 7966129,
+            "entrant1Name": "Meady",
+            "entrant2Name": "epikfaal",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7636849,
+            "loserId": 7966129,
+            "winnerName": "Meady",
+            "loserName": "epikfaal",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5551,
+                    "playerTag": "epikfaal"
+                }
+            ]
+        },
+        {
+            "id": 38374514,
+            "entrant1Id": 7403983,
+            "entrant2Id": 7583882,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Netplebs | Port",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7403983,
+            "loserId": 7583882,
+            "winnerName": "Meady",
+            "loserName": "Netplebs | Port",
+            "bracketName": "Pools",
+            "bracketId": 1521928,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 521308,
+                    "playerTag": "porter"
+                }
+            ]
+        },
+        {
+            "id": 38374511,
+            "entrant1Id": 7403983,
+            "entrant2Id": 7519517,
+            "entrant1Name": "Meady",
+            "entrant2Name": "JoMo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7403983,
+            "loserId": 7519517,
+            "winnerName": "Meady",
+            "loserName": "JoMo",
+            "bracketName": "Pools",
+            "bracketId": 1521928,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 133685,
+                    "playerTag": "JoMo"
+                }
+            ]
+        },
+        {
+            "id": 38424493,
+            "entrant1Id": 7460093,
+            "entrant2Id": 7403983,
+            "entrant1Name": "SSP | Timi",
+            "entrant2Name": "Meady",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7403983,
+            "loserId": 7460093,
+            "winnerName": "Meady",
+            "loserName": "SSP | Timi",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 6747,
+                    "playerTag": "Timi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 38424487,
+            "entrant1Id": 7403983,
+            "entrant2Id": 7457300,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Steff$",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7403983,
+            "loserId": 7457300,
+            "winnerName": "Meady",
+            "loserName": "Steff$",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 885219,
+                    "playerTag": "Steff$"
+                }
+            ]
+        },
+        {
+            "id": 38374505,
+            "entrant1Id": 7403983,
+            "entrant2Id": 7601529,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Savo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7403983,
+            "loserId": 7601529,
+            "winnerName": "Meady",
+            "loserName": "Savo",
+            "bracketName": "Pools",
+            "bracketId": 1521928,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 698885,
+                    "playerTag": "Savo"
+                }
+            ]
+        },
+        {
+            "id": 38429506,
+            "entrant1Id": 7403983,
+            "entrant2Id": 7577167,
+            "entrant1Name": "Meady",
+            "entrant2Name": "PS | Ice",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7577167,
+            "loserId": 7403983,
+            "winnerName": "PS | Ice",
+            "loserName": "Meady",
+            "bracketName": "Top 8",
+            "bracketId": 1521947,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 38424474,
+            "entrant1Id": 7403983,
+            "entrant2Id": 7559452,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7403983,
+            "loserId": 7559452,
+            "winnerName": "Meady",
+            "loserName": "Laurster",
+            "bracketName": "Gold Bracket",
+            "bracketId": 1507305,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 38374502,
+            "entrant1Id": 7403983,
+            "entrant2Id": 7483130,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Reversii",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7403983,
+            "loserId": 7483130,
+            "winnerName": "Meady",
+            "loserName": "Reversii",
+            "bracketName": "Pools",
+            "bracketId": 1521928,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2000001,
+                    "playerTag": "Reversii"
+                }
+            ]
+        },
+        {
+            "id": 38429522,
+            "entrant1Id": 7403983,
+            "entrant2Id": 7398897,
+            "entrant1Name": "Meady",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7398897,
+            "loserId": 7403983,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Meady",
+            "bracketName": "Top 8",
+            "bracketId": 1521947,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 38429504,
+            "entrant1Id": 7398897,
+            "entrant2Id": 7403983,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Meady",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7403983,
+            "loserId": 7398897,
+            "winnerName": "Meady",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Top 8",
+            "bracketId": 1521947,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 38429504,
+            "entrant1Id": 7398897,
+            "entrant2Id": 7403983,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Meady",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7403983,
+            "loserId": 7398897,
+            "winnerName": "Meady",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Top 8",
+            "bracketId": 1521947,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 37559496,
+            "entrant1Id": 7275750,
+            "entrant2Id": 7370835,
+            "entrant1Name": "Meady",
+            "entrant2Name": "RestlessWhale",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7275750,
+            "loserId": 7370835,
+            "winnerName": "Meady",
+            "loserName": "RestlessWhale",
+            "bracketName": "Changing room",
+            "bracketId": 1487077,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11992,
+                    "playerTag": "RestlessWhale"
+                }
+            ]
+        },
+        {
+            "id": 37613511,
+            "entrant1Id": 7373026,
+            "entrant2Id": 7275750,
+            "entrant1Name": "max",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7373026,
+            "loserId": 7275750,
+            "winnerName": "max",
+            "loserName": "Meady",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 818697,
+                    "playerTag": "max"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 37559493,
+            "entrant1Id": 7275750,
+            "entrant2Id": 7335296,
+            "entrant1Name": "Meady",
+            "entrant2Name": "serket",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7275750,
+            "loserId": 7335296,
+            "winnerName": "Meady",
+            "loserName": "serket",
+            "bracketName": "Changing room",
+            "bracketId": 1487077,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 25754,
+                    "playerTag": "serket"
+                }
+            ]
+        },
+        {
+            "id": 37613507,
+            "entrant1Id": 7275750,
+            "entrant2Id": 7334671,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Velani",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7275750,
+            "loserId": 7334671,
+            "winnerName": "Meady",
+            "loserName": "Velani",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 517638,
+                    "playerTag": "Velani"
+                }
+            ]
+        },
+        {
+            "id": 37613381,
+            "entrant1Id": 7374537,
+            "entrant2Id": 7275750,
+            "entrant1Name": "PS | Ice",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7374537,
+            "loserId": 7275750,
+            "winnerName": "PS | Ice",
+            "loserName": "Meady",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 37613499,
+            "entrant1Id": 7275750,
+            "entrant2Id": 7364760,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Yogurt",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7275750,
+            "loserId": 7364760,
+            "winnerName": "Meady",
+            "loserName": "Yogurt",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 271486,
+                    "playerTag": "Yogurt"
+                }
+            ]
+        },
+        {
+            "id": 37559489,
+            "entrant1Id": 7275750,
+            "entrant2Id": 7375988,
+            "entrant1Name": "Meady",
+            "entrant2Name": "she/her | Scy2",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7275750,
+            "loserId": 7375988,
+            "winnerName": "Meady",
+            "loserName": "she/her | Scy2",
+            "bracketName": "Changing room",
+            "bracketId": 1487077,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1250804,
+                    "playerTag": "Scy2"
+                }
+            ]
+        },
+        {
+            "id": 37613369,
+            "entrant1Id": 7275750,
+            "entrant2Id": 7311712,
+            "entrant1Name": "Meady",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7275750,
+            "loserId": 7311712,
+            "winnerName": "Meady",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 37559485,
+            "entrant1Id": 7275750,
+            "entrant2Id": 7307442,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Nicky",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7275750,
+            "loserId": 7307442,
+            "winnerName": "Meady",
+            "loserName": "Nicky",
+            "bracketName": "Changing room",
+            "bracketId": 1487077,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1455020,
+                    "playerTag": "Nicky"
+                }
+            ]
+        },
+        {
+            "id": 37613344,
+            "entrant1Id": 7275750,
+            "entrant2Id": 7376547,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Raiden",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7275750,
+            "loserId": 7376547,
+            "winnerName": "Meady",
+            "loserName": "Raiden",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21773,
+                    "playerTag": "Raiden"
+                }
+            ]
+        },
+        {
+            "id": 36919300,
+            "entrant1Id": 7100813,
+            "entrant2Id": 7223397,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Lost Souls | GG",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7100813,
+            "loserId": 7223397,
+            "winnerName": "Meady",
+            "loserName": "Lost Souls | GG",
+            "bracketName": "Pools",
+            "bracketId": 1472600,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36947,
+                    "playerTag": "GG"
+                }
+            ]
+        },
+        {
+            "id": 36919297,
+            "entrant1Id": 7100813,
+            "entrant2Id": 7176124,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Exy-",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7100813,
+            "loserId": 7176124,
+            "winnerName": "Meady",
+            "loserName": "Exy-",
+            "bracketName": "Pools",
+            "bracketId": 1472600,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 508749,
+                    "playerTag": "Exy-"
+                }
+            ]
+        },
+        {
+            "id": 36954582,
+            "entrant1Id": 7207438,
+            "entrant2Id": 7100813,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Meady",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7100813,
+            "loserId": 7207438,
+            "winnerName": "Meady",
+            "loserName": "Mahie",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1488048,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 36919294,
+            "entrant1Id": 7100813,
+            "entrant2Id": 7219250,
+            "entrant1Name": "Meady",
+            "entrant2Name": "BFM | Chaler",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7100813,
+            "loserId": 7219250,
+            "winnerName": "Meady",
+            "loserName": "BFM | Chaler",
+            "bracketName": "Pools",
+            "bracketId": 1472600,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 127417,
+                    "playerTag": "Chaler"
+                }
+            ]
+        },
+        {
+            "id": 36955910,
+            "entrant1Id": 7100813,
+            "entrant2Id": 7149297,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Solobattle",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7149297,
+            "loserId": 7100813,
+            "winnerName": "Solobattle",
+            "loserName": "Meady",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 219891,
+                    "playerTag": "Solobattle"
+                }
+            ]
+        },
+        {
+            "id": 36954576,
+            "entrant1Id": 7100813,
+            "entrant2Id": 7229821,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Leeum",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7100813,
+            "loserId": 7229821,
+            "winnerName": "Meady",
+            "loserName": "Leeum",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1488048,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46170,
+                    "playerTag": "Leeum"
+                }
+            ]
+        },
+        {
+            "id": 36956037,
+            "entrant1Id": 7100813,
+            "entrant2Id": 7211902,
+            "entrant1Name": "Meady",
+            "entrant2Name": "abbearv",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7100813,
+            "loserId": 7211902,
+            "winnerName": "Meady",
+            "loserName": "abbearv",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1853889,
+                    "playerTag": "abbearv"
+                }
+            ]
+        },
+        {
+            "id": 36919291,
+            "entrant1Id": 7100813,
+            "entrant2Id": 7219720,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Metal Gear Salad",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7100813,
+            "loserId": 7219720,
+            "winnerName": "Meady",
+            "loserName": "Metal Gear Salad",
+            "bracketName": "Pools",
+            "bracketId": 1472600,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10014,
+                    "playerTag": "Metal Gear Salad"
+                }
+            ]
+        },
+        {
+            "id": 36955903,
+            "entrant1Id": 7209950,
+            "entrant2Id": 7100813,
+            "entrant1Name": "Renzo",
+            "entrant2Name": "Meady",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7100813,
+            "loserId": 7209950,
+            "winnerName": "Meady",
+            "loserName": "Renzo",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 329862,
+                    "playerTag": "Renzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 36919288,
+            "entrant1Id": 7100813,
+            "entrant2Id": 7216553,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Savo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7100813,
+            "loserId": 7216553,
+            "winnerName": "Meady",
+            "loserName": "Savo",
+            "bracketName": "Pools",
+            "bracketId": 1472600,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 698885,
+                    "playerTag": "Savo"
+                }
+            ]
+        },
+        {
+            "id": 36973185,
+            "entrant1Id": 7207438,
+            "entrant2Id": 7100813,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7207438,
+            "loserId": 7100813,
+            "winnerName": "Mahie",
+            "loserName": "Meady",
+            "bracketName": "Pro - Top 8",
+            "bracketId": 1472572,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 36298191,
+            "entrant1Id": 6918399,
+            "entrant2Id": 6946134,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Liax",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6918399,
+            "loserId": 6946134,
+            "winnerName": "Meady",
+            "loserName": "Liax",
+            "bracketName": "Pools",
+            "bracketId": 1470136,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 9653,
+                    "playerTag": "Liax"
+                }
+            ]
+        },
+        {
+            "id": 36298187,
+            "entrant1Id": 6918399,
+            "entrant2Id": 7061429,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Acke",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6918399,
+            "loserId": 7061429,
+            "winnerName": "Meady",
+            "loserName": "Acke",
+            "bracketName": "Pools",
+            "bracketId": 1470136,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 360715,
+                    "playerTag": "Acke"
+                }
+            ]
+        },
+        {
+            "id": 36298179,
+            "entrant1Id": 6918399,
+            "entrant2Id": 7062758,
+            "entrant1Name": "Meady",
+            "entrant2Name": "LazyyySloth",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6918399,
+            "loserId": 7062758,
+            "winnerName": "Meady",
+            "loserName": "LazyyySloth",
+            "bracketName": "Pools",
+            "bracketId": 1470136,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 664557,
+                    "playerTag": "LazyyySloth"
+                }
+            ]
+        },
+        {
+            "id": 36299116,
+            "entrant1Id": 7043948,
+            "entrant2Id": 6918399,
+            "entrant1Name": "SSP | Timi",
+            "entrant2Name": "Meady",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6918399,
+            "loserId": 7043948,
+            "winnerName": "Meady",
+            "loserName": "SSP | Timi",
+            "bracketName": "Top 96",
+            "bracketId": 1473244,
+            "entrant1Players": [
+                {
+                    "playerId": 6747,
+                    "playerTag": "Timi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 36298175,
+            "entrant1Id": 6918399,
+            "entrant2Id": 7062363,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Team Heir | Calzum",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6918399,
+            "loserId": 7062363,
+            "winnerName": "Meady",
+            "loserName": "Team Heir | Calzum",
+            "bracketName": "Pools",
+            "bracketId": 1470136,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12341,
+                    "playerTag": "Calzum"
+                }
+            ]
+        },
+        {
+            "id": 36299110,
+            "entrant1Id": 6918399,
+            "entrant2Id": 7013860,
+            "entrant1Name": "Meady",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6918399,
+            "loserId": 7013860,
+            "winnerName": "Meady",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Top 96",
+            "bracketId": 1473244,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 36298171,
+            "entrant1Id": 6918399,
+            "entrant2Id": 6933427,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Jontpan",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6918399,
+            "loserId": 6933427,
+            "winnerName": "Meady",
+            "loserName": "Jontpan",
+            "bracketName": "Pools",
+            "bracketId": 1470136,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2183471,
+                    "playerTag": "Jontpan"
+                }
+            ]
+        },
+        {
+            "id": 36300339,
+            "entrant1Id": 7033060,
+            "entrant2Id": 6918399,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7033060,
+            "loserId": 6918399,
+            "winnerName": "Levingy",
+            "loserName": "Meady",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 36300212,
+            "entrant1Id": 6920817,
+            "entrant2Id": 6918399,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6920817,
+            "loserId": 6918399,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Meady",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 36298167,
+            "entrant1Id": 6918399,
+            "entrant2Id": 6918870,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Luka",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6918399,
+            "loserId": 6918870,
+            "winnerName": "Meady",
+            "loserName": "Luka",
+            "bracketName": "Pools",
+            "bracketId": 1470136,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1753392,
+                    "playerTag": "Luka"
+                }
+            ]
+        },
+        {
+            "id": 36300332,
+            "entrant1Id": 6918399,
+            "entrant2Id": 6918507,
+            "entrant1Name": "Meady",
+            "entrant2Name": "max",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6918399,
+            "loserId": 6918507,
+            "winnerName": "Meady",
+            "loserName": "max",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 818697,
+                    "playerTag": "max"
+                }
+            ]
+        },
+        {
+            "id": 35641722,
+            "entrant1Id": 6772185,
+            "entrant2Id": 6794901,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Nettpartner | Gabe",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6794901,
+            "loserId": 6772185,
+            "winnerName": "Nettpartner | Gabe",
+            "loserName": "Meady",
+            "bracketName": "Pools",
+            "bracketId": 1458031,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 231181,
+                    "playerTag": "Gabe"
+                }
+            ]
+        },
+        {
+            "id": 35641718,
+            "entrant1Id": 6772185,
+            "entrant2Id": 6864078,
+            "entrant1Name": "Meady",
+            "entrant2Name": "De Klok | PT",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6772185,
+            "loserId": 6864078,
+            "winnerName": "Meady",
+            "loserName": "De Klok | PT",
+            "bracketName": "Pools",
+            "bracketId": 1458031,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 138775,
+                    "playerTag": "Paytay"
+                }
+            ]
+        },
+        {
+            "id": 35641714,
+            "entrant1Id": 6772185,
+            "entrant2Id": 6783400,
+            "entrant1Name": "Meady",
+            "entrant2Name": "CC",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6772185,
+            "loserId": 6783400,
+            "winnerName": "Meady",
+            "loserName": "CC",
+            "bracketName": "Pools",
+            "bracketId": 1458031,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 148848,
+                    "playerTag": "CC"
+                }
+            ]
+        },
+        {
+            "id": 35641710,
+            "entrant1Id": 6772185,
+            "entrant2Id": 6772739,
+            "entrant1Name": "Meady",
+            "entrant2Name": "ILikeTurtles",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6772185,
+            "loserId": 6772739,
+            "winnerName": "Meady",
+            "loserName": "ILikeTurtles",
+            "bracketName": "Pools",
+            "bracketId": 1458031,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 318564,
+                    "playerTag": "ILikeTurtles"
+                }
+            ]
+        },
+        {
+            "id": 35642683,
+            "entrant1Id": 6775840,
+            "entrant2Id": 6772185,
+            "entrant1Name": "Jeapie",
+            "entrant2Name": "Meady",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6775840,
+            "loserId": 6772185,
+            "winnerName": "Jeapie",
+            "loserName": "Meady",
+            "bracketName": "Top 96",
+            "bracketId": 1458611,
+            "entrant1Players": [
+                {
+                    "playerId": 5124,
+                    "playerTag": "Jeapie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 35642791,
+            "entrant1Id": 6772185,
+            "entrant2Id": 6772416,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Mezzy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6772185,
+            "loserId": 6772416,
+            "winnerName": "Meady",
+            "loserName": "Mezzy",
+            "bracketName": "Top 96",
+            "bracketId": 1458611,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 323610,
+                    "playerTag": "Mezzy"
+                }
+            ]
+        },
+        {
+            "id": 35641702,
+            "entrant1Id": 6772185,
+            "entrant2Id": 6899789,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Heketzu",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6772185,
+            "loserId": 6899789,
+            "winnerName": "Meady",
+            "loserName": "Heketzu",
+            "bracketName": "Pools",
+            "bracketId": 1458031,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26433,
+                    "playerTag": "Heketzu"
+                }
+            ]
+        },
+        {
+            "id": 35642662,
+            "entrant1Id": 6772185,
+            "entrant2Id": 6880695,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Fekah",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6772185,
+            "loserId": 6880695,
+            "winnerName": "Meady",
+            "loserName": "Fekah",
+            "bracketName": "Top 96",
+            "bracketId": 1458611,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 34310,
+                    "playerTag": "Fekah"
+                }
+            ]
+        },
+        {
+            "id": 35641698,
+            "entrant1Id": 6772185,
+            "entrant2Id": 6792582,
+            "entrant1Name": "Meady",
+            "entrant2Name": "CasteHappy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6772185,
+            "loserId": 6792582,
+            "winnerName": "Meady",
+            "loserName": "CasteHappy",
+            "bracketName": "Pools",
+            "bracketId": 1458031,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47816,
+                    "playerTag": "CasteHappy"
+                }
+            ]
+        },
+        {
+            "id": 35644210,
+            "entrant1Id": 6880137,
+            "entrant2Id": 6772185,
+            "entrant1Name": "Calle W",
+            "entrant2Name": "Meady",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6772185,
+            "loserId": 6880137,
+            "winnerName": "Meady",
+            "loserName": "Calle W",
+            "bracketName": "Top 64",
+            "bracketId": 1458612,
+            "entrant1Players": [
+                {
+                    "playerId": 36562,
+                    "playerTag": "Calle W"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 35644194,
+            "entrant1Id": 6772185,
+            "entrant2Id": 6776451,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Pixel",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6772185,
+            "loserId": 6776451,
+            "winnerName": "Meady",
+            "loserName": "Pixel",
+            "bracketName": "Top 64",
+            "bracketId": 1458612,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 137323,
+                    "playerTag": "Pixel"
+                }
+            ]
+        },
+        {
+            "id": 35644492,
+            "entrant1Id": 6772185,
+            "entrant2Id": 6890230,
+            "entrant1Name": "Meady",
+            "entrant2Name": "SSP | Timi",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6890230,
+            "loserId": 6772185,
+            "winnerName": "SSP | Timi",
+            "loserName": "Meady",
+            "bracketName": "Top 32",
+            "bracketId": 1458614,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6747,
+                    "playerTag": "Timi"
+                }
+            ]
+        },
+        {
+            "id": 34992963,
+            "entrant1Id": 6649578,
+            "entrant2Id": 6649829,
+            "entrant1Name": "Meady",
+            "entrant2Name": "PSG | Madness",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649578,
+            "loserId": 6649829,
+            "winnerName": "Meady",
+            "loserName": "PSG | Madness",
+            "bracketName": "Pools",
+            "bracketId": 1438920,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 896272,
+                    "playerTag": "Madness"
+                }
+            ]
+        },
+        {
+            "id": 34992959,
+            "entrant1Id": 6649578,
+            "entrant2Id": 6672978,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Veldor",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649578,
+            "loserId": 6672978,
+            "winnerName": "Meady",
+            "loserName": "Veldor",
+            "bracketName": "Pools",
+            "bracketId": 1438920,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 364406,
+                    "playerTag": "Veldor"
+                }
+            ]
+        },
+        {
+            "id": 34992953,
+            "entrant1Id": 6649578,
+            "entrant2Id": 6731976,
+            "entrant1Name": "Meady",
+            "entrant2Name": "enfy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649578,
+            "loserId": 6731976,
+            "winnerName": "Meady",
+            "loserName": "enfy",
+            "bracketName": "Pools",
+            "bracketId": 1438920,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 522221,
+                    "playerTag": "enfy"
+                }
+            ]
+        },
+        {
+            "id": 34996717,
+            "entrant1Id": 6732775,
+            "entrant2Id": 6649578,
+            "entrant1Name": "skullbro",
+            "entrant2Name": "Meady",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6649578,
+            "loserId": 6732775,
+            "winnerName": "Meady",
+            "loserName": "skullbro",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 34992946,
+            "entrant1Id": 6649578,
+            "entrant2Id": 6729831,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Towel",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649578,
+            "loserId": 6729831,
+            "winnerName": "Meady",
+            "loserName": "Towel",
+            "bracketName": "Pools",
+            "bracketId": 1438920,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 315859,
+                    "playerTag": "Towel"
+                }
+            ]
+        },
+        {
+            "id": 34996687,
+            "entrant1Id": 6649578,
+            "entrant2Id": 6649638,
+            "entrant1Name": "Meady",
+            "entrant2Name": "PT",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649578,
+            "loserId": 6649638,
+            "winnerName": "Meady",
+            "loserName": "PT",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 138775,
+                    "playerTag": "Paytay"
+                }
+            ]
+        },
+        {
+            "id": 34998299,
+            "entrant1Id": 6649949,
+            "entrant2Id": 6649578,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649949,
+            "loserId": 6649578,
+            "winnerName": "TSM | Leffen",
+            "loserName": "Meady",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 34996626,
+            "entrant1Id": 6649578,
+            "entrant2Id": 6718415,
+            "entrant1Name": "Meady",
+            "entrant2Name": "SFG | | MadeInShineA",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649578,
+            "loserId": 6718415,
+            "winnerName": "Meady",
+            "loserName": "SFG | | MadeInShineA",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 484677,
+                    "playerTag": "MadeInShineA"
+                }
+            ]
+        },
+        {
+            "id": 34998363,
+            "entrant1Id": 6649578,
+            "entrant2Id": 6679306,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Niklas2912",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6679306,
+            "loserId": 6649578,
+            "winnerName": "Niklas2912",
+            "loserName": "Meady",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23781,
+                    "playerTag": "Niklas2912"
+                }
+            ]
+        },
+        {
+            "id": 42573180,
+            "entrant1Id": 8713927,
+            "entrant2Id": 4698716,
+            "entrant1Name": "Meady",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 4698716,
+            "loserId": 8713927,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Meady",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 42572924,
+            "entrant1Id": 8713927,
+            "entrant2Id": 4487359,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 4487359,
+            "loserId": 8713927,
+            "winnerName": "Professor Pro",
+            "loserName": "Meady",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 42573178,
+            "entrant1Id": 8713927,
+            "entrant2Id": 4728822,
+            "entrant1Name": "Meady",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8713927,
+            "loserId": 4728822,
+            "winnerName": "Meady",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 42572921,
+            "entrant1Id": 4485012,
+            "entrant2Id": 8713927,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Meady",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8713927,
+            "loserId": 4485012,
+            "winnerName": "Meady",
+            "loserName": "Frenzy",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 42517399,
+            "entrant1Id": 8713927,
+            "entrant2Id": 8603510,
+            "entrant1Name": "Meady",
+            "entrant2Name": "M.I.C.H.A.E.L",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8713927,
+            "loserId": 8603510,
+            "winnerName": "Meady",
+            "loserName": "M.I.C.H.A.E.L",
+            "bracketName": "Pools",
+            "bracketId": 1234673,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1914828,
+                    "playerTag": "M.I.C.H.A.E.L"
+                }
+            ]
+        },
+        {
+            "id": 42572916,
+            "entrant1Id": 4349523,
+            "entrant2Id": 8713927,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "Meady",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8713927,
+            "loserId": 4349523,
+            "winnerName": "Meady",
+            "loserName": "PS | Mahie",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 42517397,
+            "entrant1Id": 8713927,
+            "entrant2Id": 4757955,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Sabreur",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8713927,
+            "loserId": 4757955,
+            "winnerName": "Meady",
+            "loserName": "Sabreur",
+            "bracketName": "Pools",
+            "bracketId": 1234673,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1690235,
+                    "playerTag": "Sabreur"
+                }
+            ]
+        },
+        {
+            "id": 42572906,
+            "entrant1Id": 8713927,
+            "entrant2Id": 8454239,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Parsec",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8713927,
+            "loserId": 8454239,
+            "winnerName": "Meady",
+            "loserName": "Parsec",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54535,
+                    "playerTag": "Parsec"
+                }
+            ]
+        },
+        {
+            "id": 42517395,
+            "entrant1Id": 8713927,
+            "entrant2Id": 8476601,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Mehdi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8713927,
+            "loserId": 8476601,
+            "winnerName": "Meady",
+            "loserName": "Mehdi",
+            "bracketName": "Pools",
+            "bracketId": 1234673,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2110710,
+                    "playerTag": "Mehdi"
+                }
+            ]
+        },
+        {
+            "id": 42572885,
+            "entrant1Id": 8713927,
+            "entrant2Id": 4380966,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Kebabman13",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8713927,
+            "loserId": 4380966,
+            "winnerName": "Meady",
+            "loserName": "Kebabman13",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 414244,
+                    "playerTag": "Kebabman13"
+                }
+            ]
+        },
+        {
+            "id": 42517393,
+            "entrant1Id": 8713927,
+            "entrant2Id": 8485361,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Cero",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8713927,
+            "loserId": 8485361,
+            "winnerName": "Meady",
+            "loserName": "Cero",
+            "bracketName": "Pools",
+            "bracketId": 1234673,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1519396,
+                    "playerTag": "Cero"
+                }
+            ]
+        },
+        {
+            "id": 42572843,
+            "entrant1Id": 8713927,
+            "entrant2Id": 8593638,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Klemes",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8713927,
+            "loserId": 8593638,
+            "winnerName": "Meady",
+            "loserName": "Klemes",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54663,
+                    "playerTag": "Klemes"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "rikzz",
+        "senx",
+        "senx",
+        "raoul",
+        "timi",
+        "steff$",
+        "laurster",
+        "frenzy",
+        "frenzy",
+        "velani",
+        "yogurt",
+        "shiftingshadows",
+        "raiden",
+        "gg",
+        "mahie",
+        "abbearv",
+        "renzo",
+        "liax",
+        "timi",
+        "shiftingshadows",
+        "max",
+        "skullbro",
+        "rikzz",
+        "frenzy",
+        "mahie",
+        "parsec"
+    ],
+    "L": [
+        "fat tino",
+        "trif",
+        "nicki",
+        "kins0",
+        "levingy",
+        "professor pro",
+        "kins0",
+        "trif",
+        "frenzy",
+        "solobattle",
+        "frenzy",
+        "jah ridin'",
+        "abbearv",
+        "skullbro",
+        "sharp",
+        "kingu",
+        "Aiika",
+        "jamie",
+        "trif",
+        "ice",
+        "frenzy",
+        "max",
+        "ice",
+        "solobattle",
+        "mahie",
+        "levingy",
+        "frenzy",
+        "Gabe",
+        "jeapie",
+        "timi",
+        "leffen",
+        "niklas2912",
+        "kins0",
+        "professor pro"
+    ]
+}

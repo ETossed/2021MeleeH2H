@@ -1,0 +1,2444 @@
+{
+    "Events": [
+        572809,
+        550396,
+        545157,
+        550373,
+        543662,
+        554988,
+        550163,
+        541113
+    ],
+    "Sets": [
+        {
+            "id": 37245175,
+            "entrant1Id": 7265717,
+            "entrant2Id": 7265678,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7265717,
+            "loserId": 7265678,
+            "winnerName": "Levingy",
+            "loserName": "Meady",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 37245170,
+            "entrant1Id": 7265717,
+            "entrant2Id": 7265713,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265713,
+            "loserId": 7265717,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Levingy",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 37245165,
+            "entrant1Id": 7265677,
+            "entrant2Id": 7265717,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265677,
+            "loserId": 7265717,
+            "winnerName": "PS | Trif",
+            "loserName": "Levingy",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 37245162,
+            "entrant1Id": 7265714,
+            "entrant2Id": 7265717,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7265714,
+            "loserId": 7265717,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Levingy",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 37245156,
+            "entrant1Id": 7265691,
+            "entrant2Id": 7265717,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265691,
+            "loserId": 7265717,
+            "winnerName": "Professor Pro",
+            "loserName": "Levingy",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 37245152,
+            "entrant1Id": 7265717,
+            "entrant2Id": 7265738,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265738,
+            "loserId": 7265717,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Levingy",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 37282894,
+            "entrant1Id": 7265733,
+            "entrant2Id": 7265717,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265733,
+            "loserId": 7265717,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Levingy",
+            "bracketName": "Bracket",
+            "bracketId": 1490266,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 37282890,
+            "entrant1Id": 7265742,
+            "entrant2Id": 7265717,
+            "entrant1Name": "Fuzzyness",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265717,
+            "loserId": 7265742,
+            "winnerName": "Levingy",
+            "loserName": "Fuzzyness",
+            "bracketName": "Bracket",
+            "bracketId": 1490266,
+            "entrant1Players": [
+                {
+                    "playerId": 6103,
+                    "playerTag": "Fuzzyness"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 40800797,
+            "entrant1Id": 8281538,
+            "entrant2Id": 8328926,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Liax",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8281538,
+            "loserId": 8328926,
+            "winnerName": "Levingy",
+            "loserName": "Liax",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554137,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 9653,
+                    "playerTag": "Liax"
+                }
+            ]
+        },
+        {
+            "id": 40800794,
+            "entrant1Id": 8281538,
+            "entrant2Id": 8127843,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "ILikeTurtles",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8281538,
+            "loserId": 8127843,
+            "winnerName": "Levingy",
+            "loserName": "ILikeTurtles",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554137,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 318564,
+                    "playerTag": "ILikeTurtles"
+                }
+            ]
+        },
+        {
+            "id": 40800791,
+            "entrant1Id": 8281538,
+            "entrant2Id": 8294123,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "BANGBANG",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8281538,
+            "loserId": 8294123,
+            "winnerName": "Levingy",
+            "loserName": "BANGBANG",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554137,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 241072,
+                    "playerTag": "BANGBANG"
+                }
+            ]
+        },
+        {
+            "id": 40863697,
+            "entrant1Id": 8127438,
+            "entrant2Id": 8281538,
+            "entrant1Name": "Sharp",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8127438,
+            "loserId": 8281538,
+            "winnerName": "Sharp",
+            "loserName": "Levingy",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 40800788,
+            "entrant1Id": 8281538,
+            "entrant2Id": 8330765,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Sali",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8281538,
+            "loserId": 8330765,
+            "winnerName": "Levingy",
+            "loserName": "Sali",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554137,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1879898,
+                    "playerTag": "Sali"
+                }
+            ]
+        },
+        {
+            "id": 40863693,
+            "entrant1Id": 8281538,
+            "entrant2Id": 8340310,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Raptori",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8281538,
+            "loserId": 8340310,
+            "winnerName": "Levingy",
+            "loserName": "Raptori",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 148278,
+                    "playerTag": "Raptori"
+                }
+            ]
+        },
+        {
+            "id": 40863564,
+            "entrant1Id": 8281538,
+            "entrant2Id": 8325848,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8325848,
+            "loserId": 8281538,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Levingy",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 40863686,
+            "entrant1Id": 8281538,
+            "entrant2Id": 8126767,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Noxxa",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8281538,
+            "loserId": 8126767,
+            "winnerName": "Levingy",
+            "loserName": "Noxxa",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 283651,
+                    "playerTag": "Noxxa"
+                }
+            ]
+        },
+        {
+            "id": 40800785,
+            "entrant1Id": 8281538,
+            "entrant2Id": 8205343,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Metony",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8281538,
+            "loserId": 8205343,
+            "winnerName": "Levingy",
+            "loserName": "Metony",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554137,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2207927,
+                    "playerTag": "Metony"
+                }
+            ]
+        },
+        {
+            "id": 40863549,
+            "entrant1Id": 8281538,
+            "entrant2Id": 8333218,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Psylo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8281538,
+            "loserId": 8333218,
+            "winnerName": "Levingy",
+            "loserName": "Psylo",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 233945,
+                    "playerTag": "Psylo"
+                }
+            ]
+        },
+        {
+            "id": 40800782,
+            "entrant1Id": 8281538,
+            "entrant2Id": 8341540,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "blud | bloodrat",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8281538,
+            "loserId": 8341540,
+            "winnerName": "Levingy",
+            "loserName": "blud | bloodrat",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554137,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2454277,
+                    "playerTag": "bloodrat"
+                }
+            ]
+        },
+        {
+            "id": 39836910,
+            "entrant1Id": 8081977,
+            "entrant2Id": 8076827,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081977,
+            "loserId": 8076827,
+            "winnerName": "Levingy",
+            "loserName": "Mahie",
+            "bracketName": "Round Robin",
+            "bracketId": 1557213,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 39836906,
+            "entrant1Id": 8081977,
+            "entrant2Id": 8085341,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Smarted",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081977,
+            "loserId": 8085341,
+            "winnerName": "Levingy",
+            "loserName": "Smarted",
+            "bracketName": "Round Robin",
+            "bracketId": 1557213,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1512859,
+                    "playerTag": "Smarted"
+                }
+            ]
+        },
+        {
+            "id": 39836902,
+            "entrant1Id": 8081977,
+            "entrant2Id": 8011083,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Glaikit",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081977,
+            "loserId": 8011083,
+            "winnerName": "Levingy",
+            "loserName": "Glaikit",
+            "bracketName": "Round Robin",
+            "bracketId": 1557213,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30631,
+                    "playerTag": "Glaikit"
+                }
+            ]
+        },
+        {
+            "id": 39886572,
+            "entrant1Id": 8030590,
+            "entrant2Id": 8081977,
+            "entrant1Name": "MINT",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8030590,
+            "loserId": 8081977,
+            "winnerName": "MINT",
+            "loserName": "Levingy",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 128932,
+                    "playerTag": "MINT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 39836898,
+            "entrant1Id": 8081977,
+            "entrant2Id": 8016516,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "BANGBANG",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081977,
+            "loserId": 8016516,
+            "winnerName": "Levingy",
+            "loserName": "BANGBANG",
+            "bracketName": "Round Robin",
+            "bracketId": 1557213,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 241072,
+                    "playerTag": "BANGBANG"
+                }
+            ]
+        },
+        {
+            "id": 39886570,
+            "entrant1Id": 8076827,
+            "entrant2Id": 8081977,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8081977,
+            "loserId": 8076827,
+            "winnerName": "Levingy",
+            "loserName": "Mahie",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 39886506,
+            "entrant1Id": 8083811,
+            "entrant2Id": 8081977,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8083811,
+            "loserId": 8081977,
+            "winnerName": "Professor Pro",
+            "loserName": "Levingy",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 39886568,
+            "entrant1Id": 8081977,
+            "entrant2Id": 8076040,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8081977,
+            "loserId": 8076040,
+            "winnerName": "Levingy",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 39836894,
+            "entrant1Id": 8081977,
+            "entrant2Id": 8081701,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Grothagt",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081977,
+            "loserId": 8081701,
+            "winnerName": "Levingy",
+            "loserName": "Grothagt",
+            "bracketName": "Round Robin",
+            "bracketId": 1557213,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1973371,
+                    "playerTag": "Grothagt"
+                }
+            ]
+        },
+        {
+            "id": 39886501,
+            "entrant1Id": 8081977,
+            "entrant2Id": 7996613,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Sharp",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8081977,
+            "loserId": 7996613,
+            "winnerName": "Levingy",
+            "loserName": "Sharp",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ]
+        },
+        {
+            "id": 39836890,
+            "entrant1Id": 8081977,
+            "entrant2Id": 8089714,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Bokk",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081977,
+            "loserId": 8089714,
+            "winnerName": "Levingy",
+            "loserName": "Bokk",
+            "bracketName": "Round Robin",
+            "bracketId": 1557213,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 191913,
+                    "playerTag": "Bokk"
+                }
+            ]
+        },
+        {
+            "id": 39886490,
+            "entrant1Id": 8081977,
+            "entrant2Id": 8098192,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Juice",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081977,
+            "loserId": 8098192,
+            "winnerName": "Levingy",
+            "loserName": "Juice",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2268844,
+                    "playerTag": "Juice"
+                }
+            ]
+        },
+        {
+            "id": 39836886,
+            "entrant1Id": 8081977,
+            "entrant2Id": 8096341,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Fizzle",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081977,
+            "loserId": 8096341,
+            "winnerName": "Levingy",
+            "loserName": "Fizzle",
+            "bracketName": "Round Robin",
+            "bracketId": 1557213,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2040983,
+                    "playerTag": "Fizzle"
+                }
+            ]
+        },
+        {
+            "id": 39272682,
+            "entrant1Id": 7896361,
+            "entrant2Id": 7943563,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7896361,
+            "loserId": 7943563,
+            "winnerName": "Levingy",
+            "loserName": "Jamie",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545569,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 39272678,
+            "entrant1Id": 7896361,
+            "entrant2Id": 7942568,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Psylo",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7896361,
+            "loserId": 7942568,
+            "winnerName": "Levingy",
+            "loserName": "Psylo",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545569,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 233945,
+                    "playerTag": "Psylo"
+                }
+            ]
+        },
+        {
+            "id": 39272674,
+            "entrant1Id": 7896361,
+            "entrant2Id": 7942588,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Jormis",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7896361,
+            "loserId": 7942588,
+            "winnerName": "Levingy",
+            "loserName": "Jormis",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545569,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 688393,
+                    "playerTag": "Jormis"
+                }
+            ]
+        },
+        {
+            "id": 39272670,
+            "entrant1Id": 7896361,
+            "entrant2Id": 7901699,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Kalua",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7896361,
+            "loserId": 7901699,
+            "winnerName": "Levingy",
+            "loserName": "Kalua",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545569,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 139595,
+                    "playerTag": "Kalua"
+                }
+            ]
+        },
+        {
+            "id": 39317105,
+            "entrant1Id": 7724227,
+            "entrant2Id": 7896361,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7724227,
+            "loserId": 7896361,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Levingy",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 39317097,
+            "entrant1Id": 7636925,
+            "entrant2Id": 7896361,
+            "entrant1Name": "CW | Noxxa",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7896361,
+            "loserId": 7636925,
+            "winnerName": "Levingy",
+            "loserName": "CW | Noxxa",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 283651,
+                    "playerTag": "Noxxa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 39316976,
+            "entrant1Id": 7896361,
+            "entrant2Id": 7957794,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "ISTE | Dr. Essmann",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7957794,
+            "loserId": 7896361,
+            "winnerName": "ISTE | Dr. Essmann",
+            "loserName": "Levingy",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ]
+        },
+        {
+            "id": 39317084,
+            "entrant1Id": 7896361,
+            "entrant2Id": 7947781,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "PS | kenshu",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7896361,
+            "loserId": 7947781,
+            "winnerName": "Levingy",
+            "loserName": "PS | kenshu",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2160310,
+                    "playerTag": "kenshu"
+                }
+            ]
+        },
+        {
+            "id": 39272662,
+            "entrant1Id": 7896361,
+            "entrant2Id": 7952122,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "royu",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7896361,
+            "loserId": 7952122,
+            "winnerName": "Levingy",
+            "loserName": "royu",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545569,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2186243,
+                    "playerTag": "royu"
+                }
+            ]
+        },
+        {
+            "id": 36912428,
+            "entrant1Id": 7196631,
+            "entrant2Id": 7211327,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Team Jasmin | yung Ullrich",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7196631,
+            "loserId": 7211327,
+            "winnerName": "Levingy",
+            "loserName": "Team Jasmin | yung Ullrich",
+            "bracketName": "Pools",
+            "bracketId": 1472589,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5767,
+                    "playerTag": "yung Ullrich"
+                }
+            ]
+        },
+        {
+            "id": 36912425,
+            "entrant1Id": 7196631,
+            "entrant2Id": 7199261,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Dennis",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7196631,
+            "loserId": 7199261,
+            "winnerName": "Levingy",
+            "loserName": "Dennis",
+            "bracketName": "Pools",
+            "bracketId": 1472589,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44705,
+                    "playerTag": "Dennis"
+                }
+            ]
+        },
+        {
+            "id": 36951725,
+            "entrant1Id": 7196631,
+            "entrant2Id": 7169778,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Kingu",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7196631,
+            "loserId": 7169778,
+            "winnerName": "Levingy",
+            "loserName": "Kingu",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1472570,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1400299,
+                    "playerTag": "Kingu"
+                }
+            ]
+        },
+        {
+            "id": 36912422,
+            "entrant1Id": 7196631,
+            "entrant2Id": 7173803,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "EvilS | Mirko",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7196631,
+            "loserId": 7173803,
+            "winnerName": "Levingy",
+            "loserName": "EvilS | Mirko",
+            "bracketName": "Pools",
+            "bracketId": 1472589,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 438125,
+                    "playerTag": "Mirko"
+                }
+            ]
+        },
+        {
+            "id": 36973174,
+            "entrant1Id": 7196631,
+            "entrant2Id": 7094605,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7094605,
+            "loserId": 7196631,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Levingy",
+            "bracketName": "Pro - Top 8",
+            "bracketId": 1472572,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 36955909,
+            "entrant1Id": 7121353,
+            "entrant2Id": 7196631,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7196631,
+            "loserId": 7121353,
+            "winnerName": "Levingy",
+            "loserName": "PS | Trif",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 36951720,
+            "entrant1Id": 7196631,
+            "entrant2Id": 7225265,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "KGSwe | Muren",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7196631,
+            "loserId": 7225265,
+            "winnerName": "Levingy",
+            "loserName": "KGSwe | Muren",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1472570,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 850472,
+                    "playerTag": "Muren"
+                }
+            ]
+        },
+        {
+            "id": 36912419,
+            "entrant1Id": 7196631,
+            "entrant2Id": 7094128,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "DJ PJ757",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7196631,
+            "loserId": 7094128,
+            "winnerName": "Levingy",
+            "loserName": "DJ PJ757",
+            "bracketName": "Pools",
+            "bracketId": 1472589,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 33685,
+                    "playerTag": "DJ PJ757"
+                }
+            ]
+        },
+        {
+            "id": 36973190,
+            "entrant1Id": 7196631,
+            "entrant2Id": 7149297,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Solobattle",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7149297,
+            "loserId": 7196631,
+            "winnerName": "Solobattle",
+            "loserName": "Levingy",
+            "bracketName": "Pro - Top 8",
+            "bracketId": 1472572,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 219891,
+                    "playerTag": "Solobattle"
+                }
+            ]
+        },
+        {
+            "id": 36973172,
+            "entrant1Id": 7196631,
+            "entrant2Id": 7149297,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Solobattle",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7196631,
+            "loserId": 7149297,
+            "winnerName": "Levingy",
+            "loserName": "Solobattle",
+            "bracketName": "Pro - Top 8",
+            "bracketId": 1472572,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 219891,
+                    "playerTag": "Solobattle"
+                }
+            ]
+        },
+        {
+            "id": 36955902,
+            "entrant1Id": 7100219,
+            "entrant2Id": 7196631,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7196631,
+            "loserId": 7100219,
+            "winnerName": "Levingy",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 36912416,
+            "entrant1Id": 7196631,
+            "entrant2Id": 7227810,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Phoenix | CRUNGO",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7196631,
+            "loserId": 7227810,
+            "winnerName": "Levingy",
+            "loserName": "Phoenix | CRUNGO",
+            "bracketName": "Pools",
+            "bracketId": 1472589,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22738,
+                    "playerTag": "CRUNGO"
+                }
+            ]
+        },
+        {
+            "id": 36297441,
+            "entrant1Id": 7033060,
+            "entrant2Id": 7014850,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "nebbii",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7033060,
+            "loserId": 7014850,
+            "winnerName": "Levingy",
+            "loserName": "nebbii",
+            "bracketName": "Pools",
+            "bracketId": 1470127,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5736,
+                    "playerTag": "nebbii"
+                }
+            ]
+        },
+        {
+            "id": 36297433,
+            "entrant1Id": 7033060,
+            "entrant2Id": 6931566,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Askeflink",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7033060,
+            "loserId": 6931566,
+            "winnerName": "Levingy",
+            "loserName": "Askeflink",
+            "bracketName": "Pools",
+            "bracketId": 1470127,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4916,
+                    "playerTag": "Askeflink"
+                }
+            ]
+        },
+        {
+            "id": 36297421,
+            "entrant1Id": 7033060,
+            "entrant2Id": 7062135,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Wolf | Wolf",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7033060,
+            "loserId": 7062135,
+            "winnerName": "Levingy",
+            "loserName": "Wolf | Wolf",
+            "bracketName": "Pools",
+            "bracketId": 1470127,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1011533,
+                    "playerTag": "Wolf | Wolf"
+                }
+            ]
+        },
+        {
+            "id": 36299023,
+            "entrant1Id": 7033060,
+            "entrant2Id": 6977439,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "skullbro",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6977439,
+            "loserId": 7033060,
+            "winnerName": "skullbro",
+            "loserName": "Levingy",
+            "bracketName": "Top 96",
+            "bracketId": 1473243,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ]
+        },
+        {
+            "id": 36299018,
+            "entrant1Id": 7033060,
+            "entrant2Id": 6971633,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "MINT",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7033060,
+            "loserId": 6971633,
+            "winnerName": "Levingy",
+            "loserName": "MINT",
+            "bracketName": "Top 96",
+            "bracketId": 1473243,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 128932,
+                    "playerTag": "MINT"
+                }
+            ]
+        },
+        {
+            "id": 36297407,
+            "entrant1Id": 7033060,
+            "entrant2Id": 7063527,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "juelz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7033060,
+            "loserId": 7063527,
+            "winnerName": "Levingy",
+            "loserName": "juelz",
+            "bracketName": "Pools",
+            "bracketId": 1470127,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12543,
+                    "playerTag": "juelz"
+                }
+            ]
+        },
+        {
+            "id": 36300339,
+            "entrant1Id": 7033060,
+            "entrant2Id": 6918399,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7033060,
+            "loserId": 6918399,
+            "winnerName": "Levingy",
+            "loserName": "Meady",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 36300331,
+            "entrant1Id": 6929369,
+            "entrant2Id": 7033060,
+            "entrant1Name": "RedBlaze",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7033060,
+            "loserId": 6929369,
+            "winnerName": "Levingy",
+            "loserName": "RedBlaze",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 39225,
+                    "playerTag": "RedBlaze"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 36300323,
+            "entrant1Id": 7033060,
+            "entrant2Id": 7062637,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "NinjagoFan72",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7033060,
+            "loserId": 7062637,
+            "winnerName": "Levingy",
+            "loserName": "NinjagoFan72",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46448,
+                    "playerTag": "NinjagoFan72"
+                }
+            ]
+        },
+        {
+            "id": 36302137,
+            "entrant1Id": 7033060,
+            "entrant2Id": 6941252,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "CGN | Nicki",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6941252,
+            "loserId": 7033060,
+            "winnerName": "CGN | Nicki",
+            "loserName": "Levingy",
+            "bracketName": "Top 8",
+            "bracketId": 1473245,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ]
+        },
+        {
+            "id": 36300307,
+            "entrant1Id": 7033060,
+            "entrant2Id": 6929396,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Kingu",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7033060,
+            "loserId": 6929396,
+            "winnerName": "Levingy",
+            "loserName": "Kingu",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1400299,
+                    "playerTag": "Kingu"
+                }
+            ]
+        },
+        {
+            "id": 35641666,
+            "entrant1Id": 6782640,
+            "entrant2Id": 6893584,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Bose",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6782640,
+            "loserId": 6893584,
+            "winnerName": "Levingy",
+            "loserName": "Bose",
+            "bracketName": "Pools",
+            "bracketId": 1458025,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37209,
+                    "playerTag": "Bose"
+                }
+            ]
+        },
+        {
+            "id": 35641662,
+            "entrant1Id": 6782640,
+            "entrant2Id": 6898845,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Axarth",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6782640,
+            "loserId": 6898845,
+            "winnerName": "Levingy",
+            "loserName": "Axarth",
+            "bracketName": "Pools",
+            "bracketId": 1458025,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 153926,
+                    "playerTag": "Axarth"
+                }
+            ]
+        },
+        {
+            "id": 35641658,
+            "entrant1Id": 6782640,
+            "entrant2Id": 6853725,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Jormis",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6782640,
+            "loserId": 6853725,
+            "winnerName": "Levingy",
+            "loserName": "Jormis",
+            "bracketName": "Pools",
+            "bracketId": 1458025,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 688393,
+                    "playerTag": "Jormis"
+                }
+            ]
+        },
+        {
+            "id": 35641642,
+            "entrant1Id": 6782640,
+            "entrant2Id": 6773764,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "NintenJoe",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6782640,
+            "loserId": 6773764,
+            "winnerName": "Levingy",
+            "loserName": "NintenJoe",
+            "bracketName": "Pools",
+            "bracketId": 1458025,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1259768,
+                    "playerTag": "NintenJoe"
+                }
+            ]
+        },
+        {
+            "id": 35642488,
+            "entrant1Id": 6782640,
+            "entrant2Id": 6897138,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Raiden",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6782640,
+            "loserId": 6897138,
+            "winnerName": "Levingy",
+            "loserName": "Raiden",
+            "bracketName": "Top 96",
+            "bracketId": 1458050,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21773,
+                    "playerTag": "Raiden"
+                }
+            ]
+        },
+        {
+            "id": 35644512,
+            "entrant1Id": 6843641,
+            "entrant2Id": 6782640,
+            "entrant1Name": "CGN | Nicki",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6843641,
+            "loserId": 6782640,
+            "winnerName": "CGN | Nicki",
+            "loserName": "Levingy",
+            "bracketName": "Top 32",
+            "bracketId": 1458614,
+            "entrant1Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 35644508,
+            "entrant1Id": 6782640,
+            "entrant2Id": 6893027,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Fat Tino",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6782640,
+            "loserId": 6893027,
+            "winnerName": "Levingy",
+            "loserName": "Fat Tino",
+            "bracketName": "Top 32",
+            "bracketId": 1458614,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 667216,
+                    "playerTag": "Fat Tino"
+                }
+            ]
+        },
+        {
+            "id": 35644441,
+            "entrant1Id": 6773230,
+            "entrant2Id": 6782640,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6773230,
+            "loserId": 6782640,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Levingy",
+            "bracketName": "Top 32",
+            "bracketId": 1458614,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 35644091,
+            "entrant1Id": 6782640,
+            "entrant2Id": 6771514,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Sharp",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6782640,
+            "loserId": 6771514,
+            "winnerName": "Levingy",
+            "loserName": "Sharp",
+            "bracketName": "Top 64",
+            "bracketId": 1458612,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ]
+        },
+        {
+            "id": 35644503,
+            "entrant1Id": 6782640,
+            "entrant2Id": 6772186,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "King",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6782640,
+            "loserId": 6772186,
+            "winnerName": "Levingy",
+            "loserName": "King",
+            "bracketName": "Top 32",
+            "bracketId": 1458614,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 796398,
+                    "playerTag": "King"
+                }
+            ]
+        },
+        {
+            "id": 34993919,
+            "entrant1Id": 6659686,
+            "entrant2Id": 6724589,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Jigglypuff | Beau",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6659686,
+            "loserId": 6724589,
+            "winnerName": "Levingy",
+            "loserName": "Jigglypuff | Beau",
+            "bracketName": "Pools",
+            "bracketId": 1438908,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 230852,
+                    "playerTag": "Beau"
+                }
+            ]
+        },
+        {
+            "id": 34993915,
+            "entrant1Id": 6659686,
+            "entrant2Id": 6718445,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "CptNebula",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6659686,
+            "loserId": 6718445,
+            "winnerName": "Levingy",
+            "loserName": "CptNebula",
+            "bracketName": "Pools",
+            "bracketId": 1438908,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11502,
+                    "playerTag": "CptNebula"
+                }
+            ]
+        },
+        {
+            "id": 34993907,
+            "entrant1Id": 6659686,
+            "entrant2Id": 6727253,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Nano",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6659686,
+            "loserId": 6727253,
+            "winnerName": "Levingy",
+            "loserName": "Nano",
+            "bracketName": "Pools",
+            "bracketId": 1438908,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26319,
+                    "playerTag": "Nano"
+                }
+            ]
+        },
+        {
+            "id": 34996722,
+            "entrant1Id": 6659686,
+            "entrant2Id": 6654040,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "T3G | mayhem092",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6659686,
+            "loserId": 6654040,
+            "winnerName": "Levingy",
+            "loserName": "T3G | mayhem092",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12872,
+                    "playerTag": "mayhem092"
+                }
+            ]
+        },
+        {
+            "id": 34993903,
+            "entrant1Id": 6659686,
+            "entrant2Id": 6651657,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "RainGG | Mizu \u6c34",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6659686,
+            "loserId": 6651657,
+            "winnerName": "Levingy",
+            "loserName": "RainGG | Mizu \u6c34",
+            "bracketName": "Pools",
+            "bracketId": 1438908,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1254601,
+                    "playerTag": "Phyxxie"
+                }
+            ]
+        },
+        {
+            "id": 34996696,
+            "entrant1Id": 6659686,
+            "entrant2Id": 6653278,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "MOB | Saile",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6659686,
+            "loserId": 6653278,
+            "winnerName": "Levingy",
+            "loserName": "MOB | Saile",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 455118,
+                    "playerTag": "Saile"
+                }
+            ]
+        },
+        {
+            "id": 34998370,
+            "entrant1Id": 6651828,
+            "entrant2Id": 6659686,
+            "entrant1Name": "PS | Makenshi",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6651828,
+            "loserId": 6659686,
+            "winnerName": "PS | Makenshi",
+            "loserName": "Levingy",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 157306,
+                    "playerTag": "Makenshi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 34993899,
+            "entrant1Id": 6659686,
+            "entrant2Id": 6732502,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "TSE | Macki",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6659686,
+            "loserId": 6732502,
+            "winnerName": "Levingy",
+            "loserName": "TSE | Macki",
+            "bracketName": "Pools",
+            "bracketId": 1438908,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 69305,
+                    "playerTag": "Macki"
+                }
+            ]
+        },
+        {
+            "id": 34998366,
+            "entrant1Id": 6659686,
+            "entrant2Id": 6668378,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Paju",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6659686,
+            "loserId": 6668378,
+            "winnerName": "Levingy",
+            "loserName": "Paju",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12882,
+                    "playerTag": "Paju"
+                }
+            ]
+        },
+        {
+            "id": 34998302,
+            "entrant1Id": 6659686,
+            "entrant2Id": 6730773,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "SSP | Timi",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6730773,
+            "loserId": 6659686,
+            "winnerName": "SSP | Timi",
+            "loserName": "Levingy",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6747,
+                    "playerTag": "Timi"
+                }
+            ]
+        },
+        {
+            "id": 34998360,
+            "entrant1Id": 6659686,
+            "entrant2Id": 6662071,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Parsec",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6659686,
+            "loserId": 6662071,
+            "winnerName": "Levingy",
+            "loserName": "Parsec",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54535,
+                    "playerTag": "Parsec"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "meady",
+        "fuzzyness",
+        "liax",
+        "noxxa",
+        "mahie",
+        "mahie",
+        "shiftingshadows",
+        "sharp",
+        "jamie",
+        "noxxa",
+        "kingu",
+        "trif",
+        "solobattle",
+        "jah ridin'",
+        "mint",
+        "meady",
+        "ninjagofan72",
+        "kingu",
+        "bose",
+        "raiden",
+        "fat tino",
+        "sharp",
+        "king",
+        "mayhem092",
+        "paju",
+        "parsec"
+    ],
+    "L": [
+        "frenzy",
+        "trif",
+        "rikzz",
+        "professor pro",
+        "kins0",
+        "jah ridin'",
+        "sharp",
+        "rikzz",
+        "mint",
+        "professor pro",
+        "rikzz",
+        "prins esse",
+        "frenzy",
+        "solobattle",
+        "skullbro",
+        "nicki",
+        "nicki",
+        "jah ridin'",
+        "makenshi",
+        "timi"
+    ]
+}

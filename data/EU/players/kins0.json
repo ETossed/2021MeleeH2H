@@ -1,0 +1,3330 @@
+{
+    "Events": [
+        554625,
+        572809,
+        550396,
+        550373,
+        549684,
+        554988,
+        550163,
+        541113,
+        428582,
+        592222,
+        607431,
+        622655,
+        456
+    ],
+    "Sets": [
+        {
+            "id": 41644000,
+            "entrant1Id": 8552805,
+            "entrant2Id": 8552828,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "max",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552805,
+            "loserId": 8552828,
+            "winnerName": "RLB | Kins0",
+            "loserName": "max",
+            "bracketName": "Group Stage",
+            "bracketId": 1452628,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 818697,
+                    "playerTag": "max"
+                }
+            ]
+        },
+        {
+            "id": 41643997,
+            "entrant1Id": 8552768,
+            "entrant2Id": 8552805,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "RLB | Kins0",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552768,
+            "loserId": 8552805,
+            "winnerName": "TSM | Leffen",
+            "loserName": "RLB | Kins0",
+            "bracketName": "Group Stage",
+            "bracketId": 1452628,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 41643996,
+            "entrant1Id": 8552804,
+            "entrant2Id": 8552805,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "RLB | Kins0",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552804,
+            "loserId": 8552805,
+            "winnerName": "Jah Ridin'",
+            "loserName": "RLB | Kins0",
+            "bracketName": "Group Stage",
+            "bracketId": 1452628,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 41697240,
+            "entrant1Id": 8552784,
+            "entrant2Id": 8552805,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "RLB | Kins0",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552784,
+            "loserId": 8552805,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "RLB | Kins0",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 41697236,
+            "entrant1Id": 8552805,
+            "entrant2Id": 8552806,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552805,
+            "loserId": 8552806,
+            "winnerName": "RLB | Kins0",
+            "loserName": "Meady",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 37245176,
+            "entrant1Id": 7265738,
+            "entrant2Id": 7265714,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265714,
+            "loserId": 7265738,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "NGNS | Kins0",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 37245166,
+            "entrant1Id": 7265738,
+            "entrant2Id": 7265691,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265691,
+            "loserId": 7265738,
+            "winnerName": "Professor Pro",
+            "loserName": "NGNS | Kins0",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 37245161,
+            "entrant1Id": 7265677,
+            "entrant2Id": 7265738,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265677,
+            "loserId": 7265738,
+            "winnerName": "PS | Trif",
+            "loserName": "NGNS | Kins0",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 37245158,
+            "entrant1Id": 7265678,
+            "entrant2Id": 7265738,
+            "entrant1Name": "Meady",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265738,
+            "loserId": 7265678,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Meady",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 37245155,
+            "entrant1Id": 7265713,
+            "entrant2Id": 7265738,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265738,
+            "loserId": 7265713,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 37282864,
+            "entrant1Id": 7265743,
+            "entrant2Id": 7265738,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265743,
+            "loserId": 7265738,
+            "winnerName": "TSM | Leffen",
+            "loserName": "NGNS | Kins0",
+            "bracketName": "Bracket",
+            "bracketId": 1490266,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 37245152,
+            "entrant1Id": 7265717,
+            "entrant2Id": 7265738,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265738,
+            "loserId": 7265717,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Levingy",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 37282896,
+            "entrant1Id": 7265738,
+            "entrant2Id": 7265710,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Solobattle",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265710,
+            "loserId": 7265738,
+            "winnerName": "Solobattle",
+            "loserName": "NGNS | Kins0",
+            "bracketName": "Bracket",
+            "bracketId": 1490266,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 219891,
+                    "playerTag": "Solobattle"
+                }
+            ]
+        },
+        {
+            "id": 40800776,
+            "entrant1Id": 8342309,
+            "entrant2Id": 8333218,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "Psylo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8342309,
+            "loserId": 8333218,
+            "winnerName": "RLB | Kins0",
+            "loserName": "Psylo",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554136,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 233945,
+                    "playerTag": "Psylo"
+                }
+            ]
+        },
+        {
+            "id": 40800773,
+            "entrant1Id": 8342309,
+            "entrant2Id": 8325688,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "bagar indeed | Bico",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8342309,
+            "loserId": 8325688,
+            "winnerName": "RLB | Kins0",
+            "loserName": "bagar indeed | Bico",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554136,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 32909,
+                    "playerTag": "Bico"
+                }
+            ]
+        },
+        {
+            "id": 40800770,
+            "entrant1Id": 8342309,
+            "entrant2Id": 8330350,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "DiLeva",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8342309,
+            "loserId": 8330350,
+            "winnerName": "RLB | Kins0",
+            "loserName": "DiLeva",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554136,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36586,
+                    "playerTag": "DiLeva"
+                }
+            ]
+        },
+        {
+            "id": 40863573,
+            "entrant1Id": 8151208,
+            "entrant2Id": 8342309,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "RLB | Kins0",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8342309,
+            "loserId": 8151208,
+            "winnerName": "RLB | Kins0",
+            "loserName": "PS | Pipsqueak",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 40800767,
+            "entrant1Id": 8342309,
+            "entrant2Id": 8127180,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "EdgyMurphy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8342309,
+            "loserId": 8127180,
+            "winnerName": "RLB | Kins0",
+            "loserName": "EdgyMurphy",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554136,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2114447,
+                    "playerTag": "EdgyMurphy"
+                }
+            ]
+        },
+        {
+            "id": 40863568,
+            "entrant1Id": 8342309,
+            "entrant2Id": 8302219,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8342309,
+            "loserId": 8302219,
+            "winnerName": "RLB | Kins0",
+            "loserName": "Mahie",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 40800764,
+            "entrant1Id": 8342309,
+            "entrant2Id": 8253800,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "EMODEGEN",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8342309,
+            "loserId": 8253800,
+            "winnerName": "RLB | Kins0",
+            "loserName": "EMODEGEN",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554136,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 266055,
+                    "playerTag": "EMODEGEN"
+                }
+            ]
+        },
+        {
+            "id": 40863557,
+            "entrant1Id": 8342309,
+            "entrant2Id": 8126767,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "Noxxa",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8342309,
+            "loserId": 8126767,
+            "winnerName": "RLB | Kins0",
+            "loserName": "Noxxa",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 283651,
+                    "playerTag": "Noxxa"
+                }
+            ]
+        },
+        {
+            "id": 40870052,
+            "entrant1Id": 8301824,
+            "entrant2Id": 8342309,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "RLB | Kins0",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8301824,
+            "loserId": 8342309,
+            "winnerName": "PS | Trif",
+            "loserName": "RLB | Kins0",
+            "bracketName": "Bagarre Top8",
+            "bracketId": 1554139,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 40800761,
+            "entrant1Id": 8342309,
+            "entrant2Id": 8338061,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "ichewbuds",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8342309,
+            "loserId": 8338061,
+            "winnerName": "RLB | Kins0",
+            "loserName": "ichewbuds",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554136,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1457469,
+                    "playerTag": "ichewbuds"
+                }
+            ]
+        },
+        {
+            "id": 40870068,
+            "entrant1Id": 8342309,
+            "entrant2Id": 8198304,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8342309,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "RLB | Kins0",
+            "bracketName": "Bagarre Top8",
+            "bracketId": 1554139,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 40870051,
+            "entrant1Id": 8342309,
+            "entrant2Id": 8271728,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8342309,
+            "loserId": 8271728,
+            "winnerName": "RLB | Kins0",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Bagarre Top8",
+            "bracketId": 1554139,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 39272598,
+            "entrant1Id": 7944919,
+            "entrant2Id": 7946309,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "Laurster",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7946309,
+            "loserId": 7944919,
+            "winnerName": "Laurster",
+            "loserName": "RLB | Kins0",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545566,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47609,
+                    "playerTag": "Laurster"
+                }
+            ]
+        },
+        {
+            "id": 39272594,
+            "entrant1Id": 7944919,
+            "entrant2Id": 7937428,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "Fat Tino",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7944919,
+            "loserId": 7937428,
+            "winnerName": "RLB | Kins0",
+            "loserName": "Fat Tino",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545566,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 667216,
+                    "playerTag": "Fat Tino"
+                }
+            ]
+        },
+        {
+            "id": 39272590,
+            "entrant1Id": 7944919,
+            "entrant2Id": 7965397,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "Acke",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7944919,
+            "loserId": 7965397,
+            "winnerName": "RLB | Kins0",
+            "loserName": "Acke",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545566,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 360715,
+                    "playerTag": "Acke"
+                }
+            ]
+        },
+        {
+            "id": 39316991,
+            "entrant1Id": 7944919,
+            "entrant2Id": 7634514,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "skullbro",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7944919,
+            "loserId": 7634514,
+            "winnerName": "RLB | Kins0",
+            "loserName": "skullbro",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ]
+        },
+        {
+            "id": 39272586,
+            "entrant1Id": 7944919,
+            "entrant2Id": 7942674,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "Smarted",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7944919,
+            "loserId": 7942674,
+            "winnerName": "RLB | Kins0",
+            "loserName": "Smarted",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545566,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1512859,
+                    "playerTag": "Smarted"
+                }
+            ]
+        },
+        {
+            "id": 39316984,
+            "entrant1Id": 7944919,
+            "entrant2Id": 7946002,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "Liax",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7944919,
+            "loserId": 7946002,
+            "winnerName": "RLB | Kins0",
+            "loserName": "Liax",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 9653,
+                    "playerTag": "Liax"
+                }
+            ]
+        },
+        {
+            "id": 39272582,
+            "entrant1Id": 7944919,
+            "entrant2Id": 7952596,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "Fecfec",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7944919,
+            "loserId": 7952596,
+            "winnerName": "RLB | Kins0",
+            "loserName": "Fecfec",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545566,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2047652,
+                    "playerTag": "Fecfec"
+                }
+            ]
+        },
+        {
+            "id": 39316970,
+            "entrant1Id": 7944919,
+            "entrant2Id": 7616233,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "DAFT | Wobl",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7944919,
+            "loserId": 7616233,
+            "winnerName": "RLB | Kins0",
+            "loserName": "DAFT | Wobl",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 701767,
+                    "playerTag": "Wobl"
+                }
+            ]
+        },
+        {
+            "id": 39272574,
+            "entrant1Id": 7944919,
+            "entrant2Id": 7965916,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "BOUS | Kpi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7944919,
+            "loserId": 7965916,
+            "winnerName": "RLB | Kins0",
+            "loserName": "BOUS | Kpi",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545566,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 278157,
+                    "playerTag": "Kpi"
+                }
+            ]
+        },
+        {
+            "id": 37559468,
+            "entrant1Id": 7341715,
+            "entrant2Id": 7315129,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Spino",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7341715,
+            "loserId": 7315129,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Spino",
+            "bracketName": "Changing room",
+            "bracketId": 1487075,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 231726,
+                    "playerTag": "Spino"
+                }
+            ]
+        },
+        {
+            "id": 37613388,
+            "entrant1Id": 7373026,
+            "entrant2Id": 7341715,
+            "entrant1Name": "max",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7341715,
+            "loserId": 7373026,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "max",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 818697,
+                    "playerTag": "max"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 37613383,
+            "entrant1Id": 7361660,
+            "entrant2Id": 7341715,
+            "entrant1Name": "Fout NL",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7341715,
+            "loserId": 7361660,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Fout NL",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 37559464,
+            "entrant1Id": 7341715,
+            "entrant2Id": 7245950,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Ronsteri",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7341715,
+            "loserId": 7245950,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Ronsteri",
+            "bracketName": "Changing room",
+            "bracketId": 1487075,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1038055,
+                    "playerTag": "Ronsteri"
+                }
+            ]
+        },
+        {
+            "id": 37613373,
+            "entrant1Id": 7341715,
+            "entrant2Id": 7335863,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Liax",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7341715,
+            "loserId": 7335863,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Liax",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 9653,
+                    "playerTag": "Liax"
+                }
+            ]
+        },
+        {
+            "id": 37624953,
+            "entrant1Id": 7341715,
+            "entrant2Id": 7357436,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7357436,
+            "loserId": 7341715,
+            "winnerName": "Professor Pro",
+            "loserName": "NGNS | Kins0",
+            "bracketName": "Top 8",
+            "bracketId": 1479079,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 37613352,
+            "entrant1Id": 7341715,
+            "entrant2Id": 7307288,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "DC | Tellman",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7341715,
+            "loserId": 7307288,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "DC | Tellman",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261388,
+                    "playerTag": "Tellman"
+                }
+            ]
+        },
+        {
+            "id": 37624967,
+            "entrant1Id": 7341715,
+            "entrant2Id": 7374537,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "PS | Ice",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7374537,
+            "loserId": 7341715,
+            "winnerName": "PS | Ice",
+            "loserName": "NGNS | Kins0",
+            "bracketName": "Top 8",
+            "bracketId": 1479079,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 36298052,
+            "entrant1Id": 7032342,
+            "entrant2Id": 7034499,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "MOB | Saile",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7032342,
+            "loserId": 7034499,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "MOB | Saile",
+            "bracketName": "Pools",
+            "bracketId": 1470123,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 455118,
+                    "playerTag": "Saile"
+                }
+            ]
+        },
+        {
+            "id": 36298049,
+            "entrant1Id": 7032342,
+            "entrant2Id": 7053293,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Makai",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7032342,
+            "loserId": 7053293,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Makai",
+            "bracketName": "Pools",
+            "bracketId": 1470123,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 258622,
+                    "playerTag": "Makai"
+                }
+            ]
+        },
+        {
+            "id": 36298046,
+            "entrant1Id": 7032342,
+            "entrant2Id": 6930878,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Rabbitalex",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7032342,
+            "loserId": 6930878,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Rabbitalex",
+            "bracketName": "Pools",
+            "bracketId": 1470123,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 148437,
+                    "playerTag": "Rabbitalex"
+                }
+            ]
+        },
+        {
+            "id": 36298043,
+            "entrant1Id": 7032342,
+            "entrant2Id": 7046089,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "FinalTaco",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7032342,
+            "loserId": 7046089,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "FinalTaco",
+            "bracketName": "Pools",
+            "bracketId": 1470123,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40787,
+                    "playerTag": "FinalTaco"
+                }
+            ]
+        },
+        {
+            "id": 36298927,
+            "entrant1Id": 7032342,
+            "entrant2Id": 6969800,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "PS | Poilon",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7032342,
+            "loserId": 6969800,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "PS | Poilon",
+            "bracketName": "Top 96",
+            "bracketId": 1473242,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47760,
+                    "playerTag": "Poilon"
+                }
+            ]
+        },
+        {
+            "id": 36298921,
+            "entrant1Id": 7032342,
+            "entrant2Id": 6924889,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Valhalla | King Funk",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7032342,
+            "loserId": 6924889,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Valhalla | King Funk",
+            "bracketName": "Top 96",
+            "bracketId": 1473242,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10555,
+                    "playerTag": "King Funk"
+                }
+            ]
+        },
+        {
+            "id": 36298037,
+            "entrant1Id": 7032342,
+            "entrant2Id": 7058426,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "LGDD | Sovlo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7032342,
+            "loserId": 7058426,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "LGDD | Sovlo",
+            "bracketName": "Pools",
+            "bracketId": 1470123,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30308,
+                    "playerTag": "Sovlo"
+                }
+            ]
+        },
+        {
+            "id": 36302140,
+            "entrant1Id": 7032342,
+            "entrant2Id": 7026816,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "CGN | Ice",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7026816,
+            "loserId": 7032342,
+            "winnerName": "CGN | Ice",
+            "loserName": "NGNS | Kins0",
+            "bracketName": "Top 8",
+            "bracketId": 1473245,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 36302124,
+            "entrant1Id": 7032342,
+            "entrant2Id": 7012351,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7012351,
+            "loserId": 7032342,
+            "winnerName": "Pipsqueak",
+            "loserName": "NGNS | Kins0",
+            "bracketName": "Top 8",
+            "bracketId": 1473245,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 36300215,
+            "entrant1Id": 7032342,
+            "entrant2Id": 7053146,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "dronin",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7032342,
+            "loserId": 7053146,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "dronin",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 69201,
+                    "playerTag": "dronin"
+                }
+            ]
+        },
+        {
+            "id": 36302138,
+            "entrant1Id": 7032342,
+            "entrant2Id": 6919142,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7032342,
+            "loserId": 6919142,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Top 8",
+            "bracketId": 1473245,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 35641554,
+            "entrant1Id": 6782027,
+            "entrant2Id": 6877787,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "LGDD | zck",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6782027,
+            "loserId": 6877787,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "LGDD | zck",
+            "bracketName": "Pools",
+            "bracketId": 1458022,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6008,
+                    "playerTag": "zck"
+                }
+            ]
+        },
+        {
+            "id": 35641550,
+            "entrant1Id": 6782027,
+            "entrant2Id": 6778647,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "PS | kenshu",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6782027,
+            "loserId": 6778647,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "PS | kenshu",
+            "bracketName": "Pools",
+            "bracketId": 1458022,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2160310,
+                    "playerTag": "kenshu"
+                }
+            ]
+        },
+        {
+            "id": 35641546,
+            "entrant1Id": 6782027,
+            "entrant2Id": 6861214,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Rabbitalex",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6782027,
+            "loserId": 6861214,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Rabbitalex",
+            "bracketName": "Pools",
+            "bracketId": 1458022,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 148437,
+                    "playerTag": "Rabbitalex"
+                }
+            ]
+        },
+        {
+            "id": 35641542,
+            "entrant1Id": 6782027,
+            "entrant2Id": 6885469,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Gin",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6782027,
+            "loserId": 6885469,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Gin",
+            "bracketName": "Pools",
+            "bracketId": 1458022,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 273644,
+                    "playerTag": "Gin"
+                }
+            ]
+        },
+        {
+            "id": 35641534,
+            "entrant1Id": 6782027,
+            "entrant2Id": 6781906,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Exile",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6782027,
+            "loserId": 6781906,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Exile",
+            "bracketName": "Pools",
+            "bracketId": 1458022,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54315,
+                    "playerTag": "Exile"
+                }
+            ]
+        },
+        {
+            "id": 35642685,
+            "entrant1Id": 6782027,
+            "entrant2Id": 6807244,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Weston",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6782027,
+            "loserId": 6807244,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Weston",
+            "bracketName": "Top 96",
+            "bracketId": 1458611,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45404,
+                    "playerTag": "Weston"
+                }
+            ]
+        },
+        {
+            "id": 35644451,
+            "entrant1Id": 6800816,
+            "entrant2Id": 6782027,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6800816,
+            "loserId": 6782027,
+            "winnerName": "PS | Trif",
+            "loserName": "NGNS | Kins0",
+            "bracketName": "Top 32",
+            "bracketId": 1458614,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 35644511,
+            "entrant1Id": 6782027,
+            "entrant2Id": 6835595,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Moe",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6782027,
+            "loserId": 6835595,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Moe",
+            "bracketName": "Top 32",
+            "bracketId": 1458614,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21945,
+                    "playerTag": "Moe"
+                }
+            ]
+        },
+        {
+            "id": 35644447,
+            "entrant1Id": 6782027,
+            "entrant2Id": 6771987,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "PS | Poilon",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6782027,
+            "loserId": 6771987,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "PS | Poilon",
+            "bracketName": "Top 32",
+            "bracketId": 1458614,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47760,
+                    "playerTag": "Poilon"
+                }
+            ]
+        },
+        {
+            "id": 35644102,
+            "entrant1Id": 6782027,
+            "entrant2Id": 6893027,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Fat Tino",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6782027,
+            "loserId": 6893027,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Fat Tino",
+            "bracketName": "Top 64",
+            "bracketId": 1458612,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 667216,
+                    "playerTag": "Fat Tino"
+                }
+            ]
+        },
+        {
+            "id": 35653626,
+            "entrant1Id": 6843641,
+            "entrant2Id": 6782027,
+            "entrant1Name": "CGN | Nicki",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6843641,
+            "loserId": 6782027,
+            "winnerName": "CGN | Nicki",
+            "loserName": "NGNS | Kins0",
+            "bracketName": "Top 8",
+            "bracketId": 1458055,
+            "entrant1Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 34993663,
+            "entrant1Id": 6651818,
+            "entrant2Id": 6734090,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "Jamie",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6651818,
+            "loserId": 6734090,
+            "winnerName": "Kins0",
+            "loserName": "Jamie",
+            "bracketName": "Pools",
+            "bracketId": 1438910,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 809649,
+                    "playerTag": "Jamie"
+                }
+            ]
+        },
+        {
+            "id": 34993659,
+            "entrant1Id": 6651818,
+            "entrant2Id": 6731803,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "Pi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6651818,
+            "loserId": 6731803,
+            "winnerName": "Kins0",
+            "loserName": "Pi",
+            "bracketName": "Pools",
+            "bracketId": 1438910,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54828,
+                    "playerTag": "Pi"
+                }
+            ]
+        },
+        {
+            "id": 34993655,
+            "entrant1Id": 6651818,
+            "entrant2Id": 6730646,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "BUGL | Tasty",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6651818,
+            "loserId": 6730646,
+            "winnerName": "Kins0",
+            "loserName": "BUGL | Tasty",
+            "bracketName": "Pools",
+            "bracketId": 1438910,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152579,
+                    "playerTag": "Tasty"
+                }
+            ]
+        },
+        {
+            "id": 34996726,
+            "entrant1Id": 6651818,
+            "entrant2Id": 6733666,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "Gr4pe",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6651818,
+            "loserId": 6733666,
+            "winnerName": "Kins0",
+            "loserName": "Gr4pe",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 276138,
+                    "playerTag": "Gr4pe"
+                }
+            ]
+        },
+        {
+            "id": 34993651,
+            "entrant1Id": 6651818,
+            "entrant2Id": 6684328,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "Pungsacken",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6651818,
+            "loserId": 6684328,
+            "winnerName": "Kins0",
+            "loserName": "Pungsacken",
+            "bracketName": "Pools",
+            "bracketId": 1438910,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30757,
+                    "playerTag": "Pungsacken"
+                }
+            ]
+        },
+        {
+            "id": 34996704,
+            "entrant1Id": 6651818,
+            "entrant2Id": 6732960,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "LGDD | zck",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6651818,
+            "loserId": 6732960,
+            "winnerName": "Kins0",
+            "loserName": "LGDD | zck",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6008,
+                    "playerTag": "zck"
+                }
+            ]
+        },
+        {
+            "id": 34998309,
+            "entrant1Id": 6728609,
+            "entrant2Id": 6651818,
+            "entrant1Name": "MINT",
+            "entrant2Name": "Kins0",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6651818,
+            "loserId": 6728609,
+            "winnerName": "Kins0",
+            "loserName": "MINT",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 128932,
+                    "playerTag": "MINT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 34993647,
+            "entrant1Id": 6651818,
+            "entrant2Id": 6729816,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "Gin",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6651818,
+            "loserId": 6729816,
+            "winnerName": "Kins0",
+            "loserName": "Gin",
+            "bracketName": "Pools",
+            "bracketId": 1438910,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 273644,
+                    "playerTag": "Gin"
+                }
+            ]
+        },
+        {
+            "id": 35000259,
+            "entrant1Id": 6651818,
+            "entrant2Id": 6649949,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "TSM | Leffen",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6649949,
+            "loserId": 6651818,
+            "winnerName": "TSM | Leffen",
+            "loserName": "Kins0",
+            "bracketName": "Fenris Bracket - Top 8",
+            "bracketId": 1442845,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ]
+        },
+        {
+            "id": 35000243,
+            "entrant1Id": 6651818,
+            "entrant2Id": 6649592,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6649592,
+            "loserId": 6651818,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Kins0",
+            "bracketName": "Fenris Bracket - Top 8",
+            "bracketId": 1442845,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 34998304,
+            "entrant1Id": 6651818,
+            "entrant2Id": 6729968,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "Jeapie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6651818,
+            "loserId": 6729968,
+            "winnerName": "Kins0",
+            "loserName": "Jeapie",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5124,
+                    "playerTag": "Jeapie"
+                }
+            ]
+        },
+        {
+            "id": 35000257,
+            "entrant1Id": 6651818,
+            "entrant2Id": 6649628,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6651818,
+            "loserId": 6649628,
+            "winnerName": "Kins0",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Fenris Bracket - Top 8",
+            "bracketId": 1442845,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 42572926,
+            "entrant1Id": 4456092,
+            "entrant2Id": 4698716,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4456092,
+            "loserId": 4698716,
+            "winnerName": "Pipsqueak",
+            "loserName": "NGNS | Kins0",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 42573181,
+            "entrant1Id": 4487359,
+            "entrant2Id": 4698716,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 4698716,
+            "loserId": 4487359,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Professor Pro",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 42573180,
+            "entrant1Id": 8713927,
+            "entrant2Id": 4698716,
+            "entrant1Name": "Meady",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 4698716,
+            "loserId": 8713927,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Meady",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 42572923,
+            "entrant1Id": 4456092,
+            "entrant2Id": 4698716,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4456092,
+            "loserId": 4698716,
+            "winnerName": "Pipsqueak",
+            "loserName": "NGNS | Kins0",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 42573179,
+            "entrant1Id": 4698716,
+            "entrant2Id": 4485012,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Frenzy",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 4698716,
+            "loserId": 4485012,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Frenzy",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 42572920,
+            "entrant1Id": 4762754,
+            "entrant2Id": 4698716,
+            "entrant1Name": "LunarySSF2",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 4698716,
+            "loserId": 4762754,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "LunarySSF2",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 28190,
+                    "playerTag": "It's Ok If I Lose"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 42517620,
+            "entrant1Id": 4698716,
+            "entrant2Id": 4726054,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Dero",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4698716,
+            "loserId": 4726054,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Dero",
+            "bracketName": "Pools",
+            "bracketId": 1234668,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6222,
+                    "playerTag": "Dero"
+                }
+            ]
+        },
+        {
+            "id": 42572914,
+            "entrant1Id": 4698716,
+            "entrant2Id": 8603356,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Luan",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 4698716,
+            "loserId": 8603356,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Luan",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1328400,
+                    "playerTag": "Luan"
+                }
+            ]
+        },
+        {
+            "id": 42517618,
+            "entrant1Id": 4698716,
+            "entrant2Id": 4461489,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "VLERK",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4698716,
+            "loserId": 4461489,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "VLERK",
+            "bracketName": "Pools",
+            "bracketId": 1234668,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 62958,
+                    "playerTag": "vlerk"
+                }
+            ]
+        },
+        {
+            "id": 42572901,
+            "entrant1Id": 4698716,
+            "entrant2Id": 4572469,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Alain",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4698716,
+            "loserId": 4572469,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Alain",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 49611,
+                    "playerTag": "Alain"
+                }
+            ]
+        },
+        {
+            "id": 42517616,
+            "entrant1Id": 4698716,
+            "entrant2Id": 8740753,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "BOBLSANCHO",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4698716,
+            "loserId": 8740753,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "BOBLSANCHO",
+            "bracketName": "Pools",
+            "bracketId": 1234668,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2307071,
+                    "playerTag": "BOBLSANCHO"
+                }
+            ]
+        },
+        {
+            "id": 42572875,
+            "entrant1Id": 4698716,
+            "entrant2Id": 4531353,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Pachakamakk",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4698716,
+            "loserId": 4531353,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Pachakamakk",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5770,
+                    "playerTag": "Pachakamakk"
+                }
+            ]
+        },
+        {
+            "id": 39086829,
+            "entrant1Id": 7729553,
+            "entrant2Id": 7725906,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Anna",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7729553,
+            "loserId": 7725906,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Anna",
+            "bracketName": "Top 16",
+            "bracketId": 1526430,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21337,
+                    "playerTag": "Anna"
+                }
+            ]
+        },
+        {
+            "id": 39085769,
+            "entrant1Id": 7729553,
+            "entrant2Id": 7726230,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Komori",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7729553,
+            "loserId": 7726230,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Komori",
+            "bracketName": "Pools",
+            "bracketId": 1526428,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 64952,
+                    "playerTag": "Komori"
+                }
+            ]
+        },
+        {
+            "id": 39086828,
+            "entrant1Id": 7729553,
+            "entrant2Id": 7725906,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Anna",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7729553,
+            "loserId": 7725906,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Anna",
+            "bracketName": "Top 16",
+            "bracketId": 1526430,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21337,
+                    "playerTag": "Anna"
+                }
+            ]
+        },
+        {
+            "id": 39085767,
+            "entrant1Id": 7729553,
+            "entrant2Id": 7678188,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Ganonborp",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7729553,
+            "loserId": 7678188,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Ganonborp",
+            "bracketName": "Pools",
+            "bracketId": 1526428,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1229145,
+                    "playerTag": "Ganonborp"
+                }
+            ]
+        },
+        {
+            "id": 39086826,
+            "entrant1Id": 7729553,
+            "entrant2Id": 7725691,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "NGNS | Schima",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7729553,
+            "loserId": 7725691,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "NGNS | Schima",
+            "bracketName": "Top 16",
+            "bracketId": 1526430,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ]
+        },
+        {
+            "id": 39085765,
+            "entrant1Id": 7729553,
+            "entrant2Id": 7910563,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Elect",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7729553,
+            "loserId": 7910563,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Elect",
+            "bracketName": "Pools",
+            "bracketId": 1526428,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2174459,
+                    "playerTag": "Elect"
+                }
+            ]
+        },
+        {
+            "id": 39086822,
+            "entrant1Id": 7729553,
+            "entrant2Id": 7738260,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "DAN2Y",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7729553,
+            "loserId": 7738260,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "DAN2Y",
+            "bracketName": "Top 16",
+            "bracketId": 1526430,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 872384,
+                    "playerTag": "DAN2Y"
+                }
+            ]
+        },
+        {
+            "id": 39085763,
+            "entrant1Id": 7729553,
+            "entrant2Id": 7750295,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Bluetenx",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7729553,
+            "loserId": 7750295,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Bluetenx",
+            "bracketName": "Pools",
+            "bracketId": 1526428,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1360002,
+                    "playerTag": "Bluetenx"
+                }
+            ]
+        },
+        {
+            "id": 39086814,
+            "entrant1Id": 7729553,
+            "entrant2Id": 7730280,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Aolong",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7729553,
+            "loserId": 7730280,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Aolong",
+            "bracketName": "Top 16",
+            "bracketId": 1526430,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 204021,
+                    "playerTag": "Schneebert"
+                }
+            ]
+        },
+        {
+            "id": 40413832,
+            "entrant1Id": 8062734,
+            "entrant2Id": 8074612,
+            "entrant1Name": "PS | Nicki",
+            "entrant2Name": "RLB | Kins0",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8074612,
+            "loserId": 8062734,
+            "winnerName": "RLB | Kins0",
+            "loserName": "PS | Nicki",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1552060,
+            "entrant1Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 40413833,
+            "entrant1Id": 8074612,
+            "entrant2Id": 8062734,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "PS | Nicki",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8062734,
+            "loserId": 8074612,
+            "winnerName": "PS | Nicki",
+            "loserName": "RLB | Kins0",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1552060,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ]
+        },
+        {
+            "id": 40410287,
+            "entrant1Id": 8074612,
+            "entrant2Id": 8062786,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "lilfroozy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8074612,
+            "loserId": 8062786,
+            "winnerName": "RLB | Kins0",
+            "loserName": "lilfroozy",
+            "bracketName": "Pools",
+            "bracketId": 1552053,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5388,
+                    "playerTag": "lilfroozy"
+                }
+            ]
+        },
+        {
+            "id": 40413831,
+            "entrant1Id": 8062734,
+            "entrant2Id": 8074612,
+            "entrant1Name": "PS | Nicki",
+            "entrant2Name": "RLB | Kins0",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8062734,
+            "loserId": 8074612,
+            "winnerName": "PS | Nicki",
+            "loserName": "RLB | Kins0",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1552060,
+            "entrant1Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 40413863,
+            "entrant1Id": 8074612,
+            "entrant2Id": 8082658,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "hot atze sommer",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8074612,
+            "loserId": 8082658,
+            "winnerName": "RLB | Kins0",
+            "loserName": "hot atze sommer",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1552060,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6642,
+                    "playerTag": "hot atze sommer"
+                }
+            ]
+        },
+        {
+            "id": 40410285,
+            "entrant1Id": 8074612,
+            "entrant2Id": 8062953,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "Cillit",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8074612,
+            "loserId": 8062953,
+            "winnerName": "RLB | Kins0",
+            "loserName": "Cillit",
+            "bracketName": "Pools",
+            "bracketId": 1552053,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 25585,
+                    "playerTag": "Cillit"
+                }
+            ]
+        },
+        {
+            "id": 40413830,
+            "entrant1Id": 8074612,
+            "entrant2Id": 8082658,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "hot atze sommer",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8074612,
+            "loserId": 8082658,
+            "winnerName": "RLB | Kins0",
+            "loserName": "hot atze sommer",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1552060,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6642,
+                    "playerTag": "hot atze sommer"
+                }
+            ]
+        },
+        {
+            "id": 40413827,
+            "entrant1Id": 8074612,
+            "entrant2Id": 8062707,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "King",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8074612,
+            "loserId": 8062707,
+            "winnerName": "RLB | Kins0",
+            "loserName": "King",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1552060,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 796398,
+                    "playerTag": "King"
+                }
+            ]
+        },
+        {
+            "id": 40410281,
+            "entrant1Id": 8074612,
+            "entrant2Id": 8081845,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "solariiii",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8074612,
+            "loserId": 8081845,
+            "winnerName": "RLB | Kins0",
+            "loserName": "solariiii",
+            "bracketName": "Pools",
+            "bracketId": 1552053,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5697,
+                    "playerTag": "solariiii"
+                }
+            ]
+        },
+        {
+            "id": 40413821,
+            "entrant1Id": 8074612,
+            "entrant2Id": 8132535,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "WN1 | ZetTroxX",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8074612,
+            "loserId": 8132535,
+            "winnerName": "RLB | Kins0",
+            "loserName": "WN1 | ZetTroxX",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1552060,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12363,
+                    "playerTag": "ZetTroxX"
+                }
+            ]
+        },
+        {
+            "id": 42312228,
+            "entrant1Id": 8462759,
+            "entrant2Id": 8423810,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "astar",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8462759,
+            "loserId": 8423810,
+            "winnerName": "Kins0",
+            "loserName": "astar",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1579421,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 674647,
+                    "playerTag": "astar"
+                }
+            ]
+        },
+        {
+            "id": 42304286,
+            "entrant1Id": 8462759,
+            "entrant2Id": 8694138,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "Max",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8462759,
+            "loserId": 8694138,
+            "winnerName": "Kins0",
+            "loserName": "Max",
+            "bracketName": "Pools",
+            "bracketId": 1579413,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 559191,
+                    "playerTag": "Max"
+                }
+            ]
+        },
+        {
+            "id": 42312227,
+            "entrant1Id": 8462759,
+            "entrant2Id": 8462955,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "Schima",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8462759,
+            "loserId": 8462955,
+            "winnerName": "Kins0",
+            "loserName": "Schima",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1579421,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ]
+        },
+        {
+            "id": 42304284,
+            "entrant1Id": 8462759,
+            "entrant2Id": 8423192,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "Bux_Baum",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8462759,
+            "loserId": 8423192,
+            "winnerName": "Kins0",
+            "loserName": "Bux_Baum",
+            "bracketName": "Pools",
+            "bracketId": 1579413,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5267,
+                    "playerTag": "Bux_Baum"
+                }
+            ]
+        },
+        {
+            "id": 42312225,
+            "entrant1Id": 8462759,
+            "entrant2Id": 8663625,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "Parsec",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8462759,
+            "loserId": 8663625,
+            "winnerName": "Kins0",
+            "loserName": "Parsec",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1579421,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54535,
+                    "playerTag": "Parsec"
+                }
+            ]
+        },
+        {
+            "id": 42304282,
+            "entrant1Id": 8462759,
+            "entrant2Id": 8527088,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "Yung_Linc",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8462759,
+            "loserId": 8527088,
+            "winnerName": "Kins0",
+            "loserName": "Yung_Linc",
+            "bracketName": "Pools",
+            "bracketId": 1579413,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2483674,
+                    "playerTag": "Yung_Linc"
+                }
+            ]
+        },
+        {
+            "id": 42312221,
+            "entrant1Id": 8462759,
+            "entrant2Id": 8657523,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "Deko",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8462759,
+            "loserId": 8657523,
+            "winnerName": "Kins0",
+            "loserName": "Deko",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1579421,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 343128,
+                    "playerTag": "DerFasan"
+                }
+            ]
+        },
+        {
+            "id": 42304280,
+            "entrant1Id": 8462759,
+            "entrant2Id": 8541732,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "Feyrir",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8462759,
+            "loserId": 8541732,
+            "winnerName": "Kins0",
+            "loserName": "Feyrir",
+            "bracketName": "Pools",
+            "bracketId": 1579413,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 957422,
+                    "playerTag": "Feyrir"
+                }
+            ]
+        },
+        {
+            "id": 42312213,
+            "entrant1Id": 8462759,
+            "entrant2Id": 8422591,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "stormrat",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8462759,
+            "loserId": 8422591,
+            "winnerName": "Kins0",
+            "loserName": "stormrat",
+            "bracketName": "Top 16 Bracket",
+            "bracketId": 1579421,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54547,
+                    "playerTag": "stormrat"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "max",
+        "meady",
+        "meady",
+        "frenzy",
+        "levingy",
+        "pipsqueak",
+        "mahie",
+        "noxxa",
+        "jah ridin'",
+        "fat tino",
+        "skullbro",
+        "liax",
+        "max",
+        "fout nl",
+        "liax",
+        "poilon",
+        "dronin",
+        "jah ridin'",
+        "poilon",
+        "fat tino",
+        "jamie",
+        "mint",
+        "jeapie",
+        "jah ridin'",
+        "professor pro",
+        "meady",
+        "frenzy",
+        "luan",
+        "schima",
+        "nicki",
+        "king",
+        "max",
+        "schima",
+        "parsec",
+        "rikzz",
+        "rikzz"
+    ],
+    "L": [
+        "leffen",
+        "jah ridin'",
+        "pipsqueak",
+        "rikzz",
+        "professor pro",
+        "trif",
+        "leffen",
+        "solobattle",
+        "trif",
+        "frenzy",
+        "laurster",
+        "professor pro",
+        "ice",
+        "ice",
+        "pipsqueak",
+        "trif",
+        "nicki",
+        "leffen",
+        "frenzy",
+        "pipsqueak",
+        "pipsqueak",
+        "nicki",
+        "nicki"
+    ]
+}

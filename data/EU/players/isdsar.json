@@ -1,0 +1,68 @@
+{
+    "Events": [
+        572809
+    ],
+    "Sets": [
+        {
+            "id": 37245164,
+            "entrant1Id": 7265724,
+            "entrant2Id": 7265713,
+            "entrant1Name": "Isdsar",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265713,
+            "loserId": 7265724,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Isdsar",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 185165,
+                    "playerTag": "Isdsar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 37245149,
+            "entrant1Id": 7265677,
+            "entrant2Id": 7265724,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "Isdsar",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265677,
+            "loserId": 7265724,
+            "winnerName": "PS | Trif",
+            "loserName": "Isdsar",
+            "bracketName": "Pools",
+            "bracketId": 1490260,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 185165,
+                    "playerTag": "Isdsar"
+                }
+            ]
+        }
+    ],
+    "W": [],
+    "L": [
+        "frenzy",
+        "trif"
+    ]
+}

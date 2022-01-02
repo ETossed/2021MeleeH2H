@@ -1,0 +1,1383 @@
+{
+    "Events": [
+        550373,
+        543662,
+        554988,
+        550163,
+        541113
+    ],
+    "Sets": [
+        {
+            "id": 39272858,
+            "entrant1Id": 7942393,
+            "entrant2Id": 7957794,
+            "entrant1Name": "PS | Ice",
+            "entrant2Name": "ISTE | Dr. Essmann",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7942393,
+            "loserId": 7957794,
+            "winnerName": "PS | Ice",
+            "loserName": "ISTE | Dr. Essmann",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545565,
+            "entrant1Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ]
+        },
+        {
+            "id": 39272855,
+            "entrant1Id": 7950309,
+            "entrant2Id": 7957794,
+            "entrant1Name": "BFM | Chaler",
+            "entrant2Name": "ISTE | Dr. Essmann",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7957794,
+            "loserId": 7950309,
+            "winnerName": "ISTE | Dr. Essmann",
+            "loserName": "BFM | Chaler",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545565,
+            "entrant1Players": [
+                {
+                    "playerId": 127417,
+                    "playerTag": "Chaler"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ]
+        },
+        {
+            "id": 39272849,
+            "entrant1Id": 7936356,
+            "entrant2Id": 7957794,
+            "entrant1Name": "rebenge",
+            "entrant2Name": "ISTE | Dr. Essmann",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7957794,
+            "loserId": 7936356,
+            "winnerName": "ISTE | Dr. Essmann",
+            "loserName": "rebenge",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545565,
+            "entrant1Players": [
+                {
+                    "playerId": 893884,
+                    "playerTag": "rebenge"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ]
+        },
+        {
+            "id": 39317123,
+            "entrant1Id": 7957794,
+            "entrant2Id": 7957643,
+            "entrant1Name": "ISTE | Dr. Essmann",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7957643,
+            "loserId": 7957794,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "ISTE | Dr. Essmann",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 39317119,
+            "entrant1Id": 7957794,
+            "entrant2Id": 7724227,
+            "entrant1Name": "ISTE | Dr. Essmann",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7957794,
+            "loserId": 7724227,
+            "winnerName": "ISTE | Dr. Essmann",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 39316992,
+            "entrant1Id": 7908381,
+            "entrant2Id": 7957794,
+            "entrant1Name": "abbearv",
+            "entrant2Name": "ISTE | Dr. Essmann",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7908381,
+            "loserId": 7957794,
+            "winnerName": "abbearv",
+            "loserName": "ISTE | Dr. Essmann",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 1853889,
+                    "playerTag": "abbearv"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ]
+        },
+        {
+            "id": 39317115,
+            "entrant1Id": 7957794,
+            "entrant2Id": 7946002,
+            "entrant1Name": "ISTE | Dr. Essmann",
+            "entrant2Name": "Liax",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7957794,
+            "loserId": 7946002,
+            "winnerName": "ISTE | Dr. Essmann",
+            "loserName": "Liax",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 9653,
+                    "playerTag": "Liax"
+                }
+            ]
+        },
+        {
+            "id": 39272841,
+            "entrant1Id": 7957794,
+            "entrant2Id": 7937899,
+            "entrant1Name": "ISTE | Dr. Essmann",
+            "entrant2Name": "mordo",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7937899,
+            "loserId": 7957794,
+            "winnerName": "mordo",
+            "loserName": "ISTE | Dr. Essmann",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545565,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40012,
+                    "playerTag": "mordo"
+                }
+            ]
+        },
+        {
+            "id": 39316987,
+            "entrant1Id": 7957794,
+            "entrant2Id": 7673164,
+            "entrant1Name": "ISTE | Dr. Essmann",
+            "entrant2Name": "Humpe",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7957794,
+            "loserId": 7673164,
+            "winnerName": "ISTE | Dr. Essmann",
+            "loserName": "Humpe",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 49595,
+                    "playerTag": "Humpe"
+                }
+            ]
+        },
+        {
+            "id": 39272836,
+            "entrant1Id": 7957794,
+            "entrant2Id": 7942377,
+            "entrant1Name": "ISTE | Dr. Essmann",
+            "entrant2Name": "Rabbitalex",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7942377,
+            "loserId": 7957794,
+            "winnerName": "Rabbitalex",
+            "loserName": "ISTE | Dr. Essmann",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545565,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 148437,
+                    "playerTag": "Rabbitalex"
+                }
+            ]
+        },
+        {
+            "id": 39316976,
+            "entrant1Id": 7896361,
+            "entrant2Id": 7957794,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "ISTE | Dr. Essmann",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7957794,
+            "loserId": 7896361,
+            "winnerName": "ISTE | Dr. Essmann",
+            "loserName": "Levingy",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ]
+        },
+        {
+            "id": 39272831,
+            "entrant1Id": 7957794,
+            "entrant2Id": 7894148,
+            "entrant1Name": "ISTE | Dr. Essmann",
+            "entrant2Name": "Jacoby",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7957794,
+            "loserId": 7894148,
+            "winnerName": "ISTE | Dr. Essmann",
+            "loserName": "Jacoby",
+            "bracketName": "Singles Pools",
+            "bracketId": 1545565,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1931544,
+                    "playerTag": "Jacoby"
+                }
+            ]
+        },
+        {
+            "id": 39316955,
+            "entrant1Id": 7957794,
+            "entrant2Id": 7964820,
+            "entrant1Name": "ISTE | Dr. Essmann",
+            "entrant2Name": "FAC#896 | i4",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7957794,
+            "loserId": 7964820,
+            "winnerName": "ISTE | Dr. Essmann",
+            "loserName": "FAC#896 | i4",
+            "bracketName": "Pro Bracket",
+            "bracketId": 1545575,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2209454,
+                    "playerTag": "i4"
+                }
+            ]
+        },
+        {
+            "id": 36919315,
+            "entrant1Id": 7211605,
+            "entrant2Id": 7229114,
+            "entrant1Name": "Paju",
+            "entrant2Name": "ISTE | Dr. Essmann",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7229114,
+            "loserId": 7211605,
+            "winnerName": "ISTE | Dr. Essmann",
+            "loserName": "Paju",
+            "bracketName": "Pools",
+            "bracketId": 1472608,
+            "entrant1Players": [
+                {
+                    "playerId": 12882,
+                    "playerTag": "Paju"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ]
+        },
+        {
+            "id": 36919313,
+            "entrant1Id": 7230160,
+            "entrant2Id": 7229114,
+            "entrant1Name": "Calzum",
+            "entrant2Name": "ISTE | Dr. Essmann",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7229114,
+            "loserId": 7230160,
+            "winnerName": "ISTE | Dr. Essmann",
+            "loserName": "Calzum",
+            "bracketName": "Pools",
+            "bracketId": 1472608,
+            "entrant1Players": [
+                {
+                    "playerId": 12341,
+                    "playerTag": "Calzum"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ]
+        },
+        {
+            "id": 36954583,
+            "entrant1Id": 7149297,
+            "entrant2Id": 7229114,
+            "entrant1Name": "Solobattle",
+            "entrant2Name": "ISTE | Dr. Essmann",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7149297,
+            "loserId": 7229114,
+            "winnerName": "Solobattle",
+            "loserName": "ISTE | Dr. Essmann",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1488048,
+            "entrant1Players": [
+                {
+                    "playerId": 219891,
+                    "playerTag": "Solobattle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ]
+        },
+        {
+            "id": 36954578,
+            "entrant1Id": 7229114,
+            "entrant2Id": 7092260,
+            "entrant1Name": "ISTE | Dr. Essmann",
+            "entrant2Name": "ShiftingShadows",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7229114,
+            "loserId": 7092260,
+            "winnerName": "ISTE | Dr. Essmann",
+            "loserName": "ShiftingShadows",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1488048,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40466,
+                    "playerTag": "ShiftingShadows"
+                }
+            ]
+        },
+        {
+            "id": 36919308,
+            "entrant1Id": 7229114,
+            "entrant2Id": 7230377,
+            "entrant1Name": "ISTE | Dr. Essmann",
+            "entrant2Name": "Tisk",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7229114,
+            "loserId": 7230377,
+            "winnerName": "ISTE | Dr. Essmann",
+            "loserName": "Tisk",
+            "bracketName": "Pools",
+            "bracketId": 1472608,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1879975,
+                    "playerTag": "Tisk"
+                }
+            ]
+        },
+        {
+            "id": 36919304,
+            "entrant1Id": 7229114,
+            "entrant2Id": 7094532,
+            "entrant1Name": "ISTE | Dr. Essmann",
+            "entrant2Name": "Touffe",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7229114,
+            "loserId": 7094532,
+            "winnerName": "ISTE | Dr. Essmann",
+            "loserName": "Touffe",
+            "bracketName": "Pools",
+            "bracketId": 1472608,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 503722,
+                    "playerTag": "Touffe"
+                }
+            ]
+        },
+        {
+            "id": 36956007,
+            "entrant1Id": 7229114,
+            "entrant2Id": 7227651,
+            "entrant1Name": "ISTE | Dr. Essmann",
+            "entrant2Name": "Humpe",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7227651,
+            "loserId": 7229114,
+            "winnerName": "Humpe",
+            "loserName": "ISTE | Dr. Essmann",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 49595,
+                    "playerTag": "Humpe"
+                }
+            ]
+        },
+        {
+            "id": 36297967,
+            "entrant1Id": 7062225,
+            "entrant2Id": 6929448,
+            "entrant1Name": "ISTE | Mythra",
+            "entrant2Name": "RLB | 4tilt",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6929448,
+            "loserId": 7062225,
+            "winnerName": "RLB | 4tilt",
+            "loserName": "ISTE | Mythra",
+            "bracketName": "Pools",
+            "bracketId": 1470148,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27443,
+                    "playerTag": "big irf"
+                }
+            ]
+        },
+        {
+            "id": 36297963,
+            "entrant1Id": 7062225,
+            "entrant2Id": 7045917,
+            "entrant1Name": "ISTE | Mythra",
+            "entrant2Name": "KeyboardIsOP | BlackH4ze",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7062225,
+            "loserId": 7045917,
+            "winnerName": "ISTE | Mythra",
+            "loserName": "KeyboardIsOP | BlackH4ze",
+            "bracketName": "Pools",
+            "bracketId": 1470148,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1227361,
+                    "playerTag": "BlackH4ze"
+                }
+            ]
+        },
+        {
+            "id": 36297959,
+            "entrant1Id": 7062225,
+            "entrant2Id": 7065887,
+            "entrant1Name": "ISTE | Mythra",
+            "entrant2Name": "Aiken",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7065887,
+            "loserId": 7062225,
+            "winnerName": "Aiken",
+            "loserName": "ISTE | Mythra",
+            "bracketName": "Pools",
+            "bracketId": 1470148,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11085,
+                    "playerTag": "Aiken"
+                }
+            ]
+        },
+        {
+            "id": 36297955,
+            "entrant1Id": 7062225,
+            "entrant2Id": 6941994,
+            "entrant1Name": "ISTE | Mythra",
+            "entrant2Name": "KIT SC | Nomlix",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7062225,
+            "loserId": 6941994,
+            "winnerName": "ISTE | Mythra",
+            "loserName": "KIT SC | Nomlix",
+            "bracketName": "Pools",
+            "bracketId": 1470148,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 69541,
+                    "playerTag": "Nomlix"
+                }
+            ]
+        },
+        {
+            "id": 36297951,
+            "entrant1Id": 7062225,
+            "entrant2Id": 7062752,
+            "entrant1Name": "ISTE | Mythra",
+            "entrant2Name": "PSQ | TENWA",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7062225,
+            "loserId": 7062752,
+            "winnerName": "ISTE | Mythra",
+            "loserName": "PSQ | TENWA",
+            "bracketName": "Pools",
+            "bracketId": 1470148,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26322,
+                    "playerTag": "TENWA"
+                }
+            ]
+        },
+        {
+            "id": 36298889,
+            "entrant1Id": 7062225,
+            "entrant2Id": 6946523,
+            "entrant1Name": "ISTE | Mythra",
+            "entrant2Name": "Pi",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7062225,
+            "loserId": 6946523,
+            "winnerName": "ISTE | Mythra",
+            "loserName": "Pi",
+            "bracketName": "Top 96",
+            "bracketId": 1467110,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54828,
+                    "playerTag": "Pi"
+                }
+            ]
+        },
+        {
+            "id": 36298825,
+            "entrant1Id": 6930085,
+            "entrant2Id": 7062225,
+            "entrant1Name": "Humpe",
+            "entrant2Name": "ISTE | Mythra",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6930085,
+            "loserId": 7062225,
+            "winnerName": "Humpe",
+            "loserName": "ISTE | Mythra",
+            "bracketName": "Top 96",
+            "bracketId": 1467110,
+            "entrant1Players": [
+                {
+                    "playerId": 49595,
+                    "playerTag": "Humpe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ]
+        },
+        {
+            "id": 36298883,
+            "entrant1Id": 7062225,
+            "entrant2Id": 7061709,
+            "entrant1Name": "ISTE | Mythra",
+            "entrant2Name": "CptNebula",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7062225,
+            "loserId": 7061709,
+            "winnerName": "ISTE | Mythra",
+            "loserName": "CptNebula",
+            "bracketName": "Top 96",
+            "bracketId": 1467110,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11502,
+                    "playerTag": "CptNebula"
+                }
+            ]
+        },
+        {
+            "id": 36297947,
+            "entrant1Id": 7062225,
+            "entrant2Id": 7021351,
+            "entrant1Name": "ISTE | Mythra",
+            "entrant2Name": "granis",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7062225,
+            "loserId": 7021351,
+            "winnerName": "ISTE | Mythra",
+            "loserName": "granis",
+            "bracketName": "Pools",
+            "bracketId": 1470148,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1928579,
+                    "playerTag": "granis"
+                }
+            ]
+        },
+        {
+            "id": 36298813,
+            "entrant1Id": 6929396,
+            "entrant2Id": 7062225,
+            "entrant1Name": "Kingu",
+            "entrant2Name": "ISTE | Mythra",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7062225,
+            "loserId": 6929396,
+            "winnerName": "ISTE | Mythra",
+            "loserName": "Kingu",
+            "bracketName": "Top 96",
+            "bracketId": 1467110,
+            "entrant1Players": [
+                {
+                    "playerId": 1400299,
+                    "playerTag": "Kingu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ]
+        },
+        {
+            "id": 36300310,
+            "entrant1Id": 6918507,
+            "entrant2Id": 7062225,
+            "entrant1Name": "max",
+            "entrant2Name": "ISTE | Mythra",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6918507,
+            "loserId": 7062225,
+            "winnerName": "max",
+            "loserName": "ISTE | Mythra",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 818697,
+                    "playerTag": "max"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ]
+        },
+        {
+            "id": 35641742,
+            "entrant1Id": 6899956,
+            "entrant2Id": 6785018,
+            "entrant1Name": "ISTE | Mythra",
+            "entrant2Name": "Apollo Bon",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6899956,
+            "loserId": 6785018,
+            "winnerName": "ISTE | Mythra",
+            "loserName": "Apollo Bon",
+            "bracketName": "Pools",
+            "bracketId": 1458045,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31864,
+                    "playerTag": "Apollo Bon"
+                }
+            ]
+        },
+        {
+            "id": 35641738,
+            "entrant1Id": 6899956,
+            "entrant2Id": 6885414,
+            "entrant1Name": "ISTE | Mythra",
+            "entrant2Name": "Tisk",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6899956,
+            "loserId": 6885414,
+            "winnerName": "ISTE | Mythra",
+            "loserName": "Tisk",
+            "bracketName": "Pools",
+            "bracketId": 1458045,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1879975,
+                    "playerTag": "Tisk"
+                }
+            ]
+        },
+        {
+            "id": 35641734,
+            "entrant1Id": 6899956,
+            "entrant2Id": 6891338,
+            "entrant1Name": "ISTE | Mythra",
+            "entrant2Name": "zeventien",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6899956,
+            "loserId": 6891338,
+            "winnerName": "ISTE | Mythra",
+            "loserName": "zeventien",
+            "bracketName": "Pools",
+            "bracketId": 1458045,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 518966,
+                    "playerTag": "zeventien"
+                }
+            ]
+        },
+        {
+            "id": 35642491,
+            "entrant1Id": 6899956,
+            "entrant2Id": 6869266,
+            "entrant1Name": "ISTE | Mythra",
+            "entrant2Name": "$tijn",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6899956,
+            "loserId": 6869266,
+            "winnerName": "ISTE | Mythra",
+            "loserName": "$tijn",
+            "bracketName": "Top 96",
+            "bracketId": 1458050,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5323,
+                    "playerTag": "$tijn"
+                }
+            ]
+        },
+        {
+            "id": 35641730,
+            "entrant1Id": 6899956,
+            "entrant2Id": 6771599,
+            "entrant1Name": "ISTE | Mythra",
+            "entrant2Name": "Tuutti",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6899956,
+            "loserId": 6771599,
+            "winnerName": "ISTE | Mythra",
+            "loserName": "Tuutti",
+            "bracketName": "Pools",
+            "bracketId": 1458045,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54288,
+                    "playerTag": "Tuutti"
+                }
+            ]
+        },
+        {
+            "id": 35644092,
+            "entrant1Id": 6772145,
+            "entrant2Id": 6899956,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "ISTE | Mythra",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6772145,
+            "loserId": 6899956,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "ISTE | Mythra",
+            "bracketName": "Top 64",
+            "bracketId": 1458612,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ]
+        },
+        {
+            "id": 35644212,
+            "entrant1Id": 6899956,
+            "entrant2Id": 6900146,
+            "entrant1Name": "ISTE | Mythra",
+            "entrant2Name": "Gr4pe",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6900146,
+            "loserId": 6899956,
+            "winnerName": "Gr4pe",
+            "loserName": "ISTE | Mythra",
+            "bracketName": "Top 64",
+            "bracketId": 1458612,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 276138,
+                    "playerTag": "Gr4pe"
+                }
+            ]
+        },
+        {
+            "id": 34993359,
+            "entrant1Id": 6730302,
+            "entrant2Id": 6706508,
+            "entrant1Name": "ISTE | NintendOrk",
+            "entrant2Name": "Liax",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6730302,
+            "loserId": 6706508,
+            "winnerName": "ISTE | NintendOrk",
+            "loserName": "Liax",
+            "bracketName": "Pools",
+            "bracketId": 1438934,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 9653,
+                    "playerTag": "Liax"
+                }
+            ]
+        },
+        {
+            "id": 34993355,
+            "entrant1Id": 6730302,
+            "entrant2Id": 6649638,
+            "entrant1Name": "ISTE | NintendOrk",
+            "entrant2Name": "PT",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6730302,
+            "loserId": 6649638,
+            "winnerName": "ISTE | NintendOrk",
+            "loserName": "PT",
+            "bracketName": "Pools",
+            "bracketId": 1438934,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 138775,
+                    "playerTag": "Paytay"
+                }
+            ]
+        },
+        {
+            "id": 34993351,
+            "entrant1Id": 6730302,
+            "entrant2Id": 6649608,
+            "entrant1Name": "ISTE | NintendOrk",
+            "entrant2Name": "Meatzorz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6730302,
+            "loserId": 6649608,
+            "winnerName": "ISTE | NintendOrk",
+            "loserName": "Meatzorz",
+            "bracketName": "Pools",
+            "bracketId": 1438934,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12327,
+                    "playerTag": "Meatzorz"
+                }
+            ]
+        },
+        {
+            "id": 34993347,
+            "entrant1Id": 6730302,
+            "entrant2Id": 6730276,
+            "entrant1Name": "ISTE | NintendOrk",
+            "entrant2Name": "Tisk",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6730302,
+            "loserId": 6730276,
+            "winnerName": "ISTE | NintendOrk",
+            "loserName": "Tisk",
+            "bracketName": "Pools",
+            "bracketId": 1438934,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1879975,
+                    "playerTag": "Tisk"
+                }
+            ]
+        },
+        {
+            "id": 34996724,
+            "entrant1Id": 6728609,
+            "entrant2Id": 6730302,
+            "entrant1Name": "MINT",
+            "entrant2Name": "ISTE | NintendOrk",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6728609,
+            "loserId": 6730302,
+            "winnerName": "MINT",
+            "loserName": "ISTE | NintendOrk",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 128932,
+                    "playerTag": "MINT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ]
+        },
+        {
+            "id": 34996972,
+            "entrant1Id": 6730302,
+            "entrant2Id": 6662071,
+            "entrant1Name": "ISTE | NintendOrk",
+            "entrant2Name": "Parsec",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6662071,
+            "loserId": 6730302,
+            "winnerName": "Parsec",
+            "loserName": "ISTE | NintendOrk",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54535,
+                    "playerTag": "Parsec"
+                }
+            ]
+        },
+        {
+            "id": 34993343,
+            "entrant1Id": 6730302,
+            "entrant2Id": 6665253,
+            "entrant1Name": "ISTE | NintendOrk",
+            "entrant2Name": "WYG | Dubianal",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6730302,
+            "loserId": 6665253,
+            "winnerName": "ISTE | NintendOrk",
+            "loserName": "WYG | Dubianal",
+            "bracketName": "Pools",
+            "bracketId": 1438934,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1011334,
+                    "playerTag": "Dubianal"
+                }
+            ]
+        },
+        {
+            "id": 34996701,
+            "entrant1Id": 6730302,
+            "entrant2Id": 6670132,
+            "entrant1Name": "ISTE | NintendOrk",
+            "entrant2Name": "PS | Psylo",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6730302,
+            "loserId": 6670132,
+            "winnerName": "ISTE | NintendOrk",
+            "loserName": "PS | Psylo",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 233945,
+                    "playerTag": "Psylo"
+                }
+            ]
+        },
+        {
+            "id": 34993339,
+            "entrant1Id": 6730302,
+            "entrant2Id": 6727893,
+            "entrant1Name": "ISTE | NintendOrk",
+            "entrant2Name": "Vlalbus Dumbledorf",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6730302,
+            "loserId": 6727893,
+            "winnerName": "ISTE | NintendOrk",
+            "loserName": "Vlalbus Dumbledorf",
+            "bracketName": "Pools",
+            "bracketId": 1438934,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 253323,
+                    "playerTag": "Gandorf the Purple"
+                }
+            ]
+        },
+        {
+            "id": 34996654,
+            "entrant1Id": 6730302,
+            "entrant2Id": 6697072,
+            "entrant1Name": "ISTE | NintendOrk",
+            "entrant2Name": "flamecube64",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6730302,
+            "loserId": 6697072,
+            "winnerName": "ISTE | NintendOrk",
+            "loserName": "flamecube64",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 31722,
+                    "playerTag": "Prins Esse"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 531022,
+                    "playerTag": "Zapp"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "rikzz",
+        "liax",
+        "humpe",
+        "levingy",
+        "paju",
+        "shiftingshadows",
+        "blackh4ze",
+        "kingu",
+        "liax"
+    ],
+    "L": [
+        "ice",
+        "frenzy",
+        "abbearv",
+        "mordo",
+        "Rabbitalex",
+        "solobattle",
+        "humpe",
+        "big irf",
+        "Aiken",
+        "humpe",
+        "max",
+        "frenzy",
+        "Gr4pe",
+        "mint",
+        "parsec"
+    ]
+}

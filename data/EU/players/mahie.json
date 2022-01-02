@@ -1,0 +1,2849 @@
+{
+    "Events": [
+        554625,
+        572809,
+        550396,
+        545157,
+        549684,
+        543662,
+        554988,
+        550163,
+        541113,
+        428582
+    ],
+    "Sets": [
+        {
+            "id": 41641405,
+            "entrant1Id": 8552814,
+            "entrant2Id": 8552818,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552814,
+            "loserId": 8552818,
+            "winnerName": "RLB | Rikzz",
+            "loserName": "Mahie",
+            "bracketName": "Group Stage",
+            "bracketId": 1603243,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 41641403,
+            "entrant1Id": 8552818,
+            "entrant2Id": 8552791,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552791,
+            "loserId": 8552818,
+            "winnerName": "Professor Pro",
+            "loserName": "Mahie",
+            "bracketName": "Group Stage",
+            "bracketId": 1603243,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 41641400,
+            "entrant1Id": 8552784,
+            "entrant2Id": 8552818,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552784,
+            "loserId": 8552818,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Mahie",
+            "bracketName": "Group Stage",
+            "bracketId": 1603243,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 41697235,
+            "entrant1Id": 8552831,
+            "entrant2Id": 8552818,
+            "entrant1Name": "raoul",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552831,
+            "loserId": 8552818,
+            "winnerName": "raoul",
+            "loserName": "Mahie",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 37245147,
+            "entrant1Id": 7265700,
+            "entrant2Id": 7265735,
+            "entrant1Name": "PS | Nicki",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7265700,
+            "loserId": 7265735,
+            "winnerName": "PS | Nicki",
+            "loserName": "Mahie",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 37245144,
+            "entrant1Id": 7265723,
+            "entrant2Id": 7265735,
+            "entrant1Name": "MINT",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265723,
+            "loserId": 7265735,
+            "winnerName": "MINT",
+            "loserName": "Mahie",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 128932,
+                    "playerTag": "MINT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 37245140,
+            "entrant1Id": 7265735,
+            "entrant2Id": 7265742,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Fuzzyness",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265742,
+            "loserId": 7265735,
+            "winnerName": "Fuzzyness",
+            "loserName": "Mahie",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6103,
+                    "playerTag": "Fuzzyness"
+                }
+            ]
+        },
+        {
+            "id": 37245135,
+            "entrant1Id": 7265735,
+            "entrant2Id": 7265710,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Solobattle",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265710,
+            "loserId": 7265735,
+            "winnerName": "Solobattle",
+            "loserName": "Mahie",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 219891,
+                    "playerTag": "Solobattle"
+                }
+            ]
+        },
+        {
+            "id": 37245130,
+            "entrant1Id": 7265735,
+            "entrant2Id": 7265733,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265733,
+            "loserId": 7265735,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Mahie",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 37245125,
+            "entrant1Id": 7265743,
+            "entrant2Id": 7265735,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265743,
+            "loserId": 7265735,
+            "winnerName": "TSM | Leffen",
+            "loserName": "Mahie",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 37245122,
+            "entrant1Id": 7265725,
+            "entrant2Id": 7265735,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265735,
+            "loserId": 7265725,
+            "winnerName": "Mahie",
+            "loserName": "PS | Pipsqueak",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 37282895,
+            "entrant1Id": 7265700,
+            "entrant2Id": 7265735,
+            "entrant1Name": "PS | Nicki",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7265700,
+            "loserId": 7265735,
+            "winnerName": "PS | Nicki",
+            "loserName": "Mahie",
+            "bracketName": "Bracket",
+            "bracketId": 1490266,
+            "entrant1Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 37282891,
+            "entrant1Id": 7265735,
+            "entrant2Id": 7265714,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265735,
+            "loserId": 7265714,
+            "winnerName": "Mahie",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Bracket",
+            "bracketId": 1490266,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 40800668,
+            "entrant1Id": 8302219,
+            "entrant2Id": 8330537,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Jacoby",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8302219,
+            "loserId": 8330537,
+            "winnerName": "Mahie",
+            "loserName": "Jacoby",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554147,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1931544,
+                    "playerTag": "Jacoby"
+                }
+            ]
+        },
+        {
+            "id": 40800665,
+            "entrant1Id": 8302219,
+            "entrant2Id": 8138991,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Aellgi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8302219,
+            "loserId": 8138991,
+            "winnerName": "Mahie",
+            "loserName": "Aellgi",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554147,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50330,
+                    "playerTag": "Aellgi"
+                }
+            ]
+        },
+        {
+            "id": 40863699,
+            "entrant1Id": 8240826,
+            "entrant2Id": 8302219,
+            "entrant1Name": "Nicki",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8302219,
+            "loserId": 8240826,
+            "winnerName": "Mahie",
+            "loserName": "Nicki",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 40800662,
+            "entrant1Id": 8302219,
+            "entrant2Id": 8297542,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "8.6 | Trut",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8302219,
+            "loserId": 8297542,
+            "winnerName": "Mahie",
+            "loserName": "8.6 | Trut",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554147,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 286435,
+                    "playerTag": "Trut"
+                }
+            ]
+        },
+        {
+            "id": 40863695,
+            "entrant1Id": 8302219,
+            "entrant2Id": 8326936,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "abbearv",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8302219,
+            "loserId": 8326936,
+            "winnerName": "Mahie",
+            "loserName": "abbearv",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1853889,
+                    "playerTag": "abbearv"
+                }
+            ]
+        },
+        {
+            "id": 40863568,
+            "entrant1Id": 8342309,
+            "entrant2Id": 8302219,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8342309,
+            "loserId": 8302219,
+            "winnerName": "RLB | Kins0",
+            "loserName": "Mahie",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 40863690,
+            "entrant1Id": 8302219,
+            "entrant2Id": 8333218,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Psylo",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8302219,
+            "loserId": 8333218,
+            "winnerName": "Mahie",
+            "loserName": "Psylo",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 233945,
+                    "playerTag": "Psylo"
+                }
+            ]
+        },
+        {
+            "id": 40863558,
+            "entrant1Id": 8302219,
+            "entrant2Id": 8325625,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Kalua",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8302219,
+            "loserId": 8325625,
+            "winnerName": "Mahie",
+            "loserName": "Kalua",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 139595,
+                    "playerTag": "Kalua"
+                }
+            ]
+        },
+        {
+            "id": 40870063,
+            "entrant1Id": 8198304,
+            "entrant2Id": 8302219,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8302219,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Mahie",
+            "bracketName": "Bagarre Top8",
+            "bracketId": 1554139,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 39836910,
+            "entrant1Id": 8081977,
+            "entrant2Id": 8076827,
+            "entrant1Name": "Levingy",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8081977,
+            "loserId": 8076827,
+            "winnerName": "Levingy",
+            "loserName": "Mahie",
+            "bracketName": "Round Robin",
+            "bracketId": 1557213,
+            "entrant1Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 39836907,
+            "entrant1Id": 8011083,
+            "entrant2Id": 8076827,
+            "entrant1Name": "Glaikit",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8076827,
+            "loserId": 8011083,
+            "winnerName": "Mahie",
+            "loserName": "Glaikit",
+            "bracketName": "Round Robin",
+            "bracketId": 1557213,
+            "entrant1Players": [
+                {
+                    "playerId": 30631,
+                    "playerTag": "Glaikit"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 39836904,
+            "entrant1Id": 8081701,
+            "entrant2Id": 8076827,
+            "entrant1Name": "Grothagt",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8076827,
+            "loserId": 8081701,
+            "winnerName": "Mahie",
+            "loserName": "Grothagt",
+            "bracketName": "Round Robin",
+            "bracketId": 1557213,
+            "entrant1Players": [
+                {
+                    "playerId": 1973371,
+                    "playerTag": "Grothagt"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 39836901,
+            "entrant1Id": 8096341,
+            "entrant2Id": 8076827,
+            "entrant1Name": "Fizzle",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8076827,
+            "loserId": 8096341,
+            "winnerName": "Mahie",
+            "loserName": "Fizzle",
+            "bracketName": "Round Robin",
+            "bracketId": 1557213,
+            "entrant1Players": [
+                {
+                    "playerId": 2040983,
+                    "playerTag": "Fizzle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 39886570,
+            "entrant1Id": 8076827,
+            "entrant2Id": 8081977,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8081977,
+            "loserId": 8076827,
+            "winnerName": "Levingy",
+            "loserName": "Mahie",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 39886507,
+            "entrant1Id": 8063281,
+            "entrant2Id": 8076827,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8063281,
+            "loserId": 8076827,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Mahie",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 39886567,
+            "entrant1Id": 8076827,
+            "entrant2Id": 8017221,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "skullbro",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8076827,
+            "loserId": 8017221,
+            "winnerName": "Mahie",
+            "loserName": "skullbro",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ]
+        },
+        {
+            "id": 39836897,
+            "entrant1Id": 8076827,
+            "entrant2Id": 8085341,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Smarted",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8085341,
+            "loserId": 8076827,
+            "winnerName": "Smarted",
+            "loserName": "Mahie",
+            "bracketName": "Round Robin",
+            "bracketId": 1557213,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1512859,
+                    "playerTag": "Smarted"
+                }
+            ]
+        },
+        {
+            "id": 39886503,
+            "entrant1Id": 8081669,
+            "entrant2Id": 8076827,
+            "entrant1Name": "RLB | Rikzz",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8076827,
+            "loserId": 8081669,
+            "winnerName": "Mahie",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 39836892,
+            "entrant1Id": 8076827,
+            "entrant2Id": 8016516,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "BANGBANG",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8076827,
+            "loserId": 8016516,
+            "winnerName": "Mahie",
+            "loserName": "BANGBANG",
+            "bracketName": "Round Robin",
+            "bracketId": 1557213,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 241072,
+                    "playerTag": "BANGBANG"
+                }
+            ]
+        },
+        {
+            "id": 39886495,
+            "entrant1Id": 8100383,
+            "entrant2Id": 8076827,
+            "entrant1Name": "max",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8076827,
+            "loserId": 8100383,
+            "winnerName": "Mahie",
+            "loserName": "max",
+            "bracketName": "Final Bracket",
+            "bracketId": 1434148,
+            "entrant1Players": [
+                {
+                    "playerId": 818697,
+                    "playerTag": "max"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 39836887,
+            "entrant1Id": 8076827,
+            "entrant2Id": 8089714,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Bokk",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8076827,
+            "loserId": 8089714,
+            "winnerName": "Mahie",
+            "loserName": "Bokk",
+            "bracketName": "Round Robin",
+            "bracketId": 1557213,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 191913,
+                    "playerTag": "Bokk"
+                }
+            ]
+        },
+        {
+            "id": 37559518,
+            "entrant1Id": 7336345,
+            "entrant2Id": 7376547,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Raiden",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7376547,
+            "loserId": 7336345,
+            "winnerName": "Raiden",
+            "loserName": "Mahie",
+            "bracketName": "Changing room",
+            "bracketId": 1487076,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21773,
+                    "playerTag": "Raiden"
+                }
+            ]
+        },
+        {
+            "id": 37613513,
+            "entrant1Id": 7316913,
+            "entrant2Id": 7336345,
+            "entrant1Name": "MINT",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7336345,
+            "loserId": 7316913,
+            "winnerName": "Mahie",
+            "loserName": "MINT",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 128932,
+                    "playerTag": "MINT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 37559516,
+            "entrant1Id": 7336345,
+            "entrant2Id": 7246776,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "pika | Wobl",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7336345,
+            "loserId": 7246776,
+            "winnerName": "Mahie",
+            "loserName": "pika | Wobl",
+            "bracketName": "Changing room",
+            "bracketId": 1487076,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 701767,
+                    "playerTag": "Wobl"
+                }
+            ]
+        },
+        {
+            "id": 37613509,
+            "entrant1Id": 7336345,
+            "entrant2Id": 7248059,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "R23",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7336345,
+            "loserId": 7248059,
+            "winnerName": "Mahie",
+            "loserName": "R23",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5519,
+                    "playerTag": "R23"
+                }
+            ]
+        },
+        {
+            "id": 37613385,
+            "entrant1Id": 7331339,
+            "entrant2Id": 7336345,
+            "entrant1Name": "PS | Nicki",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7331339,
+            "loserId": 7336345,
+            "winnerName": "PS | Nicki",
+            "loserName": "Mahie",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 37613503,
+            "entrant1Id": 7336345,
+            "entrant2Id": 7371272,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Sharp",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7336345,
+            "loserId": 7371272,
+            "winnerName": "Mahie",
+            "loserName": "Sharp",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ]
+        },
+        {
+            "id": 37613377,
+            "entrant1Id": 7336345,
+            "entrant2Id": 7243167,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Paju",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7336345,
+            "loserId": 7243167,
+            "winnerName": "Mahie",
+            "loserName": "Paju",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12882,
+                    "playerTag": "Paju"
+                }
+            ]
+        },
+        {
+            "id": 37559512,
+            "entrant1Id": 7336345,
+            "entrant2Id": 7373434,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Chagi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7336345,
+            "loserId": 7373434,
+            "winnerName": "Mahie",
+            "loserName": "Chagi",
+            "bracketName": "Changing room",
+            "bracketId": 1487076,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2230480,
+                    "playerTag": "Chagi"
+                }
+            ]
+        },
+        {
+            "id": 37613360,
+            "entrant1Id": 7336345,
+            "entrant2Id": 7370835,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "RestlessWhale",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7336345,
+            "loserId": 7370835,
+            "winnerName": "Mahie",
+            "loserName": "RestlessWhale",
+            "bracketName": "Upper bench",
+            "bracketId": 1479077,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11992,
+                    "playerTag": "RestlessWhale"
+                }
+            ]
+        },
+        {
+            "id": 37624965,
+            "entrant1Id": 7336345,
+            "entrant2Id": 7374537,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "PS | Ice",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7374537,
+            "loserId": 7336345,
+            "winnerName": "PS | Ice",
+            "loserName": "Mahie",
+            "bracketName": "Top 8",
+            "bracketId": 1479079,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 36912462,
+            "entrant1Id": 7207438,
+            "entrant2Id": 7208067,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "NGNS | Schima",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7208067,
+            "loserId": 7207438,
+            "winnerName": "NGNS | Schima",
+            "loserName": "Mahie",
+            "bracketName": "Pools",
+            "bracketId": 1472592,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ]
+        },
+        {
+            "id": 36912452,
+            "entrant1Id": 7207438,
+            "entrant2Id": 7193560,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "J-squad | Lucretio",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7207438,
+            "loserId": 7193560,
+            "winnerName": "Mahie",
+            "loserName": "J-squad | Lucretio",
+            "bracketName": "Pools",
+            "bracketId": 1472592,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51837,
+                    "playerTag": "Lucretio"
+                }
+            ]
+        },
+        {
+            "id": 36954582,
+            "entrant1Id": 7207438,
+            "entrant2Id": 7100813,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Meady",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7100813,
+            "loserId": 7207438,
+            "winnerName": "Meady",
+            "loserName": "Mahie",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1488048,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 36912443,
+            "entrant1Id": 7207438,
+            "entrant2Id": 7199786,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "SenX",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7207438,
+            "loserId": 7199786,
+            "winnerName": "Mahie",
+            "loserName": "SenX",
+            "bracketName": "Pools",
+            "bracketId": 1472592,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 184913,
+                    "playerTag": "SenX"
+                }
+            ]
+        },
+        {
+            "id": 36954575,
+            "entrant1Id": 7201536,
+            "entrant2Id": 7207438,
+            "entrant1Name": "Jeapie",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7207438,
+            "loserId": 7201536,
+            "winnerName": "Mahie",
+            "loserName": "Jeapie",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1488048,
+            "entrant1Players": [
+                {
+                    "playerId": 5124,
+                    "playerTag": "Jeapie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 36956036,
+            "entrant1Id": 7121353,
+            "entrant2Id": 7207438,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7207438,
+            "loserId": 7121353,
+            "winnerName": "Mahie",
+            "loserName": "PS | Trif",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 36912434,
+            "entrant1Id": 7207438,
+            "entrant2Id": 7211686,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "MASL",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7207438,
+            "loserId": 7211686,
+            "winnerName": "Mahie",
+            "loserName": "MASL",
+            "bracketName": "Pools",
+            "bracketId": 1472592,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 341820,
+                    "playerTag": "MASL"
+                }
+            ]
+        },
+        {
+            "id": 36956032,
+            "entrant1Id": 7227651,
+            "entrant2Id": 7207438,
+            "entrant1Name": "Humpe",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7207438,
+            "loserId": 7227651,
+            "winnerName": "Mahie",
+            "loserName": "Humpe",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 49595,
+                    "playerTag": "Humpe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 36954562,
+            "entrant1Id": 7207438,
+            "entrant2Id": 7228802,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "RestlessWhale",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7207438,
+            "loserId": 7228802,
+            "winnerName": "Mahie",
+            "loserName": "RestlessWhale",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1488048,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11992,
+                    "playerTag": "RestlessWhale"
+                }
+            ]
+        },
+        {
+            "id": 36912431,
+            "entrant1Id": 7207438,
+            "entrant2Id": 7165493,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "MC NICE",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7207438,
+            "loserId": 7165493,
+            "winnerName": "Mahie",
+            "loserName": "MC NICE",
+            "bracketName": "Pools",
+            "bracketId": 1472592,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 180955,
+                    "playerTag": "MC NICE"
+                }
+            ]
+        },
+        {
+            "id": 36956027,
+            "entrant1Id": 7207788,
+            "entrant2Id": 7207438,
+            "entrant1Name": "skullbro",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7207438,
+            "loserId": 7207788,
+            "winnerName": "Mahie",
+            "loserName": "skullbro",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 36973187,
+            "entrant1Id": 7213044,
+            "entrant2Id": 7207438,
+            "entrant1Name": "MINT",
+            "entrant2Name": "Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7213044,
+            "loserId": 7207438,
+            "winnerName": "MINT",
+            "loserName": "Mahie",
+            "bracketName": "Pro - Top 8",
+            "bracketId": 1472572,
+            "entrant1Players": [
+                {
+                    "playerId": 128932,
+                    "playerTag": "MINT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 36956019,
+            "entrant1Id": 7207438,
+            "entrant2Id": 7200532,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "chaos6",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7207438,
+            "loserId": 7200532,
+            "winnerName": "Mahie",
+            "loserName": "chaos6",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5524,
+                    "playerTag": "chaos6"
+                }
+            ]
+        },
+        {
+            "id": 36973185,
+            "entrant1Id": 7207438,
+            "entrant2Id": 7100813,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7207438,
+            "loserId": 7100813,
+            "winnerName": "Mahie",
+            "loserName": "Meady",
+            "bracketName": "Pro - Top 8",
+            "bracketId": 1472572,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 36956008,
+            "entrant1Id": 7207438,
+            "entrant2Id": 7123875,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "NGNS | Parsec",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7207438,
+            "loserId": 7123875,
+            "winnerName": "Mahie",
+            "loserName": "NGNS | Parsec",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54535,
+                    "playerTag": "Parsec"
+                }
+            ]
+        },
+        {
+            "id": 36297527,
+            "entrant1Id": 6990878,
+            "entrant2Id": 6965865,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "Squeachu",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6990878,
+            "loserId": 6965865,
+            "winnerName": "PS | Mahie",
+            "loserName": "Squeachu",
+            "bracketName": "Pools",
+            "bracketId": 1470132,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 66980,
+                    "playerTag": "Squeachu"
+                }
+            ]
+        },
+        {
+            "id": 36297524,
+            "entrant1Id": 6990878,
+            "entrant2Id": 6929618,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "CW | Noxxa",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6990878,
+            "loserId": 6929618,
+            "winnerName": "PS | Mahie",
+            "loserName": "CW | Noxxa",
+            "bracketName": "Pools",
+            "bracketId": 1470132,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 283651,
+                    "playerTag": "Noxxa"
+                }
+            ]
+        },
+        {
+            "id": 36297514,
+            "entrant1Id": 6990878,
+            "entrant2Id": 6972062,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "Port",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6990878,
+            "loserId": 6972062,
+            "winnerName": "PS | Mahie",
+            "loserName": "Port",
+            "bracketName": "Pools",
+            "bracketId": 1470132,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 521308,
+                    "playerTag": "porter"
+                }
+            ]
+        },
+        {
+            "id": 36298831,
+            "entrant1Id": 6990878,
+            "entrant2Id": 6930085,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "Humpe",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6990878,
+            "loserId": 6930085,
+            "winnerName": "PS | Mahie",
+            "loserName": "Humpe",
+            "bracketName": "Top 96",
+            "bracketId": 1467110,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 49595,
+                    "playerTag": "Humpe"
+                }
+            ]
+        },
+        {
+            "id": 36297509,
+            "entrant1Id": 6990878,
+            "entrant2Id": 7029021,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "Alistaric",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6990878,
+            "loserId": 7029021,
+            "winnerName": "PS | Mahie",
+            "loserName": "Alistaric",
+            "bracketName": "Pools",
+            "bracketId": 1470132,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 389032,
+                    "playerTag": "Alistaric"
+                }
+            ]
+        },
+        {
+            "id": 36298824,
+            "entrant1Id": 6990878,
+            "entrant2Id": 6946523,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "Pi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6990878,
+            "loserId": 6946523,
+            "winnerName": "PS | Mahie",
+            "loserName": "Pi",
+            "bracketName": "Top 96",
+            "bracketId": 1467110,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54828,
+                    "playerTag": "Pi"
+                }
+            ]
+        },
+        {
+            "id": 36297504,
+            "entrant1Id": 6990878,
+            "entrant2Id": 7043832,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "Mikkelin | rapu",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6990878,
+            "loserId": 7043832,
+            "winnerName": "PS | Mahie",
+            "loserName": "Mikkelin | rapu",
+            "bracketName": "Pools",
+            "bracketId": 1470132,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 241784,
+                    "playerTag": "rapu"
+                }
+            ]
+        },
+        {
+            "id": 36300340,
+            "entrant1Id": 6934064,
+            "entrant2Id": 6990878,
+            "entrant1Name": "PS | Makenshi",
+            "entrant2Name": "PS | Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6934064,
+            "loserId": 6990878,
+            "winnerName": "PS | Makenshi",
+            "loserName": "PS | Mahie",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 157306,
+                    "playerTag": "Makenshi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 36300210,
+            "entrant1Id": 6931970,
+            "entrant2Id": 6990878,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "PS | Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6931970,
+            "loserId": 6990878,
+            "winnerName": "PS | Trif",
+            "loserName": "PS | Mahie",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 36300334,
+            "entrant1Id": 6990878,
+            "entrant2Id": 7052804,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "T3G | mayhem092",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6990878,
+            "loserId": 7052804,
+            "winnerName": "PS | Mahie",
+            "loserName": "T3G | mayhem092",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12872,
+                    "playerTag": "mayhem092"
+                }
+            ]
+        },
+        {
+            "id": 35641078,
+            "entrant1Id": 6775155,
+            "entrant2Id": 6890109,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "abbearv",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6775155,
+            "loserId": 6890109,
+            "winnerName": "PS | Mahie",
+            "loserName": "abbearv",
+            "bracketName": "Pools",
+            "bracketId": 1458036,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1853889,
+                    "playerTag": "abbearv"
+                }
+            ]
+        },
+        {
+            "id": 35641074,
+            "entrant1Id": 6775155,
+            "entrant2Id": 6775538,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "Glaikit",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6775155,
+            "loserId": 6775538,
+            "winnerName": "PS | Mahie",
+            "loserName": "Glaikit",
+            "bracketName": "Pools",
+            "bracketId": 1458036,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30631,
+                    "playerTag": "Glaikit"
+                }
+            ]
+        },
+        {
+            "id": 35641066,
+            "entrant1Id": 6775155,
+            "entrant2Id": 6893143,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "TCT | Zephyr",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6775155,
+            "loserId": 6893143,
+            "winnerName": "PS | Mahie",
+            "loserName": "TCT | Zephyr",
+            "bracketName": "Pools",
+            "bracketId": 1458036,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4903,
+                    "playerTag": "Zephyr"
+                }
+            ]
+        },
+        {
+            "id": 35641062,
+            "entrant1Id": 6775155,
+            "entrant2Id": 6890223,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "SnS",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6775155,
+            "loserId": 6890223,
+            "winnerName": "PS | Mahie",
+            "loserName": "SnS",
+            "bracketName": "Pools",
+            "bracketId": 1458036,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 545845,
+                    "playerTag": "SnS"
+                }
+            ]
+        },
+        {
+            "id": 35642493,
+            "entrant1Id": 6775155,
+            "entrant2Id": 6892243,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "lasse",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6775155,
+            "loserId": 6892243,
+            "winnerName": "PS | Mahie",
+            "loserName": "lasse",
+            "bracketName": "Top 96",
+            "bracketId": 1458050,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 35849,
+                    "playerTag": "lasse"
+                }
+            ]
+        },
+        {
+            "id": 35641058,
+            "entrant1Id": 6775155,
+            "entrant2Id": 6795506,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "4Qs | Danubi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6775155,
+            "loserId": 6795506,
+            "winnerName": "PS | Mahie",
+            "loserName": "4Qs | Danubi",
+            "bracketName": "Pools",
+            "bracketId": 1458036,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 916363,
+                    "playerTag": "Danubi"
+                }
+            ]
+        },
+        {
+            "id": 35644507,
+            "entrant1Id": 6835595,
+            "entrant2Id": 6775155,
+            "entrant1Name": "Moe",
+            "entrant2Name": "PS | Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6835595,
+            "loserId": 6775155,
+            "winnerName": "Moe",
+            "loserName": "PS | Mahie",
+            "bracketName": "Top 32",
+            "bracketId": 1458614,
+            "entrant1Players": [
+                {
+                    "playerId": 21945,
+                    "playerTag": "Moe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 35644442,
+            "entrant1Id": 6772145,
+            "entrant2Id": 6775155,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "PS | Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6772145,
+            "loserId": 6775155,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "PS | Mahie",
+            "bracketName": "Top 32",
+            "bracketId": 1458614,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 35644093,
+            "entrant1Id": 6812821,
+            "entrant2Id": 6775155,
+            "entrant1Name": "FANA | Niklas2912",
+            "entrant2Name": "PS | Mahie",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6775155,
+            "loserId": 6812821,
+            "winnerName": "PS | Mahie",
+            "loserName": "FANA | Niklas2912",
+            "bracketName": "Top 64",
+            "bracketId": 1458612,
+            "entrant1Players": [
+                {
+                    "playerId": 23781,
+                    "playerTag": "Niklas2912"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 35641054,
+            "entrant1Id": 6775155,
+            "entrant2Id": 6858088,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "Stowy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6775155,
+            "loserId": 6858088,
+            "winnerName": "PS | Mahie",
+            "loserName": "Stowy",
+            "bracketName": "Pools",
+            "bracketId": 1458036,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1365854,
+                    "playerTag": "Stowy"
+                }
+            ]
+        },
+        {
+            "id": 35644502,
+            "entrant1Id": 6775155,
+            "entrant2Id": 6790982,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "NGNS | Parsec",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6775155,
+            "loserId": 6790982,
+            "winnerName": "PS | Mahie",
+            "loserName": "NGNS | Parsec",
+            "bracketName": "Top 32",
+            "bracketId": 1458614,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54535,
+                    "playerTag": "Parsec"
+                }
+            ]
+        },
+        {
+            "id": 34992995,
+            "entrant1Id": 6701068,
+            "entrant2Id": 6652076,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "Widl",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6701068,
+            "loserId": 6652076,
+            "winnerName": "PS | Mahie",
+            "loserName": "Widl",
+            "bracketName": "Pools",
+            "bracketId": 1438919,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10178,
+                    "playerTag": "Little Bear"
+                }
+            ]
+        },
+        {
+            "id": 34992991,
+            "entrant1Id": 6701068,
+            "entrant2Id": 6733471,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "ozjung",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6701068,
+            "loserId": 6733471,
+            "winnerName": "PS | Mahie",
+            "loserName": "ozjung",
+            "bracketName": "Pools",
+            "bracketId": 1438919,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 520374,
+                    "playerTag": "ozjung"
+                }
+            ]
+        },
+        {
+            "id": 34992987,
+            "entrant1Id": 6701068,
+            "entrant2Id": 6682675,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "CW | Noxxa",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6682675,
+            "loserId": 6701068,
+            "winnerName": "CW | Noxxa",
+            "loserName": "PS | Mahie",
+            "bracketName": "Pools",
+            "bracketId": 1438919,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 283651,
+                    "playerTag": "Noxxa"
+                }
+            ]
+        },
+        {
+            "id": 34992983,
+            "entrant1Id": 6701068,
+            "entrant2Id": 6649748,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "PP | Komori",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6701068,
+            "loserId": 6649748,
+            "winnerName": "PS | Mahie",
+            "loserName": "PP | Komori",
+            "bracketName": "Pools",
+            "bracketId": 1438919,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 64952,
+                    "playerTag": "Komori"
+                }
+            ]
+        },
+        {
+            "id": 34996971,
+            "entrant1Id": 6696677,
+            "entrant2Id": 6701068,
+            "entrant1Name": "Sverre",
+            "entrant2Name": "PS | Mahie",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6696677,
+            "loserId": 6701068,
+            "winnerName": "Sverre",
+            "loserName": "PS | Mahie",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 25699,
+                    "playerTag": "Sverre"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 34996955,
+            "entrant1Id": 6649638,
+            "entrant2Id": 6701068,
+            "entrant1Name": "PT",
+            "entrant2Name": "PS | Mahie",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6701068,
+            "loserId": 6649638,
+            "winnerName": "PS | Mahie",
+            "loserName": "PT",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 138775,
+                    "playerTag": "Paytay"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 34996686,
+            "entrant1Id": 6701068,
+            "entrant2Id": 6732775,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "skullbro",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6732775,
+            "loserId": 6701068,
+            "winnerName": "skullbro",
+            "loserName": "PS | Mahie",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ]
+        },
+        {
+            "id": 34996938,
+            "entrant1Id": 6701068,
+            "entrant2Id": 6649997,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "R23",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6701068,
+            "loserId": 6649997,
+            "winnerName": "PS | Mahie",
+            "loserName": "R23",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5519,
+                    "playerTag": "R23"
+                }
+            ]
+        },
+        {
+            "id": 34996624,
+            "entrant1Id": 6701068,
+            "entrant2Id": 6729737,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "Ravio",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6701068,
+            "loserId": 6729737,
+            "winnerName": "PS | Mahie",
+            "loserName": "Ravio",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 270446,
+                    "playerTag": "Ravio"
+                }
+            ]
+        },
+        {
+            "id": 42515965,
+            "entrant1Id": 4349523,
+            "entrant2Id": 8721336,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "TODO | Stoneymalony",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4349523,
+            "loserId": 8721336,
+            "winnerName": "PS | Mahie",
+            "loserName": "TODO | Stoneymalony",
+            "bracketName": "Pools",
+            "bracketId": 1234670,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 324686,
+                    "playerTag": "Stoneymalony"
+                }
+            ]
+        },
+        {
+            "id": 42573172,
+            "entrant1Id": 8561805,
+            "entrant2Id": 4349523,
+            "entrant1Name": "Sharp",
+            "entrant2Name": "PS | Mahie",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8561805,
+            "loserId": 4349523,
+            "winnerName": "Sharp",
+            "loserName": "PS | Mahie",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 42573168,
+            "entrant1Id": 8693542,
+            "entrant2Id": 4349523,
+            "entrant1Name": "Tony Bomboni",
+            "entrant2Name": "PS | Mahie",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 4349523,
+            "loserId": 8693542,
+            "winnerName": "PS | Mahie",
+            "loserName": "Tony Bomboni",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 231743,
+                    "playerTag": "Tony Bomboni"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ]
+        },
+        {
+            "id": 42572916,
+            "entrant1Id": 4349523,
+            "entrant2Id": 8713927,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "Meady",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8713927,
+            "loserId": 4349523,
+            "winnerName": "Meady",
+            "loserName": "PS | Mahie",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 42515963,
+            "entrant1Id": 4349523,
+            "entrant2Id": 4464705,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "Laplante",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4349523,
+            "loserId": 4464705,
+            "winnerName": "PS | Mahie",
+            "loserName": "Laplante",
+            "bracketName": "Pools",
+            "bracketId": 1234670,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1166090,
+                    "playerTag": "Laplante"
+                }
+            ]
+        },
+        {
+            "id": 42573161,
+            "entrant1Id": 4349523,
+            "entrant2Id": 8462224,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "ThommyN",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4349523,
+            "loserId": 8462224,
+            "winnerName": "PS | Mahie",
+            "loserName": "ThommyN",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 733555,
+                    "playerTag": "ThommyN"
+                }
+            ]
+        },
+        {
+            "id": 42572905,
+            "entrant1Id": 4349523,
+            "entrant2Id": 8724122,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "\u043foo\u043f",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4349523,
+            "loserId": 8724122,
+            "winnerName": "PS | Mahie",
+            "loserName": "\u043foo\u043f",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54732,
+                    "playerTag": "\u043foo\u043f"
+                }
+            ]
+        },
+        {
+            "id": 42515961,
+            "entrant1Id": 4349523,
+            "entrant2Id": 8681195,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "Pegagingka",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4349523,
+            "loserId": 8681195,
+            "winnerName": "PS | Mahie",
+            "loserName": "Pegagingka",
+            "bracketName": "Pools",
+            "bracketId": 1234670,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2050105,
+                    "playerTag": "Pegagingka"
+                }
+            ]
+        },
+        {
+            "id": 42572883,
+            "entrant1Id": 4349523,
+            "entrant2Id": 4353302,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "Slipkid",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4349523,
+            "loserId": 4353302,
+            "winnerName": "PS | Mahie",
+            "loserName": "Slipkid",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 265169,
+                    "playerTag": "Slipkid"
+                }
+            ]
+        },
+        {
+            "id": 42515959,
+            "entrant1Id": 4349523,
+            "entrant2Id": 8622105,
+            "entrant1Name": "PS | Mahie",
+            "entrant2Name": "PixelHF",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4349523,
+            "loserId": 8622105,
+            "winnerName": "PS | Mahie",
+            "loserName": "PixelHF",
+            "bracketName": "Pools",
+            "bracketId": 1234670,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2357686,
+                    "playerTag": "PixelHF"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "pipsqueak",
+        "rikzz",
+        "nicki",
+        "abbearv",
+        "skullbro",
+        "rikzz",
+        "max",
+        "mint",
+        "r23",
+        "sharp",
+        "paju",
+        "senx",
+        "jeapie",
+        "trif",
+        "humpe",
+        "skullbro",
+        "meady",
+        "parsec",
+        "noxxa",
+        "humpe",
+        "mayhem092",
+        "abbearv",
+        "niklas2912",
+        "parsec",
+        "r23"
+    ],
+    "L": [
+        "rikzz",
+        "professor pro",
+        "pipsqueak",
+        "raoul",
+        "nicki",
+        "mint",
+        "fuzzyness",
+        "solobattle",
+        "jah ridin'",
+        "leffen",
+        "nicki",
+        "kins0",
+        "frenzy",
+        "levingy",
+        "levingy",
+        "frenzy",
+        "Smarted",
+        "raiden",
+        "nicki",
+        "ice",
+        "schima",
+        "meady",
+        "mint",
+        "makenshi",
+        "trif",
+        "Moe",
+        "frenzy",
+        "noxxa",
+        "Sverre",
+        "skullbro",
+        "sharp",
+        "meady"
+    ]
+}

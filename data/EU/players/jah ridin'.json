@@ -1,0 +1,2106 @@
+{
+    "Events": [
+        554625,
+        572809,
+        550396,
+        543662,
+        554988,
+        550163,
+        541113
+    ],
+    "Sets": [
+        {
+            "id": 41643999,
+            "entrant1Id": 8552768,
+            "entrant2Id": 8552804,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552768,
+            "loserId": 8552804,
+            "winnerName": "TSM | Leffen",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Group Stage",
+            "bracketId": 1452628,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 41643998,
+            "entrant1Id": 8552828,
+            "entrant2Id": 8552804,
+            "entrant1Name": "max",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552804,
+            "loserId": 8552828,
+            "winnerName": "Jah Ridin'",
+            "loserName": "max",
+            "bracketName": "Group Stage",
+            "bracketId": 1452628,
+            "entrant1Players": [
+                {
+                    "playerId": 818697,
+                    "playerTag": "max"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 41697242,
+            "entrant1Id": 8552791,
+            "entrant2Id": 8552804,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552791,
+            "loserId": 8552804,
+            "winnerName": "Professor Pro",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 41697211,
+            "entrant1Id": 8552770,
+            "entrant2Id": 8552804,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552770,
+            "loserId": 8552804,
+            "winnerName": "PS | Trif",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 41643996,
+            "entrant1Id": 8552804,
+            "entrant2Id": 8552805,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "RLB | Kins0",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552804,
+            "loserId": 8552805,
+            "winnerName": "Jah Ridin'",
+            "loserName": "RLB | Kins0",
+            "bracketName": "Group Stage",
+            "bracketId": 1452628,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 41697239,
+            "entrant1Id": 8552804,
+            "entrant2Id": 8552831,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "raoul",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552804,
+            "loserId": 8552831,
+            "winnerName": "Jah Ridin'",
+            "loserName": "raoul",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ]
+        },
+        {
+            "id": 37245148,
+            "entrant1Id": 7265733,
+            "entrant2Id": 7265723,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "MINT",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7265733,
+            "loserId": 7265723,
+            "winnerName": "Jah Ridin'",
+            "loserName": "MINT",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 128932,
+                    "playerTag": "MINT"
+                }
+            ]
+        },
+        {
+            "id": 37245143,
+            "entrant1Id": 7265733,
+            "entrant2Id": 7265742,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Fuzzyness",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7265733,
+            "loserId": 7265742,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Fuzzyness",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6103,
+                    "playerTag": "Fuzzyness"
+                }
+            ]
+        },
+        {
+            "id": 37245138,
+            "entrant1Id": 7265733,
+            "entrant2Id": 7265710,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Solobattle",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265710,
+            "loserId": 7265733,
+            "winnerName": "Solobattle",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 219891,
+                    "playerTag": "Solobattle"
+                }
+            ]
+        },
+        {
+            "id": 37245133,
+            "entrant1Id": 7265743,
+            "entrant2Id": 7265733,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265743,
+            "loserId": 7265733,
+            "winnerName": "TSM | Leffen",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 37245130,
+            "entrant1Id": 7265735,
+            "entrant2Id": 7265733,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265733,
+            "loserId": 7265735,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Mahie",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 37245127,
+            "entrant1Id": 7265725,
+            "entrant2Id": 7265733,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7265733,
+            "loserId": 7265725,
+            "winnerName": "Jah Ridin'",
+            "loserName": "PS | Pipsqueak",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 37282897,
+            "entrant1Id": 7265723,
+            "entrant2Id": 7265733,
+            "entrant1Name": "MINT",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7265723,
+            "loserId": 7265733,
+            "winnerName": "MINT",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Bracket",
+            "bracketId": 1490266,
+            "entrant1Players": [
+                {
+                    "playerId": 128932,
+                    "playerTag": "MINT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 37282866,
+            "entrant1Id": 7265691,
+            "entrant2Id": 7265733,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7265691,
+            "loserId": 7265733,
+            "winnerName": "Professor Pro",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Bracket",
+            "bracketId": 1490266,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 37245124,
+            "entrant1Id": 7265700,
+            "entrant2Id": 7265733,
+            "entrant1Name": "PS | Nicki",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7265700,
+            "loserId": 7265733,
+            "winnerName": "PS | Nicki",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Pools",
+            "bracketId": 1489442,
+            "entrant1Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 37282894,
+            "entrant1Id": 7265733,
+            "entrant2Id": 7265717,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7265733,
+            "loserId": 7265717,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Levingy",
+            "bracketName": "Bracket",
+            "bracketId": 1490266,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 40800734,
+            "entrant1Id": 8271728,
+            "entrant2Id": 8126767,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Noxxa",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8271728,
+            "loserId": 8126767,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Noxxa",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554135,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 283651,
+                    "playerTag": "Noxxa"
+                }
+            ]
+        },
+        {
+            "id": 40800731,
+            "entrant1Id": 8271728,
+            "entrant2Id": 8219508,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Vrad",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8271728,
+            "loserId": 8219508,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Vrad",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554135,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1424800,
+                    "playerTag": "Vrad"
+                }
+            ]
+        },
+        {
+            "id": 40863574,
+            "entrant1Id": 8127438,
+            "entrant2Id": 8271728,
+            "entrant1Name": "Sharp",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8271728,
+            "loserId": 8127438,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Sharp",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 48504,
+                    "playerTag": "Sharp"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 40800725,
+            "entrant1Id": 8271728,
+            "entrant2Id": 8279410,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Gilbeurt",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8271728,
+            "loserId": 8279410,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Gilbeurt",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554135,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2043816,
+                    "playerTag": "Gilbeurt"
+                }
+            ]
+        },
+        {
+            "id": 40863570,
+            "entrant1Id": 8271728,
+            "entrant2Id": 8130446,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8271728,
+            "loserId": 8130446,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Meady",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 40800722,
+            "entrant1Id": 8271728,
+            "entrant2Id": 8217759,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Freesia",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8271728,
+            "loserId": 8217759,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Freesia",
+            "bracketName": "Bagarre Pools",
+            "bracketId": 1554135,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1997198,
+                    "playerTag": "freesia"
+                }
+            ]
+        },
+        {
+            "id": 40863561,
+            "entrant1Id": 8271728,
+            "entrant2Id": 8127122,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Glaikit",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8271728,
+            "loserId": 8127122,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Glaikit",
+            "bracketName": "Bagarre Top48",
+            "bracketId": 1554138,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30631,
+                    "playerTag": "Glaikit"
+                }
+            ]
+        },
+        {
+            "id": 40870051,
+            "entrant1Id": 8342309,
+            "entrant2Id": 8271728,
+            "entrant1Name": "RLB | Kins0",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8342309,
+            "loserId": 8271728,
+            "winnerName": "RLB | Kins0",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Bagarre Top8",
+            "bracketId": 1554139,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 40870065,
+            "entrant1Id": 8271728,
+            "entrant2Id": 8198304,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8198304,
+            "loserId": 8271728,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Bagarre Top8",
+            "bracketId": 1554139,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 36913946,
+            "entrant1Id": 7100219,
+            "entrant2Id": 7225265,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "KGSwe | Muren",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7100219,
+            "loserId": 7225265,
+            "winnerName": "Jah Ridin'",
+            "loserName": "KGSwe | Muren",
+            "bracketName": "Pools",
+            "bracketId": 1472588,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 850472,
+                    "playerTag": "Muren"
+                }
+            ]
+        },
+        {
+            "id": 36913943,
+            "entrant1Id": 7100219,
+            "entrant2Id": 7090292,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "MskJ",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7100219,
+            "loserId": 7090292,
+            "winnerName": "Jah Ridin'",
+            "loserName": "MskJ",
+            "bracketName": "Pools",
+            "bracketId": 1472588,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54732,
+                    "playerTag": "\u043foo\u043f"
+                }
+            ]
+        },
+        {
+            "id": 36913940,
+            "entrant1Id": 7100219,
+            "entrant2Id": 7229896,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Pafos",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7100219,
+            "loserId": 7229896,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Pafos",
+            "bracketName": "Pools",
+            "bracketId": 1472588,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 673902,
+                    "playerTag": "Pafos"
+                }
+            ]
+        },
+        {
+            "id": 36913937,
+            "entrant1Id": 7100219,
+            "entrant2Id": 7208995,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Norback",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7100219,
+            "loserId": 7208995,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Norback",
+            "bracketName": "Pools",
+            "bracketId": 1472588,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 322598,
+                    "playerTag": "Norback"
+                }
+            ]
+        },
+        {
+            "id": 36951724,
+            "entrant1Id": 7100219,
+            "entrant2Id": 7211902,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "abbearv",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7100219,
+            "loserId": 7211902,
+            "winnerName": "Jah Ridin'",
+            "loserName": "abbearv",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1472570,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1853889,
+                    "playerTag": "abbearv"
+                }
+            ]
+        },
+        {
+            "id": 36913934,
+            "entrant1Id": 7100219,
+            "entrant2Id": 7230232,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Stylo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7100219,
+            "loserId": 7230232,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Stylo",
+            "bracketName": "Pools",
+            "bracketId": 1472588,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1765304,
+                    "playerTag": "Stylo"
+                }
+            ]
+        },
+        {
+            "id": 36951718,
+            "entrant1Id": 7100219,
+            "entrant2Id": 7100292,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Mezzy",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7100219,
+            "loserId": 7100292,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Mezzy",
+            "bracketName": "Pro - Top 96",
+            "bracketId": 1472570,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 323610,
+                    "playerTag": "Mezzy"
+                }
+            ]
+        },
+        {
+            "id": 36913931,
+            "entrant1Id": 7100219,
+            "entrant2Id": 7131502,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Scarb",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7100219,
+            "loserId": 7131502,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Scarb",
+            "bracketName": "Pools",
+            "bracketId": 1472588,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30953,
+                    "playerTag": "Scarb"
+                }
+            ]
+        },
+        {
+            "id": 36956031,
+            "entrant1Id": 7100219,
+            "entrant2Id": 7120437,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7120437,
+            "loserId": 7100219,
+            "winnerName": "Professor Pro",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 36955902,
+            "entrant1Id": 7100219,
+            "entrant2Id": 7196631,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7196631,
+            "loserId": 7100219,
+            "winnerName": "Levingy",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 36956024,
+            "entrant1Id": 7100219,
+            "entrant2Id": 7094643,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "max",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7100219,
+            "loserId": 7094643,
+            "winnerName": "Jah Ridin'",
+            "loserName": "max",
+            "bracketName": "Pro - Top 48",
+            "bracketId": 1472571,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 818697,
+                    "playerTag": "max"
+                }
+            ]
+        },
+        {
+            "id": 36298276,
+            "entrant1Id": 6919142,
+            "entrant2Id": 6947839,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "NGNS | Schima",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6919142,
+            "loserId": 6947839,
+            "winnerName": "Jah Ridin'",
+            "loserName": "NGNS | Schima",
+            "bracketName": "Pools",
+            "bracketId": 1470125,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 374929,
+                    "playerTag": "Schima"
+                }
+            ]
+        },
+        {
+            "id": 36298273,
+            "entrant1Id": 6919142,
+            "entrant2Id": 6946523,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Pi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6919142,
+            "loserId": 6946523,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Pi",
+            "bracketName": "Pools",
+            "bracketId": 1470125,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54828,
+                    "playerTag": "Pi"
+                }
+            ]
+        },
+        {
+            "id": 36298270,
+            "entrant1Id": 6919142,
+            "entrant2Id": 7051017,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Lomo Cat",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6919142,
+            "loserId": 7051017,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Lomo Cat",
+            "bracketName": "Pools",
+            "bracketId": 1470125,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250790,
+                    "playerTag": "Lomo Cat"
+                }
+            ]
+        },
+        {
+            "id": 36298267,
+            "entrant1Id": 6919142,
+            "entrant2Id": 7050497,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Link69",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6919142,
+            "loserId": 7050497,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Link69",
+            "bracketName": "Pools",
+            "bracketId": 1470125,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 41164,
+                    "playerTag": "Link69"
+                }
+            ]
+        },
+        {
+            "id": 36298833,
+            "entrant1Id": 6919142,
+            "entrant2Id": 6918535,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "King",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6919142,
+            "loserId": 6918535,
+            "winnerName": "Jah Ridin'",
+            "loserName": "King",
+            "bracketName": "Top 96",
+            "bracketId": 1467110,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 796398,
+                    "playerTag": "King"
+                }
+            ]
+        },
+        {
+            "id": 36298264,
+            "entrant1Id": 6919142,
+            "entrant2Id": 6929408,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Team Henke | CrystalBeth",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6919142,
+            "loserId": 6929408,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Team Henke | CrystalBeth",
+            "bracketName": "Pools",
+            "bracketId": 1470125,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 139171,
+                    "playerTag": "CrystalBeth"
+                }
+            ]
+        },
+        {
+            "id": 36300218,
+            "entrant1Id": 6931970,
+            "entrant2Id": 6919142,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6931970,
+            "loserId": 6919142,
+            "winnerName": "PS | Trif",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 36298828,
+            "entrant1Id": 6919142,
+            "entrant2Id": 7023279,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Risc",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6919142,
+            "loserId": 7023279,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Risc",
+            "bracketName": "Top 96",
+            "bracketId": 1467110,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 358684,
+                    "playerTag": "Risc"
+                }
+            ]
+        },
+        {
+            "id": 36300345,
+            "entrant1Id": 6919142,
+            "entrant2Id": 6977439,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "skullbro",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6919142,
+            "loserId": 6977439,
+            "winnerName": "Jah Ridin'",
+            "loserName": "skullbro",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ]
+        },
+        {
+            "id": 36300211,
+            "entrant1Id": 6934064,
+            "entrant2Id": 6919142,
+            "entrant1Name": "PS | Makenshi",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6919142,
+            "loserId": 6934064,
+            "winnerName": "Jah Ridin'",
+            "loserName": "PS | Makenshi",
+            "bracketName": "Top 48",
+            "bracketId": 1473246,
+            "entrant1Players": [
+                {
+                    "playerId": 157306,
+                    "playerTag": "Makenshi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 36302138,
+            "entrant1Id": 7032342,
+            "entrant2Id": 6919142,
+            "entrant1Name": "NGNS | Kins0",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7032342,
+            "loserId": 6919142,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Top 8",
+            "bracketId": 1473245,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 36302136,
+            "entrant1Id": 6919142,
+            "entrant2Id": 6920817,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6919142,
+            "loserId": 6920817,
+            "winnerName": "Jah Ridin'",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Top 8",
+            "bracketId": 1473245,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 35641616,
+            "entrant1Id": 6773230,
+            "entrant2Id": 6783927,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "ALP | Yogurt",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6773230,
+            "loserId": 6783927,
+            "winnerName": "Jah Ridin'",
+            "loserName": "ALP | Yogurt",
+            "bracketName": "Pools",
+            "bracketId": 1458024,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 271486,
+                    "playerTag": "Yogurt"
+                }
+            ]
+        },
+        {
+            "id": 35641609,
+            "entrant1Id": 6773230,
+            "entrant2Id": 6900007,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Askeflink",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6773230,
+            "loserId": 6900007,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Askeflink",
+            "bracketName": "Pools",
+            "bracketId": 1458024,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4916,
+                    "playerTag": "Askeflink"
+                }
+            ]
+        },
+        {
+            "id": 35641601,
+            "entrant1Id": 6773230,
+            "entrant2Id": 6893009,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "NVZ",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6773230,
+            "loserId": 6893009,
+            "winnerName": "Jah Ridin'",
+            "loserName": "NVZ",
+            "bracketName": "Pools",
+            "bracketId": 1458024,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 280500,
+                    "playerTag": "NVZ"
+                }
+            ]
+        },
+        {
+            "id": 35641587,
+            "entrant1Id": 6773230,
+            "entrant2Id": 6897175,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Trut",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6773230,
+            "loserId": 6897175,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Trut",
+            "bracketName": "Pools",
+            "bracketId": 1458024,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 286435,
+                    "playerTag": "Trut"
+                }
+            ]
+        },
+        {
+            "id": 35641580,
+            "entrant1Id": 6773230,
+            "entrant2Id": 6772139,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Zorg",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6773230,
+            "loserId": 6772139,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Zorg",
+            "bracketName": "Pools",
+            "bracketId": 1458024,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1151911,
+                    "playerTag": "Zorg"
+                }
+            ]
+        },
+        {
+            "id": 35641573,
+            "entrant1Id": 6773230,
+            "entrant2Id": 6897126,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "chon",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6773230,
+            "loserId": 6897126,
+            "winnerName": "Jah Ridin'",
+            "loserName": "chon",
+            "bracketName": "Pools",
+            "bracketId": 1458024,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 544723,
+                    "playerTag": "chon"
+                }
+            ]
+        },
+        {
+            "id": 35644448,
+            "entrant1Id": 6843628,
+            "entrant2Id": 6773230,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6843628,
+            "loserId": 6773230,
+            "winnerName": "Pipsqueak",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Top 32",
+            "bracketId": 1458614,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 35642486,
+            "entrant1Id": 6773230,
+            "entrant2Id": 6880045,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Meatzorz",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6773230,
+            "loserId": 6880045,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Meatzorz",
+            "bracketName": "Top 96",
+            "bracketId": 1458050,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12327,
+                    "playerTag": "Meatzorz"
+                }
+            ]
+        },
+        {
+            "id": 35644510,
+            "entrant1Id": 6773230,
+            "entrant2Id": 6890230,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "SSP | Timi",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6773230,
+            "loserId": 6890230,
+            "winnerName": "Jah Ridin'",
+            "loserName": "SSP | Timi",
+            "bracketName": "Top 32",
+            "bracketId": 1458614,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6747,
+                    "playerTag": "Timi"
+                }
+            ]
+        },
+        {
+            "id": 35644441,
+            "entrant1Id": 6773230,
+            "entrant2Id": 6782640,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Levingy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6773230,
+            "loserId": 6782640,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Levingy",
+            "bracketName": "Top 32",
+            "bracketId": 1458614,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151304,
+                    "playerTag": "Levingy"
+                }
+            ]
+        },
+        {
+            "id": 35644090,
+            "entrant1Id": 6773230,
+            "entrant2Id": 6794981,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "skullbro",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6773230,
+            "loserId": 6794981,
+            "winnerName": "Jah Ridin'",
+            "loserName": "skullbro",
+            "bracketName": "Top 64",
+            "bracketId": 1458612,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ]
+        },
+        {
+            "id": 35653625,
+            "entrant1Id": 6773230,
+            "entrant2Id": 6867549,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Solobattle",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6867549,
+            "loserId": 6773230,
+            "winnerName": "Solobattle",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Top 8",
+            "bracketId": 1458055,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 219891,
+                    "playerTag": "Solobattle"
+                }
+            ]
+        },
+        {
+            "id": 34993751,
+            "entrant1Id": 6649628,
+            "entrant2Id": 6650562,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Velani",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649628,
+            "loserId": 6650562,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Velani",
+            "bracketName": "Pools",
+            "bracketId": 1438912,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 517638,
+                    "playerTag": "Velani"
+                }
+            ]
+        },
+        {
+            "id": 34993747,
+            "entrant1Id": 6649628,
+            "entrant2Id": 6690460,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Zepple",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649628,
+            "loserId": 6690460,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Zepple",
+            "bracketName": "Pools",
+            "bracketId": 1438912,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 456389,
+                    "playerTag": "Zepple"
+                }
+            ]
+        },
+        {
+            "id": 34993743,
+            "entrant1Id": 6649628,
+            "entrant2Id": 6733404,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "kenshu",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6649628,
+            "loserId": 6733404,
+            "winnerName": "Jah Ridin'",
+            "loserName": "kenshu",
+            "bracketName": "Pools",
+            "bracketId": 1438912,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2160310,
+                    "playerTag": "kenshu"
+                }
+            ]
+        },
+        {
+            "id": 34993739,
+            "entrant1Id": 6649628,
+            "entrant2Id": 6713576,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Zephyr",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649628,
+            "loserId": 6713576,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Zephyr",
+            "bracketName": "Pools",
+            "bracketId": 1438912,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4903,
+                    "playerTag": "Zephyr"
+                }
+            ]
+        },
+        {
+            "id": 34996719,
+            "entrant1Id": 6649628,
+            "entrant2Id": 6649610,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "Jim Morrison",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6649628,
+            "loserId": 6649610,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Jim Morrison",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5738,
+                    "playerTag": "Jim Morrison"
+                }
+            ]
+        },
+        {
+            "id": 34993735,
+            "entrant1Id": 6649628,
+            "entrant2Id": 6711753,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "UnityFTW",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649628,
+            "loserId": 6711753,
+            "winnerName": "Jah Ridin'",
+            "loserName": "UnityFTW",
+            "bracketName": "Pools",
+            "bracketId": 1438912,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2116271,
+                    "playerTag": "UnityFTW"
+                }
+            ]
+        },
+        {
+            "id": 34996690,
+            "entrant1Id": 6649628,
+            "entrant2Id": 6733299,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "lillbaskern",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649628,
+            "loserId": 6733299,
+            "winnerName": "Jah Ridin'",
+            "loserName": "lillbaskern",
+            "bracketName": "Fenris (top bracket)",
+            "bracketId": 1425630,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1352905,
+                    "playerTag": "lillbaskern"
+                }
+            ]
+        },
+        {
+            "id": 34998307,
+            "entrant1Id": 6649949,
+            "entrant2Id": 6649628,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649949,
+            "loserId": 6649628,
+            "winnerName": "TSM | Leffen",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 34998369,
+            "entrant1Id": 6649628,
+            "entrant2Id": 6654040,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "T3G | mayhem092",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649628,
+            "loserId": 6654040,
+            "winnerName": "Jah Ridin'",
+            "loserName": "T3G | mayhem092",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12872,
+                    "playerTag": "mayhem092"
+                }
+            ]
+        },
+        {
+            "id": 34993731,
+            "entrant1Id": 6649628,
+            "entrant2Id": 6651813,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "BandanaT",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6649628,
+            "loserId": 6651813,
+            "winnerName": "Jah Ridin'",
+            "loserName": "BandanaT",
+            "bracketName": "Pools",
+            "bracketId": 1438912,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 131063,
+                    "playerTag": "BandanaT"
+                }
+            ]
+        },
+        {
+            "id": 34998300,
+            "entrant1Id": 6649885,
+            "entrant2Id": 6649628,
+            "entrant1Name": "Rikzz",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6649628,
+            "loserId": 6649885,
+            "winnerName": "Jah Ridin'",
+            "loserName": "Rikzz",
+            "bracketName": "Fenris Bracket - Top 32",
+            "bracketId": 1442844,
+            "entrant1Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 35000257,
+            "entrant1Id": 6651818,
+            "entrant2Id": 6649628,
+            "entrant1Name": "Kins0",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6651818,
+            "loserId": 6649628,
+            "winnerName": "Kins0",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Fenris Bracket - Top 8",
+            "bracketId": 1442845,
+            "entrant1Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 35000255,
+            "entrant1Id": 6649628,
+            "entrant2Id": 6730773,
+            "entrant1Name": "Jah Ridin'",
+            "entrant2Name": "SSP | Timi",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6649628,
+            "loserId": 6730773,
+            "winnerName": "Jah Ridin'",
+            "loserName": "SSP | Timi",
+            "bracketName": "Fenris Bracket - Top 8",
+            "bracketId": 1442845,
+            "entrant1Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6747,
+                    "playerTag": "Timi"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "max",
+        "kins0",
+        "raoul",
+        "mint",
+        "fuzzyness",
+        "mahie",
+        "pipsqueak",
+        "levingy",
+        "noxxa",
+        "sharp",
+        "meady",
+        "abbearv",
+        "max",
+        "schima",
+        "king",
+        "skullbro",
+        "makenshi",
+        "frenzy",
+        "yogurt",
+        "timi",
+        "levingy",
+        "skullbro",
+        "velani",
+        "jim morrison",
+        "mayhem092",
+        "rikzz",
+        "timi"
+    ],
+    "L": [
+        "leffen",
+        "professor pro",
+        "trif",
+        "solobattle",
+        "leffen",
+        "mint",
+        "professor pro",
+        "nicki",
+        "kins0",
+        "frenzy",
+        "professor pro",
+        "levingy",
+        "trif",
+        "kins0",
+        "pipsqueak",
+        "solobattle",
+        "leffen",
+        "kins0"
+    ]
+}
