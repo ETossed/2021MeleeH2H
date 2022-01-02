@@ -1,0 +1,934 @@
+{
+    "MPGR": 200,
+    "Events": [
+        644621,
+        573828,
+        598932,
+        554630,
+        606697
+    ],
+    "Sets": [
+        {
+            "id": 43224434,
+            "entrant1Id": 8955030,
+            "entrant2Id": 8892143,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "Axe",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8892143,
+            "loserId": 8955030,
+            "winnerName": "Axe",
+            "loserName": "IMP | Ben",
+            "bracketName": "Group Stage",
+            "bracketId": 1635975,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 43224432,
+            "entrant1Id": 8955030,
+            "entrant2Id": 8701092,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "Faceroll",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8701092,
+            "loserId": 8955030,
+            "winnerName": "Faceroll",
+            "loserName": "IMP | Ben",
+            "bracketName": "Group Stage",
+            "bracketId": 1635975,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 43224429,
+            "entrant1Id": 8712496,
+            "entrant2Id": 8955030,
+            "entrant1Name": "Trif",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712496,
+            "loserId": 8955030,
+            "winnerName": "Trif",
+            "loserName": "IMP | Ben",
+            "bracketName": "Group Stage",
+            "bracketId": 1635975,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 43224426,
+            "entrant1Id": 8774880,
+            "entrant2Id": 8955030,
+            "entrant1Name": "Sora/Joshman",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8774880,
+            "loserId": 8955030,
+            "winnerName": "Sora/Joshman",
+            "loserName": "IMP | Ben",
+            "bracketName": "Group Stage",
+            "bracketId": 1635975,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 40437596,
+            "entrant1Id": 7469532,
+            "entrant2Id": 7471789,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7469532,
+            "loserId": 7471789,
+            "winnerName": "Hungrybox",
+            "loserName": "IMP | Ben",
+            "bracketName": "Top 24",
+            "bracketId": 1547385,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 40437627,
+            "entrant1Id": 7471789,
+            "entrant2Id": 7484131,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "Aspero | Logan",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7484131,
+            "loserId": 7471789,
+            "winnerName": "Aspero | Logan",
+            "loserName": "IMP | Ben",
+            "bracketName": "Top 24",
+            "bracketId": 1547385,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 40415927,
+            "entrant1Id": 7484527,
+            "entrant2Id": 7471789,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7471789,
+            "loserId": 7484527,
+            "winnerName": "IMP | Ben",
+            "loserName": "CG | Jflex",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 40415925,
+            "entrant1Id": 7471789,
+            "entrant2Id": 7470910,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "Pulse | Tyler Swift",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471789,
+            "loserId": 7470910,
+            "winnerName": "IMP | Ben",
+            "loserName": "Pulse | Tyler Swift",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 49131,
+                    "playerTag": "Swift"
+                }
+            ]
+        },
+        {
+            "id": 40415920,
+            "entrant1Id": 7471789,
+            "entrant2Id": 7484598,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "Dawson",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7471789,
+            "loserId": 7484598,
+            "winnerName": "IMP | Ben",
+            "loserName": "Dawson",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 147811,
+                    "playerTag": "Dawson"
+                }
+            ]
+        },
+        {
+            "id": 40414113,
+            "entrant1Id": 7471789,
+            "entrant2Id": 7484523,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "eve",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7471789,
+            "loserId": 7484523,
+            "winnerName": "IMP | Ben",
+            "loserName": "eve",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547328,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 49711,
+                    "playerTag": "eve"
+                }
+            ]
+        },
+        {
+            "id": 40414111,
+            "entrant1Id": 7471789,
+            "entrant2Id": 7471735,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "GDubs",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471789,
+            "loserId": 7471735,
+            "winnerName": "IMP | Ben",
+            "loserName": "GDubs",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547328,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 62309,
+                    "playerTag": "GDubs"
+                }
+            ]
+        },
+        {
+            "id": 40414107,
+            "entrant1Id": 7471789,
+            "entrant2Id": 7896447,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "zahirsanti05",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471789,
+            "loserId": 7896447,
+            "winnerName": "IMP | Ben",
+            "loserName": "zahirsanti05",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547328,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1189020,
+                    "playerTag": "zahirsanti05"
+                }
+            ]
+        },
+        {
+            "id": 39687733,
+            "entrant1Id": 7913682,
+            "entrant2Id": 7914952,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7913682,
+            "loserId": 7914952,
+            "winnerName": "LG | Ginger",
+            "loserName": "IMP | Ben",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 39687860,
+            "entrant1Id": 7913374,
+            "entrant2Id": 7914952,
+            "entrant1Name": "Polish",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7914952,
+            "loserId": 7913374,
+            "winnerName": "IMP | Ben",
+            "loserName": "Polish",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 39687859,
+            "entrant1Id": 7914952,
+            "entrant2Id": 7994827,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "Drephen",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7914952,
+            "loserId": 7994827,
+            "winnerName": "IMP | Ben",
+            "loserName": "Drephen",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6839,
+                    "playerTag": "Drephen"
+                }
+            ]
+        },
+        {
+            "id": 39687730,
+            "entrant1Id": 7913682,
+            "entrant2Id": 7914952,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7913682,
+            "loserId": 7914952,
+            "winnerName": "LG | Ginger",
+            "loserName": "IMP | Ben",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 39687857,
+            "entrant1Id": 7914952,
+            "entrant2Id": 7914330,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "GHQ | PEP | Zamu",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7914952,
+            "loserId": 7914330,
+            "winnerName": "IMP | Ben",
+            "loserName": "GHQ | PEP | Zamu",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 39687727,
+            "entrant1Id": 7914952,
+            "entrant2Id": 7994827,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "Drephen",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7914952,
+            "loserId": 7994827,
+            "winnerName": "IMP | Ben",
+            "loserName": "Drephen",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6839,
+                    "playerTag": "Drephen"
+                }
+            ]
+        },
+        {
+            "id": 39687720,
+            "entrant1Id": 7914952,
+            "entrant2Id": 7914693,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7914952,
+            "loserId": 7914693,
+            "winnerName": "IMP | Ben",
+            "loserName": "Agency | Wally",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 39687706,
+            "entrant1Id": 7914952,
+            "entrant2Id": 7930393,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "TechDeath",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7914952,
+            "loserId": 7930393,
+            "winnerName": "IMP | Ben",
+            "loserName": "TechDeath",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7971,
+                    "playerTag": "TechDeath"
+                }
+            ]
+        },
+        {
+            "id": 39672322,
+            "entrant1Id": 7914952,
+            "entrant2Id": 8028414,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "JSP",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7914952,
+            "loserId": 8028414,
+            "winnerName": "IMP | Ben",
+            "loserName": "JSP",
+            "bracketName": "Pools",
+            "bracketId": 1537831,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65873,
+                    "playerTag": "JSP"
+                }
+            ]
+        },
+        {
+            "id": 39672318,
+            "entrant1Id": 7914952,
+            "entrant2Id": 8029222,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "JPAULMARRYME",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7914952,
+            "loserId": 8029222,
+            "winnerName": "IMP | Ben",
+            "loserName": "JPAULMARRYME",
+            "bracketName": "Pools",
+            "bracketId": 1537831,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2391255,
+                    "playerTag": "JPAULMARRYME"
+                }
+            ]
+        },
+        {
+            "id": 41934619,
+            "entrant1Id": 8575458,
+            "entrant2Id": 8575584,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575458,
+            "loserId": 8575584,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "IMP | Ben",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 41934615,
+            "entrant1Id": 8575574,
+            "entrant2Id": 8575584,
+            "entrant1Name": "bc | Magi",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575584,
+            "loserId": 8575574,
+            "winnerName": "IMP | Ben",
+            "loserName": "bc | Magi",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 41914616,
+            "entrant1Id": 8575584,
+            "entrant2Id": 8575599,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "lloD",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575599,
+            "loserId": 8575584,
+            "winnerName": "lloD",
+            "loserName": "IMP | Ben",
+            "bracketName": "Group Stage",
+            "bracketId": 1607845,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ]
+        },
+        {
+            "id": 41914613,
+            "entrant1Id": 8575429,
+            "entrant2Id": 8575584,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575584,
+            "loserId": 8575429,
+            "winnerName": "IMP | Ben",
+            "loserName": "Envy | Wizzrobe",
+            "bracketName": "Group Stage",
+            "bracketId": 1607845,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 41914612,
+            "entrant1Id": 8575456,
+            "entrant2Id": 8575584,
+            "entrant1Name": "GG | n0ne/ Bond / wizzyfan109",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575456,
+            "loserId": 8575584,
+            "winnerName": "GG | n0ne/ Bond / wizzyfan109",
+            "loserName": "IMP | Ben",
+            "bracketName": "Group Stage",
+            "bracketId": 1607845,
+            "entrant1Players": [
+                {
+                    "playerId": 4107,
+                    "playerTag": "n0ne/ Bond / wizzyfan109"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 39634483,
+            "entrant1Id": 8061545,
+            "entrant2Id": 8041649,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8061545,
+            "loserId": 8041649,
+            "winnerName": "LG | Ginger",
+            "loserName": "IMP | Ben",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 39634610,
+            "entrant1Id": 8041649,
+            "entrant2Id": 8061182,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "GHQ | PEP | Zamu",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8061182,
+            "loserId": 8041649,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "IMP | Ben",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 39634480,
+            "entrant1Id": 8041649,
+            "entrant2Id": 8059521,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "Ober",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8041649,
+            "loserId": 8059521,
+            "winnerName": "IMP | Ben",
+            "loserName": "Ober",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30197,
+                    "playerTag": "Ober"
+                }
+            ]
+        },
+        {
+            "id": 39634473,
+            "entrant1Id": 8041649,
+            "entrant2Id": 8045503,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "Pleeba",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8041649,
+            "loserId": 8045503,
+            "winnerName": "IMP | Ben",
+            "loserName": "Pleeba",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4057,
+                    "playerTag": "Pleeba"
+                }
+            ]
+        },
+        {
+            "id": 39634459,
+            "entrant1Id": 8041649,
+            "entrant2Id": 8055093,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "Phalanx",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8041649,
+            "loserId": 8055093,
+            "winnerName": "IMP | Ben",
+            "loserName": "Phalanx",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12097,
+                    "playerTag": "Phalanx"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "jflex",
+        "swift",
+        "polish",
+        "drephen",
+        "zamu",
+        "drephen",
+        "wally",
+        "magi",
+        "wizzrobe"
+    ],
+    "L": [
+        "axe",
+        "faceroll",
+        "trif",
+        "sora/joshman",
+        "hungrybox",
+        "logan",
+        "ginger",
+        "ginger",
+        "gahtzu",
+        "llod",
+        "n0ne/ bond / wizzyfan109",
+        "ginger",
+        "zamu"
+    ]
+}

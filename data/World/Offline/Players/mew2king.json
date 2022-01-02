@@ -1,0 +1,160 @@
+{
+    "MPGR": 10,
+    "Events": [
+        644621,
+        633485
+    ],
+    "Sets": [
+        {
+            "id": 43289106,
+            "entrant1Id": 8712518,
+            "entrant2Id": 8892150,
+            "entrant1Name": "Fly | KoDoRiN",
+            "entrant2Name": "Mew2King",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712518,
+            "loserId": 8892150,
+            "winnerName": "Fly | KoDoRiN",
+            "loserName": "Mew2King",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1003,
+                    "playerTag": "Mew2King"
+                }
+            ]
+        },
+        {
+            "id": 43219454,
+            "entrant1Id": 8712490,
+            "entrant2Id": 8892150,
+            "entrant1Name": "hp",
+            "entrant2Name": "Mew2King",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8892150,
+            "loserId": 8712490,
+            "winnerName": "Mew2King",
+            "loserName": "hp",
+            "bracketName": "Group Stage",
+            "bracketId": 1617945,
+            "entrant1Players": [
+                {
+                    "playerId": 276942,
+                    "playerTag": "hp"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1003,
+                    "playerTag": "Mew2King"
+                }
+            ]
+        },
+        {
+            "id": 43219450,
+            "entrant1Id": 8892150,
+            "entrant2Id": 8923606,
+            "entrant1Name": "Mew2King",
+            "entrant2Name": "Aura",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8892150,
+            "loserId": 8923606,
+            "winnerName": "Mew2King",
+            "loserName": "Aura",
+            "bracketName": "Group Stage",
+            "bracketId": 1617945,
+            "entrant1Players": [
+                {
+                    "playerId": 1003,
+                    "playerTag": "Mew2King"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46349,
+                    "playerTag": "Aura"
+                }
+            ]
+        },
+        {
+            "id": 43219447,
+            "entrant1Id": 8849885,
+            "entrant2Id": 8892150,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "Mew2King",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8849885,
+            "loserId": 8892150,
+            "winnerName": "Wizzrobe",
+            "loserName": "Mew2King",
+            "bracketName": "Group Stage",
+            "bracketId": 1617945,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1003,
+                    "playerTag": "Mew2King"
+                }
+            ]
+        },
+        {
+            "id": 43219445,
+            "entrant1Id": 8712503,
+            "entrant2Id": 8892150,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Mew2King",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8892150,
+            "loserId": 8712503,
+            "winnerName": "Mew2King",
+            "loserName": "Frenzy",
+            "bracketName": "Group Stage",
+            "bracketId": 1617945,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1003,
+                    "playerTag": "Mew2King"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "aura",
+        "frenzy",
+        "jflex",
+        "mekk"
+    ],
+    "L": [
+        "kodorin",
+        "wizzrobe",
+        "krudo"
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "MPGR": 52,
+    "Events": [
+        585641,
+        554629
+    ],
+    "Sets": [
+        {
+            "id": 41711567,
+            "entrant1Id": 8552233,
+            "entrant2Id": 8552235,
+            "entrant1Name": "Tai",
+            "entrant2Name": "billybopeep",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552233,
+            "loserId": 8552235,
+            "winnerName": "Tai",
+            "loserName": "billybopeep",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 1084,
+                    "playerTag": "Tai"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 135157,
+                    "playerTag": "billybopeep"
+                }
+            ]
+        },
+        {
+            "id": 41680477,
+            "entrant1Id": 8552220,
+            "entrant2Id": 8552235,
+            "entrant1Name": "Medz",
+            "entrant2Name": "billybopeep",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552220,
+            "loserId": 8552235,
+            "winnerName": "Medz",
+            "loserName": "billybopeep",
+            "bracketName": "Group Stage",
+            "bracketId": 1452632,
+            "entrant1Players": [
+                {
+                    "playerId": 40476,
+                    "playerTag": "Medz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 135157,
+                    "playerTag": "billybopeep"
+                }
+            ]
+        },
+        {
+            "id": 41680475,
+            "entrant1Id": 8552235,
+            "entrant2Id": 8552216,
+            "entrant1Name": "billybopeep",
+            "entrant2Name": "Captain Faceroll",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552216,
+            "loserId": 8552235,
+            "winnerName": "Captain Faceroll",
+            "loserName": "billybopeep",
+            "bracketName": "Group Stage",
+            "bracketId": 1452632,
+            "entrant1Players": [
+                {
+                    "playerId": 135157,
+                    "playerTag": "billybopeep"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 41680472,
+            "entrant1Id": 8552184,
+            "entrant2Id": 8552235,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "billybopeep",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552184,
+            "loserId": 8552235,
+            "winnerName": "Panda | Plup",
+            "loserName": "billybopeep",
+            "bracketName": "Group Stage",
+            "bracketId": 1452632,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 135157,
+                    "playerTag": "billybopeep"
+                }
+            ]
+        }
+    ],
+    "W": [],
+    "L": [
+        "tai",
+        "medz",
+        "faceroll",
+        "plup"
+    ]
+}

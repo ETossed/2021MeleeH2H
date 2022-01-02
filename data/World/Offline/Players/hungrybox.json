@@ -1,0 +1,1209 @@
+{
+    "MPGR": 1,
+    "Events": [
+        596002,
+        635845,
+        644621,
+        573828,
+        554630,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 38962552,
+            "entrant1Id": 7731686,
+            "entrant2Id": 7731728,
+            "entrant1Name": "Zain",
+            "entrant2Name": "Liquid | Hungrybox",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7731686,
+            "loserId": 7731728,
+            "winnerName": "Zain",
+            "loserName": "Liquid | Hungrybox",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 38962584,
+            "entrant1Id": 7731728,
+            "entrant2Id": 7731696,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "C9 | Mang0",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731696,
+            "loserId": 7731728,
+            "winnerName": "C9 | Mang0",
+            "loserName": "Liquid | Hungrybox",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1000,
+                    "playerTag": "Mang0"
+                }
+            ]
+        },
+        {
+            "id": 38962551,
+            "entrant1Id": 7731728,
+            "entrant2Id": 7731718,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "Panda | iBDW",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7731728,
+            "loserId": 7731718,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "Panda | iBDW",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ]
+        },
+        {
+            "id": 38962548,
+            "entrant1Id": 7731710,
+            "entrant2Id": 7731728,
+            "entrant1Name": "VGBC RB | aMSa",
+            "entrant2Name": "Liquid | Hungrybox",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731728,
+            "loserId": 7731710,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "VGBC RB | aMSa",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 1021,
+                    "playerTag": "aMSa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 38943931,
+            "entrant1Id": 7731742,
+            "entrant2Id": 7731728,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "Liquid | Hungrybox",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7731742,
+            "loserId": 7731728,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "Liquid | Hungrybox",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1534193,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 38942236,
+            "entrant1Id": 7731744,
+            "entrant2Id": 7731728,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Liquid | Hungrybox",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731728,
+            "loserId": 7731744,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "2saint",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1534193,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 38884747,
+            "entrant1Id": 7731728,
+            "entrant2Id": 7754567,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "KoDoRiN",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7731728,
+            "loserId": 7754567,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "KoDoRiN",
+            "bracketName": "Group Stage",
+            "bracketId": 1534196,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 38884744,
+            "entrant1Id": 7731696,
+            "entrant2Id": 7731728,
+            "entrant1Name": "C9 | Mang0",
+            "entrant2Name": "Liquid | Hungrybox",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7731696,
+            "loserId": 7731728,
+            "winnerName": "C9 | Mang0",
+            "loserName": "Liquid | Hungrybox",
+            "bracketName": "Group Stage",
+            "bracketId": 1534196,
+            "entrant1Players": [
+                {
+                    "playerId": 1000,
+                    "playerTag": "Mang0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 38884743,
+            "entrant1Id": 7731716,
+            "entrant2Id": 7731728,
+            "entrant1Name": "EMG | moky",
+            "entrant2Name": "Liquid | Hungrybox",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731728,
+            "loserId": 7731716,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "EMG | moky",
+            "bracketName": "Group Stage",
+            "bracketId": 1534196,
+            "entrant1Players": [
+                {
+                    "playerId": 5080,
+                    "playerTag": "moky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 43130460,
+            "entrant1Id": 8879483,
+            "entrant2Id": 8879473,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "Liquid | Hungrybox",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8879483,
+            "loserId": 8879473,
+            "winnerName": "TSM | Leffen",
+            "loserName": "Liquid | Hungrybox",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 43130426,
+            "entrant1Id": 8879488,
+            "entrant2Id": 8879473,
+            "entrant1Name": "VGBC RB | aMSa",
+            "entrant2Name": "Liquid | Hungrybox",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8879488,
+            "loserId": 8879473,
+            "winnerName": "VGBC RB | aMSa",
+            "loserName": "Liquid | Hungrybox",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 1021,
+                    "playerTag": "aMSa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 43130458,
+            "entrant1Id": 8879473,
+            "entrant2Id": 8879543,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "Free Palestine",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8879473,
+            "loserId": 8879543,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "Free Palestine",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 55110,
+                    "playerTag": "Free Palestine"
+                }
+            ]
+        },
+        {
+            "id": 43109181,
+            "entrant1Id": 8879473,
+            "entrant2Id": 8879501,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8879473,
+            "loserId": 8879501,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "LG | Ginger",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1637746,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 43039841,
+            "entrant1Id": 8879467,
+            "entrant2Id": 8879473,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Liquid | Hungrybox",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8879467,
+            "loserId": 8879473,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Liquid | Hungrybox",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637738,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 43039840,
+            "entrant1Id": 8879519,
+            "entrant2Id": 8879473,
+            "entrant1Name": "Pulse | Tyler Swift",
+            "entrant2Name": "Liquid | Hungrybox",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879473,
+            "loserId": 8879519,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "Pulse | Tyler Swift",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637738,
+            "entrant1Players": [
+                {
+                    "playerId": 49131,
+                    "playerTag": "Swift"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 43039838,
+            "entrant1Id": 8879473,
+            "entrant2Id": 8879513,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8879473,
+            "loserId": 8879513,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "Pipsqueak",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637738,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 43289060,
+            "entrant1Id": 8849885,
+            "entrant2Id": 8712533,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "Hungrybox",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8849885,
+            "loserId": 8712533,
+            "winnerName": "Wizzrobe",
+            "loserName": "Hungrybox",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 43289124,
+            "entrant1Id": 8712533,
+            "entrant2Id": 8712529,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "Polish",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712529,
+            "loserId": 8712533,
+            "winnerName": "Polish",
+            "loserName": "Hungrybox",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ]
+        },
+        {
+            "id": 43289057,
+            "entrant1Id": 8712533,
+            "entrant2Id": 8892146,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "Magi",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712533,
+            "loserId": 8892146,
+            "winnerName": "Hungrybox",
+            "loserName": "Magi",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 43219573,
+            "entrant1Id": 8712533,
+            "entrant2Id": 8712516,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712533,
+            "loserId": 8712516,
+            "winnerName": "Hungrybox",
+            "loserName": "Fiction",
+            "bracketName": "Group Stage",
+            "bracketId": 1635971,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 43219571,
+            "entrant1Id": 8712533,
+            "entrant2Id": 8712505,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "Nicki",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712533,
+            "loserId": 8712505,
+            "winnerName": "Hungrybox",
+            "loserName": "Nicki",
+            "bracketName": "Group Stage",
+            "bracketId": 1635971,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ]
+        },
+        {
+            "id": 43219569,
+            "entrant1Id": 8712533,
+            "entrant2Id": 8955022,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "MF | Sock",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712533,
+            "loserId": 8955022,
+            "winnerName": "Hungrybox",
+            "loserName": "MF | Sock",
+            "bracketName": "Group Stage",
+            "bracketId": 1635971,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 43219567,
+            "entrant1Id": 8712533,
+            "entrant2Id": 8892147,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "Entropy | Luigi Ka-Master",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712533,
+            "loserId": 8892147,
+            "winnerName": "Hungrybox",
+            "loserName": "Entropy | Luigi Ka-Master",
+            "bracketName": "Group Stage",
+            "bracketId": 1635971,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27353,
+                    "playerTag": "Luigi Ka-Master"
+                }
+            ]
+        },
+        {
+            "id": 40465090,
+            "entrant1Id": 7469671,
+            "entrant2Id": 7469532,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "Hungrybox",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7469671,
+            "loserId": 7469532,
+            "winnerName": "Panda | Plup",
+            "loserName": "Hungrybox",
+            "bracketName": "Top 8",
+            "bracketId": 1547386,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 40465089,
+            "entrant1Id": 7485834,
+            "entrant2Id": 7469532,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Hungrybox",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7469532,
+            "loserId": 7485834,
+            "winnerName": "Hungrybox",
+            "loserName": "SFAT",
+            "bracketName": "Top 8",
+            "bracketId": 1547386,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 40465072,
+            "entrant1Id": 7469532,
+            "entrant2Id": 7471573,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "iBDW",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7471573,
+            "loserId": 7469532,
+            "winnerName": "iBDW",
+            "loserName": "Hungrybox",
+            "bracketName": "Top 8",
+            "bracketId": 1547386,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ]
+        },
+        {
+            "id": 40465088,
+            "entrant1Id": 7469532,
+            "entrant2Id": 7471382,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "Wizzrobe",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7469532,
+            "loserId": 7471382,
+            "winnerName": "Hungrybox",
+            "loserName": "Wizzrobe",
+            "bracketName": "Top 8",
+            "bracketId": 1547386,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ]
+        },
+        {
+            "id": 40437596,
+            "entrant1Id": 7469532,
+            "entrant2Id": 7471789,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7469532,
+            "loserId": 7471789,
+            "winnerName": "Hungrybox",
+            "loserName": "IMP | Ben",
+            "bracketName": "Top 24",
+            "bracketId": 1547385,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 40415926,
+            "entrant1Id": 7469532,
+            "entrant2Id": 7484236,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "GHQ | HSTV | Zamu",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7469532,
+            "loserId": 7484236,
+            "winnerName": "Hungrybox",
+            "loserName": "GHQ | HSTV | Zamu",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 40415922,
+            "entrant1Id": 7469532,
+            "entrant2Id": 7484260,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "Eggy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7469532,
+            "loserId": 7484260,
+            "winnerName": "Hungrybox",
+            "loserName": "Eggy",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ]
+        },
+        {
+            "id": 40415914,
+            "entrant1Id": 7469532,
+            "entrant2Id": 7470985,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "Pulse | BZimm",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7469532,
+            "loserId": 7470985,
+            "winnerName": "Hungrybox",
+            "loserName": "Pulse | BZimm",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 396849,
+                    "playerTag": "BZimm"
+                }
+            ]
+        },
+        {
+            "id": 40413878,
+            "entrant1Id": 7469532,
+            "entrant2Id": 7471935,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "Blandeezy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7469532,
+            "loserId": 7471935,
+            "winnerName": "Hungrybox",
+            "loserName": "Blandeezy",
+            "bracketName": "R1 Pools",
+            "bracketId": 1491225,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7502,
+                    "playerTag": "Blandeezy"
+                }
+            ]
+        },
+        {
+            "id": 40413876,
+            "entrant1Id": 7469532,
+            "entrant2Id": 7958935,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "Unoriginal",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7469532,
+            "loserId": 7958935,
+            "winnerName": "Hungrybox",
+            "loserName": "Unoriginal",
+            "bracketName": "R1 Pools",
+            "bracketId": 1491225,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36542,
+                    "playerTag": "Unoriginal"
+                }
+            ]
+        },
+        {
+            "id": 40413872,
+            "entrant1Id": 7469532,
+            "entrant2Id": 7533617,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "TheDoctorJR",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7469532,
+            "loserId": 7533617,
+            "winnerName": "Hungrybox",
+            "loserName": "TheDoctorJR",
+            "bracketName": "R1 Pools",
+            "bracketId": 1491225,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 62513,
+                    "playerTag": "TheDoctorJR"
+                }
+            ]
+        },
+        {
+            "id": 41934626,
+            "entrant1Id": 8575569,
+            "entrant2Id": 8575424,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "Panda | iBDW",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575424,
+            "loserId": 8575569,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Liquid | Hungrybox",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ]
+        },
+        {
+            "id": 41934593,
+            "entrant1Id": 8575422,
+            "entrant2Id": 8575569,
+            "entrant1Name": "Zain",
+            "entrant2Name": "Liquid | Hungrybox",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8575422,
+            "loserId": 8575569,
+            "winnerName": "Zain",
+            "loserName": "Liquid | Hungrybox",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 41934624,
+            "entrant1Id": 8575569,
+            "entrant2Id": 8575599,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "lloD",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8575569,
+            "loserId": 8575599,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "lloD",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ]
+        },
+        {
+            "id": 41934590,
+            "entrant1Id": 8575456,
+            "entrant2Id": 8575569,
+            "entrant1Name": "GG | n0ne/ Bond / wizzyfan109",
+            "entrant2Name": "Liquid | Hungrybox",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575569,
+            "loserId": 8575456,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "GG | n0ne/ Bond / wizzyfan109",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 4107,
+                    "playerTag": "n0ne/ Bond / wizzyfan109"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 41904057,
+            "entrant1Id": 8575569,
+            "entrant2Id": 8575435,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8575569,
+            "loserId": 8575435,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "LG | Ginger",
+            "bracketName": "Group Stage",
+            "bracketId": 1607844,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 41904055,
+            "entrant1Id": 8575569,
+            "entrant2Id": 8575574,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "bc | Magi",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575569,
+            "loserId": 8575574,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "bc | Magi",
+            "bracketName": "Group Stage",
+            "bracketId": 1607844,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 41904053,
+            "entrant1Id": 8575569,
+            "entrant2Id": 8575589,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "Polish",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575589,
+            "loserId": 8575569,
+            "winnerName": "Polish",
+            "loserName": "Liquid | Hungrybox",
+            "bracketName": "Group Stage",
+            "bracketId": 1607844,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "ibdw",
+        "amsa",
+        "2saint",
+        "kodorin",
+        "moky",
+        "free palestine",
+        "ginger",
+        "swift",
+        "pipsqueak",
+        "magi",
+        "fiction",
+        "nicki",
+        "sock",
+        "luigi ka-master",
+        "sfat",
+        "wizzrobe",
+        "ben",
+        "zamu",
+        "eggy",
+        "llod",
+        "n0ne/ bond / wizzyfan109",
+        "ginger",
+        "magi",
+        "sdj",
+        "smashdaddy",
+        "s2j",
+        "kodorin",
+        "kodorin"
+    ],
+    "L": [
+        "zain",
+        "mang0",
+        "wizzrobe",
+        "mang0",
+        "leffen",
+        "amsa",
+        "ibdw",
+        "wizzrobe",
+        "polish",
+        "plup",
+        "ibdw",
+        "ibdw",
+        "zain",
+        "polish",
+        "wizzrobe",
+        "wizzrobe"
+    ]
+}

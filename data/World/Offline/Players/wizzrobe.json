@@ -1,0 +1,1209 @@
+{
+    "MPGR": 5,
+    "Events": [
+        596002,
+        635845,
+        644621,
+        573828,
+        554630,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 38962581,
+            "entrant1Id": 7731707,
+            "entrant2Id": 7731742,
+            "entrant1Name": "Panda RB | Plup",
+            "entrant2Name": "Envy | Wizzrobe",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7731707,
+            "loserId": 7731742,
+            "winnerName": "Panda RB | Plup",
+            "loserName": "Envy | Wizzrobe",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ]
+        },
+        {
+            "id": 38962579,
+            "entrant1Id": 7731742,
+            "entrant2Id": 7731735,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "Tempo | Axe",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7731742,
+            "loserId": 7731735,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "Tempo | Axe",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 38962549,
+            "entrant1Id": 7731742,
+            "entrant2Id": 7731718,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "Panda | iBDW",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731718,
+            "loserId": 7731742,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Envy | Wizzrobe",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ]
+        },
+        {
+            "id": 38962575,
+            "entrant1Id": 7731742,
+            "entrant2Id": 7731714,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7731742,
+            "loserId": 7731714,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 38943931,
+            "entrant1Id": 7731742,
+            "entrant2Id": 7731728,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "Liquid | Hungrybox",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7731742,
+            "loserId": 7731728,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "Liquid | Hungrybox",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1534193,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 38899943,
+            "entrant1Id": 7731742,
+            "entrant2Id": 7731714,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7731742,
+            "loserId": 7731714,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Group Stage",
+            "bracketId": 1534197,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 38899941,
+            "entrant1Id": 7731742,
+            "entrant2Id": 7731723,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "Brotherhood | Aklo",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7731742,
+            "loserId": 7731723,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "Brotherhood | Aklo",
+            "bracketName": "Group Stage",
+            "bracketId": 1534197,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ]
+        },
+        {
+            "id": 38899939,
+            "entrant1Id": 7731742,
+            "entrant2Id": 7731730,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "PEP | LSD",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7731742,
+            "loserId": 7731730,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "PEP | LSD",
+            "bracketName": "Group Stage",
+            "bracketId": 1534197,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 43130463,
+            "entrant1Id": 8879471,
+            "entrant2Id": 8880094,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "C9 | Mang0",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8880094,
+            "loserId": 8879471,
+            "winnerName": "C9 | Mang0",
+            "loserName": "Envy | Wizzrobe",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1000,
+                    "playerTag": "Mang0"
+                }
+            ]
+        },
+        {
+            "id": 43130461,
+            "entrant1Id": 8879488,
+            "entrant2Id": 8879471,
+            "entrant1Name": "VGBC RB | aMSa",
+            "entrant2Name": "Envy | Wizzrobe",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879471,
+            "loserId": 8879488,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "VGBC RB | aMSa",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 1021,
+                    "playerTag": "aMSa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ]
+        },
+        {
+            "id": 43130459,
+            "entrant1Id": 8879471,
+            "entrant2Id": 8879510,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "bc | Magi",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8879471,
+            "loserId": 8879510,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "bc | Magi",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 43130429,
+            "entrant1Id": 8879471,
+            "entrant2Id": 8880094,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "C9 | Mang0",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8880094,
+            "loserId": 8879471,
+            "winnerName": "C9 | Mang0",
+            "loserName": "Envy | Wizzrobe",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1000,
+                    "playerTag": "Mang0"
+                }
+            ]
+        },
+        {
+            "id": 43130455,
+            "entrant1Id": 8879471,
+            "entrant2Id": 8879501,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8879471,
+            "loserId": 8879501,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "LG | Ginger",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 43040414,
+            "entrant1Id": 8879483,
+            "entrant2Id": 8879471,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "Envy | Wizzrobe",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879471,
+            "loserId": 8879483,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "TSM | Leffen",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637737,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ]
+        },
+        {
+            "id": 43040413,
+            "entrant1Id": 8879538,
+            "entrant2Id": 8879471,
+            "entrant1Name": "Mango's Friend | null",
+            "entrant2Name": "Envy | Wizzrobe",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879471,
+            "loserId": 8879538,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "Mango's Friend | null",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637737,
+            "entrant1Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ]
+        },
+        {
+            "id": 43040411,
+            "entrant1Id": 8879471,
+            "entrant2Id": 8879510,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "bc | Magi",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879510,
+            "loserId": 8879471,
+            "winnerName": "bc | Magi",
+            "loserName": "Envy | Wizzrobe",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637737,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 43289063,
+            "entrant1Id": 8712510,
+            "entrant2Id": 8849885,
+            "entrant1Name": "Plup",
+            "entrant2Name": "Wizzrobe",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712510,
+            "loserId": 8849885,
+            "winnerName": "Plup",
+            "loserName": "Wizzrobe",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ]
+        },
+        {
+            "id": 43289062,
+            "entrant1Id": 8849885,
+            "entrant2Id": 8712510,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "Plup",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712510,
+            "loserId": 8849885,
+            "winnerName": "Plup",
+            "loserName": "Wizzrobe",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ]
+        },
+        {
+            "id": 43289126,
+            "entrant1Id": 8849885,
+            "entrant2Id": 8712529,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "Polish",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8849885,
+            "loserId": 8712529,
+            "winnerName": "Wizzrobe",
+            "loserName": "Polish",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ]
+        },
+        {
+            "id": 43289060,
+            "entrant1Id": 8849885,
+            "entrant2Id": 8712533,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "Hungrybox",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8849885,
+            "loserId": 8712533,
+            "winnerName": "Wizzrobe",
+            "loserName": "Hungrybox",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 43289056,
+            "entrant1Id": 8849885,
+            "entrant2Id": 8712496,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "Trif",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8849885,
+            "loserId": 8712496,
+            "winnerName": "Wizzrobe",
+            "loserName": "Trif",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ]
+        },
+        {
+            "id": 43219453,
+            "entrant1Id": 8849885,
+            "entrant2Id": 8712503,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "Frenzy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8849885,
+            "loserId": 8712503,
+            "winnerName": "Wizzrobe",
+            "loserName": "Frenzy",
+            "bracketName": "Group Stage",
+            "bracketId": 1617945,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 43219451,
+            "entrant1Id": 8849885,
+            "entrant2Id": 8923606,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "Aura",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8849885,
+            "loserId": 8923606,
+            "winnerName": "Wizzrobe",
+            "loserName": "Aura",
+            "bracketName": "Group Stage",
+            "bracketId": 1617945,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46349,
+                    "playerTag": "Aura"
+                }
+            ]
+        },
+        {
+            "id": 43219449,
+            "entrant1Id": 8849885,
+            "entrant2Id": 8712490,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "hp",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8849885,
+            "loserId": 8712490,
+            "winnerName": "Wizzrobe",
+            "loserName": "hp",
+            "bracketName": "Group Stage",
+            "bracketId": 1617945,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 276942,
+                    "playerTag": "hp"
+                }
+            ]
+        },
+        {
+            "id": 43219447,
+            "entrant1Id": 8849885,
+            "entrant2Id": 8892150,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "Mew2King",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8849885,
+            "loserId": 8892150,
+            "winnerName": "Wizzrobe",
+            "loserName": "Mew2King",
+            "bracketName": "Group Stage",
+            "bracketId": 1617945,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1003,
+                    "playerTag": "Mew2King"
+                }
+            ]
+        },
+        {
+            "id": 40465088,
+            "entrant1Id": 7469532,
+            "entrant2Id": 7471382,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "Wizzrobe",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7469532,
+            "loserId": 7471382,
+            "winnerName": "Hungrybox",
+            "loserName": "Wizzrobe",
+            "bracketName": "Top 8",
+            "bracketId": 1547386,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ]
+        },
+        {
+            "id": 40465086,
+            "entrant1Id": 7484614,
+            "entrant2Id": 7471382,
+            "entrant1Name": "KoDoRiN",
+            "entrant2Name": "Wizzrobe",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7471382,
+            "loserId": 7484614,
+            "winnerName": "Wizzrobe",
+            "loserName": "KoDoRiN",
+            "bracketName": "Top 8",
+            "bracketId": 1547386,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ]
+        },
+        {
+            "id": 40442106,
+            "entrant1Id": 7471382,
+            "entrant2Id": 7485834,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "SFAT",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7485834,
+            "loserId": 7471382,
+            "winnerName": "SFAT",
+            "loserName": "Wizzrobe",
+            "bracketName": "Top 24",
+            "bracketId": 1547390,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 40442137,
+            "entrant1Id": 7471382,
+            "entrant2Id": 7484627,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "Smile Army :) | Flash",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471382,
+            "loserId": 7484627,
+            "winnerName": "Wizzrobe",
+            "loserName": "Smile Army :) | Flash",
+            "bracketName": "Top 24",
+            "bracketId": 1547390,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 262701,
+                    "playerTag": "Flash"
+                }
+            ]
+        },
+        {
+            "id": 40435611,
+            "entrant1Id": 7471382,
+            "entrant2Id": 7481712,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "lloD",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471382,
+            "loserId": 7481712,
+            "winnerName": "Wizzrobe",
+            "loserName": "lloD",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547388,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ]
+        },
+        {
+            "id": 40435607,
+            "entrant1Id": 7471382,
+            "entrant2Id": 7485056,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "OkayP.",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7471382,
+            "loserId": 7485056,
+            "winnerName": "Wizzrobe",
+            "loserName": "OkayP.",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547388,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393258,
+                    "playerTag": "OkayP."
+                }
+            ]
+        },
+        {
+            "id": 40435599,
+            "entrant1Id": 7471382,
+            "entrant2Id": 7484627,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "Smile Army :) | Flash",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7471382,
+            "loserId": 7484627,
+            "winnerName": "Wizzrobe",
+            "loserName": "Smile Army :) | Flash",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547388,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 262701,
+                    "playerTag": "Flash"
+                }
+            ]
+        },
+        {
+            "id": 40434909,
+            "entrant1Id": 7471382,
+            "entrant2Id": 7484824,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "Will Pickles",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471382,
+            "loserId": 7484824,
+            "winnerName": "Wizzrobe",
+            "loserName": "Will Pickles",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547322,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19959,
+                    "playerTag": "Will Pickles"
+                }
+            ]
+        },
+        {
+            "id": 40434903,
+            "entrant1Id": 7471382,
+            "entrant2Id": 7534127,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "shwang",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471382,
+            "loserId": 7534127,
+            "winnerName": "Wizzrobe",
+            "loserName": "shwang",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547322,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68700,
+                    "playerTag": "shwang"
+                }
+            ]
+        },
+        {
+            "id": 41934625,
+            "entrant1Id": 8575424,
+            "entrant2Id": 8575429,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Envy | Wizzrobe",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575424,
+            "loserId": 8575429,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Envy | Wizzrobe",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ]
+        },
+        {
+            "id": 41934623,
+            "entrant1Id": 8575466,
+            "entrant2Id": 8575429,
+            "entrant1Name": "Brotherhood|CM | Aklo",
+            "entrant2Name": "Envy | Wizzrobe",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575429,
+            "loserId": 8575466,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "Brotherhood|CM | Aklo",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ]
+        },
+        {
+            "id": 41934621,
+            "entrant1Id": 8575571,
+            "entrant2Id": 8575429,
+            "entrant1Name": "Colbol",
+            "entrant2Name": "Envy | Wizzrobe",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575429,
+            "loserId": 8575571,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "Colbol",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 1009,
+                    "playerTag": "Colbol"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ]
+        },
+        {
+            "id": 41934617,
+            "entrant1Id": 8575429,
+            "entrant2Id": 8575435,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8575429,
+            "loserId": 8575435,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "LG | Ginger",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 41914615,
+            "entrant1Id": 8575429,
+            "entrant2Id": 8575456,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "GG | n0ne/ Bond / wizzyfan109",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575456,
+            "loserId": 8575429,
+            "winnerName": "GG | n0ne/ Bond / wizzyfan109",
+            "loserName": "Envy | Wizzrobe",
+            "bracketName": "Group Stage",
+            "bracketId": 1607845,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4107,
+                    "playerTag": "n0ne/ Bond / wizzyfan109"
+                }
+            ]
+        },
+        {
+            "id": 41914613,
+            "entrant1Id": 8575429,
+            "entrant2Id": 8575584,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575584,
+            "loserId": 8575429,
+            "winnerName": "IMP | Ben",
+            "loserName": "Envy | Wizzrobe",
+            "bracketName": "Group Stage",
+            "bracketId": 1607845,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 41914611,
+            "entrant1Id": 8575429,
+            "entrant2Id": 8575599,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "lloD",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575429,
+            "loserId": 8575599,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "lloD",
+            "bracketName": "Group Stage",
+            "bracketId": 1607845,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "axe",
+        "sfat",
+        "hungrybox",
+        "sfat",
+        "aklo",
+        "logan",
+        "amsa",
+        "magi",
+        "ginger",
+        "leffen",
+        "null",
+        "polish",
+        "hungrybox",
+        "trif",
+        "frenzy",
+        "aura",
+        "mew2king",
+        "kodorin",
+        "flash",
+        "llod",
+        "flash",
+        "aklo",
+        "colbol",
+        "ginger",
+        "llod",
+        "wevans",
+        "eddy mexico",
+        "lucky",
+        "axe",
+        "ginger",
+        "hungrybox",
+        "hungrybox"
+    ],
+    "L": [
+        "plup",
+        "ibdw",
+        "mang0",
+        "mang0",
+        "magi",
+        "plup",
+        "plup",
+        "hungrybox",
+        "sfat",
+        "ibdw",
+        "n0ne/ bond / wizzyfan109",
+        "ben"
+    ]
+}

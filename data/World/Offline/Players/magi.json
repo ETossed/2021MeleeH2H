@@ -1,0 +1,773 @@
+{
+    "MPGR": 43,
+    "Events": [
+        635845,
+        644621,
+        585641,
+        554630,
+        633485,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 43130459,
+            "entrant1Id": 8879471,
+            "entrant2Id": 8879510,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "bc | Magi",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8879471,
+            "loserId": 8879510,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "bc | Magi",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 43130456,
+            "entrant1Id": 8879496,
+            "entrant2Id": 8879510,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "bc | Magi",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879510,
+            "loserId": 8879496,
+            "winnerName": "bc | Magi",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 43130452,
+            "entrant1Id": 8879510,
+            "entrant2Id": 8879513,
+            "entrant1Name": "bc | Magi",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8879510,
+            "loserId": 8879513,
+            "winnerName": "bc | Magi",
+            "loserName": "Pipsqueak",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 43102922,
+            "entrant1Id": 8879510,
+            "entrant2Id": 8879501,
+            "entrant1Name": "bc | Magi",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879501,
+            "loserId": 8879510,
+            "winnerName": "LG | Ginger",
+            "loserName": "bc | Magi",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1637746,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 43040415,
+            "entrant1Id": 8879510,
+            "entrant2Id": 8879538,
+            "entrant1Name": "bc | Magi",
+            "entrant2Name": "Mango's Friend | null",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879538,
+            "loserId": 8879510,
+            "winnerName": "Mango's Friend | null",
+            "loserName": "bc | Magi",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637737,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ]
+        },
+        {
+            "id": 43040412,
+            "entrant1Id": 8879483,
+            "entrant2Id": 8879510,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "bc | Magi",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8879483,
+            "loserId": 8879510,
+            "winnerName": "TSM | Leffen",
+            "loserName": "bc | Magi",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637737,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 43040411,
+            "entrant1Id": 8879471,
+            "entrant2Id": 8879510,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "bc | Magi",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879510,
+            "loserId": 8879471,
+            "winnerName": "bc | Magi",
+            "loserName": "Envy | Wizzrobe",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637737,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 43289057,
+            "entrant1Id": 8712533,
+            "entrant2Id": 8892146,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "Magi",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712533,
+            "loserId": 8892146,
+            "winnerName": "Hungrybox",
+            "loserName": "Magi",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 43289117,
+            "entrant1Id": 8892146,
+            "entrant2Id": 8701092,
+            "entrant1Name": "Magi",
+            "entrant2Name": "Faceroll",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8701092,
+            "loserId": 8892146,
+            "winnerName": "Faceroll",
+            "loserName": "Magi",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 43222593,
+            "entrant1Id": 8774628,
+            "entrant2Id": 8892146,
+            "entrant1Name": "Inngenn",
+            "entrant2Name": "Magi",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8892146,
+            "loserId": 8774628,
+            "winnerName": "Magi",
+            "loserName": "Inngenn",
+            "bracketName": "Group Stage",
+            "bracketId": 1635972,
+            "entrant1Players": [
+                {
+                    "playerId": 2152019,
+                    "playerTag": "Inngenn"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 43222589,
+            "entrant1Id": 8892146,
+            "entrant2Id": 8954979,
+            "entrant1Name": "Magi",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8954979,
+            "loserId": 8892146,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "Magi",
+            "bracketName": "Group Stage",
+            "bracketId": 1635972,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 43222586,
+            "entrant1Id": 8712511,
+            "entrant2Id": 8892146,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Magi",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8892146,
+            "loserId": 8712511,
+            "winnerName": "Magi",
+            "loserName": "SFAT",
+            "bracketName": "Group Stage",
+            "bracketId": 1635972,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 43222584,
+            "entrant1Id": 8712500,
+            "entrant2Id": 8892146,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Magi",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8892146,
+            "loserId": 8712500,
+            "winnerName": "Magi",
+            "loserName": "Professor Pro",
+            "bracketName": "Group Stage",
+            "bracketId": 1635972,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 41085357,
+            "entrant1Id": 8348874,
+            "entrant2Id": 8352241,
+            "entrant1Name": "MF | KoDoRiN",
+            "entrant2Name": "bc | Magi",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8348874,
+            "loserId": 8352241,
+            "winnerName": "MF | KoDoRiN",
+            "loserName": "bc | Magi",
+            "bracketName": "Top 8",
+            "bracketId": 1583001,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 41085340,
+            "entrant1Id": 8352241,
+            "entrant2Id": 8169709,
+            "entrant1Name": "bc | Magi",
+            "entrant2Name": "Ginger",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8169709,
+            "loserId": 8352241,
+            "winnerName": "Ginger",
+            "loserName": "bc | Magi",
+            "bracketName": "Top 8",
+            "bracketId": 1583001,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 41085356,
+            "entrant1Id": 8352241,
+            "entrant2Id": 8186741,
+            "entrant1Name": "bc | Magi",
+            "entrant2Name": "20GX | Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8352241,
+            "loserId": 8186741,
+            "winnerName": "bc | Magi",
+            "loserName": "20GX | Gahtzu",
+            "bracketName": "Top 8",
+            "bracketId": 1583001,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 41057026,
+            "entrant1Id": 7604256,
+            "entrant2Id": 8352241,
+            "entrant1Name": "SFOP",
+            "entrant2Name": "bc | Magi",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8352241,
+            "loserId": 7604256,
+            "winnerName": "bc | Magi",
+            "loserName": "SFOP",
+            "bracketName": "Top 16",
+            "bracketId": 1583000,
+            "entrant1Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 41042972,
+            "entrant1Id": 8204984,
+            "entrant2Id": 8352241,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "bc | Magi",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8352241,
+            "loserId": 8204984,
+            "winnerName": "bc | Magi",
+            "loserName": "HSTV | Zamu",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 41042958,
+            "entrant1Id": 8352241,
+            "entrant2Id": 8142709,
+            "entrant1Name": "bc | Magi",
+            "entrant2Name": "prof",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8352241,
+            "loserId": 8142709,
+            "winnerName": "bc | Magi",
+            "loserName": "prof",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51373,
+                    "playerTag": "prof"
+                }
+            ]
+        },
+        {
+            "id": 41031679,
+            "entrant1Id": 8352241,
+            "entrant2Id": 7608952,
+            "entrant1Name": "bc | Magi",
+            "entrant2Name": "Third Strongest",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8352241,
+            "loserId": 7608952,
+            "winnerName": "bc | Magi",
+            "loserName": "Third Strongest",
+            "bracketName": "Pools",
+            "bracketId": 1583009,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40399,
+                    "playerTag": "Third Strongest"
+                }
+            ]
+        },
+        {
+            "id": 41031675,
+            "entrant1Id": 8352241,
+            "entrant2Id": 7601175,
+            "entrant1Name": "bc | Magi",
+            "entrant2Name": "Kuryoku",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8352241,
+            "loserId": 7601175,
+            "winnerName": "bc | Magi",
+            "loserName": "Kuryoku",
+            "bracketName": "Pools",
+            "bracketId": 1583009,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 172646,
+                    "playerTag": "Kuryoku"
+                }
+            ]
+        },
+        {
+            "id": 41031667,
+            "entrant1Id": 8352241,
+            "entrant2Id": 8346586,
+            "entrant1Name": "bc | Magi",
+            "entrant2Name": "Legendarydeath",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8352241,
+            "loserId": 8346586,
+            "winnerName": "bc | Magi",
+            "loserName": "Legendarydeath",
+            "bracketName": "Pools",
+            "bracketId": 1583009,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1698572,
+                    "playerTag": "Legendarydeath"
+                }
+            ]
+        },
+        {
+            "id": 41934615,
+            "entrant1Id": 8575574,
+            "entrant2Id": 8575584,
+            "entrant1Name": "bc | Magi",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575584,
+            "loserId": 8575574,
+            "winnerName": "IMP | Ben",
+            "loserName": "bc | Magi",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 41904058,
+            "entrant1Id": 8575574,
+            "entrant2Id": 8575589,
+            "entrant1Name": "bc | Magi",
+            "entrant2Name": "Polish",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575589,
+            "loserId": 8575574,
+            "winnerName": "Polish",
+            "loserName": "bc | Magi",
+            "bracketName": "Group Stage",
+            "bracketId": 1607844,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ]
+        },
+        {
+            "id": 41904055,
+            "entrant1Id": 8575569,
+            "entrant2Id": 8575574,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "bc | Magi",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575569,
+            "loserId": 8575574,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "bc | Magi",
+            "bracketName": "Group Stage",
+            "bracketId": 1607844,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 41904054,
+            "entrant1Id": 8575435,
+            "entrant2Id": 8575574,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "bc | Magi",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575574,
+            "loserId": 8575435,
+            "winnerName": "bc | Magi",
+            "loserName": "LG | Ginger",
+            "bracketName": "Group Stage",
+            "bracketId": 1607844,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "sfat",
+        "pipsqueak",
+        "wizzrobe",
+        "sfat",
+        "professor pro",
+        "gahtzu",
+        "sfop",
+        "zamu",
+        "ginger",
+        "null",
+        "gahtzu",
+        "skerzo",
+        "luigi ka-master",
+        "warmmer"
+    ],
+    "L": [
+        "wizzrobe",
+        "ginger",
+        "null",
+        "leffen",
+        "hungrybox",
+        "faceroll",
+        "zamu",
+        "kodorin",
+        "ginger",
+        "ben",
+        "polish",
+        "hungrybox",
+        "n0ne/ bond / wizzyfan109",
+        "medz"
+    ]
+}

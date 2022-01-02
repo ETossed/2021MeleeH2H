@@ -1,0 +1,193 @@
+{
+    "MPGR": 32,
+    "Events": [
+        554629,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 41711576,
+            "entrant1Id": 8552220,
+            "entrant2Id": 8552213,
+            "entrant1Name": "Medz",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552213,
+            "loserId": 8552220,
+            "winnerName": "Fiction",
+            "loserName": "Medz",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 40476,
+                    "playerTag": "Medz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 41711573,
+            "entrant1Id": 8552229,
+            "entrant2Id": 8552220,
+            "entrant1Name": "Aura",
+            "entrant2Name": "Medz",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552220,
+            "loserId": 8552229,
+            "winnerName": "Medz",
+            "loserName": "Aura",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 46349,
+                    "playerTag": "Aura"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40476,
+                    "playerTag": "Medz"
+                }
+            ]
+        },
+        {
+            "id": 41711569,
+            "entrant1Id": 8552220,
+            "entrant2Id": 8552218,
+            "entrant1Name": "Medz",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552220,
+            "loserId": 8552218,
+            "winnerName": "Medz",
+            "loserName": "bobby big ballz",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 40476,
+                    "playerTag": "Medz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 41680477,
+            "entrant1Id": 8552220,
+            "entrant2Id": 8552235,
+            "entrant1Name": "Medz",
+            "entrant2Name": "billybopeep",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552220,
+            "loserId": 8552235,
+            "winnerName": "Medz",
+            "loserName": "billybopeep",
+            "bracketName": "Group Stage",
+            "bracketId": 1452632,
+            "entrant1Players": [
+                {
+                    "playerId": 40476,
+                    "playerTag": "Medz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 135157,
+                    "playerTag": "billybopeep"
+                }
+            ]
+        },
+        {
+            "id": 41680474,
+            "entrant1Id": 8552184,
+            "entrant2Id": 8552220,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "Medz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552184,
+            "loserId": 8552220,
+            "winnerName": "Panda | Plup",
+            "loserName": "Medz",
+            "bracketName": "Group Stage",
+            "bracketId": 1452632,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40476,
+                    "playerTag": "Medz"
+                }
+            ]
+        },
+        {
+            "id": 41680473,
+            "entrant1Id": 8552216,
+            "entrant2Id": 8552220,
+            "entrant1Name": "Captain Faceroll",
+            "entrant2Name": "Medz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552216,
+            "loserId": 8552220,
+            "winnerName": "Captain Faceroll",
+            "loserName": "Medz",
+            "bracketName": "Group Stage",
+            "bracketId": 1452632,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40476,
+                    "playerTag": "Medz"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "aura",
+        "bobby big ballz",
+        "billybopeep",
+        "far!",
+        "sdj",
+        "magi",
+        "azel"
+    ],
+    "L": [
+        "fiction",
+        "plup",
+        "faceroll",
+        "sfat",
+        "ibdw"
+    ]
+}

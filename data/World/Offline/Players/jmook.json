@@ -1,0 +1,191 @@
+{
+    "MPGR": 200,
+    "Events": [
+        644621,
+        633485
+    ],
+    "Sets": [
+        {
+            "id": 43289116,
+            "entrant1Id": 8712503,
+            "entrant2Id": 8892148,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Jmook",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8712503,
+            "loserId": 8892148,
+            "winnerName": "Frenzy",
+            "loserName": "Jmook",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 43289112,
+            "entrant1Id": 8774880,
+            "entrant2Id": 8892148,
+            "entrant1Name": "Sora/Joshman",
+            "entrant2Name": "Jmook",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8892148,
+            "loserId": 8774880,
+            "winnerName": "Jmook",
+            "loserName": "Sora/Joshman",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 43219531,
+            "entrant1Id": 8849886,
+            "entrant2Id": 8892148,
+            "entrant1Name": "Far!",
+            "entrant2Name": "Jmook",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8892148,
+            "loserId": 8849886,
+            "winnerName": "Jmook",
+            "loserName": "Far!",
+            "bracketName": "Group Stage",
+            "bracketId": 1635970,
+            "entrant1Players": [
+                {
+                    "playerId": 132537,
+                    "playerTag": "Far!"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 43219527,
+            "entrant1Id": 8892148,
+            "entrant2Id": 8712537,
+            "entrant1Name": "Jmook",
+            "entrant2Name": "Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8892148,
+            "loserId": 8712537,
+            "winnerName": "Jmook",
+            "loserName": "Gahtzu",
+            "bracketName": "Group Stage",
+            "bracketId": 1635970,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 43219524,
+            "entrant1Id": 8774627,
+            "entrant2Id": 8892148,
+            "entrant1Name": "aMSa",
+            "entrant2Name": "Jmook",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8774627,
+            "loserId": 8892148,
+            "winnerName": "aMSa",
+            "loserName": "Jmook",
+            "bracketName": "Group Stage",
+            "bracketId": 1635970,
+            "entrant1Players": [
+                {
+                    "playerId": 1021,
+                    "playerTag": "aMSa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 43219522,
+            "entrant1Id": 8712524,
+            "entrant2Id": 8892148,
+            "entrant1Name": "Kalamazhu",
+            "entrant2Name": "Jmook",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8892148,
+            "loserId": 8712524,
+            "winnerName": "Jmook",
+            "loserName": "Kalamazhu",
+            "bracketName": "Group Stage",
+            "bracketId": 1635970,
+            "entrant1Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "sora/joshman",
+        "far!",
+        "gahtzu",
+        "kalamazhu",
+        "krudo",
+        "chem",
+        "2saint"
+    ],
+    "L": [
+        "frenzy",
+        "amsa",
+        "jflex"
+    ]
+}

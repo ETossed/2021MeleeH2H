@@ -1,0 +1,218 @@
+{
+    "MPGR": 101,
+    "Events": [
+        573828,
+        633485,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 40437597,
+            "entrant1Id": 7471573,
+            "entrant2Id": 7484475,
+            "entrant1Name": "iBDW",
+            "entrant2Name": "Krudo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471573,
+            "loserId": 7484475,
+            "winnerName": "iBDW",
+            "loserName": "Krudo",
+            "bracketName": "Top 24",
+            "bracketId": 1547385,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 147424,
+                    "playerTag": "Krudo"
+                }
+            ]
+        },
+        {
+            "id": 40437628,
+            "entrant1Id": 7484475,
+            "entrant2Id": 7471864,
+            "entrant1Name": "Krudo",
+            "entrant2Name": "Axe",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7471864,
+            "loserId": 7484475,
+            "winnerName": "Axe",
+            "loserName": "Krudo",
+            "bracketName": "Top 24",
+            "bracketId": 1547385,
+            "entrant1Players": [
+                {
+                    "playerId": 147424,
+                    "playerTag": "Krudo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 40421637,
+            "entrant1Id": 7485315,
+            "entrant2Id": 7484475,
+            "entrant1Name": "Android 0",
+            "entrant2Name": "Krudo",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7484475,
+            "loserId": 7485315,
+            "winnerName": "Krudo",
+            "loserName": "Android 0",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 147424,
+                    "playerTag": "Krudo"
+                }
+            ]
+        },
+        {
+            "id": 40421635,
+            "entrant1Id": 7469681,
+            "entrant2Id": 7484475,
+            "entrant1Name": "HTL | Fluid",
+            "entrant2Name": "Krudo",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7484475,
+            "loserId": 7469681,
+            "winnerName": "Krudo",
+            "loserName": "HTL | Fluid",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 8002,
+                    "playerTag": "Fluid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 147424,
+                    "playerTag": "Krudo"
+                }
+            ]
+        },
+        {
+            "id": 40421631,
+            "entrant1Id": 7484475,
+            "entrant2Id": 7484576,
+            "entrant1Name": "Krudo",
+            "entrant2Name": "Casper",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484475,
+            "loserId": 7484576,
+            "winnerName": "Krudo",
+            "loserName": "Casper",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 147424,
+                    "playerTag": "Krudo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 144268,
+                    "playerTag": "Casper"
+                }
+            ]
+        },
+        {
+            "id": 40420244,
+            "entrant1Id": 7484475,
+            "entrant2Id": 7471426,
+            "entrant1Name": "Krudo",
+            "entrant2Name": "bambi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484475,
+            "loserId": 7471426,
+            "winnerName": "Krudo",
+            "loserName": "bambi",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547340,
+            "entrant1Players": [
+                {
+                    "playerId": 147424,
+                    "playerTag": "Krudo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 8152,
+                    "playerTag": "bambi"
+                }
+            ]
+        },
+        {
+            "id": 40420238,
+            "entrant1Id": 7484475,
+            "entrant2Id": 7533942,
+            "entrant1Name": "Krudo",
+            "entrant2Name": "lexi!",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484475,
+            "loserId": 7533942,
+            "winnerName": "Krudo",
+            "loserName": "lexi!",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547340,
+            "entrant1Players": [
+                {
+                    "playerId": 147424,
+                    "playerTag": "Krudo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2308483,
+                    "playerTag": "lexi!"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "android 0",
+        "mew2king"
+    ],
+    "L": [
+        "ibdw",
+        "axe",
+        "rocky",
+        "eddy mexico",
+        "jmook",
+        "panda"
+    ]
+}

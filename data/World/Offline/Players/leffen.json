@@ -1,0 +1,446 @@
+{
+    "MPGR": 2,
+    "Events": [
+        635845,
+        554625
+    ],
+    "Sets": [
+        {
+            "id": 43130462,
+            "entrant1Id": 8880094,
+            "entrant2Id": 8879483,
+            "entrant1Name": "C9 | Mang0",
+            "entrant2Name": "TSM | Leffen",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8880094,
+            "loserId": 8879483,
+            "winnerName": "C9 | Mang0",
+            "loserName": "TSM | Leffen",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 1000,
+                    "playerTag": "Mang0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ]
+        },
+        {
+            "id": 43130460,
+            "entrant1Id": 8879483,
+            "entrant2Id": 8879473,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "Liquid | Hungrybox",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8879483,
+            "loserId": 8879473,
+            "winnerName": "TSM | Leffen",
+            "loserName": "Liquid | Hungrybox",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 43130427,
+            "entrant1Id": 8879467,
+            "entrant2Id": 8879483,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "TSM | Leffen",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8879467,
+            "loserId": 8879483,
+            "winnerName": "Panda | iBDW",
+            "loserName": "TSM | Leffen",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ]
+        },
+        {
+            "id": 43130457,
+            "entrant1Id": 8879483,
+            "entrant2Id": 8879519,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "Pulse | Tyler Swift",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8879483,
+            "loserId": 8879519,
+            "winnerName": "TSM | Leffen",
+            "loserName": "Pulse | Tyler Swift",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 49131,
+                    "playerTag": "Swift"
+                }
+            ]
+        },
+        {
+            "id": 43106832,
+            "entrant1Id": 8879483,
+            "entrant2Id": 8879513,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8879483,
+            "loserId": 8879513,
+            "winnerName": "TSM | Leffen",
+            "loserName": "Pipsqueak",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1637740,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 43040414,
+            "entrant1Id": 8879483,
+            "entrant2Id": 8879471,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "Envy | Wizzrobe",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879471,
+            "loserId": 8879483,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "TSM | Leffen",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637737,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ]
+        },
+        {
+            "id": 43040412,
+            "entrant1Id": 8879483,
+            "entrant2Id": 8879510,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "bc | Magi",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8879483,
+            "loserId": 8879510,
+            "winnerName": "TSM | Leffen",
+            "loserName": "bc | Magi",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637737,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 43040410,
+            "entrant1Id": 8879483,
+            "entrant2Id": 8879538,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "Mango's Friend | null",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8879483,
+            "loserId": 8879538,
+            "winnerName": "TSM | Leffen",
+            "loserName": "Mango's Friend | null",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637737,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ]
+        },
+        {
+            "id": 41697216,
+            "entrant1Id": 8552768,
+            "entrant2Id": 8552770,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "PS | Trif",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552768,
+            "loserId": 8552770,
+            "winnerName": "TSM | Leffen",
+            "loserName": "PS | Trif",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ]
+        },
+        {
+            "id": 41697215,
+            "entrant1Id": 8552768,
+            "entrant2Id": 8552770,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "PS | Trif",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552768,
+            "loserId": 8552770,
+            "winnerName": "TSM | Leffen",
+            "loserName": "PS | Trif",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ]
+        },
+        {
+            "id": 41697213,
+            "entrant1Id": 8552768,
+            "entrant2Id": 8552801,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "PS | Ice",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552768,
+            "loserId": 8552801,
+            "winnerName": "TSM | Leffen",
+            "loserName": "PS | Ice",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 41697209,
+            "entrant1Id": 8552768,
+            "entrant2Id": 8552803,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "PS | Nicki",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552768,
+            "loserId": 8552803,
+            "winnerName": "TSM | Leffen",
+            "loserName": "PS | Nicki",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ]
+        },
+        {
+            "id": 41643999,
+            "entrant1Id": 8552768,
+            "entrant2Id": 8552804,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552768,
+            "loserId": 8552804,
+            "winnerName": "TSM | Leffen",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Group Stage",
+            "bracketId": 1452628,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 41643997,
+            "entrant1Id": 8552768,
+            "entrant2Id": 8552805,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "RLB | Kins0",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552768,
+            "loserId": 8552805,
+            "winnerName": "TSM | Leffen",
+            "loserName": "RLB | Kins0",
+            "bracketName": "Group Stage",
+            "bracketId": 1452628,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 41643995,
+            "entrant1Id": 8552768,
+            "entrant2Id": 8552828,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "max",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552768,
+            "loserId": 8552828,
+            "winnerName": "TSM | Leffen",
+            "loserName": "max",
+            "bracketName": "Group Stage",
+            "bracketId": 1452628,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 818697,
+                    "playerTag": "max"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "hungrybox",
+        "swift",
+        "pipsqueak",
+        "magi",
+        "null",
+        "trif",
+        "trif",
+        "ice",
+        "nicki",
+        "jah ridin'"
+    ],
+    "L": [
+        "mang0",
+        "ibdw",
+        "wizzrobe"
+    ]
+}

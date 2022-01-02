@@ -1,0 +1,214 @@
+{
+    "MPGR": 30,
+    "Events": [
+        585641,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 41057053,
+            "entrant1Id": 7604691,
+            "entrant2Id": 8286645,
+            "entrant1Name": "Android 0",
+            "entrant2Name": "WKDA | Shroomed",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7604691,
+            "loserId": 8286645,
+            "winnerName": "Android 0",
+            "loserName": "WKDA | Shroomed",
+            "bracketName": "Top 16",
+            "bracketId": 1583000,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1013,
+                    "playerTag": "Shroomed"
+                }
+            ]
+        },
+        {
+            "id": 41042976,
+            "entrant1Id": 8286645,
+            "entrant2Id": 7644427,
+            "entrant1Name": "WKDA | Shroomed",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7644427,
+            "loserId": 8286645,
+            "winnerName": "bobby big ballz",
+            "loserName": "WKDA | Shroomed",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 1013,
+                    "playerTag": "Shroomed"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 41043098,
+            "entrant1Id": 8286645,
+            "entrant2Id": 8120358,
+            "entrant1Name": "WKDA | Shroomed",
+            "entrant2Name": "Casper",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8286645,
+            "loserId": 8120358,
+            "winnerName": "WKDA | Shroomed",
+            "loserName": "Casper",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 1013,
+                    "playerTag": "Shroomed"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 144268,
+                    "playerTag": "Casper"
+                }
+            ]
+        },
+        {
+            "id": 41042965,
+            "entrant1Id": 8286645,
+            "entrant2Id": 8304265,
+            "entrant1Name": "WKDA | Shroomed",
+            "entrant2Name": "Mekk",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8286645,
+            "loserId": 8304265,
+            "winnerName": "WKDA | Shroomed",
+            "loserName": "Mekk",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 1013,
+                    "playerTag": "Shroomed"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ]
+        },
+        {
+            "id": 41034248,
+            "entrant1Id": 8286645,
+            "entrant2Id": 8302287,
+            "entrant1Name": "WKDA | Shroomed",
+            "entrant2Name": "Crono",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8286645,
+            "loserId": 8302287,
+            "winnerName": "WKDA | Shroomed",
+            "loserName": "Crono",
+            "bracketName": "Pools",
+            "bracketId": 1583007,
+            "entrant1Players": [
+                {
+                    "playerId": 1013,
+                    "playerTag": "Shroomed"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 230339,
+                    "playerTag": "Crono"
+                }
+            ]
+        },
+        {
+            "id": 41034244,
+            "entrant1Id": 8286645,
+            "entrant2Id": 8357211,
+            "entrant1Name": "WKDA | Shroomed",
+            "entrant2Name": "DMT",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8286645,
+            "loserId": 8357211,
+            "winnerName": "WKDA | Shroomed",
+            "loserName": "DMT",
+            "bracketName": "Pools",
+            "bracketId": 1583007,
+            "entrant1Players": [
+                {
+                    "playerId": 1013,
+                    "playerTag": "Shroomed"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 231685,
+                    "playerTag": "DMT"
+                }
+            ]
+        },
+        {
+            "id": 41034236,
+            "entrant1Id": 8286645,
+            "entrant2Id": 7666048,
+            "entrant1Name": "WKDA | Shroomed",
+            "entrant2Name": "Demon",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8286645,
+            "loserId": 7666048,
+            "winnerName": "WKDA | Shroomed",
+            "loserName": "Demon",
+            "bracketName": "Pools",
+            "bracketId": 1583007,
+            "entrant1Players": [
+                {
+                    "playerId": 1013,
+                    "playerTag": "Shroomed"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 539152,
+                    "playerTag": "Demon"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "mekk"
+    ],
+    "L": [
+        "android 0",
+        "bobby big ballz",
+        "ringler",
+        "panda"
+    ]
+}

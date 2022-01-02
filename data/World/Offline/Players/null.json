@@ -1,0 +1,532 @@
+{
+    "MPGR": 200,
+    "Events": [
+        635845,
+        573828,
+        585641,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 43130451,
+            "entrant1Id": 8879501,
+            "entrant2Id": 8879538,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "Mango's Friend | null",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8879501,
+            "loserId": 8879538,
+            "winnerName": "LG | Ginger",
+            "loserName": "Mango's Friend | null",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ]
+        },
+        {
+            "id": 43102496,
+            "entrant1Id": 8879538,
+            "entrant2Id": 8879525,
+            "entrant1Name": "Mango's Friend | null",
+            "entrant2Name": "MF | Sora/Joshman",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879525,
+            "loserId": 8879538,
+            "winnerName": "MF | Sora/Joshman",
+            "loserName": "Mango's Friend | null",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1637745,
+            "entrant1Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 43040415,
+            "entrant1Id": 8879510,
+            "entrant2Id": 8879538,
+            "entrant1Name": "bc | Magi",
+            "entrant2Name": "Mango's Friend | null",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879538,
+            "loserId": 8879510,
+            "winnerName": "Mango's Friend | null",
+            "loserName": "bc | Magi",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637737,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ]
+        },
+        {
+            "id": 43040413,
+            "entrant1Id": 8879538,
+            "entrant2Id": 8879471,
+            "entrant1Name": "Mango's Friend | null",
+            "entrant2Name": "Envy | Wizzrobe",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879471,
+            "loserId": 8879538,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "Mango's Friend | null",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637737,
+            "entrant1Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ]
+        },
+        {
+            "id": 43040410,
+            "entrant1Id": 8879483,
+            "entrant2Id": 8879538,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "Mango's Friend | null",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8879483,
+            "loserId": 8879538,
+            "winnerName": "TSM | Leffen",
+            "loserName": "Mango's Friend | null",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637737,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ]
+        },
+        {
+            "id": 40416048,
+            "entrant1Id": 7470910,
+            "entrant2Id": 7471844,
+            "entrant1Name": "Pulse | Tyler Swift",
+            "entrant2Name": "null",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7470910,
+            "loserId": 7471844,
+            "winnerName": "Pulse | Tyler Swift",
+            "loserName": "null",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 49131,
+                    "playerTag": "Swift"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ]
+        },
+        {
+            "id": 40416044,
+            "entrant1Id": 7471844,
+            "entrant2Id": 7470985,
+            "entrant1Name": "null",
+            "entrant2Name": "Pulse | BZimm",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471844,
+            "loserId": 7470985,
+            "winnerName": "null",
+            "loserName": "Pulse | BZimm",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 396849,
+                    "playerTag": "BZimm"
+                }
+            ]
+        },
+        {
+            "id": 40415915,
+            "entrant1Id": 7471844,
+            "entrant2Id": 7484260,
+            "entrant1Name": "null",
+            "entrant2Name": "Eggy",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7484260,
+            "loserId": 7471844,
+            "winnerName": "Eggy",
+            "loserName": "null",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ]
+        },
+        {
+            "id": 40416037,
+            "entrant1Id": 7471844,
+            "entrant2Id": 7484082,
+            "entrant1Name": "null",
+            "entrant2Name": "LSD-25 | Cilan$",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471844,
+            "loserId": 7484082,
+            "winnerName": "null",
+            "loserName": "LSD-25 | Cilan$",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 60696,
+                    "playerTag": "Cilan"
+                }
+            ]
+        },
+        {
+            "id": 40414838,
+            "entrant1Id": 7471844,
+            "entrant2Id": 7469987,
+            "entrant1Name": "null",
+            "entrant2Name": "TRULY | GI0GOAT",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7471844,
+            "loserId": 7469987,
+            "winnerName": "null",
+            "loserName": "TRULY | GI0GOAT",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547351,
+            "entrant1Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 153434,
+                    "playerTag": "GI0GOAT"
+                }
+            ]
+        },
+        {
+            "id": 40414836,
+            "entrant1Id": 7471844,
+            "entrant2Id": 8159603,
+            "entrant1Name": "null",
+            "entrant2Name": "Revenant",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471844,
+            "loserId": 8159603,
+            "winnerName": "null",
+            "loserName": "Revenant",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547351,
+            "entrant1Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37672,
+                    "playerTag": "Revenant"
+                }
+            ]
+        },
+        {
+            "id": 40414832,
+            "entrant1Id": 7471844,
+            "entrant2Id": 7470525,
+            "entrant1Name": "null",
+            "entrant2Name": "DBSammy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471844,
+            "loserId": 7470525,
+            "winnerName": "null",
+            "loserName": "DBSammy",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547351,
+            "entrant1Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154983,
+                    "playerTag": "DBSammy"
+                }
+            ]
+        },
+        {
+            "id": 41043099,
+            "entrant1Id": 7604691,
+            "entrant2Id": 7610835,
+            "entrant1Name": "Android 0",
+            "entrant2Name": "MF | null",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7604691,
+            "loserId": 7610835,
+            "winnerName": "Android 0",
+            "loserName": "MF | null",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ]
+        },
+        {
+            "id": 41043091,
+            "entrant1Id": 7610835,
+            "entrant2Id": 8084643,
+            "entrant1Name": "MF | null",
+            "entrant2Name": "Joey Donuts",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7610835,
+            "loserId": 8084643,
+            "winnerName": "MF | null",
+            "loserName": "Joey Donuts",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 184637,
+                    "playerTag": "Joey Donuts"
+                }
+            ]
+        },
+        {
+            "id": 41042956,
+            "entrant1Id": 7604256,
+            "entrant2Id": 7610835,
+            "entrant1Name": "SFOP",
+            "entrant2Name": "MF | null",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7604256,
+            "loserId": 7610835,
+            "winnerName": "SFOP",
+            "loserName": "MF | null",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ]
+        },
+        {
+            "id": 41043082,
+            "entrant1Id": 7610835,
+            "entrant2Id": 7613130,
+            "entrant1Name": "MF | null",
+            "entrant2Name": "bluezaft",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7610835,
+            "loserId": 7613130,
+            "winnerName": "MF | null",
+            "loserName": "bluezaft",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 143597,
+                    "playerTag": "bluezaft"
+                }
+            ]
+        },
+        {
+            "id": 41042189,
+            "entrant1Id": 7610835,
+            "entrant2Id": 8059240,
+            "entrant1Name": "MF | null",
+            "entrant2Name": "Will Pickles",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7610835,
+            "loserId": 8059240,
+            "winnerName": "MF | null",
+            "loserName": "Will Pickles",
+            "bracketName": "Pools",
+            "bracketId": 1583016,
+            "entrant1Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19959,
+                    "playerTag": "Will Pickles"
+                }
+            ]
+        },
+        {
+            "id": 41042186,
+            "entrant1Id": 7610835,
+            "entrant2Id": 7604690,
+            "entrant1Name": "MF | null",
+            "entrant2Name": "Lumbre",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7610835,
+            "loserId": 7604690,
+            "winnerName": "MF | null",
+            "loserName": "Lumbre",
+            "bracketName": "Pools",
+            "bracketId": 1583016,
+            "entrant1Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1011310,
+                    "playerTag": "Lumbre"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "magi",
+        "logan",
+        "tai"
+    ],
+    "L": [
+        "ginger",
+        "sora/joshman",
+        "wizzrobe",
+        "leffen",
+        "swift",
+        "eggy",
+        "android 0",
+        "sfop",
+        "s2j",
+        "magi"
+    ]
+}

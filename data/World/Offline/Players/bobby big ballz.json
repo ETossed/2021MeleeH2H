@@ -1,0 +1,732 @@
+{
+    "MPGR": 80,
+    "Events": [
+        573828,
+        585641,
+        605856,
+        554629,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 40437625,
+            "entrant1Id": 7484179,
+            "entrant2Id": 7484131,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Aspero | Logan",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7484131,
+            "loserId": 7484179,
+            "winnerName": "Aspero | Logan",
+            "loserName": "bobby big ballz",
+            "bracketName": "Top 24",
+            "bracketId": 1547385,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 40437621,
+            "entrant1Id": 7485315,
+            "entrant2Id": 7484179,
+            "entrant1Name": "Android 0",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7484179,
+            "loserId": 7485315,
+            "winnerName": "bobby big ballz",
+            "loserName": "Android 0",
+            "bracketName": "Top 24",
+            "bracketId": 1547385,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 40416052,
+            "entrant1Id": 7484260,
+            "entrant2Id": 7484179,
+            "entrant1Name": "Eggy",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7484179,
+            "loserId": 7484260,
+            "winnerName": "bobby big ballz",
+            "loserName": "Eggy",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 40415923,
+            "entrant1Id": 7484236,
+            "entrant2Id": 7484179,
+            "entrant1Name": "GHQ | HSTV | Zamu",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7484236,
+            "loserId": 7484179,
+            "winnerName": "GHQ | HSTV | Zamu",
+            "loserName": "bobby big ballz",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 40416050,
+            "entrant1Id": 7484179,
+            "entrant2Id": 7533612,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "SDJ",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484179,
+            "loserId": 7533612,
+            "winnerName": "bobby big ballz",
+            "loserName": "SDJ",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 325974,
+                    "playerTag": "SDJ"
+                }
+            ]
+        },
+        {
+            "id": 40415917,
+            "entrant1Id": 7484179,
+            "entrant2Id": 7484813,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "BUG | Vintage",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484179,
+            "loserId": 7484813,
+            "winnerName": "bobby big ballz",
+            "loserName": "BUG | Vintage",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 9621,
+                    "playerTag": "Vintage"
+                }
+            ]
+        },
+        {
+            "id": 40412873,
+            "entrant1Id": 7484179,
+            "entrant2Id": 7484176,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "fLc | Jank",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484179,
+            "loserId": 7484176,
+            "winnerName": "bobby big ballz",
+            "loserName": "fLc | Jank",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547336,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 14579,
+                    "playerTag": "Jank"
+                }
+            ]
+        },
+        {
+            "id": 40412871,
+            "entrant1Id": 7484179,
+            "entrant2Id": 7470889,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Third Strongest",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484179,
+            "loserId": 7470889,
+            "winnerName": "bobby big ballz",
+            "loserName": "Third Strongest",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547336,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40399,
+                    "playerTag": "Third Strongest"
+                }
+            ]
+        },
+        {
+            "id": 41057028,
+            "entrant1Id": 7736134,
+            "entrant2Id": 7644427,
+            "entrant1Name": "Tempo | Axe",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7736134,
+            "loserId": 7644427,
+            "winnerName": "Tempo | Axe",
+            "loserName": "bobby big ballz",
+            "bracketName": "Top 16",
+            "bracketId": 1583000,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 41057056,
+            "entrant1Id": 7644427,
+            "entrant2Id": 8186741,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "20GX | Gahtzu",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8186741,
+            "loserId": 7644427,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "bobby big ballz",
+            "bracketName": "Top 16",
+            "bracketId": 1583000,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 41042976,
+            "entrant1Id": 8286645,
+            "entrant2Id": 7644427,
+            "entrant1Name": "WKDA | Shroomed",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7644427,
+            "loserId": 8286645,
+            "winnerName": "bobby big ballz",
+            "loserName": "WKDA | Shroomed",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 1013,
+                    "playerTag": "Shroomed"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 41042966,
+            "entrant1Id": 7644427,
+            "entrant2Id": 7960383,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Me | Fury",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7644427,
+            "loserId": 7960383,
+            "winnerName": "bobby big ballz",
+            "loserName": "Me | Fury",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 309358,
+                    "playerTag": "Fury"
+                }
+            ]
+        },
+        {
+            "id": 41020174,
+            "entrant1Id": 7644427,
+            "entrant2Id": 8340339,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Jonjon",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7644427,
+            "loserId": 8340339,
+            "winnerName": "bobby big ballz",
+            "loserName": "Jonjon",
+            "bracketName": "Pools",
+            "bracketId": 1583010,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2451425,
+                    "playerTag": "Jonjon"
+                }
+            ]
+        },
+        {
+            "id": 41020170,
+            "entrant1Id": 7644427,
+            "entrant2Id": 7606425,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Guti",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7644427,
+            "loserId": 7606425,
+            "winnerName": "bobby big ballz",
+            "loserName": "Guti",
+            "bracketName": "Pools",
+            "bracketId": 1583010,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3834,
+                    "playerTag": "Guti"
+                }
+            ]
+        },
+        {
+            "id": 41020162,
+            "entrant1Id": 7644427,
+            "entrant2Id": 8155042,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Nerdysnake",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7644427,
+            "loserId": 8155042,
+            "winnerName": "bobby big ballz",
+            "loserName": "Nerdysnake",
+            "bracketName": "Pools",
+            "bracketId": 1583010,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2417753,
+                    "playerTag": "Nerdysnake"
+                }
+            ]
+        },
+        {
+            "id": 41452634,
+            "entrant1Id": 8217455,
+            "entrant2Id": 8194500,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "JJM",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8194500,
+            "loserId": 8217455,
+            "winnerName": "JJM",
+            "loserName": "bobby big ballz",
+            "bracketName": "Top 64 - BO5",
+            "bracketId": 1598099,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 170768,
+                    "playerTag": "JJM"
+                }
+            ]
+        },
+        {
+            "id": 41452696,
+            "entrant1Id": 8217455,
+            "entrant2Id": 8194159,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Bbatts",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8194159,
+            "loserId": 8217455,
+            "winnerName": "Bbatts",
+            "loserName": "bobby big ballz",
+            "bracketName": "Top 64 - BO5",
+            "bracketId": 1598099,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 542693,
+                    "playerTag": "Bbatts"
+                }
+            ]
+        },
+        {
+            "id": 41452626,
+            "entrant1Id": 8217455,
+            "entrant2Id": 8194551,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Younger",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8217455,
+            "loserId": 8194551,
+            "winnerName": "bobby big ballz",
+            "loserName": "Younger",
+            "bracketName": "Top 64 - BO5",
+            "bracketId": 1598099,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3665,
+                    "playerTag": "Younger"
+                }
+            ]
+        },
+        {
+            "id": 41434214,
+            "entrant1Id": 8217455,
+            "entrant2Id": 8217368,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Axon",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8217455,
+            "loserId": 8217368,
+            "winnerName": "bobby big ballz",
+            "loserName": "Axon",
+            "bracketName": "Pools",
+            "bracketId": 1572306,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 396585,
+                    "playerTag": "Axon"
+                }
+            ]
+        },
+        {
+            "id": 41434210,
+            "entrant1Id": 8217455,
+            "entrant2Id": 8203953,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "cmoney",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8217455,
+            "loserId": 8203953,
+            "winnerName": "bobby big ballz",
+            "loserName": "cmoney",
+            "bracketName": "Pools",
+            "bracketId": 1572306,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2426857,
+                    "playerTag": "cmoney"
+                }
+            ]
+        },
+        {
+            "id": 41434202,
+            "entrant1Id": 8217455,
+            "entrant2Id": 8438244,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Isildur1",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8217455,
+            "loserId": 8438244,
+            "winnerName": "bobby big ballz",
+            "loserName": "Isildur1",
+            "bracketName": "Pools",
+            "bracketId": 1572306,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 35409,
+                    "playerTag": "Isildur"
+                }
+            ]
+        },
+        {
+            "id": 41711569,
+            "entrant1Id": 8552220,
+            "entrant2Id": 8552218,
+            "entrant1Name": "Medz",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552220,
+            "loserId": 8552218,
+            "winnerName": "Medz",
+            "loserName": "bobby big ballz",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 40476,
+                    "playerTag": "Medz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 41672753,
+            "entrant1Id": 8552218,
+            "entrant2Id": 8552233,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Tai",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552233,
+            "loserId": 8552218,
+            "winnerName": "Tai",
+            "loserName": "bobby big ballz",
+            "bracketName": "Group Stage",
+            "bracketId": 1603214,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1084,
+                    "playerTag": "Tai"
+                }
+            ]
+        },
+        {
+            "id": 41672750,
+            "entrant1Id": 8552191,
+            "entrant2Id": 8552218,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552191,
+            "loserId": 8552218,
+            "winnerName": "CLG | SFAT",
+            "loserName": "bobby big ballz",
+            "bracketName": "Group Stage",
+            "bracketId": 1603214,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 41672749,
+            "entrant1Id": 8552213,
+            "entrant2Id": 8552218,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552213,
+            "loserId": 8552218,
+            "winnerName": "Fiction",
+            "loserName": "bobby big ballz",
+            "bracketName": "Group Stage",
+            "bracketId": 1603214,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "android 0",
+        "eggy",
+        "sdj",
+        "shroomed"
+    ],
+    "L": [
+        "logan",
+        "zamu",
+        "axe",
+        "gahtzu",
+        "JJM",
+        "Bbatts",
+        "medz",
+        "tai",
+        "sfat",
+        "fiction",
+        "skerzo",
+        "zealot"
+    ]
+}

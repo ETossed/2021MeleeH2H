@@ -1,0 +1,380 @@
+{
+    "MPGR": 200,
+    "Events": [
+        573828,
+        657283
+    ],
+    "Sets": [
+        {
+            "id": 40427696,
+            "entrant1Id": 7471300,
+            "entrant2Id": 7485230,
+            "entrant1Name": "Justus",
+            "entrant2Name": "Gooms",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7485230,
+            "loserId": 7471300,
+            "winnerName": "Gooms",
+            "loserName": "Justus",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547387,
+            "entrant1Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 18840,
+                    "playerTag": "Gooms"
+                }
+            ]
+        },
+        {
+            "id": 40427689,
+            "entrant1Id": 7484589,
+            "entrant2Id": 7471300,
+            "entrant1Name": "Woley",
+            "entrant2Name": "Justus",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7471300,
+            "loserId": 7484589,
+            "winnerName": "Justus",
+            "loserName": "Woley",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547387,
+            "entrant1Players": [
+                {
+                    "playerId": 7796,
+                    "playerTag": "Woley"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ]
+        },
+        {
+            "id": 40427681,
+            "entrant1Id": 7471300,
+            "entrant2Id": 8022938,
+            "entrant1Name": "Justus",
+            "entrant2Name": "Tyli | TSI | Killablue",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471300,
+            "loserId": 8022938,
+            "winnerName": "Justus",
+            "loserName": "Tyli | TSI | Killablue",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547387,
+            "entrant1Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 126565,
+                    "playerTag": "Killablue"
+                }
+            ]
+        },
+        {
+            "id": 40427667,
+            "entrant1Id": 7471300,
+            "entrant2Id": 7484227,
+            "entrant1Name": "Justus",
+            "entrant2Name": "Opuc",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471300,
+            "loserId": 7484227,
+            "winnerName": "Justus",
+            "loserName": "Opuc",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547387,
+            "entrant1Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 57957,
+                    "playerTag": "Opuc"
+                }
+            ]
+        },
+        {
+            "id": 40427293,
+            "entrant1Id": 7469490,
+            "entrant2Id": 7471300,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Justus",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7469490,
+            "loserId": 7471300,
+            "winnerName": "Skerzo",
+            "loserName": "Justus",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547358,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ]
+        },
+        {
+            "id": 40427292,
+            "entrant1Id": 7471300,
+            "entrant2Id": 7471251,
+            "entrant1Name": "Justus",
+            "entrant2Name": "He/him | squizzage",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471300,
+            "loserId": 7471251,
+            "winnerName": "Justus",
+            "loserName": "He/him | squizzage",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547358,
+            "entrant1Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 231502,
+                    "playerTag": "squizzage"
+                }
+            ]
+        },
+        {
+            "id": 40427289,
+            "entrant1Id": 7471300,
+            "entrant2Id": 7484233,
+            "entrant1Name": "Justus",
+            "entrant2Name": "Sosa",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471300,
+            "loserId": 7484233,
+            "winnerName": "Justus",
+            "loserName": "Sosa",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547358,
+            "entrant1Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 872088,
+                    "playerTag": "Sosa"
+                }
+            ]
+        },
+        {
+            "id": 43050393,
+            "entrant1Id": 8919705,
+            "entrant2Id": 8919673,
+            "entrant1Name": "Albert",
+            "entrant2Name": "PULSE | Justus",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8919705,
+            "loserId": 8919673,
+            "winnerName": "Albert",
+            "loserName": "PULSE | Justus",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ]
+        },
+        {
+            "id": 43050391,
+            "entrant1Id": 8919673,
+            "entrant2Id": 8919601,
+            "entrant1Name": "PULSE | Justus",
+            "entrant2Name": "Crispy | Chango",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8919673,
+            "loserId": 8919601,
+            "winnerName": "PULSE | Justus",
+            "loserName": "Crispy | Chango",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 34980,
+                    "playerTag": "Chango"
+                }
+            ]
+        },
+        {
+            "id": 43050264,
+            "entrant1Id": 8922349,
+            "entrant2Id": 8919673,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "PULSE | Justus",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8922349,
+            "loserId": 8919673,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "PULSE | Justus",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ]
+        },
+        {
+            "id": 43050387,
+            "entrant1Id": 8919673,
+            "entrant2Id": 8919697,
+            "entrant1Name": "PULSE | Justus",
+            "entrant2Name": "Snap",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8919673,
+            "loserId": 8919697,
+            "winnerName": "PULSE | Justus",
+            "loserName": "Snap",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3377,
+                    "playerTag": "Snap"
+                }
+            ]
+        },
+        {
+            "id": 43050259,
+            "entrant1Id": 8919673,
+            "entrant2Id": 8922344,
+            "entrant1Name": "PULSE | Justus",
+            "entrant2Name": "10CT | ABG | salami",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8919673,
+            "loserId": 8922344,
+            "winnerName": "PULSE | Justus",
+            "loserName": "10CT | ABG | salami",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 294260,
+                    "playerTag": "salami"
+                }
+            ]
+        },
+        {
+            "id": 43050248,
+            "entrant1Id": 8919673,
+            "entrant2Id": 8919620,
+            "entrant1Name": "PULSE | Justus",
+            "entrant2Name": "Tuesday",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8919673,
+            "loserId": 8919620,
+            "winnerName": "PULSE | Justus",
+            "loserName": "Tuesday",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11458,
+                    "playerTag": "Tuesday"
+                }
+            ]
+        }
+    ],
+    "W": [],
+    "L": [
+        "Gooms",
+        "skerzo",
+        "albert",
+        "lucky"
+    ]
+}

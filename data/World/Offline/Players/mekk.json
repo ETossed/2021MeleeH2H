@@ -1,0 +1,420 @@
+{
+    "MPGR": 200,
+    "Events": [
+        573828,
+        585641,
+        610808,
+        633485
+    ],
+    "Sets": [
+        {
+            "id": 41043094,
+            "entrant1Id": 8204984,
+            "entrant2Id": 8304265,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "Mekk",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8204984,
+            "loserId": 8304265,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "Mekk",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ]
+        },
+        {
+            "id": 41043086,
+            "entrant1Id": 8205756,
+            "entrant2Id": 8304265,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Mekk",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8304265,
+            "loserId": 8205756,
+            "winnerName": "Mekk",
+            "loserName": "Fizz",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ]
+        },
+        {
+            "id": 41042965,
+            "entrant1Id": 8286645,
+            "entrant2Id": 8304265,
+            "entrant1Name": "WKDA | Shroomed",
+            "entrant2Name": "Mekk",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8286645,
+            "loserId": 8304265,
+            "winnerName": "WKDA | Shroomed",
+            "loserName": "Mekk",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 1013,
+                    "playerTag": "Shroomed"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ]
+        },
+        {
+            "id": 41043073,
+            "entrant1Id": 8304265,
+            "entrant2Id": 8360688,
+            "entrant1Name": "Mekk",
+            "entrant2Name": "Napkins",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8304265,
+            "loserId": 8360688,
+            "winnerName": "Mekk",
+            "loserName": "Napkins",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 285266,
+                    "playerTag": "Napkins"
+                }
+            ]
+        },
+        {
+            "id": 41034249,
+            "entrant1Id": 8304265,
+            "entrant2Id": 7914712,
+            "entrant1Name": "Mekk",
+            "entrant2Name": "AZPM | ilovebagelz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8304265,
+            "loserId": 7914712,
+            "winnerName": "Mekk",
+            "loserName": "AZPM | ilovebagelz",
+            "bracketName": "Pools",
+            "bracketId": 1583007,
+            "entrant1Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38355,
+                    "playerTag": "ilovebagelz"
+                }
+            ]
+        },
+        {
+            "id": 41034246,
+            "entrant1Id": 8304265,
+            "entrant2Id": 8141624,
+            "entrant1Name": "Mekk",
+            "entrant2Name": "Oswald",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8304265,
+            "loserId": 8141624,
+            "winnerName": "Mekk",
+            "loserName": "Oswald",
+            "bracketName": "Pools",
+            "bracketId": 1583007,
+            "entrant1Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1411495,
+                    "playerTag": "Oswald"
+                }
+            ]
+        },
+        {
+            "id": 41034240,
+            "entrant1Id": 8304265,
+            "entrant2Id": 7960052,
+            "entrant1Name": "Mekk",
+            "entrant2Name": "Hyphy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8304265,
+            "loserId": 7960052,
+            "winnerName": "Mekk",
+            "loserName": "Hyphy",
+            "bracketName": "Pools",
+            "bracketId": 1583007,
+            "entrant1Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 32661,
+                    "playerTag": "Hyphy"
+                }
+            ]
+        },
+        {
+            "id": 40844636,
+            "entrant1Id": 8278732,
+            "entrant2Id": 8316054,
+            "entrant1Name": "Mekk",
+            "entrant2Name": "CG | Jflex",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8316054,
+            "loserId": 8278732,
+            "winnerName": "CG | Jflex",
+            "loserName": "Mekk",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 40844700,
+            "entrant1Id": 8278732,
+            "entrant2Id": 8143415,
+            "entrant1Name": "Mekk",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8143415,
+            "loserId": 8278732,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "Mekk",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 40844634,
+            "entrant1Id": 8143415,
+            "entrant2Id": 8278732,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "Mekk",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8278732,
+            "loserId": 8143415,
+            "winnerName": "Mekk",
+            "loserName": "HSTV | Zamu",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ]
+        },
+        {
+            "id": 40844631,
+            "entrant1Id": 8278732,
+            "entrant2Id": 8158672,
+            "entrant1Name": "Mekk",
+            "entrant2Name": "CC | Kalvar",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8278732,
+            "loserId": 8158672,
+            "winnerName": "Mekk",
+            "loserName": "CC | Kalvar",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ]
+        },
+        {
+            "id": 40834494,
+            "entrant1Id": 8161309,
+            "entrant2Id": 8278732,
+            "entrant1Name": "Wally",
+            "entrant2Name": "Mekk",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8278732,
+            "loserId": 8161309,
+            "winnerName": "Mekk",
+            "loserName": "Wally",
+            "bracketName": "Pools",
+            "bracketId": 1584533,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ]
+        },
+        {
+            "id": 40834491,
+            "entrant1Id": 8278732,
+            "entrant2Id": 8138837,
+            "entrant1Name": "Mekk",
+            "entrant2Name": "HOBORG",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8278732,
+            "loserId": 8138837,
+            "winnerName": "Mekk",
+            "loserName": "HOBORG",
+            "bracketName": "Pools",
+            "bracketId": 1584533,
+            "entrant1Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 159216,
+                    "playerTag": "HOBORG"
+                }
+            ]
+        },
+        {
+            "id": 40834484,
+            "entrant1Id": 8278732,
+            "entrant2Id": 8140180,
+            "entrant1Name": "Mekk",
+            "entrant2Name": "MP | Krakhead",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8278732,
+            "loserId": 8140180,
+            "winnerName": "Mekk",
+            "loserName": "MP | Krakhead",
+            "bracketName": "Pools",
+            "bracketId": 1584533,
+            "entrant1Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 60903,
+                    "playerTag": "Krakhead"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "zamu",
+        "kalvar",
+        "wally",
+        "kjh",
+        "theswooper"
+    ],
+    "L": [
+        "jakpox",
+        "Wonov",
+        "zamu",
+        "shroomed",
+        "jflex",
+        "zamu",
+        "mew2king",
+        "panda"
+    ]
+}

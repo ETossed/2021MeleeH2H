@@ -1,0 +1,1595 @@
+{
+    "MPGR": 48,
+    "Events": [
+        644621,
+        573828,
+        585641,
+        598932,
+        554630,
+        596528,
+        606697,
+        610808,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 43222590,
+            "entrant1Id": 8712511,
+            "entrant2Id": 8954979,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712511,
+            "loserId": 8954979,
+            "winnerName": "SFAT",
+            "loserName": "HSTV | Zamu",
+            "bracketName": "Group Stage",
+            "bracketId": 1635972,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 43222589,
+            "entrant1Id": 8892146,
+            "entrant2Id": 8954979,
+            "entrant1Name": "Magi",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8954979,
+            "loserId": 8892146,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "Magi",
+            "bracketName": "Group Stage",
+            "bracketId": 1635972,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 43222587,
+            "entrant1Id": 8712500,
+            "entrant2Id": 8954979,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712500,
+            "loserId": 8954979,
+            "winnerName": "Professor Pro",
+            "loserName": "HSTV | Zamu",
+            "bracketName": "Group Stage",
+            "bracketId": 1635972,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 43222585,
+            "entrant1Id": 8954979,
+            "entrant2Id": 8774628,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "Inngenn",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8954979,
+            "loserId": 8774628,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "Inngenn",
+            "bracketName": "Group Stage",
+            "bracketId": 1635972,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2152019,
+                    "playerTag": "Inngenn"
+                }
+            ]
+        },
+        {
+            "id": 40437624,
+            "entrant1Id": 7484236,
+            "entrant2Id": 7471864,
+            "entrant1Name": "GHQ | HSTV | Zamu",
+            "entrant2Name": "Axe",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7471864,
+            "loserId": 7484236,
+            "winnerName": "Axe",
+            "loserName": "GHQ | HSTV | Zamu",
+            "bracketName": "Top 24",
+            "bracketId": 1547385,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 40415926,
+            "entrant1Id": 7469532,
+            "entrant2Id": 7484236,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "GHQ | HSTV | Zamu",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7469532,
+            "loserId": 7484236,
+            "winnerName": "Hungrybox",
+            "loserName": "GHQ | HSTV | Zamu",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 40415923,
+            "entrant1Id": 7484236,
+            "entrant2Id": 7484179,
+            "entrant1Name": "GHQ | HSTV | Zamu",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7484236,
+            "loserId": 7484179,
+            "winnerName": "GHQ | HSTV | Zamu",
+            "loserName": "bobby big ballz",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 40415916,
+            "entrant1Id": 7484236,
+            "entrant2Id": 7485097,
+            "entrant1Name": "GHQ | HSTV | Zamu",
+            "entrant2Name": "Amida",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484236,
+            "loserId": 7485097,
+            "winnerName": "GHQ | HSTV | Zamu",
+            "loserName": "Amida",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 150705,
+                    "playerTag": "Amida"
+                }
+            ]
+        },
+        {
+            "id": 40414222,
+            "entrant1Id": 7484236,
+            "entrant2Id": 7485272,
+            "entrant1Name": "GHQ | HSTV | Zamu",
+            "entrant2Name": "GranmasGotGame",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484236,
+            "loserId": 7485272,
+            "winnerName": "GHQ | HSTV | Zamu",
+            "loserName": "GranmasGotGame",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547335,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 246385,
+                    "playerTag": "GranmasGotGame"
+                }
+            ]
+        },
+        {
+            "id": 40414216,
+            "entrant1Id": 7484236,
+            "entrant2Id": 7533470,
+            "entrant1Name": "GHQ | HSTV | Zamu",
+            "entrant2Name": "pedr",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484236,
+            "loserId": 7533470,
+            "winnerName": "GHQ | HSTV | Zamu",
+            "loserName": "pedr",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547335,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2318282,
+                    "playerTag": "pedr"
+                }
+            ]
+        },
+        {
+            "id": 41057051,
+            "entrant1Id": 8055322,
+            "entrant2Id": 8204984,
+            "entrant1Name": "S2J",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8055322,
+            "loserId": 8204984,
+            "winnerName": "S2J",
+            "loserName": "HSTV | Zamu",
+            "bracketName": "Top 16",
+            "bracketId": 1583000,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 41042972,
+            "entrant1Id": 8204984,
+            "entrant2Id": 8352241,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "bc | Magi",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8352241,
+            "loserId": 8204984,
+            "winnerName": "bc | Magi",
+            "loserName": "HSTV | Zamu",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 41043094,
+            "entrant1Id": 8204984,
+            "entrant2Id": 8304265,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "Mekk",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8204984,
+            "loserId": 8304265,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "Mekk",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ]
+        },
+        {
+            "id": 41042957,
+            "entrant1Id": 8204984,
+            "entrant2Id": 8120358,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "Casper",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8204984,
+            "loserId": 8120358,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "Casper",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 144268,
+                    "playerTag": "Casper"
+                }
+            ]
+        },
+        {
+            "id": 41030254,
+            "entrant1Id": 8204984,
+            "entrant2Id": 8050464,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "DSJ",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8204984,
+            "loserId": 8050464,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "DSJ",
+            "bracketName": "Pools",
+            "bracketId": 1583008,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11937,
+                    "playerTag": "DSJ"
+                }
+            ]
+        },
+        {
+            "id": 41030250,
+            "entrant1Id": 8204984,
+            "entrant2Id": 7731340,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "Nice Orbit",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8204984,
+            "loserId": 7731340,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "Nice Orbit",
+            "bracketName": "Pools",
+            "bracketId": 1583008,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 186163,
+                    "playerTag": "Nice Orbit"
+                }
+            ]
+        },
+        {
+            "id": 39687857,
+            "entrant1Id": 7914952,
+            "entrant2Id": 7914330,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "GHQ | PEP | Zamu",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7914952,
+            "loserId": 7914330,
+            "winnerName": "IMP | Ben",
+            "loserName": "GHQ | PEP | Zamu",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 39687855,
+            "entrant1Id": 7914330,
+            "entrant2Id": 7914555,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "UGS | Michael",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7914330,
+            "loserId": 7914555,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "UGS | Michael",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ]
+        },
+        {
+            "id": 39687728,
+            "entrant1Id": 7914330,
+            "entrant2Id": 8044746,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "TheSWOOPER",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8044746,
+            "loserId": 7914330,
+            "winnerName": "TheSWOOPER",
+            "loserName": "GHQ | PEP | Zamu",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50606,
+                    "playerTag": "TheSWOOPER"
+                }
+            ]
+        },
+        {
+            "id": 39687851,
+            "entrant1Id": 7914330,
+            "entrant2Id": 7914693,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7914330,
+            "loserId": 7914693,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "Agency | Wally",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 39687722,
+            "entrant1Id": 7914330,
+            "entrant2Id": 7913485,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "Pleeba",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7914330,
+            "loserId": 7913485,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "Pleeba",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4057,
+                    "playerTag": "Pleeba"
+                }
+            ]
+        },
+        {
+            "id": 39687710,
+            "entrant1Id": 7914330,
+            "entrant2Id": 8052446,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "TSI | Blendtec",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7914330,
+            "loserId": 8052446,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "TSI | Blendtec",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 8009,
+                    "playerTag": "Blendtec"
+                }
+            ]
+        },
+        {
+            "id": 39677195,
+            "entrant1Id": 7914330,
+            "entrant2Id": 7920827,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "Ego Check",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7914330,
+            "loserId": 7920827,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "Ego Check",
+            "bracketName": "Pools",
+            "bracketId": 1537829,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 226458,
+                    "playerTag": "Ego Check"
+                }
+            ]
+        },
+        {
+            "id": 39677191,
+            "entrant1Id": 7914330,
+            "entrant2Id": 8035305,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "Mariachi",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7914330,
+            "loserId": 8035305,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "Mariachi",
+            "bracketName": "Pools",
+            "bracketId": 1537829,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 712380,
+                    "playerTag": "Mariachi"
+                }
+            ]
+        },
+        {
+            "id": 41934618,
+            "entrant1Id": 8575599,
+            "entrant2Id": 8575603,
+            "entrant1Name": "lloD",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8575599,
+            "loserId": 8575603,
+            "winnerName": "lloD",
+            "loserName": "HSTV | Zamu",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 41934614,
+            "entrant1Id": 8575598,
+            "entrant2Id": 8575603,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575603,
+            "loserId": 8575598,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "Aspero | Logan",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 41885793,
+            "entrant1Id": 8575466,
+            "entrant2Id": 8575603,
+            "entrant1Name": "Brotherhood|CM | Aklo",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8575466,
+            "loserId": 8575603,
+            "winnerName": "Brotherhood|CM | Aklo",
+            "loserName": "HSTV | Zamu",
+            "bracketName": "Group Stage",
+            "bracketId": 1452633,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 41885791,
+            "entrant1Id": 8575603,
+            "entrant2Id": 8575458,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "20GX | Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8575603,
+            "loserId": 8575458,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "20GX | Gahtzu",
+            "bracketName": "Group Stage",
+            "bracketId": 1452633,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 41885788,
+            "entrant1Id": 8575422,
+            "entrant2Id": 8575603,
+            "entrant1Name": "Zain",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8575422,
+            "loserId": 8575603,
+            "winnerName": "Zain",
+            "loserName": "HSTV | Zamu",
+            "bracketName": "Group Stage",
+            "bracketId": 1452633,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 39297242,
+            "entrant1Id": 7895372,
+            "entrant2Id": 7925424,
+            "entrant1Name": "Free Palestine",
+            "entrant2Name": "GHQ | PEP | Zamu",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7895372,
+            "loserId": 7925424,
+            "winnerName": "Free Palestine",
+            "loserName": "GHQ | PEP | Zamu",
+            "bracketName": "Bracket",
+            "bracketId": 1545264,
+            "entrant1Players": [
+                {
+                    "playerId": 55110,
+                    "playerTag": "Free Palestine"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 39297306,
+            "entrant1Id": 7925424,
+            "entrant2Id": 7895344,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "Polish",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7895344,
+            "loserId": 7925424,
+            "winnerName": "Polish",
+            "loserName": "GHQ | PEP | Zamu",
+            "bracketName": "Bracket",
+            "bracketId": 1545264,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ]
+        },
+        {
+            "id": 39297241,
+            "entrant1Id": 7894490,
+            "entrant2Id": 7925424,
+            "entrant1Name": "Drephen",
+            "entrant2Name": "GHQ | PEP | Zamu",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7925424,
+            "loserId": 7894490,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "Drephen",
+            "bracketName": "Bracket",
+            "bracketId": 1545264,
+            "entrant1Players": [
+                {
+                    "playerId": 6839,
+                    "playerTag": "Drephen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 39297239,
+            "entrant1Id": 7925424,
+            "entrant2Id": 7975127,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "Twotran",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7925424,
+            "loserId": 7975127,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "Twotran",
+            "bracketName": "Bracket",
+            "bracketId": 1545264,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 126690,
+                    "playerTag": "Twotran"
+                }
+            ]
+        },
+        {
+            "id": 39297234,
+            "entrant1Id": 7925424,
+            "entrant2Id": 7972965,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "ZHammer",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7925424,
+            "loserId": 7972965,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "ZHammer",
+            "bracketName": "Bracket",
+            "bracketId": 1545264,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 864590,
+                    "playerTag": "ZHammer"
+                }
+            ]
+        },
+        {
+            "id": 39287883,
+            "entrant1Id": 7925424,
+            "entrant2Id": 7874325,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "f1 | tomdollars",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7925424,
+            "loserId": 7874325,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "f1 | tomdollars",
+            "bracketName": "Pools",
+            "bracketId": 1545252,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 70847,
+                    "playerTag": "tomdollars"
+                }
+            ]
+        },
+        {
+            "id": 39287881,
+            "entrant1Id": 7925424,
+            "entrant2Id": 7874246,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "SYF | Freky",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7925424,
+            "loserId": 7874246,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "SYF | Freky",
+            "bracketName": "Pools",
+            "bracketId": 1545252,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7678,
+                    "playerTag": "Freky"
+                }
+            ]
+        },
+        {
+            "id": 39287879,
+            "entrant1Id": 7925424,
+            "entrant2Id": 7950428,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "MFH | JoRaw",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7925424,
+            "loserId": 7950428,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "MFH | JoRaw",
+            "bracketName": "Pools",
+            "bracketId": 1545252,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1884628,
+                    "playerTag": "JoRaw"
+                }
+            ]
+        },
+        {
+            "id": 39287877,
+            "entrant1Id": 7925424,
+            "entrant2Id": 7959136,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "Martin",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7925424,
+            "loserId": 7959136,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "Martin",
+            "bracketName": "Pools",
+            "bracketId": 1545252,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2375816,
+                    "playerTag": "Martin"
+                }
+            ]
+        },
+        {
+            "id": 39634612,
+            "entrant1Id": 8061182,
+            "entrant2Id": 8064445,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "Morsecode762",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8064445,
+            "loserId": 8061182,
+            "winnerName": "Morsecode762",
+            "loserName": "GHQ | PEP | Zamu",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3713,
+                    "playerTag": "Morsecode762"
+                }
+            ]
+        },
+        {
+            "id": 39634610,
+            "entrant1Id": 8041649,
+            "entrant2Id": 8061182,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "GHQ | PEP | Zamu",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8061182,
+            "loserId": 8041649,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "IMP | Ben",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 39634608,
+            "entrant1Id": 8061182,
+            "entrant2Id": 8058478,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "TheSWOOPER",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8061182,
+            "loserId": 8058478,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "TheSWOOPER",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50606,
+                    "playerTag": "TheSWOOPER"
+                }
+            ]
+        },
+        {
+            "id": 39634481,
+            "entrant1Id": 8061182,
+            "entrant2Id": 8043162,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8043162,
+            "loserId": 8061182,
+            "winnerName": "Agency | Wally",
+            "loserName": "GHQ | PEP | Zamu",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 39634604,
+            "entrant1Id": 8061182,
+            "entrant2Id": 8057897,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "UGS | Michael",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8061182,
+            "loserId": 8057897,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "UGS | Michael",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ]
+        },
+        {
+            "id": 39634475,
+            "entrant1Id": 8061182,
+            "entrant2Id": 8042951,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "Jada | The Beetle King",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8061182,
+            "loserId": 8042951,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "Jada | The Beetle King",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 18679,
+                    "playerTag": "Jada"
+                }
+            ]
+        },
+        {
+            "id": 39634463,
+            "entrant1Id": 8061182,
+            "entrant2Id": 8061451,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "Kadence",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8061182,
+            "loserId": 8061451,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "Kadence",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 766787,
+                    "playerTag": "Kadence"
+                }
+            ]
+        },
+        {
+            "id": 40844637,
+            "entrant1Id": 8316054,
+            "entrant2Id": 8143415,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8143415,
+            "loserId": 8316054,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "CG | Jflex",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 40844638,
+            "entrant1Id": 8143415,
+            "entrant2Id": 8316054,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "CG | Jflex",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8143415,
+            "loserId": 8316054,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "CG | Jflex",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 40844700,
+            "entrant1Id": 8278732,
+            "entrant2Id": 8143415,
+            "entrant1Name": "Mekk",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8143415,
+            "loserId": 8278732,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "Mekk",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 40844699,
+            "entrant1Id": 8161292,
+            "entrant2Id": 8143415,
+            "entrant1Name": "Mot$",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8143415,
+            "loserId": 8161292,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "Mot$",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 40844634,
+            "entrant1Id": 8143415,
+            "entrant2Id": 8278732,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "Mekk",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8278732,
+            "loserId": 8143415,
+            "winnerName": "Mekk",
+            "loserName": "HSTV | Zamu",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ]
+        },
+        {
+            "id": 40844698,
+            "entrant1Id": 8143415,
+            "entrant2Id": 8150049,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "HoG | Warmmer",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8143415,
+            "loserId": 8150049,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "HoG | Warmmer",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ]
+        },
+        {
+            "id": 40844630,
+            "entrant1Id": 8143415,
+            "entrant2Id": 8161292,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "Mot$",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8143415,
+            "loserId": 8161292,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "Mot$",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 40828722,
+            "entrant1Id": 8143415,
+            "entrant2Id": 8156814,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "BKB | ghettowarmachine420",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8143415,
+            "loserId": 8156814,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "BKB | ghettowarmachine420",
+            "bracketName": "Pools",
+            "bracketId": 1557848,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3936,
+                    "playerTag": "grownworkingman"
+                }
+            ]
+        },
+        {
+            "id": 40828718,
+            "entrant1Id": 8143415,
+            "entrant2Id": 8163085,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "Hexjo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8143415,
+            "loserId": 8163085,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "Hexjo",
+            "bracketName": "Pools",
+            "bracketId": 1557848,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 29103,
+                    "playerTag": "Hexjo"
+                }
+            ]
+        },
+        {
+            "id": 40828710,
+            "entrant1Id": 8143415,
+            "entrant2Id": 8151716,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "PCG | Frosty",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8143415,
+            "loserId": 8151716,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "PCG | Frosty",
+            "bracketName": "Pools",
+            "bracketId": 1557848,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 67476,
+                    "playerTag": "Frosty"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "magi",
+        "bobby big ballz",
+        "mekk",
+        "michael",
+        "wally",
+        "logan",
+        "gahtzu",
+        "drephen",
+        "ben",
+        "theswooper",
+        "michael",
+        "jflex",
+        "jflex",
+        "mekk",
+        "mot$",
+        "warmmer",
+        "mot$"
+    ],
+    "L": [
+        "sfat",
+        "professor pro",
+        "axe",
+        "hungrybox",
+        "s2j",
+        "magi",
+        "ben",
+        "theswooper",
+        "llod",
+        "aklo",
+        "zain",
+        "free palestine",
+        "polish",
+        "morsecode762",
+        "wally",
+        "mekk",
+        "ringler",
+        "smashdaddy"
+    ]
+}

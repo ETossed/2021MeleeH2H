@@ -1,0 +1,335 @@
+{
+    "MPGR": 57,
+    "Events": [
+        644621,
+        554629,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 43289105,
+            "entrant1Id": 8712524,
+            "entrant2Id": 8701092,
+            "entrant1Name": "Kalamazhu",
+            "entrant2Name": "Faceroll",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8701092,
+            "loserId": 8712524,
+            "winnerName": "Faceroll",
+            "loserName": "Kalamazhu",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 43219530,
+            "entrant1Id": 8774627,
+            "entrant2Id": 8712524,
+            "entrant1Name": "aMSa",
+            "entrant2Name": "Kalamazhu",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8774627,
+            "loserId": 8712524,
+            "winnerName": "aMSa",
+            "loserName": "Kalamazhu",
+            "bracketName": "Group Stage",
+            "bracketId": 1635970,
+            "entrant1Players": [
+                {
+                    "playerId": 1021,
+                    "playerTag": "aMSa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ]
+        },
+        {
+            "id": 43219529,
+            "entrant1Id": 8849886,
+            "entrant2Id": 8712524,
+            "entrant1Name": "Far!",
+            "entrant2Name": "Kalamazhu",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712524,
+            "loserId": 8849886,
+            "winnerName": "Kalamazhu",
+            "loserName": "Far!",
+            "bracketName": "Group Stage",
+            "bracketId": 1635970,
+            "entrant1Players": [
+                {
+                    "playerId": 132537,
+                    "playerTag": "Far!"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ]
+        },
+        {
+            "id": 43219525,
+            "entrant1Id": 8712524,
+            "entrant2Id": 8712537,
+            "entrant1Name": "Kalamazhu",
+            "entrant2Name": "Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712524,
+            "loserId": 8712537,
+            "winnerName": "Kalamazhu",
+            "loserName": "Gahtzu",
+            "bracketName": "Group Stage",
+            "bracketId": 1635970,
+            "entrant1Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 43219522,
+            "entrant1Id": 8712524,
+            "entrant2Id": 8892148,
+            "entrant1Name": "Kalamazhu",
+            "entrant2Name": "Jmook",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8892148,
+            "loserId": 8712524,
+            "winnerName": "Jmook",
+            "loserName": "Kalamazhu",
+            "bracketName": "Group Stage",
+            "bracketId": 1635970,
+            "entrant1Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ]
+        },
+        {
+            "id": 41711575,
+            "entrant1Id": 8552205,
+            "entrant2Id": 8552216,
+            "entrant1Name": "Kalamazhu",
+            "entrant2Name": "Captain Faceroll",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552216,
+            "loserId": 8552205,
+            "winnerName": "Captain Faceroll",
+            "loserName": "Kalamazhu",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 41711545,
+            "entrant1Id": 8552198,
+            "entrant2Id": 8552205,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "Kalamazhu",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552198,
+            "loserId": 8552205,
+            "winnerName": "bc | S2J",
+            "loserName": "Kalamazhu",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ]
+        },
+        {
+            "id": 41711571,
+            "entrant1Id": 8552205,
+            "entrant2Id": 8552233,
+            "entrant1Name": "Kalamazhu",
+            "entrant2Name": "Tai",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552205,
+            "loserId": 8552233,
+            "winnerName": "Kalamazhu",
+            "loserName": "Tai",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1084,
+                    "playerTag": "Tai"
+                }
+            ]
+        },
+        {
+            "id": 41690502,
+            "entrant1Id": 8552204,
+            "entrant2Id": 8552205,
+            "entrant1Name": "MF | KoDoRiN",
+            "entrant2Name": "Kalamazhu",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552204,
+            "loserId": 8552205,
+            "winnerName": "MF | KoDoRiN",
+            "loserName": "Kalamazhu",
+            "bracketName": "Group Stage",
+            "bracketId": 1603216,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ]
+        },
+        {
+            "id": 41690501,
+            "entrant1Id": 8552221,
+            "entrant2Id": 8552205,
+            "entrant1Name": "Dacky",
+            "entrant2Name": "Kalamazhu",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552221,
+            "loserId": 8552205,
+            "winnerName": "Dacky",
+            "loserName": "Kalamazhu",
+            "bracketName": "Group Stage",
+            "bracketId": 1603216,
+            "entrant1Players": [
+                {
+                    "playerId": 45951,
+                    "playerTag": "Dacky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ]
+        },
+        {
+            "id": 41690499,
+            "entrant1Id": 8552205,
+            "entrant2Id": 8552227,
+            "entrant1Name": "Kalamazhu",
+            "entrant2Name": "Rocky",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552205,
+            "loserId": 8552227,
+            "winnerName": "Kalamazhu",
+            "loserName": "Rocky",
+            "bracketName": "Group Stage",
+            "bracketId": 1603216,
+            "entrant1Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "far!",
+        "gahtzu",
+        "tai",
+        "rocky"
+    ],
+    "L": [
+        "faceroll",
+        "amsa",
+        "jmook",
+        "faceroll",
+        "s2j",
+        "kodorin",
+        "dacky",
+        "eddy mexico",
+        "lucky"
+    ]
+}

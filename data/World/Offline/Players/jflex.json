@@ -1,0 +1,736 @@
+{
+    "MPGR": 200,
+    "Events": [
+        573828,
+        438347,
+        610808,
+        633485,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 40437623,
+            "entrant1Id": 7484527,
+            "entrant2Id": 7470177,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7470177,
+            "loserId": 7484527,
+            "winnerName": "Agency | Wally",
+            "loserName": "CG | Jflex",
+            "bracketName": "Top 24",
+            "bracketId": 1547385,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 40415927,
+            "entrant1Id": 7484527,
+            "entrant2Id": 7471789,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7471789,
+            "loserId": 7484527,
+            "winnerName": "IMP | Ben",
+            "loserName": "CG | Jflex",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 40415924,
+            "entrant1Id": 7484131,
+            "entrant2Id": 7484527,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "CG | Jflex",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7484527,
+            "loserId": 7484131,
+            "winnerName": "CG | Jflex",
+            "loserName": "Aspero | Logan",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 40415919,
+            "entrant1Id": 7484527,
+            "entrant2Id": 7533612,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "SDJ",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484527,
+            "loserId": 7533612,
+            "winnerName": "CG | Jflex",
+            "loserName": "SDJ",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 325974,
+                    "playerTag": "SDJ"
+                }
+            ]
+        },
+        {
+            "id": 40414269,
+            "entrant1Id": 7484527,
+            "entrant2Id": 7484082,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "LSD-25 | Cilan$",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7484527,
+            "loserId": 7484082,
+            "winnerName": "CG | Jflex",
+            "loserName": "LSD-25 | Cilan$",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547344,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 60696,
+                    "playerTag": "Cilan"
+                }
+            ]
+        },
+        {
+            "id": 40414267,
+            "entrant1Id": 7484527,
+            "entrant2Id": 7533471,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "Alyssian Rei",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484527,
+            "loserId": 7533471,
+            "winnerName": "CG | Jflex",
+            "loserName": "Alyssian Rei",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547344,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 416732,
+                    "playerTag": "Alyssian Rei"
+                }
+            ]
+        },
+        {
+            "id": 40414263,
+            "entrant1Id": 7484527,
+            "entrant2Id": 7484674,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "Reverend",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484527,
+            "loserId": 7484674,
+            "winnerName": "CG | Jflex",
+            "loserName": "Reverend",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547344,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2308599,
+                    "playerTag": "Reverend"
+                }
+            ]
+        },
+        {
+            "id": 40414263,
+            "entrant1Id": 7484527,
+            "entrant2Id": 7484674,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "Reverend",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484527,
+            "loserId": 7484674,
+            "winnerName": "CG | Jflex",
+            "loserName": "Reverend",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547344,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2308599,
+                    "playerTag": "Reverend"
+                }
+            ]
+        },
+        {
+            "id": 40628322,
+            "entrant1Id": 4819867,
+            "entrant2Id": 8286153,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "CG | Jflex",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4819867,
+            "loserId": 8286153,
+            "winnerName": "BLE | SluG",
+            "loserName": "CG | Jflex",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 40628385,
+            "entrant1Id": 4767641,
+            "entrant2Id": 8286153,
+            "entrant1Name": "2saint",
+            "entrant2Name": "CG | Jflex",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8286153,
+            "loserId": 4767641,
+            "winnerName": "CG | Jflex",
+            "loserName": "2saint",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 40628384,
+            "entrant1Id": 8286153,
+            "entrant2Id": 4767651,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "Kalvar",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8286153,
+            "loserId": 4767651,
+            "winnerName": "CG | Jflex",
+            "loserName": "Kalvar",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ]
+        },
+        {
+            "id": 40628320,
+            "entrant1Id": 8286153,
+            "entrant2Id": 4819867,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 4819867,
+            "loserId": 8286153,
+            "winnerName": "BLE | SluG",
+            "loserName": "CG | Jflex",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 40628382,
+            "entrant1Id": 8286153,
+            "entrant2Id": 8287523,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "MP | Bank",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8286153,
+            "loserId": 8287523,
+            "winnerName": "CG | Jflex",
+            "loserName": "MP | Bank",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 352066,
+                    "playerTag": "Bank"
+                }
+            ]
+        },
+        {
+            "id": 40628317,
+            "entrant1Id": 8286153,
+            "entrant2Id": 4767651,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "Kalvar",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8286153,
+            "loserId": 4767651,
+            "winnerName": "CG | Jflex",
+            "loserName": "Kalvar",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ]
+        },
+        {
+            "id": 40610706,
+            "entrant1Id": 8286153,
+            "entrant2Id": 8178366,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "VLC | meep",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8286153,
+            "loserId": 8178366,
+            "winnerName": "CG | Jflex",
+            "loserName": "VLC | meep",
+            "bracketName": "Pools",
+            "bracketId": 1578728,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 270146,
+                    "playerTag": "meep"
+                }
+            ]
+        },
+        {
+            "id": 40610702,
+            "entrant1Id": 8286153,
+            "entrant2Id": 8244046,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "Ant",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8286153,
+            "loserId": 8244046,
+            "winnerName": "CG | Jflex",
+            "loserName": "Ant",
+            "bracketName": "Pools",
+            "bracketId": 1578728,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12691,
+                    "playerTag": "Ant"
+                }
+            ]
+        },
+        {
+            "id": 40610694,
+            "entrant1Id": 8286153,
+            "entrant2Id": 8210559,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "Teakplum",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8286153,
+            "loserId": 8210559,
+            "winnerName": "CG | Jflex",
+            "loserName": "Teakplum",
+            "bracketName": "Pools",
+            "bracketId": 1578728,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 951007,
+                    "playerTag": "Teakplum"
+                }
+            ]
+        },
+        {
+            "id": 40844637,
+            "entrant1Id": 8316054,
+            "entrant2Id": 8143415,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8143415,
+            "loserId": 8316054,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "CG | Jflex",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 40844638,
+            "entrant1Id": 8143415,
+            "entrant2Id": 8316054,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "CG | Jflex",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8143415,
+            "loserId": 8316054,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "CG | Jflex",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 40844636,
+            "entrant1Id": 8278732,
+            "entrant2Id": 8316054,
+            "entrant1Name": "Mekk",
+            "entrant2Name": "CG | Jflex",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8316054,
+            "loserId": 8278732,
+            "winnerName": "CG | Jflex",
+            "loserName": "Mekk",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 40844635,
+            "entrant1Id": 8316054,
+            "entrant2Id": 8139801,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "DrLobster",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8316054,
+            "loserId": 8139801,
+            "winnerName": "CG | Jflex",
+            "loserName": "DrLobster",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15263,
+                    "playerTag": "DrLobster"
+                }
+            ]
+        },
+        {
+            "id": 40844632,
+            "entrant1Id": 8316054,
+            "entrant2Id": 8150049,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "HoG | Warmmer",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8316054,
+            "loserId": 8150049,
+            "winnerName": "CG | Jflex",
+            "loserName": "HoG | Warmmer",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ]
+        },
+        {
+            "id": 40828836,
+            "entrant1Id": 8316054,
+            "entrant2Id": 8179283,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8316054,
+            "loserId": 8179283,
+            "winnerName": "CG | Jflex",
+            "loserName": "NoFluxes",
+            "bracketName": "Pools",
+            "bracketId": 1584531,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 40828832,
+            "entrant1Id": 8316054,
+            "entrant2Id": 8353477,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "cupofwater",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8316054,
+            "loserId": 8353477,
+            "winnerName": "CG | Jflex",
+            "loserName": "cupofwater",
+            "bracketName": "Pools",
+            "bracketId": 1584531,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 126697,
+                    "playerTag": "cupofwater"
+                }
+            ]
+        },
+        {
+            "id": 40828824,
+            "entrant1Id": 8316054,
+            "entrant2Id": 8162002,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "unlimitedd",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8316054,
+            "loserId": 8162002,
+            "winnerName": "CG | Jflex",
+            "loserName": "unlimitedd",
+            "bracketName": "Pools",
+            "bracketId": 1584531,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 178495,
+                    "playerTag": "unlimitedd"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "logan",
+        "sdj",
+        "2saint",
+        "kalvar",
+        "kalvar",
+        "mekk",
+        "warmmer",
+        "nofluxes",
+        "rocky",
+        "jmook"
+    ],
+    "L": [
+        "wally",
+        "ben",
+        "slug",
+        "slug",
+        "zamu",
+        "zamu",
+        "fiction",
+        "faceroll",
+        "mew2king",
+        "axe"
+    ]
+}

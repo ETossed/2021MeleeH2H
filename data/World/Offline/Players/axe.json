@@ -1,0 +1,1030 @@
+{
+    "MPGR": 4,
+    "Events": [
+        596002,
+        644621,
+        573828,
+        585641,
+        633485,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 38962579,
+            "entrant1Id": 7731742,
+            "entrant2Id": 7731735,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "Tempo | Axe",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7731742,
+            "loserId": 7731735,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "Tempo | Axe",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 38962576,
+            "entrant1Id": 7731710,
+            "entrant2Id": 7731735,
+            "entrant1Name": "VGBC RB | aMSa",
+            "entrant2Name": "Tempo | Axe",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731735,
+            "loserId": 7731710,
+            "winnerName": "Tempo | Axe",
+            "loserName": "VGBC RB | aMSa",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 1021,
+                    "playerTag": "aMSa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 38962572,
+            "entrant1Id": 7731730,
+            "entrant2Id": 7731735,
+            "entrant1Name": "PEP | LSD",
+            "entrant2Name": "Tempo | Axe",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731735,
+            "loserId": 7731730,
+            "winnerName": "Tempo | Axe",
+            "loserName": "PEP | LSD",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 38935543,
+            "entrant1Id": 7731735,
+            "entrant2Id": 7731723,
+            "entrant1Name": "Tempo | Axe",
+            "entrant2Name": "Brotherhood | Aklo",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731723,
+            "loserId": 7731735,
+            "winnerName": "Brotherhood | Aklo",
+            "loserName": "Tempo | Axe",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1534192,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ]
+        },
+        {
+            "id": 38888201,
+            "entrant1Id": 7731744,
+            "entrant2Id": 7731735,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Tempo | Axe",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731735,
+            "loserId": 7731744,
+            "winnerName": "Tempo | Axe",
+            "loserName": "2saint",
+            "bracketName": "Group Stage",
+            "bracketId": 1534198,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 38888199,
+            "entrant1Id": 7731735,
+            "entrant2Id": 7731707,
+            "entrant1Name": "Tempo | Axe",
+            "entrant2Name": "Panda RB | Plup",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731707,
+            "loserId": 7731735,
+            "winnerName": "Panda RB | Plup",
+            "loserName": "Tempo | Axe",
+            "bracketName": "Group Stage",
+            "bracketId": 1534198,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ]
+        },
+        {
+            "id": 38888196,
+            "entrant1Id": 7731718,
+            "entrant2Id": 7731735,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Tempo | Axe",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7731718,
+            "loserId": 7731735,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Tempo | Axe",
+            "bracketName": "Group Stage",
+            "bracketId": 1534198,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 43224434,
+            "entrant1Id": 8955030,
+            "entrant2Id": 8892143,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "Axe",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8892143,
+            "loserId": 8955030,
+            "winnerName": "Axe",
+            "loserName": "IMP | Ben",
+            "bracketName": "Group Stage",
+            "bracketId": 1635975,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 43224430,
+            "entrant1Id": 8892143,
+            "entrant2Id": 8774880,
+            "entrant1Name": "Axe",
+            "entrant2Name": "Sora/Joshman",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8774880,
+            "loserId": 8892143,
+            "winnerName": "Sora/Joshman",
+            "loserName": "Axe",
+            "bracketName": "Group Stage",
+            "bracketId": 1635975,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 43224427,
+            "entrant1Id": 8712496,
+            "entrant2Id": 8892143,
+            "entrant1Name": "Trif",
+            "entrant2Name": "Axe",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712496,
+            "loserId": 8892143,
+            "winnerName": "Trif",
+            "loserName": "Axe",
+            "bracketName": "Group Stage",
+            "bracketId": 1635975,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 43224425,
+            "entrant1Id": 8701092,
+            "entrant2Id": 8892143,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "Axe",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8892143,
+            "loserId": 8701092,
+            "winnerName": "Axe",
+            "loserName": "Faceroll",
+            "bracketName": "Group Stage",
+            "bracketId": 1635975,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 40465087,
+            "entrant1Id": 7485834,
+            "entrant2Id": 7471864,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Axe",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7485834,
+            "loserId": 7471864,
+            "winnerName": "SFAT",
+            "loserName": "Axe",
+            "bracketName": "Top 8",
+            "bracketId": 1547386,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 40465085,
+            "entrant1Id": 7484131,
+            "entrant2Id": 7471864,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "Axe",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7471864,
+            "loserId": 7484131,
+            "winnerName": "Axe",
+            "loserName": "Aspero | Logan",
+            "bracketName": "Top 8",
+            "bracketId": 1547386,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 40437628,
+            "entrant1Id": 7484475,
+            "entrant2Id": 7471864,
+            "entrant1Name": "Krudo",
+            "entrant2Name": "Axe",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7471864,
+            "loserId": 7484475,
+            "winnerName": "Axe",
+            "loserName": "Krudo",
+            "bracketName": "Top 24",
+            "bracketId": 1547385,
+            "entrant1Players": [
+                {
+                    "playerId": 147424,
+                    "playerTag": "Krudo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 40437626,
+            "entrant1Id": 7470177,
+            "entrant2Id": 7471864,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "Axe",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7471864,
+            "loserId": 7470177,
+            "winnerName": "Axe",
+            "loserName": "Agency | Wally",
+            "bracketName": "Top 24",
+            "bracketId": 1547385,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 40437624,
+            "entrant1Id": 7484236,
+            "entrant2Id": 7471864,
+            "entrant1Name": "GHQ | HSTV | Zamu",
+            "entrant2Name": "Axe",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7471864,
+            "loserId": 7484236,
+            "winnerName": "Axe",
+            "loserName": "GHQ | HSTV | Zamu",
+            "bracketName": "Top 24",
+            "bracketId": 1547385,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 40421761,
+            "entrant1Id": 7470014,
+            "entrant2Id": 7471864,
+            "entrant1Name": "Free | Harry Pogger",
+            "entrant2Name": "Axe",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7471864,
+            "loserId": 7470014,
+            "winnerName": "Axe",
+            "loserName": "Free | Harry Pogger",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 428600,
+                    "playerTag": "Balloon Day"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 40421758,
+            "entrant1Id": 7469681,
+            "entrant2Id": 7471864,
+            "entrant1Name": "HTL | Fluid",
+            "entrant2Name": "Axe",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7471864,
+            "loserId": 7469681,
+            "winnerName": "Axe",
+            "loserName": "HTL | Fluid",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 8002,
+                    "playerTag": "Fluid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 40421754,
+            "entrant1Id": 7484020,
+            "entrant2Id": 7471864,
+            "entrant1Name": "Kurv",
+            "entrant2Name": "Axe",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7471864,
+            "loserId": 7484020,
+            "winnerName": "Axe",
+            "loserName": "Kurv",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 37116,
+                    "playerTag": "Kurv"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 40421748,
+            "entrant1Id": 7484455,
+            "entrant2Id": 7471864,
+            "entrant1Name": "Trail",
+            "entrant2Name": "Axe",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7471864,
+            "loserId": 7484455,
+            "winnerName": "Axe",
+            "loserName": "Trail",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 7149,
+                    "playerTag": "Trail"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 40421740,
+            "entrant1Id": 7469558,
+            "entrant2Id": 7471864,
+            "entrant1Name": "Ober",
+            "entrant2Name": "Axe",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7471864,
+            "loserId": 7469558,
+            "winnerName": "Axe",
+            "loserName": "Ober",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 30197,
+                    "playerTag": "Ober"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 40421728,
+            "entrant1Id": 7471864,
+            "entrant2Id": 7484255,
+            "entrant1Name": "Axe",
+            "entrant2Name": "Sneker",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7471864,
+            "loserId": 7484255,
+            "winnerName": "Axe",
+            "loserName": "Sneker",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 69003,
+                    "playerTag": "Sneker"
+                }
+            ]
+        },
+        {
+            "id": 40419057,
+            "entrant1Id": 7471864,
+            "entrant2Id": 7470588,
+            "entrant1Name": "Axe",
+            "entrant2Name": "Secrets",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7470588,
+            "loserId": 7471864,
+            "winnerName": "Secrets",
+            "loserName": "Axe",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547324,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 28720,
+                    "playerTag": "Secrets"
+                }
+            ]
+        },
+        {
+            "id": 40419055,
+            "entrant1Id": 7471864,
+            "entrant2Id": 7533969,
+            "entrant1Name": "Axe",
+            "entrant2Name": "Galen The Wise",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471864,
+            "loserId": 7533969,
+            "winnerName": "Axe",
+            "loserName": "Galen The Wise",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547324,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21305,
+                    "playerTag": "Galen The Wise"
+                }
+            ]
+        },
+        {
+            "id": 40419051,
+            "entrant1Id": 7471864,
+            "entrant2Id": 7485291,
+            "entrant1Name": "Axe",
+            "entrant2Name": "Rod",
+            "entrant1Score": 1,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471864,
+            "loserId": 7485291,
+            "winnerName": "Axe",
+            "loserName": "Rod",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547324,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38334,
+                    "playerTag": "Rod"
+                }
+            ]
+        },
+        {
+            "id": 41085343,
+            "entrant1Id": 8169709,
+            "entrant2Id": 7736134,
+            "entrant1Name": "Ginger",
+            "entrant2Name": "Tempo | Axe",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8169709,
+            "loserId": 7736134,
+            "winnerName": "Ginger",
+            "loserName": "Tempo | Axe",
+            "bracketName": "Top 8",
+            "bracketId": 1583001,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 41085342,
+            "entrant1Id": 8169709,
+            "entrant2Id": 7736134,
+            "entrant1Name": "Ginger",
+            "entrant2Name": "Tempo | Axe",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8169709,
+            "loserId": 7736134,
+            "winnerName": "Ginger",
+            "loserName": "Tempo | Axe",
+            "bracketName": "Top 8",
+            "bracketId": 1583001,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 41085358,
+            "entrant1Id": 7736134,
+            "entrant2Id": 8348874,
+            "entrant1Name": "Tempo | Axe",
+            "entrant2Name": "MF | KoDoRiN",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7736134,
+            "loserId": 8348874,
+            "winnerName": "Tempo | Axe",
+            "loserName": "MF | KoDoRiN",
+            "bracketName": "Top 8",
+            "bracketId": 1583001,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 41085341,
+            "entrant1Id": 7736134,
+            "entrant2Id": 8348874,
+            "entrant1Name": "Tempo | Axe",
+            "entrant2Name": "MF | KoDoRiN",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7736134,
+            "loserId": 8348874,
+            "winnerName": "Tempo | Axe",
+            "loserName": "MF | KoDoRiN",
+            "bracketName": "Top 8",
+            "bracketId": 1583001,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 41057028,
+            "entrant1Id": 7736134,
+            "entrant2Id": 7644427,
+            "entrant1Name": "Tempo | Axe",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7736134,
+            "loserId": 7644427,
+            "winnerName": "Tempo | Axe",
+            "loserName": "bobby big ballz",
+            "bracketName": "Top 16",
+            "bracketId": 1583000,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 41042975,
+            "entrant1Id": 7736134,
+            "entrant2Id": 7604691,
+            "entrant1Name": "Tempo | Axe",
+            "entrant2Name": "Android 0",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7736134,
+            "loserId": 7604691,
+            "winnerName": "Tempo | Axe",
+            "loserName": "Android 0",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ]
+        },
+        {
+            "id": 41042963,
+            "entrant1Id": 7736134,
+            "entrant2Id": 8283248,
+            "entrant1Name": "Tempo | Axe",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7736134,
+            "loserId": 8283248,
+            "winnerName": "Tempo | Axe",
+            "loserName": "NoFluxes",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 41029510,
+            "entrant1Id": 7736134,
+            "entrant2Id": 8305621,
+            "entrant1Name": "Tempo | Axe",
+            "entrant2Name": "envy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7736134,
+            "loserId": 8305621,
+            "winnerName": "Tempo | Axe",
+            "loserName": "envy",
+            "bracketName": "Pools",
+            "bracketId": 1583002,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 63188,
+                    "playerTag": "envy"
+                }
+            ]
+        },
+        {
+            "id": 41029506,
+            "entrant1Id": 7736134,
+            "entrant2Id": 7604689,
+            "entrant1Name": "Tempo | Axe",
+            "entrant2Name": "Nurse",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7736134,
+            "loserId": 7604689,
+            "winnerName": "Tempo | Axe",
+            "loserName": "Nurse",
+            "bracketName": "Pools",
+            "bracketId": 1583002,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12608,
+                    "playerTag": "Nurse"
+                }
+            ]
+        },
+        {
+            "id": 41029498,
+            "entrant1Id": 7736134,
+            "entrant2Id": 7925727,
+            "entrant1Name": "Tempo | Axe",
+            "entrant2Name": "dd",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7736134,
+            "loserId": 7925727,
+            "winnerName": "Tempo | Axe",
+            "loserName": "dd",
+            "bracketName": "Pools",
+            "bracketId": 1583002,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 230892,
+                    "playerTag": "dd"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "amsa",
+        "logan",
+        "2saint",
+        "ben",
+        "faceroll",
+        "logan",
+        "krudo",
+        "wally",
+        "zamu",
+        "kodorin",
+        "kodorin",
+        "bobby big ballz",
+        "android 0",
+        "nofluxes",
+        "zealot",
+        "faceroll",
+        "sfop",
+        "kurv",
+        "jflex",
+        "nofluxes",
+        "mot$"
+    ],
+    "L": [
+        "wizzrobe",
+        "aklo",
+        "plup",
+        "ibdw",
+        "sora/joshman",
+        "trif",
+        "sfat",
+        "secrets",
+        "ginger",
+        "ginger",
+        "wizzrobe",
+        "ibdw"
+    ]
+}

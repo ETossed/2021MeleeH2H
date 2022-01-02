@@ -1,0 +1,617 @@
+{
+    "MPGR": 200,
+    "Events": [
+        573828,
+        585641,
+        605856,
+        657283,
+        644033,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 40435728,
+            "entrant1Id": 7471742,
+            "entrant2Id": 7471749,
+            "entrant1Name": "Ringler",
+            "entrant2Name": "Slowking",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7471749,
+            "loserId": 7471742,
+            "winnerName": "Slowking",
+            "loserName": "Ringler",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547388,
+            "entrant1Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26187,
+                    "playerTag": "Slowking"
+                }
+            ]
+        },
+        {
+            "id": 40435602,
+            "entrant1Id": 7471750,
+            "entrant2Id": 7471742,
+            "entrant1Name": "Drephen",
+            "entrant2Name": "Ringler",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7471750,
+            "loserId": 7471742,
+            "winnerName": "Drephen",
+            "loserName": "Ringler",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547388,
+            "entrant1Players": [
+                {
+                    "playerId": 6839,
+                    "playerTag": "Drephen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ]
+        },
+        {
+            "id": 40435720,
+            "entrant1Id": 7471742,
+            "entrant2Id": 7471791,
+            "entrant1Name": "Ringler",
+            "entrant2Name": "Sheep",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471742,
+            "loserId": 7471791,
+            "winnerName": "Ringler",
+            "loserName": "Sheep",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547388,
+            "entrant1Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3605,
+                    "playerTag": "Sheep"
+                }
+            ]
+        },
+        {
+            "id": 40435543,
+            "entrant1Id": 7471742,
+            "entrant2Id": 7471827,
+            "entrant1Name": "Ringler",
+            "entrant2Name": "PUP | Dimension",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471742,
+            "loserId": 7471827,
+            "winnerName": "Ringler",
+            "loserName": "PUP | Dimension",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547365,
+            "entrant1Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 587072,
+                    "playerTag": "Dimension"
+                }
+            ]
+        },
+        {
+            "id": 40435541,
+            "entrant1Id": 7471742,
+            "entrant2Id": 7484542,
+            "entrant1Name": "Ringler",
+            "entrant2Name": "Gtone",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471742,
+            "loserId": 7484542,
+            "winnerName": "Ringler",
+            "loserName": "Gtone",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547365,
+            "entrant1Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 9626,
+                    "playerTag": "Gtone"
+                }
+            ]
+        },
+        {
+            "id": 40435537,
+            "entrant1Id": 7471742,
+            "entrant2Id": 7531857,
+            "entrant1Name": "Ringler",
+            "entrant2Name": "Raidos",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471742,
+            "loserId": 7531857,
+            "winnerName": "Ringler",
+            "loserName": "Raidos",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547365,
+            "entrant1Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 132772,
+                    "playerTag": "Raidos"
+                }
+            ]
+        },
+        {
+            "id": 41043063,
+            "entrant1Id": 7925814,
+            "entrant2Id": 7608952,
+            "entrant1Name": "Ringler",
+            "entrant2Name": "Third Strongest",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7608952,
+            "loserId": 7925814,
+            "winnerName": "Third Strongest",
+            "loserName": "Ringler",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40399,
+                    "playerTag": "Third Strongest"
+                }
+            ]
+        },
+        {
+            "id": 41020175,
+            "entrant1Id": 7925814,
+            "entrant2Id": 7960383,
+            "entrant1Name": "Ringler",
+            "entrant2Name": "Me | Fury",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7960383,
+            "loserId": 7925814,
+            "winnerName": "Me | Fury",
+            "loserName": "Ringler",
+            "bracketName": "Pools",
+            "bracketId": 1583010,
+            "entrant1Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 309358,
+                    "playerTag": "Fury"
+                }
+            ]
+        },
+        {
+            "id": 41020172,
+            "entrant1Id": 7925814,
+            "entrant2Id": 7892207,
+            "entrant1Name": "Ringler",
+            "entrant2Name": "Tx | Tornado Man",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7925814,
+            "loserId": 7892207,
+            "winnerName": "Ringler",
+            "loserName": "Tx | Tornado Man",
+            "bracketName": "Pools",
+            "bracketId": 1583010,
+            "entrant1Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 438707,
+                    "playerTag": "Tornado Man"
+                }
+            ]
+        },
+        {
+            "id": 41020166,
+            "entrant1Id": 7925814,
+            "entrant2Id": 7651806,
+            "entrant1Name": "Ringler",
+            "entrant2Name": "Stompy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7925814,
+            "loserId": 7651806,
+            "winnerName": "Ringler",
+            "loserName": "Stompy",
+            "bracketName": "Pools",
+            "bracketId": 1583010,
+            "entrant1Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2340652,
+                    "playerTag": "Stompy"
+                }
+            ]
+        },
+        {
+            "id": 43050265,
+            "entrant1Id": 8919696,
+            "entrant2Id": 8919614,
+            "entrant1Name": "Spark",
+            "entrant2Name": "Ringler",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8919696,
+            "loserId": 8919614,
+            "winnerName": "Spark",
+            "loserName": "Ringler",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ]
+        },
+        {
+            "id": 43050388,
+            "entrant1Id": 8919614,
+            "entrant2Id": 8919601,
+            "entrant1Name": "Ringler",
+            "entrant2Name": "Crispy | Chango",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8919601,
+            "loserId": 8919614,
+            "winnerName": "Crispy | Chango",
+            "loserName": "Ringler",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 34980,
+                    "playerTag": "Chango"
+                }
+            ]
+        },
+        {
+            "id": 43050261,
+            "entrant1Id": 8919614,
+            "entrant2Id": 8919588,
+            "entrant1Name": "Ringler",
+            "entrant2Name": "Ferriswheel",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8919614,
+            "loserId": 8919588,
+            "winnerName": "Ringler",
+            "loserName": "Ferriswheel",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4731,
+                    "playerTag": "Ferriswheel"
+                }
+            ]
+        },
+        {
+            "id": 43050252,
+            "entrant1Id": 8919614,
+            "entrant2Id": 8919605,
+            "entrant1Name": "Ringler",
+            "entrant2Name": "Maybe",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8919614,
+            "loserId": 8919605,
+            "winnerName": "Ringler",
+            "loserName": "Maybe",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4559,
+                    "playerTag": "Maybe"
+                }
+            ]
+        },
+        {
+            "id": 42188600,
+            "entrant1Id": 8691253,
+            "entrant2Id": 8696259,
+            "entrant1Name": "888 | Nut",
+            "entrant2Name": "Ringler",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8691253,
+            "loserId": 8696259,
+            "winnerName": "888 | Nut",
+            "loserName": "Ringler",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 13499,
+                    "playerTag": "nut"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ]
+        },
+        {
+            "id": 42188598,
+            "entrant1Id": 8704606,
+            "entrant2Id": 8696259,
+            "entrant1Name": "Westballz",
+            "entrant2Name": "Ringler",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8696259,
+            "loserId": 8704606,
+            "winnerName": "Ringler",
+            "loserName": "Westballz",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 1008,
+                    "playerTag": "Westballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ]
+        },
+        {
+            "id": 42188594,
+            "entrant1Id": 8696259,
+            "entrant2Id": 8691168,
+            "entrant1Name": "Ringler",
+            "entrant2Name": "GGC | Gooms",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8696259,
+            "loserId": 8691168,
+            "winnerName": "Ringler",
+            "loserName": "GGC | Gooms",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 18840,
+                    "playerTag": "Gooms"
+                }
+            ]
+        },
+        {
+            "id": 42188336,
+            "entrant1Id": 8708425,
+            "entrant2Id": 8696259,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "Ringler",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8708425,
+            "loserId": 8696259,
+            "winnerName": "bc | S2J",
+            "loserName": "Ringler",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ]
+        },
+        {
+            "id": 42188589,
+            "entrant1Id": 8696259,
+            "entrant2Id": 8707618,
+            "entrant1Name": "Ringler",
+            "entrant2Name": "UCSB | Knox",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8696259,
+            "loserId": 8707618,
+            "winnerName": "Ringler",
+            "loserName": "UCSB | Knox",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45807,
+                    "playerTag": "Knox"
+                }
+            ]
+        },
+        {
+            "id": 42188323,
+            "entrant1Id": 8696259,
+            "entrant2Id": 8708431,
+            "entrant1Name": "Ringler",
+            "entrant2Name": "snake",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8696259,
+            "loserId": 8708431,
+            "winnerName": "Ringler",
+            "loserName": "snake",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 725320,
+                    "playerTag": "snake"
+                }
+            ]
+        },
+        {
+            "id": 42188296,
+            "entrant1Id": 8696259,
+            "entrant2Id": 8696040,
+            "entrant1Name": "Ringler",
+            "entrant2Name": "Brand0",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8696259,
+            "loserId": 8696040,
+            "winnerName": "Ringler",
+            "loserName": "Brand0",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1117046,
+                    "playerTag": "Brand0"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "shroomed",
+        "zamu"
+    ],
+    "L": [
+        "slowking",
+        "drephen",
+        "Third Strongest",
+        "Fury",
+        "spark",
+        "Chango",
+        "nut",
+        "s2j",
+        "sdj",
+        "azel"
+    ]
+}

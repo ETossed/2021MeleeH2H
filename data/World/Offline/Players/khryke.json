@@ -1,0 +1,297 @@
+{
+    "MPGR": 200,
+    "Events": [
+        605856
+    ],
+    "Sets": [
+        {
+            "id": 41484527,
+            "entrant1Id": 8195114,
+            "entrant2Id": 8193344,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "Khryke",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8195114,
+            "loserId": 8193344,
+            "winnerName": "NoFluxes",
+            "loserName": "Khryke",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279107,
+                    "playerTag": "Khryke"
+                }
+            ]
+        },
+        {
+            "id": 41484526,
+            "entrant1Id": 8197936,
+            "entrant2Id": 8193344,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Khryke",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8193344,
+            "loserId": 8197936,
+            "winnerName": "Khryke",
+            "loserName": "Skerzo",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279107,
+                    "playerTag": "Khryke"
+                }
+            ]
+        },
+        {
+            "id": 41484524,
+            "entrant1Id": 8194356,
+            "entrant2Id": 8193344,
+            "entrant1Name": "Bones",
+            "entrant2Name": "Khryke",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8193344,
+            "loserId": 8194356,
+            "winnerName": "Khryke",
+            "loserName": "Bones",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 5457,
+                    "playerTag": "Bones"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279107,
+                    "playerTag": "Khryke"
+                }
+            ]
+        },
+        {
+            "id": 41484490,
+            "entrant1Id": 8193344,
+            "entrant2Id": 8193295,
+            "entrant1Name": "Khryke",
+            "entrant2Name": "Juicebox",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8193295,
+            "loserId": 8193344,
+            "winnerName": "Juicebox",
+            "loserName": "Khryke",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 279107,
+                    "playerTag": "Khryke"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6304,
+                    "playerTag": "Juicebox"
+                }
+            ]
+        },
+        {
+            "id": 41484522,
+            "entrant1Id": 8193344,
+            "entrant2Id": 8193858,
+            "entrant1Name": "Khryke",
+            "entrant2Name": "BUG | Vintage",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8193344,
+            "loserId": 8193858,
+            "winnerName": "Khryke",
+            "loserName": "BUG | Vintage",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 279107,
+                    "playerTag": "Khryke"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 9621,
+                    "playerTag": "Vintage"
+                }
+            ]
+        },
+        {
+            "id": 41445483,
+            "entrant1Id": 8494892,
+            "entrant2Id": 8193344,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "Khryke",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8193344,
+            "loserId": 8494892,
+            "winnerName": "Khryke",
+            "loserName": "Aspero | Logan",
+            "bracketName": "Top 64 - BO5",
+            "bracketId": 1572321,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279107,
+                    "playerTag": "Khryke"
+                }
+            ]
+        },
+        {
+            "id": 41445476,
+            "entrant1Id": 8193344,
+            "entrant2Id": 8193831,
+            "entrant1Name": "Khryke",
+            "entrant2Name": "Jorge",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8193344,
+            "loserId": 8193831,
+            "winnerName": "Khryke",
+            "loserName": "Jorge",
+            "bracketName": "Top 64 - BO5",
+            "bracketId": 1572321,
+            "entrant1Players": [
+                {
+                    "playerId": 279107,
+                    "playerTag": "Khryke"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19430,
+                    "playerTag": "Jorge"
+                }
+            ]
+        },
+        {
+            "id": 41441810,
+            "entrant1Id": 8193344,
+            "entrant2Id": 8193729,
+            "entrant1Name": "Khryke",
+            "entrant2Name": "Porkaye",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8193344,
+            "loserId": 8193729,
+            "winnerName": "Khryke",
+            "loserName": "Porkaye",
+            "bracketName": "Pools",
+            "bracketId": 1572320,
+            "entrant1Players": [
+                {
+                    "playerId": 279107,
+                    "playerTag": "Khryke"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 619715,
+                    "playerTag": "Porkaye"
+                }
+            ]
+        },
+        {
+            "id": 41441806,
+            "entrant1Id": 8193344,
+            "entrant2Id": 8193787,
+            "entrant1Name": "Khryke",
+            "entrant2Name": "Pulse | Amity",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8193344,
+            "loserId": 8193787,
+            "winnerName": "Khryke",
+            "loserName": "Pulse | Amity",
+            "bracketName": "Pools",
+            "bracketId": 1572320,
+            "entrant1Players": [
+                {
+                    "playerId": 279107,
+                    "playerTag": "Khryke"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 172811,
+                    "playerTag": "Amity"
+                }
+            ]
+        },
+        {
+            "id": 41441798,
+            "entrant1Id": 8193344,
+            "entrant2Id": 8194169,
+            "entrant1Name": "Khryke",
+            "entrant2Name": "FateOfWaves",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8193344,
+            "loserId": 8194169,
+            "winnerName": "Khryke",
+            "loserName": "FateOfWaves",
+            "bracketName": "Pools",
+            "bracketId": 1572320,
+            "entrant1Players": [
+                {
+                    "playerId": 279107,
+                    "playerTag": "Khryke"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 33688,
+                    "playerTag": "FateOfWaves"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "skerzo",
+        "bones",
+        "logan"
+    ],
+    "L": [
+        "nofluxes",
+        "juicebox"
+    ]
+}

@@ -1,0 +1,762 @@
+{
+    "MPGR": 200,
+    "Events": [
+        573828,
+        585641,
+        554629,
+        644033,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 40437621,
+            "entrant1Id": 7485315,
+            "entrant2Id": 7484179,
+            "entrant1Name": "Android 0",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7484179,
+            "loserId": 7485315,
+            "winnerName": "bobby big ballz",
+            "loserName": "Android 0",
+            "bracketName": "Top 24",
+            "bracketId": 1547385,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 40421637,
+            "entrant1Id": 7485315,
+            "entrant2Id": 7484475,
+            "entrant1Name": "Android 0",
+            "entrant2Name": "Krudo",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7484475,
+            "loserId": 7485315,
+            "winnerName": "Krudo",
+            "loserName": "Android 0",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 147424,
+                    "playerTag": "Krudo"
+                }
+            ]
+        },
+        {
+            "id": 40421634,
+            "entrant1Id": 7470588,
+            "entrant2Id": 7485315,
+            "entrant1Name": "Secrets",
+            "entrant2Name": "Android 0",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7485315,
+            "loserId": 7470588,
+            "winnerName": "Android 0",
+            "loserName": "Secrets",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 28720,
+                    "playerTag": "Secrets"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ]
+        },
+        {
+            "id": 40421629,
+            "entrant1Id": 7485315,
+            "entrant2Id": 7953934,
+            "entrant1Name": "Android 0",
+            "entrant2Name": "Peppi YC | Salt",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7485315,
+            "loserId": 7953934,
+            "winnerName": "Android 0",
+            "loserName": "Peppi YC | Salt",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 133666,
+                    "playerTag": "Salt"
+                }
+            ]
+        },
+        {
+            "id": 40419690,
+            "entrant1Id": 7485315,
+            "entrant2Id": 7484545,
+            "entrant1Name": "Android 0",
+            "entrant2Name": "cal!",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7485315,
+            "loserId": 7484545,
+            "winnerName": "Android 0",
+            "loserName": "cal!",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547347,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 59086,
+                    "playerTag": "essy"
+                }
+            ]
+        },
+        {
+            "id": 40419688,
+            "entrant1Id": 7485315,
+            "entrant2Id": 7484214,
+            "entrant1Name": "Android 0",
+            "entrant2Name": "ExGirlfriend",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7485315,
+            "loserId": 7484214,
+            "winnerName": "Android 0",
+            "loserName": "ExGirlfriend",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547347,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2076281,
+                    "playerTag": "ExGirlfriend"
+                }
+            ]
+        },
+        {
+            "id": 40419684,
+            "entrant1Id": 7485315,
+            "entrant2Id": 7484587,
+            "entrant1Name": "Android 0",
+            "entrant2Name": "likeanegg",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7485315,
+            "loserId": 7484587,
+            "winnerName": "Android 0",
+            "loserName": "likeanegg",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547347,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 57435,
+                    "playerTag": "likeanegg"
+                }
+            ]
+        },
+        {
+            "id": 41057057,
+            "entrant1Id": 8349340,
+            "entrant2Id": 7604691,
+            "entrant1Name": "NOT S2J | SDJ",
+            "entrant2Name": "Android 0",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8349340,
+            "loserId": 7604691,
+            "winnerName": "NOT S2J | SDJ",
+            "loserName": "Android 0",
+            "bracketName": "Top 16",
+            "bracketId": 1583000,
+            "entrant1Players": [
+                {
+                    "playerId": 325974,
+                    "playerTag": "SDJ"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ]
+        },
+        {
+            "id": 41057053,
+            "entrant1Id": 7604691,
+            "entrant2Id": 8286645,
+            "entrant1Name": "Android 0",
+            "entrant2Name": "WKDA | Shroomed",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7604691,
+            "loserId": 8286645,
+            "winnerName": "Android 0",
+            "loserName": "WKDA | Shroomed",
+            "bracketName": "Top 16",
+            "bracketId": 1583000,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1013,
+                    "playerTag": "Shroomed"
+                }
+            ]
+        },
+        {
+            "id": 41042975,
+            "entrant1Id": 7736134,
+            "entrant2Id": 7604691,
+            "entrant1Name": "Tempo | Axe",
+            "entrant2Name": "Android 0",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7736134,
+            "loserId": 7604691,
+            "winnerName": "Tempo | Axe",
+            "loserName": "Android 0",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ]
+        },
+        {
+            "id": 41043099,
+            "entrant1Id": 7604691,
+            "entrant2Id": 7610835,
+            "entrant1Name": "Android 0",
+            "entrant2Name": "MF | null",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7604691,
+            "loserId": 7610835,
+            "winnerName": "Android 0",
+            "loserName": "MF | null",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ]
+        },
+        {
+            "id": 41042964,
+            "entrant1Id": 7604691,
+            "entrant2Id": 7604683,
+            "entrant1Name": "Android 0",
+            "entrant2Name": "Caligula",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7604691,
+            "loserId": 7604683,
+            "winnerName": "Android 0",
+            "loserName": "Caligula",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 129759,
+                    "playerTag": "Caligula"
+                }
+            ]
+        },
+        {
+            "id": 41043486,
+            "entrant1Id": 7604691,
+            "entrant2Id": 7603492,
+            "entrant1Name": "Android 0",
+            "entrant2Name": "dansdaman",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7604691,
+            "loserId": 7603492,
+            "winnerName": "Android 0",
+            "loserName": "dansdaman",
+            "bracketName": "Pools",
+            "bracketId": 1583015,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 53112,
+                    "playerTag": "dansdaman"
+                }
+            ]
+        },
+        {
+            "id": 41043482,
+            "entrant1Id": 7604691,
+            "entrant2Id": 7608427,
+            "entrant1Name": "Android 0",
+            "entrant2Name": "More Maury",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7604691,
+            "loserId": 7608427,
+            "winnerName": "Android 0",
+            "loserName": "More Maury",
+            "bracketName": "Pools",
+            "bracketId": 1583015,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 34856,
+                    "playerTag": "More Maury"
+                }
+            ]
+        },
+        {
+            "id": 41043474,
+            "entrant1Id": 7604691,
+            "entrant2Id": 7604290,
+            "entrant1Name": "Android 0",
+            "entrant2Name": "Doctor Worm",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7604691,
+            "loserId": 7604290,
+            "winnerName": "Android 0",
+            "loserName": "Doctor Worm",
+            "bracketName": "Pools",
+            "bracketId": 1583015,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 518109,
+                    "playerTag": "Doctor Worm"
+                }
+            ]
+        },
+        {
+            "id": 41711570,
+            "entrant1Id": 8552227,
+            "entrant2Id": 8578575,
+            "entrant1Name": "Rocky",
+            "entrant2Name": "SD | Android 0",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552227,
+            "loserId": 8578575,
+            "winnerName": "Rocky",
+            "loserName": "SD | Android 0",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ]
+        },
+        {
+            "id": 41664952,
+            "entrant1Id": 8552229,
+            "entrant2Id": 8578575,
+            "entrant1Name": "Aura",
+            "entrant2Name": "SD | Android 0",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552229,
+            "loserId": 8578575,
+            "winnerName": "Aura",
+            "loserName": "SD | Android 0",
+            "bracketName": "Group Stage",
+            "bracketId": 1603215,
+            "entrant1Players": [
+                {
+                    "playerId": 46349,
+                    "playerTag": "Aura"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ]
+        },
+        {
+            "id": 41664950,
+            "entrant1Id": 8578575,
+            "entrant2Id": 8552210,
+            "entrant1Name": "SD | Android 0",
+            "entrant2Name": "Albert",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552210,
+            "loserId": 8578575,
+            "winnerName": "Albert",
+            "loserName": "SD | Android 0",
+            "bracketName": "Group Stage",
+            "bracketId": 1603215,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ]
+        },
+        {
+            "id": 41664947,
+            "entrant1Id": 8552198,
+            "entrant2Id": 8578575,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "SD | Android 0",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552198,
+            "loserId": 8578575,
+            "winnerName": "bc | S2J",
+            "loserName": "SD | Android 0",
+            "bracketName": "Group Stage",
+            "bracketId": 1603215,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ]
+        },
+        {
+            "id": 42188603,
+            "entrant1Id": 8688721,
+            "entrant2Id": 8689984,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "SD | Android 0",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8688721,
+            "loserId": 8689984,
+            "winnerName": "Fiction",
+            "loserName": "SD | Android 0",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ]
+        },
+        {
+            "id": 42188346,
+            "entrant1Id": 8689984,
+            "entrant2Id": 8708504,
+            "entrant1Name": "SD | Android 0",
+            "entrant2Name": "Mango's Friend | Lucky",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8708504,
+            "loserId": 8689984,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "SD | Android 0",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ]
+        },
+        {
+            "id": 42188602,
+            "entrant1Id": 8689984,
+            "entrant2Id": 8691253,
+            "entrant1Name": "SD | Android 0",
+            "entrant2Name": "888 | Nut",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8689984,
+            "loserId": 8691253,
+            "winnerName": "SD | Android 0",
+            "loserName": "888 | Nut",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13499,
+                    "playerTag": "nut"
+                }
+            ]
+        },
+        {
+            "id": 42188342,
+            "entrant1Id": 8688721,
+            "entrant2Id": 8689984,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "SD | Android 0",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8689984,
+            "loserId": 8688721,
+            "winnerName": "SD | Android 0",
+            "loserName": "Fiction",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ]
+        },
+        {
+            "id": 42188335,
+            "entrant1Id": 8689984,
+            "entrant2Id": 8687999,
+            "entrant1Name": "SD | Android 0",
+            "entrant2Name": "Casper",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8689984,
+            "loserId": 8687999,
+            "winnerName": "SD | Android 0",
+            "loserName": "Casper",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 144268,
+                    "playerTag": "Casper"
+                }
+            ]
+        },
+        {
+            "id": 42188320,
+            "entrant1Id": 8689984,
+            "entrant2Id": 8704478,
+            "entrant1Name": "SD | Android 0",
+            "entrant2Name": "Glasper",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8689984,
+            "loserId": 8704478,
+            "winnerName": "SD | Android 0",
+            "loserName": "Glasper",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 170737,
+                    "playerTag": "Glasper"
+                }
+            ]
+        },
+        {
+            "id": 42188290,
+            "entrant1Id": 8689984,
+            "entrant2Id": 8707618,
+            "entrant1Name": "SD | Android 0",
+            "entrant2Name": "UCSB | Knox",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8689984,
+            "loserId": 8707618,
+            "winnerName": "SD | Android 0",
+            "loserName": "UCSB | Knox",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45807,
+                    "playerTag": "Knox"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "secrets",
+        "shroomed",
+        "null",
+        "nut",
+        "fiction",
+        "wevans"
+    ],
+    "L": [
+        "bobby big ballz",
+        "krudo",
+        "sdj",
+        "axe",
+        "rocky",
+        "aura",
+        "albert",
+        "s2j",
+        "fiction",
+        "lucky",
+        "eddy mexico",
+        "rocky"
+    ]
+}

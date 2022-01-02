@@ -1,0 +1,361 @@
+{
+    "MPGR": 51,
+    "Events": [
+        644621,
+        573828,
+        554625
+    ],
+    "Sets": [
+        {
+            "id": 43289115,
+            "entrant1Id": 8712529,
+            "entrant2Id": 8712504,
+            "entrant1Name": "Polish",
+            "entrant2Name": "Ice",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8712529,
+            "loserId": 8712504,
+            "winnerName": "Polish",
+            "loserName": "Ice",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 43289110,
+            "entrant1Id": 8712500,
+            "entrant2Id": 8712504,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Ice",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712504,
+            "loserId": 8712500,
+            "winnerName": "Ice",
+            "loserName": "Professor Pro",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 43219484,
+            "entrant1Id": 8712510,
+            "entrant2Id": 8712504,
+            "entrant1Name": "Plup",
+            "entrant2Name": "Ice",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8712510,
+            "loserId": 8712504,
+            "winnerName": "Plup",
+            "loserName": "Ice",
+            "bracketName": "Group Stage",
+            "bracketId": 1635969,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 43219483,
+            "entrant1Id": 8892149,
+            "entrant2Id": 8712504,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "Ice",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8892149,
+            "loserId": 8712504,
+            "winnerName": "LG | Ginger",
+            "loserName": "Ice",
+            "bracketName": "Group Stage",
+            "bracketId": 1635969,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 43219481,
+            "entrant1Id": 8712536,
+            "entrant2Id": 8712504,
+            "entrant1Name": "Aklo",
+            "entrant2Name": "Ice",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712504,
+            "loserId": 8712536,
+            "winnerName": "Ice",
+            "loserName": "Aklo",
+            "bracketName": "Group Stage",
+            "bracketId": 1635969,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 43219479,
+            "entrant1Id": 8712504,
+            "entrant2Id": 8849874,
+            "entrant1Name": "Ice",
+            "entrant2Name": "Shippu",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712504,
+            "loserId": 8849874,
+            "winnerName": "Ice",
+            "loserName": "Shippu",
+            "bracketName": "Group Stage",
+            "bracketId": 1635969,
+            "entrant1Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250683,
+                    "playerTag": "Shippu"
+                }
+            ]
+        },
+        {
+            "id": 41697213,
+            "entrant1Id": 8552768,
+            "entrant2Id": 8552801,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "PS | Ice",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552768,
+            "loserId": 8552801,
+            "winnerName": "TSM | Leffen",
+            "loserName": "PS | Ice",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 41697244,
+            "entrant1Id": 8552801,
+            "entrant2Id": 8552791,
+            "entrant1Name": "PS | Ice",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552791,
+            "loserId": 8552801,
+            "winnerName": "Professor Pro",
+            "loserName": "PS | Ice",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 41697210,
+            "entrant1Id": 8552784,
+            "entrant2Id": 8552801,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "PS | Ice",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552801,
+            "loserId": 8552784,
+            "winnerName": "PS | Ice",
+            "loserName": "PS | Pipsqueak",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 41638467,
+            "entrant1Id": 8552778,
+            "entrant2Id": 8552801,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "PS | Ice",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552778,
+            "loserId": 8552801,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "PS | Ice",
+            "bracketName": "Group Stage",
+            "bracketId": 1603242,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 41638466,
+            "entrant1Id": 8552831,
+            "entrant2Id": 8552801,
+            "entrant1Name": "raoul",
+            "entrant2Name": "PS | Ice",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552801,
+            "loserId": 8552831,
+            "winnerName": "PS | Ice",
+            "loserName": "raoul",
+            "bracketName": "Group Stage",
+            "bracketId": 1603242,
+            "entrant1Players": [
+                {
+                    "playerId": 6001,
+                    "playerTag": "raoul"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 41638464,
+            "entrant1Id": 8552801,
+            "entrant2Id": 8552811,
+            "entrant1Name": "PS | Ice",
+            "entrant2Name": "skullbro",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552801,
+            "loserId": 8552811,
+            "winnerName": "PS | Ice",
+            "loserName": "skullbro",
+            "bracketName": "Group Stage",
+            "bracketId": 1603242,
+            "entrant1Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "professor pro",
+        "aklo",
+        "pipsqueak"
+    ],
+    "L": [
+        "polish",
+        "plup",
+        "ginger",
+        "Samedwin",
+        "CommonEnemy",
+        "leffen",
+        "professor pro",
+        "frenzy"
+    ]
+}

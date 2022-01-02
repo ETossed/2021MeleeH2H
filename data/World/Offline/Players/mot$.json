@@ -1,0 +1,1186 @@
+{
+    "MPGR": 200,
+    "Events": [
+        573828,
+        598932,
+        438347,
+        623950,
+        606697,
+        610808,
+        633485,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 40421762,
+            "entrant1Id": 7470177,
+            "entrant2Id": 7470911,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7470177,
+            "loserId": 7470911,
+            "winnerName": "Agency | Wally",
+            "loserName": "TG | Mot$",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 40421633,
+            "entrant1Id": 7484959,
+            "entrant2Id": 7470911,
+            "entrant1Name": "Panda",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7484959,
+            "loserId": 7470911,
+            "winnerName": "Panda",
+            "loserName": "TG | Mot$",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 27638,
+                    "playerTag": "Panda"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 40421760,
+            "entrant1Id": 7470911,
+            "entrant2Id": 7953934,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "Peppi YC | Salt",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7470911,
+            "loserId": 7953934,
+            "winnerName": "TG | Mot$",
+            "loserName": "Peppi YC | Salt",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 133666,
+                    "playerTag": "Salt"
+                }
+            ]
+        },
+        {
+            "id": 40421627,
+            "entrant1Id": 7471834,
+            "entrant2Id": 7470911,
+            "entrant1Name": "Kuyashi",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7470911,
+            "loserId": 7471834,
+            "winnerName": "TG | Mot$",
+            "loserName": "Kuyashi",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 3726,
+                    "playerTag": "Kuyashi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 40420192,
+            "entrant1Id": 7470911,
+            "entrant2Id": 7484029,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "Joey Donuts",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7470911,
+            "loserId": 7484029,
+            "winnerName": "TG | Mot$",
+            "loserName": "Joey Donuts",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547364,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 184637,
+                    "playerTag": "Joey Donuts"
+                }
+            ]
+        },
+        {
+            "id": 40420190,
+            "entrant1Id": 7470911,
+            "entrant2Id": 7484255,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "Sneker",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7470911,
+            "loserId": 7484255,
+            "winnerName": "TG | Mot$",
+            "loserName": "Sneker",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547364,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 69003,
+                    "playerTag": "Sneker"
+                }
+            ]
+        },
+        {
+            "id": 40420186,
+            "entrant1Id": 7470911,
+            "entrant2Id": 7484929,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "Icy | Taiga",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7470911,
+            "loserId": 7484929,
+            "winnerName": "TG | Mot$",
+            "loserName": "Icy | Taiga",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547364,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1278329,
+                    "playerTag": "Taiga"
+                }
+            ]
+        },
+        {
+            "id": 39687853,
+            "entrant1Id": 8054753,
+            "entrant2Id": 8051955,
+            "entrant1Name": "Morsecode762",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8054753,
+            "loserId": 8051955,
+            "winnerName": "Morsecode762",
+            "loserName": "TG | Mot$",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 3713,
+                    "playerTag": "Morsecode762"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 39687849,
+            "entrant1Id": 8051955,
+            "entrant2Id": 8029390,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "119 | New Guy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8051955,
+            "loserId": 8029390,
+            "winnerName": "TG | Mot$",
+            "loserName": "119 | New Guy",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 711007,
+                    "playerTag": "New Guy"
+                }
+            ]
+        },
+        {
+            "id": 39687725,
+            "entrant1Id": 7914555,
+            "entrant2Id": 8051955,
+            "entrant1Name": "UGS | Michael",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7914555,
+            "loserId": 8051955,
+            "winnerName": "UGS | Michael",
+            "loserName": "TG | Mot$",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 39687843,
+            "entrant1Id": 8051955,
+            "entrant2Id": 7916684,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "Lowercase hero",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8051955,
+            "loserId": 7916684,
+            "winnerName": "TG | Mot$",
+            "loserName": "Lowercase hero",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 253048,
+                    "playerTag": "Lowercase hero"
+                }
+            ]
+        },
+        {
+            "id": 39687717,
+            "entrant1Id": 8051955,
+            "entrant2Id": 7988110,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "GranmasGotGame",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8051955,
+            "loserId": 7988110,
+            "winnerName": "TG | Mot$",
+            "loserName": "GranmasGotGame",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 246385,
+                    "playerTag": "GranmasGotGame"
+                }
+            ]
+        },
+        {
+            "id": 39685271,
+            "entrant1Id": 8051955,
+            "entrant2Id": 7913083,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "SuperMrJMT",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8051955,
+            "loserId": 7913083,
+            "winnerName": "TG | Mot$",
+            "loserName": "SuperMrJMT",
+            "bracketName": "Pools",
+            "bracketId": 1537838,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7991,
+                    "playerTag": "SuperMrJMT"
+                }
+            ]
+        },
+        {
+            "id": 39685267,
+            "entrant1Id": 8051955,
+            "entrant2Id": 7941601,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "Nexodus",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8051955,
+            "loserId": 7941601,
+            "winnerName": "TG | Mot$",
+            "loserName": "Nexodus",
+            "bracketName": "Pools",
+            "bracketId": 1537838,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2208674,
+                    "playerTag": "Nexodus"
+                }
+            ]
+        },
+        {
+            "id": 40628379,
+            "entrant1Id": 4767651,
+            "entrant2Id": 4770872,
+            "entrant1Name": "Kalvar",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 4767651,
+            "loserId": 4770872,
+            "winnerName": "Kalvar",
+            "loserName": "TG | Mot$",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 40628375,
+            "entrant1Id": 4770872,
+            "entrant2Id": 4761401,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "HSG | Guex",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4770872,
+            "loserId": 4761401,
+            "winnerName": "TG | Mot$",
+            "loserName": "HSG | Guex",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 434815,
+                    "playerTag": "Guex"
+                }
+            ]
+        },
+        {
+            "id": 40628370,
+            "entrant1Id": 4770872,
+            "entrant2Id": 4786054,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "MG / BKB | Golden",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4770872,
+            "loserId": 4786054,
+            "winnerName": "TG | Mot$",
+            "loserName": "MG / BKB | Golden",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 34908,
+                    "playerTag": "Golden"
+                }
+            ]
+        },
+        {
+            "id": 40610802,
+            "entrant1Id": 4770872,
+            "entrant2Id": 8287523,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "MP | Bank",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8287523,
+            "loserId": 4770872,
+            "winnerName": "MP | Bank",
+            "loserName": "TG | Mot$",
+            "bracketName": "Pools",
+            "bracketId": 1183426,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 352066,
+                    "playerTag": "Bank"
+                }
+            ]
+        },
+        {
+            "id": 40610799,
+            "entrant1Id": 4770872,
+            "entrant2Id": 8292972,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "HTC | Makari",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4770872,
+            "loserId": 8292972,
+            "winnerName": "TG | Mot$",
+            "loserName": "HTC | Makari",
+            "bracketName": "Pools",
+            "bracketId": 1183426,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3976,
+                    "playerTag": "Makari"
+                }
+            ]
+        },
+        {
+            "id": 40610793,
+            "entrant1Id": 4770872,
+            "entrant2Id": 8243661,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "Duby",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4770872,
+            "loserId": 8243661,
+            "winnerName": "TG | Mot$",
+            "loserName": "Duby",
+            "bracketName": "Pools",
+            "bracketId": 1183426,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 284093,
+                    "playerTag": "Duby"
+                }
+            ]
+        },
+        {
+            "id": 41262287,
+            "entrant1Id": 8451120,
+            "entrant2Id": 8330756,
+            "entrant1Name": "TG NBR | Panos",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8451120,
+            "loserId": 8330756,
+            "winnerName": "TG NBR | Panos",
+            "loserName": "TG | Mot$",
+            "bracketName": "Top 32",
+            "bracketId": 1594247,
+            "entrant1Players": [
+                {
+                    "playerId": 16066,
+                    "playerTag": "Panos"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 41262283,
+            "entrant1Id": 8330755,
+            "entrant2Id": 8330756,
+            "entrant1Name": "Dawson",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8330756,
+            "loserId": 8330755,
+            "winnerName": "TG | Mot$",
+            "loserName": "Dawson",
+            "bracketName": "Top 32",
+            "bracketId": 1594247,
+            "entrant1Players": [
+                {
+                    "playerId": 147811,
+                    "playerTag": "Dawson"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 41262276,
+            "entrant1Id": 8347436,
+            "entrant2Id": 8330756,
+            "entrant1Name": "Young",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8330756,
+            "loserId": 8347436,
+            "winnerName": "TG | Mot$",
+            "loserName": "Young",
+            "bracketName": "Top 32",
+            "bracketId": 1594247,
+            "entrant1Players": [
+                {
+                    "playerId": 4738,
+                    "playerTag": "Young"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 41262268,
+            "entrant1Id": 8330756,
+            "entrant2Id": 8343557,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "RSK | Tommy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8330756,
+            "loserId": 8343557,
+            "winnerName": "TG | Mot$",
+            "loserName": "RSK | Tommy",
+            "bracketName": "Top 32",
+            "bracketId": 1594247,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 519779,
+                    "playerTag": "Tommy"
+                }
+            ]
+        },
+        {
+            "id": 41255677,
+            "entrant1Id": 8330756,
+            "entrant2Id": 8330757,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "PUP | Dimension",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8330757,
+            "loserId": 8330756,
+            "winnerName": "PUP | Dimension",
+            "loserName": "TG | Mot$",
+            "bracketName": "Pools",
+            "bracketId": 1594256,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 587072,
+                    "playerTag": "Dimension"
+                }
+            ]
+        },
+        {
+            "id": 41255708,
+            "entrant1Id": 8330756,
+            "entrant2Id": 8345256,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "Jib",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8330756,
+            "loserId": 8345256,
+            "winnerName": "TG | Mot$",
+            "loserName": "Jib",
+            "bracketName": "Pools",
+            "bracketId": 1594256,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22088,
+                    "playerTag": "Jib"
+                }
+            ]
+        },
+        {
+            "id": 41255674,
+            "entrant1Id": 8330756,
+            "entrant2Id": 8347969,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "Lamp",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8330756,
+            "loserId": 8347969,
+            "winnerName": "TG | Mot$",
+            "loserName": "Lamp",
+            "bracketName": "Pools",
+            "bracketId": 1594256,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2351235,
+                    "playerTag": "Lamp"
+                }
+            ]
+        },
+        {
+            "id": 41255668,
+            "entrant1Id": 8330756,
+            "entrant2Id": 8471422,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "MPG",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8330756,
+            "loserId": 8471422,
+            "winnerName": "TG | Mot$",
+            "loserName": "MPG",
+            "bracketName": "Pools",
+            "bracketId": 1594256,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 49155,
+                    "playerTag": "MPG"
+                }
+            ]
+        },
+        {
+            "id": 39634605,
+            "entrant1Id": 8058478,
+            "entrant2Id": 8057708,
+            "entrant1Name": "TheSWOOPER",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8058478,
+            "loserId": 8057708,
+            "winnerName": "TheSWOOPER",
+            "loserName": "TG | Mot$",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 50606,
+                    "playerTag": "TheSWOOPER"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 39634601,
+            "entrant1Id": 8057708,
+            "entrant2Id": 8047095,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "lexor",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8057708,
+            "loserId": 8047095,
+            "winnerName": "TG | Mot$",
+            "loserName": "lexor",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 225038,
+                    "playerTag": "lexor"
+                }
+            ]
+        },
+        {
+            "id": 39634472,
+            "entrant1Id": 8056330,
+            "entrant2Id": 8057708,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8056330,
+            "loserId": 8057708,
+            "winnerName": "Skerzo",
+            "loserName": "TG | Mot$",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 39634594,
+            "entrant1Id": 8057708,
+            "entrant2Id": 8035921,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "sfy | Fizz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8057708,
+            "loserId": 8035921,
+            "winnerName": "TG | Mot$",
+            "loserName": "sfy | Fizz",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7764,
+                    "playerTag": "Fizz"
+                }
+            ]
+        },
+        {
+            "id": 39634458,
+            "entrant1Id": 8057708,
+            "entrant2Id": 8062245,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "Jet Life | Casual",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8057708,
+            "loserId": 8062245,
+            "winnerName": "TG | Mot$",
+            "loserName": "Jet Life | Casual",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 230813,
+                    "playerTag": "Casual"
+                }
+            ]
+        },
+        {
+            "id": 40844699,
+            "entrant1Id": 8161292,
+            "entrant2Id": 8143415,
+            "entrant1Name": "Mot$",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8143415,
+            "loserId": 8161292,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "Mot$",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 40844697,
+            "entrant1Id": 8139801,
+            "entrant2Id": 8161292,
+            "entrant1Name": "DrLobster",
+            "entrant2Name": "Mot$",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8161292,
+            "loserId": 8139801,
+            "winnerName": "Mot$",
+            "loserName": "DrLobster",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 15263,
+                    "playerTag": "DrLobster"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 40844695,
+            "entrant1Id": 8158672,
+            "entrant2Id": 8161292,
+            "entrant1Name": "CC | Kalvar",
+            "entrant2Name": "Mot$",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8161292,
+            "loserId": 8158672,
+            "winnerName": "Mot$",
+            "loserName": "CC | Kalvar",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 40844630,
+            "entrant1Id": 8143415,
+            "entrant2Id": 8161292,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "Mot$",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8143415,
+            "loserId": 8161292,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "Mot$",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 40844692,
+            "entrant1Id": 8161292,
+            "entrant2Id": 8138837,
+            "entrant1Name": "Mot$",
+            "entrant2Name": "HOBORG",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8161292,
+            "loserId": 8138837,
+            "winnerName": "Mot$",
+            "loserName": "HOBORG",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 159216,
+                    "playerTag": "HOBORG"
+                }
+            ]
+        },
+        {
+            "id": 40828723,
+            "entrant1Id": 8138051,
+            "entrant2Id": 8161292,
+            "entrant1Name": "Trail",
+            "entrant2Name": "Mot$",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8161292,
+            "loserId": 8138051,
+            "winnerName": "Mot$",
+            "loserName": "Trail",
+            "bracketName": "Pools",
+            "bracketId": 1557848,
+            "entrant1Players": [
+                {
+                    "playerId": 7149,
+                    "playerTag": "Trail"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 40828721,
+            "entrant1Id": 8161292,
+            "entrant2Id": 8156361,
+            "entrant1Name": "Mot$",
+            "entrant2Name": "lexor",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8161292,
+            "loserId": 8156361,
+            "winnerName": "Mot$",
+            "loserName": "lexor",
+            "bracketName": "Pools",
+            "bracketId": 1557848,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 225038,
+                    "playerTag": "lexor"
+                }
+            ]
+        },
+        {
+            "id": 40828716,
+            "entrant1Id": 8161292,
+            "entrant2Id": 8155994,
+            "entrant1Name": "Mot$",
+            "entrant2Name": "MP | Skib",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8161292,
+            "loserId": 8155994,
+            "winnerName": "Mot$",
+            "loserName": "MP | Skib",
+            "bracketName": "Pools",
+            "bracketId": 1557848,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23058,
+                    "playerTag": "Skib"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "fizz",
+        "kalvar",
+        "theswooper"
+    ],
+    "L": [
+        "wally",
+        "panda",
+        "morsecode762",
+        "michael",
+        "kalvar",
+        "Bank",
+        "Panos",
+        "Dimension",
+        "theswooper",
+        "skerzo",
+        "zamu",
+        "zamu",
+        "chem",
+        "axe",
+        "dacky",
+        "faceroll"
+    ]
+}

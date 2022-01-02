@@ -1,0 +1,846 @@
+{
+    "MPGR": 25,
+    "Events": [
+        644621,
+        573828,
+        554630,
+        596528
+    ],
+    "Sets": [
+        {
+            "id": 43289059,
+            "entrant1Id": 8774627,
+            "entrant2Id": 8712535,
+            "entrant1Name": "aMSa",
+            "entrant2Name": "lloD",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8774627,
+            "loserId": 8712535,
+            "winnerName": "aMSa",
+            "loserName": "lloD",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 1021,
+                    "playerTag": "aMSa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ]
+        },
+        {
+            "id": 43289119,
+            "entrant1Id": 8712535,
+            "entrant2Id": 8712529,
+            "entrant1Name": "lloD",
+            "entrant2Name": "Polish",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712529,
+            "loserId": 8712535,
+            "winnerName": "Polish",
+            "loserName": "lloD",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ]
+        },
+        {
+            "id": 43223941,
+            "entrant1Id": 8712518,
+            "entrant2Id": 8712535,
+            "entrant1Name": "Fly | KoDoRiN",
+            "entrant2Name": "lloD",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712535,
+            "loserId": 8712518,
+            "winnerName": "lloD",
+            "loserName": "Fly | KoDoRiN",
+            "bracketName": "Group Stage",
+            "bracketId": 1635973,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ]
+        },
+        {
+            "id": 43223940,
+            "entrant1Id": 8712493,
+            "entrant2Id": 8712535,
+            "entrant1Name": "JCAM",
+            "entrant2Name": "lloD",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712535,
+            "loserId": 8712493,
+            "winnerName": "lloD",
+            "loserName": "JCAM",
+            "bracketName": "Group Stage",
+            "bracketId": 1635973,
+            "entrant1Players": [
+                {
+                    "playerId": 66084,
+                    "playerTag": "JCAM"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ]
+        },
+        {
+            "id": 43223936,
+            "entrant1Id": 8712535,
+            "entrant2Id": 8712508,
+            "entrant1Name": "lloD",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712535,
+            "loserId": 8712508,
+            "winnerName": "lloD",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Group Stage",
+            "bracketId": 1635973,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 43223933,
+            "entrant1Id": 8712535,
+            "entrant2Id": 8892145,
+            "entrant1Name": "lloD",
+            "entrant2Name": "Panda",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712535,
+            "loserId": 8892145,
+            "winnerName": "lloD",
+            "loserName": "Panda",
+            "bracketName": "Group Stage",
+            "bracketId": 1635973,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27638,
+                    "playerTag": "Panda"
+                }
+            ]
+        },
+        {
+            "id": 40442134,
+            "entrant1Id": 7484386,
+            "entrant2Id": 7481712,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "lloD",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484386,
+            "loserId": 7481712,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "lloD",
+            "bracketName": "Top 24",
+            "bracketId": 1547390,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ]
+        },
+        {
+            "id": 40442131,
+            "entrant1Id": 7481712,
+            "entrant2Id": 8130717,
+            "entrant1Name": "lloD",
+            "entrant2Name": "SFOP",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7481712,
+            "loserId": 8130717,
+            "winnerName": "lloD",
+            "loserName": "SFOP",
+            "bracketName": "Top 24",
+            "bracketId": 1547390,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ]
+        },
+        {
+            "id": 40435611,
+            "entrant1Id": 7471382,
+            "entrant2Id": 7481712,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "lloD",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471382,
+            "loserId": 7481712,
+            "winnerName": "Wizzrobe",
+            "loserName": "lloD",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547388,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ]
+        },
+        {
+            "id": 40435608,
+            "entrant1Id": 7481712,
+            "entrant2Id": 7471750,
+            "entrant1Name": "lloD",
+            "entrant2Name": "Drephen",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7481712,
+            "loserId": 7471750,
+            "winnerName": "lloD",
+            "loserName": "Drephen",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547388,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6839,
+                    "playerTag": "Drephen"
+                }
+            ]
+        },
+        {
+            "id": 40435601,
+            "entrant1Id": 7481712,
+            "entrant2Id": 7471749,
+            "entrant1Name": "lloD",
+            "entrant2Name": "Slowking",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7481712,
+            "loserId": 7471749,
+            "winnerName": "lloD",
+            "loserName": "Slowking",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547388,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26187,
+                    "playerTag": "Slowking"
+                }
+            ]
+        },
+        {
+            "id": 40434768,
+            "entrant1Id": 7481712,
+            "entrant2Id": 7484011,
+            "entrant1Name": "lloD",
+            "entrant2Name": "Reesch",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7481712,
+            "loserId": 7484011,
+            "winnerName": "lloD",
+            "loserName": "Reesch",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547333,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10468,
+                    "playerTag": "Reesch"
+                }
+            ]
+        },
+        {
+            "id": 40434766,
+            "entrant1Id": 7481712,
+            "entrant2Id": 7484575,
+            "entrant1Name": "lloD",
+            "entrant2Name": "Silky",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7481712,
+            "loserId": 7484575,
+            "winnerName": "lloD",
+            "loserName": "Silky",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547333,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48209,
+                    "playerTag": "Silky"
+                }
+            ]
+        },
+        {
+            "id": 40434762,
+            "entrant1Id": 7481712,
+            "entrant2Id": 7533400,
+            "entrant1Name": "lloD",
+            "entrant2Name": "Spartan",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7481712,
+            "loserId": 7533400,
+            "winnerName": "lloD",
+            "loserName": "Spartan",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547333,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1704050,
+                    "playerTag": "Spartan"
+                }
+            ]
+        },
+        {
+            "id": 41934624,
+            "entrant1Id": 8575569,
+            "entrant2Id": 8575599,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "lloD",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8575569,
+            "loserId": 8575599,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "lloD",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ]
+        },
+        {
+            "id": 41934622,
+            "entrant1Id": 8575599,
+            "entrant2Id": 8575458,
+            "entrant1Name": "lloD",
+            "entrant2Name": "20GX | Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575599,
+            "loserId": 8575458,
+            "winnerName": "lloD",
+            "loserName": "20GX | Gahtzu",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 41934592,
+            "entrant1Id": 8575589,
+            "entrant2Id": 8575599,
+            "entrant1Name": "Polish",
+            "entrant2Name": "lloD",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8575589,
+            "loserId": 8575599,
+            "winnerName": "Polish",
+            "loserName": "lloD",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ]
+        },
+        {
+            "id": 41934618,
+            "entrant1Id": 8575599,
+            "entrant2Id": 8575603,
+            "entrant1Name": "lloD",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8575599,
+            "loserId": 8575603,
+            "winnerName": "lloD",
+            "loserName": "HSTV | Zamu",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 41914616,
+            "entrant1Id": 8575584,
+            "entrant2Id": 8575599,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "lloD",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575599,
+            "loserId": 8575584,
+            "winnerName": "lloD",
+            "loserName": "IMP | Ben",
+            "bracketName": "Group Stage",
+            "bracketId": 1607845,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ]
+        },
+        {
+            "id": 41914614,
+            "entrant1Id": 8575599,
+            "entrant2Id": 8575456,
+            "entrant1Name": "lloD",
+            "entrant2Name": "GG | n0ne/ Bond / wizzyfan109",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8575599,
+            "loserId": 8575456,
+            "winnerName": "lloD",
+            "loserName": "GG | n0ne/ Bond / wizzyfan109",
+            "bracketName": "Group Stage",
+            "bracketId": 1607845,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4107,
+                    "playerTag": "n0ne/ Bond / wizzyfan109"
+                }
+            ]
+        },
+        {
+            "id": 41914611,
+            "entrant1Id": 8575429,
+            "entrant2Id": 8575599,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "lloD",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575429,
+            "loserId": 8575599,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "lloD",
+            "bracketName": "Group Stage",
+            "bracketId": 1607845,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ]
+        },
+        {
+            "id": 39297301,
+            "entrant1Id": 7895344,
+            "entrant2Id": 7971441,
+            "entrant1Name": "Polish",
+            "entrant2Name": "lloD",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7895344,
+            "loserId": 7971441,
+            "winnerName": "Polish",
+            "loserName": "lloD",
+            "bracketName": "Bracket",
+            "bracketId": 1545264,
+            "entrant1Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ]
+        },
+        {
+            "id": 39297236,
+            "entrant1Id": 7971441,
+            "entrant2Id": 7927618,
+            "entrant1Name": "lloD",
+            "entrant2Name": "Free | Hairy Clogger",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7927618,
+            "loserId": 7971441,
+            "winnerName": "Free | Hairy Clogger",
+            "loserName": "lloD",
+            "bracketName": "Bracket",
+            "bracketId": 1545264,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 428600,
+                    "playerTag": "Balloon Day"
+                }
+            ]
+        },
+        {
+            "id": 39297298,
+            "entrant1Id": 7971441,
+            "entrant2Id": 7895457,
+            "entrant1Name": "lloD",
+            "entrant2Name": "The Beetle King",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7971441,
+            "loserId": 7895457,
+            "winnerName": "lloD",
+            "loserName": "The Beetle King",
+            "bracketName": "Bracket",
+            "bracketId": 1545264,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 18679,
+                    "playerTag": "Jada"
+                }
+            ]
+        },
+        {
+            "id": 39297228,
+            "entrant1Id": 7971441,
+            "entrant2Id": 7959842,
+            "entrant1Name": "lloD",
+            "entrant2Name": "PM 3.6 | KeyboardMarth",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7971441,
+            "loserId": 7959842,
+            "winnerName": "lloD",
+            "loserName": "PM 3.6 | KeyboardMarth",
+            "bracketName": "Bracket",
+            "bracketId": 1545264,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 320966,
+                    "playerTag": "KeyboardMarth"
+                }
+            ]
+        },
+        {
+            "id": 39290257,
+            "entrant1Id": 7971441,
+            "entrant2Id": 7925182,
+            "entrant1Name": "lloD",
+            "entrant2Name": "Rodney",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7971441,
+            "loserId": 7925182,
+            "winnerName": "lloD",
+            "loserName": "Rodney",
+            "bracketName": "Pools",
+            "bracketId": 1534316,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 148021,
+                    "playerTag": "Rodney"
+                }
+            ]
+        },
+        {
+            "id": 39290255,
+            "entrant1Id": 7971441,
+            "entrant2Id": 7895525,
+            "entrant1Name": "lloD",
+            "entrant2Name": "Ferriswheel",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7971441,
+            "loserId": 7895525,
+            "winnerName": "lloD",
+            "loserName": "Ferriswheel",
+            "bracketName": "Pools",
+            "bracketId": 1534316,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4731,
+                    "playerTag": "Ferriswheel"
+                }
+            ]
+        },
+        {
+            "id": 39290253,
+            "entrant1Id": 7971441,
+            "entrant2Id": 7943368,
+            "entrant1Name": "lloD",
+            "entrant2Name": "ryno",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7971441,
+            "loserId": 7943368,
+            "winnerName": "lloD",
+            "loserName": "ryno",
+            "bracketName": "Pools",
+            "bracketId": 1534316,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1663914,
+                    "playerTag": "ryno"
+                }
+            ]
+        },
+        {
+            "id": 39290251,
+            "entrant1Id": 7971441,
+            "entrant2Id": 7875928,
+            "entrant1Name": "lloD",
+            "entrant2Name": "TBM | GarfieldKartPro",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7971441,
+            "loserId": 7875928,
+            "winnerName": "lloD",
+            "loserName": "TBM | GarfieldKartPro",
+            "bracketName": "Pools",
+            "bracketId": 1534316,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 337013,
+                    "playerTag": "GarfieldKartPro"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "kodorin",
+        "jah ridin'",
+        "panda",
+        "sfop",
+        "drephen",
+        "slowking",
+        "gahtzu",
+        "zamu",
+        "ben",
+        "n0ne/ bond / wizzyfan109"
+    ],
+    "L": [
+        "amsa",
+        "polish",
+        "gahtzu",
+        "wizzrobe",
+        "hungrybox",
+        "polish",
+        "wizzrobe",
+        "polish",
+        "Balloon Day"
+    ]
+}

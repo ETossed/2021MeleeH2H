@@ -1,0 +1,160 @@
+{
+    "MPGR": 66,
+    "Events": [
+        554629,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 41711571,
+            "entrant1Id": 8552205,
+            "entrant2Id": 8552233,
+            "entrant1Name": "Kalamazhu",
+            "entrant2Name": "Tai",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552205,
+            "loserId": 8552233,
+            "winnerName": "Kalamazhu",
+            "loserName": "Tai",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1084,
+                    "playerTag": "Tai"
+                }
+            ]
+        },
+        {
+            "id": 41711567,
+            "entrant1Id": 8552233,
+            "entrant2Id": 8552235,
+            "entrant1Name": "Tai",
+            "entrant2Name": "billybopeep",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552233,
+            "loserId": 8552235,
+            "winnerName": "Tai",
+            "loserName": "billybopeep",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 1084,
+                    "playerTag": "Tai"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 135157,
+                    "playerTag": "billybopeep"
+                }
+            ]
+        },
+        {
+            "id": 41672753,
+            "entrant1Id": 8552218,
+            "entrant2Id": 8552233,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Tai",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552233,
+            "loserId": 8552218,
+            "winnerName": "Tai",
+            "loserName": "bobby big ballz",
+            "bracketName": "Group Stage",
+            "bracketId": 1603214,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1084,
+                    "playerTag": "Tai"
+                }
+            ]
+        },
+        {
+            "id": 41672751,
+            "entrant1Id": 8552233,
+            "entrant2Id": 8552213,
+            "entrant1Name": "Tai",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552213,
+            "loserId": 8552233,
+            "winnerName": "Fiction",
+            "loserName": "Tai",
+            "bracketName": "Group Stage",
+            "bracketId": 1603214,
+            "entrant1Players": [
+                {
+                    "playerId": 1084,
+                    "playerTag": "Tai"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 41672748,
+            "entrant1Id": 8552191,
+            "entrant2Id": 8552233,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Tai",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552191,
+            "loserId": 8552233,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Tai",
+            "bracketName": "Group Stage",
+            "bracketId": 1603214,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1084,
+                    "playerTag": "Tai"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "billybopeep",
+        "bobby big ballz"
+    ],
+    "L": [
+        "kalamazhu",
+        "fiction",
+        "sfat",
+        "fizz",
+        "null"
+    ]
+}

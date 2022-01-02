@@ -1,0 +1,931 @@
+{
+    "MPGR": 200,
+    "Events": [
+        573828,
+        438347,
+        623950,
+        593246,
+        610808,
+        633485
+    ],
+    "Sets": [
+        {
+            "id": 40435600,
+            "entrant1Id": 7484036,
+            "entrant2Id": 7485056,
+            "entrant1Name": "Warmmer",
+            "entrant2Name": "OkayP.",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7485056,
+            "loserId": 7484036,
+            "winnerName": "OkayP.",
+            "loserName": "Warmmer",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547388,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393258,
+                    "playerTag": "OkayP."
+                }
+            ]
+        },
+        {
+            "id": 40435722,
+            "entrant1Id": 7484036,
+            "entrant2Id": 7484279,
+            "entrant1Name": "Warmmer",
+            "entrant2Name": "Rabbit",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7484279,
+            "loserId": 7484036,
+            "winnerName": "Rabbit",
+            "loserName": "Warmmer",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547388,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5126,
+                    "playerTag": "Rabbit"
+                }
+            ]
+        },
+        {
+            "id": 40434431,
+            "entrant1Id": 7484036,
+            "entrant2Id": 8052006,
+            "entrant1Name": "Warmmer",
+            "entrant2Name": "IMDRR",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7484036,
+            "loserId": 8052006,
+            "winnerName": "Warmmer",
+            "loserName": "IMDRR",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547349,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 41420,
+                    "playerTag": "IMDRR"
+                }
+            ]
+        },
+        {
+            "id": 40434429,
+            "entrant1Id": 7484036,
+            "entrant2Id": 7471004,
+            "entrant1Name": "Warmmer",
+            "entrant2Name": "fortissimis",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484036,
+            "loserId": 7471004,
+            "winnerName": "Warmmer",
+            "loserName": "fortissimis",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547349,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6312,
+                    "playerTag": "fortissimis"
+                }
+            ]
+        },
+        {
+            "id": 40434425,
+            "entrant1Id": 7484036,
+            "entrant2Id": 7484067,
+            "entrant1Name": "Warmmer",
+            "entrant2Name": "EricTho",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484036,
+            "loserId": 7484067,
+            "winnerName": "Warmmer",
+            "loserName": "EricTho",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547349,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 620404,
+                    "playerTag": "EricTho"
+                }
+            ]
+        },
+        {
+            "id": 40628381,
+            "entrant1Id": 8293731,
+            "entrant2Id": 4767651,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "Kalvar",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 4767651,
+            "loserId": 8293731,
+            "winnerName": "Kalvar",
+            "loserName": "HoG | Warmmer",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ]
+        },
+        {
+            "id": 40628318,
+            "entrant1Id": 4819867,
+            "entrant2Id": 8293731,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "HoG | Warmmer",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4819867,
+            "loserId": 8293731,
+            "winnerName": "BLE | SluG",
+            "loserName": "HoG | Warmmer",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ]
+        },
+        {
+            "id": 40628378,
+            "entrant1Id": 8293731,
+            "entrant2Id": 8216607,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "GUILD | ghettowarmachine420",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8293731,
+            "loserId": 8216607,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "GUILD | ghettowarmachine420",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3936,
+                    "playerTag": "grownworkingman"
+                }
+            ]
+        },
+        {
+            "id": 40620455,
+            "entrant1Id": 8293731,
+            "entrant2Id": 4748128,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "bonfire10",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8293731,
+            "loserId": 4748128,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "bonfire10",
+            "bracketName": "Pools",
+            "bracketId": 1578729,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3738,
+                    "playerTag": "bonfire10"
+                }
+            ]
+        },
+        {
+            "id": 40620452,
+            "entrant1Id": 8293731,
+            "entrant2Id": 4761401,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "HSG | Guex",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8293731,
+            "loserId": 4761401,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "HSG | Guex",
+            "bracketName": "Pools",
+            "bracketId": 1578729,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 434815,
+                    "playerTag": "Guex"
+                }
+            ]
+        },
+        {
+            "id": 40620446,
+            "entrant1Id": 8293731,
+            "entrant2Id": 8206502,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "Jeep God",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8293731,
+            "loserId": 8206502,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "Jeep God",
+            "bracketName": "Pools",
+            "bracketId": 1578729,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1040347,
+                    "playerTag": "Jeep God"
+                }
+            ]
+        },
+        {
+            "id": 41268176,
+            "entrant1Id": 8330761,
+            "entrant2Id": 8383702,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "Rishi",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8383702,
+            "loserId": 8330761,
+            "winnerName": "Rishi",
+            "loserName": "HoG | Warmmer",
+            "bracketName": "Top 8",
+            "bracketId": 1594248,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13306,
+                    "playerTag": "Rishi"
+                }
+            ]
+        },
+        {
+            "id": 41268192,
+            "entrant1Id": 8330761,
+            "entrant2Id": 8330716,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "Brotherhood | Aklo",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8330716,
+            "loserId": 8330761,
+            "winnerName": "Brotherhood | Aklo",
+            "loserName": "HoG | Warmmer",
+            "bracketName": "Top 8",
+            "bracketId": 1594248,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ]
+        },
+        {
+            "id": 41268174,
+            "entrant1Id": 8330716,
+            "entrant2Id": 8330761,
+            "entrant1Name": "Brotherhood | Aklo",
+            "entrant2Name": "HoG | Warmmer",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8330761,
+            "loserId": 8330716,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "Brotherhood | Aklo",
+            "bracketName": "Top 8",
+            "bracketId": 1594248,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ]
+        },
+        {
+            "id": 41262227,
+            "entrant1Id": 8330761,
+            "entrant2Id": 8451120,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "TG NBR | Panos",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8330761,
+            "loserId": 8451120,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "TG NBR | Panos",
+            "bracketName": "Top 32",
+            "bracketId": 1594247,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16066,
+                    "playerTag": "Panos"
+                }
+            ]
+        },
+        {
+            "id": 41262220,
+            "entrant1Id": 8330761,
+            "entrant2Id": 8382595,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "JJM",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8330761,
+            "loserId": 8382595,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "JJM",
+            "bracketName": "Top 32",
+            "bracketId": 1594247,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 170768,
+                    "playerTag": "JJM"
+                }
+            ]
+        },
+        {
+            "id": 41244606,
+            "entrant1Id": 8330761,
+            "entrant2Id": 8346190,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "bonn",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8330761,
+            "loserId": 8346190,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "bonn",
+            "bracketName": "Pools",
+            "bracketId": 1594252,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1083900,
+                    "playerTag": "bonn"
+                }
+            ]
+        },
+        {
+            "id": 39491876,
+            "entrant1Id": 7713533,
+            "entrant2Id": 7994446,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "TheSWOOPER",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7994446,
+            "loserId": 7713533,
+            "winnerName": "TheSWOOPER",
+            "loserName": "HoG | Warmmer",
+            "bracketName": "Top 24",
+            "bracketId": 1528580,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50606,
+                    "playerTag": "TheSWOOPER"
+                }
+            ]
+        },
+        {
+            "id": 39491877,
+            "entrant1Id": 7994446,
+            "entrant2Id": 7713533,
+            "entrant1Name": "TheSWOOPER",
+            "entrant2Name": "HoG | Warmmer",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7994446,
+            "loserId": 7713533,
+            "winnerName": "TheSWOOPER",
+            "loserName": "HoG | Warmmer",
+            "bracketName": "Top 24",
+            "bracketId": 1528580,
+            "entrant1Players": [
+                {
+                    "playerId": 50606,
+                    "playerTag": "TheSWOOPER"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ]
+        },
+        {
+            "id": 39491875,
+            "entrant1Id": 7713533,
+            "entrant2Id": 7722044,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "GST | Ryobeat",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7713533,
+            "loserId": 7722044,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "GST | Ryobeat",
+            "bracketName": "Top 24",
+            "bracketId": 1528580,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4748,
+                    "playerTag": "Ryobeat"
+                }
+            ]
+        },
+        {
+            "id": 39491873,
+            "entrant1Id": 7722064,
+            "entrant2Id": 7713533,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "HoG | Warmmer",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7713533,
+            "loserId": 7722064,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Top 24",
+            "bracketId": 1528580,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ]
+        },
+        {
+            "id": 39491870,
+            "entrant1Id": 7713533,
+            "entrant2Id": 7715408,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7713533,
+            "loserId": 7715408,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "Agency | Wally",
+            "bracketName": "Top 24",
+            "bracketId": 1528580,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 39482839,
+            "entrant1Id": 7713533,
+            "entrant2Id": 7720513,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "Pig",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7713533,
+            "loserId": 7720513,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "Pig",
+            "bracketName": "Pools",
+            "bracketId": 1528579,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4557,
+                    "playerTag": "Pig"
+                }
+            ]
+        },
+        {
+            "id": 39482835,
+            "entrant1Id": 7713533,
+            "entrant2Id": 7726775,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "Dr.EsportstTeam | EduPorp",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7713533,
+            "loserId": 7726775,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "Dr.EsportstTeam | EduPorp",
+            "bracketName": "Pools",
+            "bracketId": 1528579,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 519542,
+                    "playerTag": "EduPorp"
+                }
+            ]
+        },
+        {
+            "id": 39482827,
+            "entrant1Id": 7713533,
+            "entrant2Id": 7716038,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "Fruity",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7713533,
+            "loserId": 7716038,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "Fruity",
+            "bracketName": "Pools",
+            "bracketId": 1528579,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 465189,
+                    "playerTag": "Fruity"
+                }
+            ]
+        },
+        {
+            "id": 40844698,
+            "entrant1Id": 8143415,
+            "entrant2Id": 8150049,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "HoG | Warmmer",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8143415,
+            "loserId": 8150049,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "HoG | Warmmer",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ]
+        },
+        {
+            "id": 40844696,
+            "entrant1Id": 8179288,
+            "entrant2Id": 8150049,
+            "entrant1Name": "Eggy",
+            "entrant2Name": "HoG | Warmmer",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8150049,
+            "loserId": 8179288,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "Eggy",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ]
+        },
+        {
+            "id": 40844632,
+            "entrant1Id": 8316054,
+            "entrant2Id": 8150049,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "HoG | Warmmer",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8316054,
+            "loserId": 8150049,
+            "winnerName": "CG | Jflex",
+            "loserName": "HoG | Warmmer",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ]
+        },
+        {
+            "id": 40844694,
+            "entrant1Id": 8150049,
+            "entrant2Id": 8161309,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "Wally",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8150049,
+            "loserId": 8161309,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "Wally",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 40828837,
+            "entrant1Id": 8150049,
+            "entrant2Id": 8329256,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "GodTouch",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8150049,
+            "loserId": 8329256,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "GodTouch",
+            "bracketName": "Pools",
+            "bracketId": 1584531,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 55317,
+                    "playerTag": "GodTouch"
+                }
+            ]
+        },
+        {
+            "id": 40828834,
+            "entrant1Id": 8150049,
+            "entrant2Id": 8162197,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "RyGuy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8150049,
+            "loserId": 8162197,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "RyGuy",
+            "bracketName": "Pools",
+            "bracketId": 1584531,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 35523,
+                    "playerTag": "RyGuy"
+                }
+            ]
+        },
+        {
+            "id": 40828828,
+            "entrant1Id": 8150049,
+            "entrant2Id": 8359135,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "watuppa | gsef",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8150049,
+            "loserId": 8359135,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "watuppa | gsef",
+            "bracketName": "Pools",
+            "bracketId": 1584531,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1816561,
+                    "playerTag": "gsef"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "aklo",
+        "ryobeat",
+        "wally",
+        "eggy",
+        "wally",
+        "chem"
+    ],
+    "L": [
+        "OkayP.",
+        "Rabbit",
+        "kalvar",
+        "slug",
+        "rishi",
+        "aklo",
+        "theswooper",
+        "theswooper",
+        "zamu",
+        "jflex",
+        "magi",
+        "wevans"
+    ]
+}

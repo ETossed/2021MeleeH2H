@@ -1,0 +1,212 @@
+{
+    "MPGR": 200,
+    "Events": [
+        585641
+    ],
+    "Sets": [
+        {
+            "id": 41057029,
+            "entrant1Id": 8348874,
+            "entrant2Id": 7601124,
+            "entrant1Name": "MF | KoDoRiN",
+            "entrant2Name": "Palpa",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8348874,
+            "loserId": 7601124,
+            "winnerName": "MF | KoDoRiN",
+            "loserName": "Palpa",
+            "bracketName": "Top 16",
+            "bracketId": 1583000,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 662333,
+                    "playerTag": "Palpa"
+                }
+            ]
+        },
+        {
+            "id": 41057055,
+            "entrant1Id": 7601124,
+            "entrant2Id": 8055322,
+            "entrant1Name": "Palpa",
+            "entrant2Name": "S2J",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8055322,
+            "loserId": 7601124,
+            "winnerName": "S2J",
+            "loserName": "Palpa",
+            "bracketName": "Top 16",
+            "bracketId": 1583000,
+            "entrant1Players": [
+                {
+                    "playerId": 662333,
+                    "playerTag": "Palpa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ]
+        },
+        {
+            "id": 41042978,
+            "entrant1Id": 7601124,
+            "entrant2Id": 8183182,
+            "entrant1Name": "Palpa",
+            "entrant2Name": "Albert",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7601124,
+            "loserId": 8183182,
+            "winnerName": "Palpa",
+            "loserName": "Albert",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 662333,
+                    "playerTag": "Palpa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ]
+        },
+        {
+            "id": 41042969,
+            "entrant1Id": 8209405,
+            "entrant2Id": 7601124,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "Palpa",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7601124,
+            "loserId": 8209405,
+            "winnerName": "Palpa",
+            "loserName": "Mango's Friend | Lucky",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 662333,
+                    "playerTag": "Palpa"
+                }
+            ]
+        },
+        {
+            "id": 41020507,
+            "entrant1Id": 7601124,
+            "entrant2Id": 8309535,
+            "entrant1Name": "Palpa",
+            "entrant2Name": "UH | Way",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7601124,
+            "loserId": 8309535,
+            "winnerName": "Palpa",
+            "loserName": "UH | Way",
+            "bracketName": "Pools",
+            "bracketId": 1583006,
+            "entrant1Players": [
+                {
+                    "playerId": 662333,
+                    "playerTag": "Palpa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 59110,
+                    "playerTag": "Way"
+                }
+            ]
+        },
+        {
+            "id": 41020504,
+            "entrant1Id": 7601124,
+            "entrant2Id": 7601856,
+            "entrant1Name": "Palpa",
+            "entrant2Name": "CFA | Nich",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7601124,
+            "loserId": 7601856,
+            "winnerName": "Palpa",
+            "loserName": "CFA | Nich",
+            "bracketName": "Pools",
+            "bracketId": 1583006,
+            "entrant1Players": [
+                {
+                    "playerId": 662333,
+                    "playerTag": "Palpa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 247854,
+                    "playerTag": "Nich"
+                }
+            ]
+        },
+        {
+            "id": 41020498,
+            "entrant1Id": 7601124,
+            "entrant2Id": 7922238,
+            "entrant1Name": "Palpa",
+            "entrant2Name": "Coze",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7601124,
+            "loserId": 7922238,
+            "winnerName": "Palpa",
+            "loserName": "Coze",
+            "bracketName": "Pools",
+            "bracketId": 1583006,
+            "entrant1Players": [
+                {
+                    "playerId": 662333,
+                    "playerTag": "Palpa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 128510,
+                    "playerTag": "Coze"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "albert",
+        "lucky"
+    ],
+    "L": [
+        "kodorin",
+        "s2j"
+    ]
+}

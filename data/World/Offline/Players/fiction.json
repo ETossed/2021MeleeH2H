@@ -1,0 +1,682 @@
+{
+    "MPGR": 12,
+    "Events": [
+        644621,
+        554629,
+        644033,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 43289108,
+            "entrant1Id": 8892144,
+            "entrant2Id": 8712516,
+            "entrant1Name": "Colbol",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8892144,
+            "loserId": 8712516,
+            "winnerName": "Colbol",
+            "loserName": "Fiction",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 1009,
+                    "playerTag": "Colbol"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 43219573,
+            "entrant1Id": 8712533,
+            "entrant2Id": 8712516,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712533,
+            "loserId": 8712516,
+            "winnerName": "Hungrybox",
+            "loserName": "Fiction",
+            "bracketName": "Group Stage",
+            "bracketId": 1635971,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 43219572,
+            "entrant1Id": 8955022,
+            "entrant2Id": 8712516,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712516,
+            "loserId": 8955022,
+            "winnerName": "Fiction",
+            "loserName": "MF | Sock",
+            "bracketName": "Group Stage",
+            "bracketId": 1635971,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 43219568,
+            "entrant1Id": 8712516,
+            "entrant2Id": 8712505,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "Nicki",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712505,
+            "loserId": 8712516,
+            "winnerName": "Nicki",
+            "loserName": "Fiction",
+            "bracketName": "Group Stage",
+            "bracketId": 1635971,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ]
+        },
+        {
+            "id": 43219565,
+            "entrant1Id": 8712516,
+            "entrant2Id": 8892147,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "Entropy | Luigi Ka-Master",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712516,
+            "loserId": 8892147,
+            "winnerName": "Fiction",
+            "loserName": "Entropy | Luigi Ka-Master",
+            "bracketName": "Group Stage",
+            "bracketId": 1635971,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27353,
+                    "playerTag": "Luigi Ka-Master"
+                }
+            ]
+        },
+        {
+            "id": 41711579,
+            "entrant1Id": 8552216,
+            "entrant2Id": 8552213,
+            "entrant1Name": "Captain Faceroll",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552216,
+            "loserId": 8552213,
+            "winnerName": "Captain Faceroll",
+            "loserName": "Fiction",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 41711578,
+            "entrant1Id": 8552198,
+            "entrant2Id": 8552213,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552213,
+            "loserId": 8552198,
+            "winnerName": "Fiction",
+            "loserName": "bc | S2J",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 41711576,
+            "entrant1Id": 8552220,
+            "entrant2Id": 8552213,
+            "entrant1Name": "Medz",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552213,
+            "loserId": 8552220,
+            "winnerName": "Fiction",
+            "loserName": "Medz",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 40476,
+                    "playerTag": "Medz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 41711542,
+            "entrant1Id": 8552184,
+            "entrant2Id": 8552213,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552184,
+            "loserId": 8552213,
+            "winnerName": "Panda | Plup",
+            "loserName": "Fiction",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 41711574,
+            "entrant1Id": 8552213,
+            "entrant2Id": 8552227,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "Rocky",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552213,
+            "loserId": 8552227,
+            "winnerName": "Fiction",
+            "loserName": "Rocky",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ]
+        },
+        {
+            "id": 41672752,
+            "entrant1Id": 8552191,
+            "entrant2Id": 8552213,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552191,
+            "loserId": 8552213,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Fiction",
+            "bracketName": "Group Stage",
+            "bracketId": 1603214,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 41672751,
+            "entrant1Id": 8552233,
+            "entrant2Id": 8552213,
+            "entrant1Name": "Tai",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552213,
+            "loserId": 8552233,
+            "winnerName": "Fiction",
+            "loserName": "Tai",
+            "bracketName": "Group Stage",
+            "bracketId": 1603214,
+            "entrant1Players": [
+                {
+                    "playerId": 1084,
+                    "playerTag": "Tai"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 41672749,
+            "entrant1Id": 8552213,
+            "entrant2Id": 8552218,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552213,
+            "loserId": 8552218,
+            "winnerName": "Fiction",
+            "loserName": "bobby big ballz",
+            "bracketName": "Group Stage",
+            "bracketId": 1603214,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 42188349,
+            "entrant1Id": 8690065,
+            "entrant2Id": 8688721,
+            "entrant1Name": "MF | KoDoRiN",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8690065,
+            "loserId": 8688721,
+            "winnerName": "MF | KoDoRiN",
+            "loserName": "Fiction",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 42188604,
+            "entrant1Id": 8708504,
+            "entrant2Id": 8688721,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8688721,
+            "loserId": 8708504,
+            "winnerName": "Fiction",
+            "loserName": "Mango's Friend | Lucky",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 42188603,
+            "entrant1Id": 8688721,
+            "entrant2Id": 8689984,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "SD | Android 0",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8688721,
+            "loserId": 8689984,
+            "winnerName": "Fiction",
+            "loserName": "SD | Android 0",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ]
+        },
+        {
+            "id": 42188601,
+            "entrant1Id": 8704608,
+            "entrant2Id": 8688721,
+            "entrant1Name": "GG | n0ne/ Bond / wizzyfan109",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8688721,
+            "loserId": 8704608,
+            "winnerName": "Fiction",
+            "loserName": "GG | n0ne/ Bond / wizzyfan109",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 4107,
+                    "playerTag": "n0ne/ Bond / wizzyfan109"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 42188599,
+            "entrant1Id": 8688721,
+            "entrant2Id": 8708425,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "bc | S2J",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8688721,
+            "loserId": 8708425,
+            "winnerName": "Fiction",
+            "loserName": "bc | S2J",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ]
+        },
+        {
+            "id": 42188342,
+            "entrant1Id": 8688721,
+            "entrant2Id": 8689984,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "SD | Android 0",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8689984,
+            "loserId": 8688721,
+            "winnerName": "SD | Android 0",
+            "loserName": "Fiction",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ]
+        },
+        {
+            "id": 42188595,
+            "entrant1Id": 8688721,
+            "entrant2Id": 8690477,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "Raikin",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8688721,
+            "loserId": 8690477,
+            "winnerName": "Fiction",
+            "loserName": "Raikin",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 269186,
+                    "playerTag": "Raikin"
+                }
+            ]
+        },
+        {
+            "id": 42188334,
+            "entrant1Id": 8688721,
+            "entrant2Id": 8705536,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "Steech",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8688721,
+            "loserId": 8705536,
+            "winnerName": "Fiction",
+            "loserName": "Steech",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 731487,
+                    "playerTag": "Steech"
+                }
+            ]
+        },
+        {
+            "id": 42188318,
+            "entrant1Id": 8688721,
+            "entrant2Id": 8709543,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "handheld",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8688721,
+            "loserId": 8709543,
+            "winnerName": "Fiction",
+            "loserName": "handheld",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1161586,
+                    "playerTag": "handheld"
+                }
+            ]
+        },
+        {
+            "id": 42188286,
+            "entrant1Id": 8688721,
+            "entrant2Id": 8698946,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "Alberto",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8688721,
+            "loserId": 8698946,
+            "winnerName": "Fiction",
+            "loserName": "Alberto",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2485087,
+                    "playerTag": "Alberto"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "sock",
+        "luigi ka-master",
+        "s2j",
+        "medz",
+        "rocky",
+        "tai",
+        "bobby big ballz",
+        "lucky",
+        "android 0",
+        "n0ne/ bond / wizzyfan109",
+        "s2j",
+        "jflex",
+        "luigi ka-master"
+    ],
+    "L": [
+        "colbol",
+        "hungrybox",
+        "nicki",
+        "faceroll",
+        "plup",
+        "sfat",
+        "kodorin",
+        "android 0",
+        "ginger",
+        "fatgoku"
+    ]
+}

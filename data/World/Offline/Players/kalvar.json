@@ -1,0 +1,727 @@
+{
+    "MPGR": 62,
+    "Events": [
+        573828,
+        438347,
+        593246,
+        610808
+    ],
+    "Sets": [
+        {
+            "id": 40416041,
+            "entrant1Id": 7533612,
+            "entrant2Id": 7484156,
+            "entrant1Name": "SDJ",
+            "entrant2Name": "CC | Kalvar",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7533612,
+            "loserId": 7484156,
+            "winnerName": "SDJ",
+            "loserName": "CC | Kalvar",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 325974,
+                    "playerTag": "SDJ"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ]
+        },
+        {
+            "id": 40416033,
+            "entrant1Id": 7484156,
+            "entrant2Id": 7469987,
+            "entrant1Name": "CC | Kalvar",
+            "entrant2Name": "TRULY | GI0GOAT",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484156,
+            "loserId": 7469987,
+            "winnerName": "CC | Kalvar",
+            "loserName": "TRULY | GI0GOAT",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 153434,
+                    "playerTag": "GI0GOAT"
+                }
+            ]
+        },
+        {
+            "id": 40416023,
+            "entrant1Id": 7484156,
+            "entrant2Id": 7471735,
+            "entrant1Name": "CC | Kalvar",
+            "entrant2Name": "GDubs",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484156,
+            "loserId": 7471735,
+            "winnerName": "CC | Kalvar",
+            "loserName": "GDubs",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 62309,
+                    "playerTag": "GDubs"
+                }
+            ]
+        },
+        {
+            "id": 40414888,
+            "entrant1Id": 7484156,
+            "entrant2Id": 7484260,
+            "entrant1Name": "CC | Kalvar",
+            "entrant2Name": "Eggy",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7484260,
+            "loserId": 7484156,
+            "winnerName": "Eggy",
+            "loserName": "CC | Kalvar",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547352,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ]
+        },
+        {
+            "id": 40414886,
+            "entrant1Id": 7484156,
+            "entrant2Id": 7470047,
+            "entrant1Name": "CC | Kalvar",
+            "entrant2Name": "Yashichi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484156,
+            "loserId": 7470047,
+            "winnerName": "CC | Kalvar",
+            "loserName": "Yashichi",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547352,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 35048,
+                    "playerTag": "Yashichi"
+                }
+            ]
+        },
+        {
+            "id": 40414882,
+            "entrant1Id": 7484156,
+            "entrant2Id": 7484491,
+            "entrant1Name": "CC | Kalvar",
+            "entrant2Name": "CEO | CZ",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484156,
+            "loserId": 7484491,
+            "winnerName": "CC | Kalvar",
+            "loserName": "CEO | CZ",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547352,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 764599,
+                    "playerTag": "CZ"
+                }
+            ]
+        },
+        {
+            "id": 40628384,
+            "entrant1Id": 8286153,
+            "entrant2Id": 4767651,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "Kalvar",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8286153,
+            "loserId": 4767651,
+            "winnerName": "CG | Jflex",
+            "loserName": "Kalvar",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ]
+        },
+        {
+            "id": 40628383,
+            "entrant1Id": 8290058,
+            "entrant2Id": 4767651,
+            "entrant1Name": "TheSWOOPER",
+            "entrant2Name": "Kalvar",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 4767651,
+            "loserId": 8290058,
+            "winnerName": "Kalvar",
+            "loserName": "TheSWOOPER",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 50606,
+                    "playerTag": "TheSWOOPER"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ]
+        },
+        {
+            "id": 40628381,
+            "entrant1Id": 8293731,
+            "entrant2Id": 4767651,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "Kalvar",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 4767651,
+            "loserId": 8293731,
+            "winnerName": "Kalvar",
+            "loserName": "HoG | Warmmer",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ]
+        },
+        {
+            "id": 40628317,
+            "entrant1Id": 8286153,
+            "entrant2Id": 4767651,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "Kalvar",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8286153,
+            "loserId": 4767651,
+            "winnerName": "CG | Jflex",
+            "loserName": "Kalvar",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ]
+        },
+        {
+            "id": 40628379,
+            "entrant1Id": 4767651,
+            "entrant2Id": 4770872,
+            "entrant1Name": "Kalvar",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 4767651,
+            "loserId": 4770872,
+            "winnerName": "Kalvar",
+            "loserName": "TG | Mot$",
+            "bracketName": "Top 24",
+            "bracketId": 1246643,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 40610707,
+            "entrant1Id": 4767651,
+            "entrant2Id": 4823216,
+            "entrant1Name": "Kalvar",
+            "entrant2Name": "LINT LICKA",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4767651,
+            "loserId": 4823216,
+            "winnerName": "Kalvar",
+            "loserName": "LINT LICKA",
+            "bracketName": "Pools",
+            "bracketId": 1578728,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4706,
+                    "playerTag": "LINT LICKA"
+                }
+            ]
+        },
+        {
+            "id": 40610704,
+            "entrant1Id": 4767651,
+            "entrant2Id": 8286623,
+            "entrant1Name": "Kalvar",
+            "entrant2Name": "Just Nate",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4767651,
+            "loserId": 8286623,
+            "winnerName": "Kalvar",
+            "loserName": "Just Nate",
+            "bracketName": "Pools",
+            "bracketId": 1578728,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 893866,
+                    "playerTag": "Just Nate"
+                }
+            ]
+        },
+        {
+            "id": 40610698,
+            "entrant1Id": 4767651,
+            "entrant2Id": 8170785,
+            "entrant1Name": "Kalvar",
+            "entrant2Name": "Viscose",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4767651,
+            "loserId": 8170785,
+            "winnerName": "Kalvar",
+            "loserName": "Viscose",
+            "bracketName": "Pools",
+            "bracketId": 1578728,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 533782,
+                    "playerTag": "Viscose"
+                }
+            ]
+        },
+        {
+            "id": 39491869,
+            "entrant1Id": 7715387,
+            "entrant2Id": 7722064,
+            "entrant1Name": "ASC | Kalvar",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7722064,
+            "loserId": 7715387,
+            "winnerName": "FISA | JoJo",
+            "loserName": "ASC | Kalvar",
+            "bracketName": "Top 24",
+            "bracketId": 1528580,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 39491931,
+            "entrant1Id": 7715387,
+            "entrant2Id": 7722314,
+            "entrant1Name": "ASC | Kalvar",
+            "entrant2Name": "Kikoho",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7722314,
+            "loserId": 7715387,
+            "winnerName": "Kikoho",
+            "loserName": "ASC | Kalvar",
+            "bracketName": "Top 24",
+            "bracketId": 1528580,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 288009,
+                    "playerTag": "Kikoho"
+                }
+            ]
+        },
+        {
+            "id": 39482744,
+            "entrant1Id": 7715387,
+            "entrant2Id": 7715133,
+            "entrant1Name": "ASC | Kalvar",
+            "entrant2Name": "Trail",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7715387,
+            "loserId": 7715133,
+            "winnerName": "ASC | Kalvar",
+            "loserName": "Trail",
+            "bracketName": "Pools",
+            "bracketId": 1528576,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 331695,
+                    "playerTag": "Trail"
+                }
+            ]
+        },
+        {
+            "id": 39482740,
+            "entrant1Id": 7715387,
+            "entrant2Id": 7720486,
+            "entrant1Name": "ASC | Kalvar",
+            "entrant2Name": "Artelinde",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7715387,
+            "loserId": 7720486,
+            "winnerName": "ASC | Kalvar",
+            "loserName": "Artelinde",
+            "bracketName": "Pools",
+            "bracketId": 1528576,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 805341,
+                    "playerTag": "Artelind"
+                }
+            ]
+        },
+        {
+            "id": 39482732,
+            "entrant1Id": 7715387,
+            "entrant2Id": 7719500,
+            "entrant1Name": "ASC | Kalvar",
+            "entrant2Name": "Cranberry",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7715387,
+            "loserId": 7719500,
+            "winnerName": "ASC | Kalvar",
+            "loserName": "Cranberry",
+            "bracketName": "Pools",
+            "bracketId": 1528576,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15784,
+                    "playerTag": "Cranberry"
+                }
+            ]
+        },
+        {
+            "id": 40844695,
+            "entrant1Id": 8158672,
+            "entrant2Id": 8161292,
+            "entrant1Name": "CC | Kalvar",
+            "entrant2Name": "Mot$",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8161292,
+            "loserId": 8158672,
+            "winnerName": "Mot$",
+            "loserName": "CC | Kalvar",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 40844631,
+            "entrant1Id": 8278732,
+            "entrant2Id": 8158672,
+            "entrant1Name": "Mekk",
+            "entrant2Name": "CC | Kalvar",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8278732,
+            "loserId": 8158672,
+            "winnerName": "Mekk",
+            "loserName": "CC | Kalvar",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ]
+        },
+        {
+            "id": 40844691,
+            "entrant1Id": 8158672,
+            "entrant2Id": 8179283,
+            "entrant1Name": "CC | Kalvar",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8158672,
+            "loserId": 8179283,
+            "winnerName": "CC | Kalvar",
+            "loserName": "NoFluxes",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 40834495,
+            "entrant1Id": 8158672,
+            "entrant2Id": 8158670,
+            "entrant1Name": "CC | Kalvar",
+            "entrant2Name": "PUP | Dimension",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8158672,
+            "loserId": 8158670,
+            "winnerName": "CC | Kalvar",
+            "loserName": "PUP | Dimension",
+            "bracketName": "Pools",
+            "bracketId": 1584533,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 587072,
+                    "playerTag": "Dimension"
+                }
+            ]
+        },
+        {
+            "id": 40834492,
+            "entrant1Id": 8158672,
+            "entrant2Id": 8153171,
+            "entrant1Name": "CC | Kalvar",
+            "entrant2Name": "Kyu Puff",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8158672,
+            "loserId": 8153171,
+            "winnerName": "CC | Kalvar",
+            "loserName": "Kyu Puff",
+            "bracketName": "Pools",
+            "bracketId": 1584533,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10987,
+                    "playerTag": "Kyu Puff"
+                }
+            ]
+        },
+        {
+            "id": 40834486,
+            "entrant1Id": 8158672,
+            "entrant2Id": 8159562,
+            "entrant1Name": "CC | Kalvar",
+            "entrant2Name": "CowboyDan",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8158672,
+            "loserId": 8159562,
+            "winnerName": "CC | Kalvar",
+            "loserName": "CowboyDan",
+            "bracketName": "Pools",
+            "bracketId": 1584533,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 136653,
+                    "playerTag": "CowboyDan"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "theswooper",
+        "warmmer",
+        "mot$",
+        "nofluxes"
+    ],
+    "L": [
+        "sdj",
+        "eggy",
+        "jflex",
+        "jflex",
+        "JoJo",
+        "Kikoho",
+        "mot$",
+        "mekk"
+    ]
+}

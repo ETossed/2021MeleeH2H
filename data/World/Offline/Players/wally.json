@@ -1,0 +1,1388 @@
+{
+    "MPGR": 200,
+    "Events": [
+        573828,
+        598932,
+        623950,
+        605856,
+        606697,
+        593246,
+        610808,
+        633485
+    ],
+    "Sets": [
+        {
+            "id": 40437626,
+            "entrant1Id": 7470177,
+            "entrant2Id": 7471864,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "Axe",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7471864,
+            "loserId": 7470177,
+            "winnerName": "Axe",
+            "loserName": "Agency | Wally",
+            "bracketName": "Top 24",
+            "bracketId": 1547385,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 40437623,
+            "entrant1Id": 7484527,
+            "entrant2Id": 7470177,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7470177,
+            "loserId": 7484527,
+            "winnerName": "Agency | Wally",
+            "loserName": "CG | Jflex",
+            "bracketName": "Top 24",
+            "bracketId": 1547385,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 40421762,
+            "entrant1Id": 7470177,
+            "entrant2Id": 7470911,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7470177,
+            "loserId": 7470911,
+            "winnerName": "Agency | Wally",
+            "loserName": "TG | Mot$",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 40421632,
+            "entrant1Id": 7471573,
+            "entrant2Id": 7470177,
+            "entrant1Name": "iBDW",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471573,
+            "loserId": 7470177,
+            "winnerName": "iBDW",
+            "loserName": "Agency | Wally",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 40421759,
+            "entrant1Id": 7470177,
+            "entrant2Id": 7484576,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "Casper",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7470177,
+            "loserId": 7484576,
+            "winnerName": "Agency | Wally",
+            "loserName": "Casper",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 144268,
+                    "playerTag": "Casper"
+                }
+            ]
+        },
+        {
+            "id": 40421625,
+            "entrant1Id": 7470177,
+            "entrant2Id": 7484020,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "Kurv",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7470177,
+            "loserId": 7484020,
+            "winnerName": "Agency | Wally",
+            "loserName": "Kurv",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37116,
+                    "playerTag": "Kurv"
+                }
+            ]
+        },
+        {
+            "id": 40419878,
+            "entrant1Id": 7470177,
+            "entrant2Id": 7485040,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "Peanutphobia",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7470177,
+            "loserId": 7485040,
+            "winnerName": "Agency | Wally",
+            "loserName": "Peanutphobia",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547348,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5051,
+                    "playerTag": "Peanutphobia"
+                }
+            ]
+        },
+        {
+            "id": 40419876,
+            "entrant1Id": 7470177,
+            "entrant2Id": 7484413,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "Bison.M",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7470177,
+            "loserId": 7484413,
+            "winnerName": "Agency | Wally",
+            "loserName": "Bison.M",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547348,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 138861,
+                    "playerTag": "Bison.M"
+                }
+            ]
+        },
+        {
+            "id": 40419872,
+            "entrant1Id": 7470177,
+            "entrant2Id": 7471886,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "SlickSiwik",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7470177,
+            "loserId": 7471886,
+            "winnerName": "Agency | Wally",
+            "loserName": "SlickSiwik",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547348,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1729667,
+                    "playerTag": "SlickSiwik"
+                }
+            ]
+        },
+        {
+            "id": 39687851,
+            "entrant1Id": 7914330,
+            "entrant2Id": 7914693,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7914330,
+            "loserId": 7914693,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "Agency | Wally",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 39687847,
+            "entrant1Id": 7913314,
+            "entrant2Id": 7914693,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7914693,
+            "loserId": 7913314,
+            "winnerName": "Agency | Wally",
+            "loserName": "Skerzo",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 39687720,
+            "entrant1Id": 7914952,
+            "entrant2Id": 7914693,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7914952,
+            "loserId": 7914693,
+            "winnerName": "IMP | Ben",
+            "loserName": "Agency | Wally",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 39687840,
+            "entrant1Id": 7914693,
+            "entrant2Id": 8030257,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "Blue",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7914693,
+            "loserId": 8030257,
+            "winnerName": "Agency | Wally",
+            "loserName": "Blue",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 649535,
+                    "playerTag": "Blue"
+                }
+            ]
+        },
+        {
+            "id": 39687707,
+            "entrant1Id": 7914693,
+            "entrant2Id": 7975633,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "macdaddy69",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7914693,
+            "loserId": 7975633,
+            "winnerName": "Agency | Wally",
+            "loserName": "macdaddy69",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1294463,
+                    "playerTag": "macdaddy69"
+                }
+            ]
+        },
+        {
+            "id": 39672579,
+            "entrant1Id": 7914693,
+            "entrant2Id": 7982563,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "Charlie Wu",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7914693,
+            "loserId": 7982563,
+            "winnerName": "Agency | Wally",
+            "loserName": "Charlie Wu",
+            "bracketName": "Pools",
+            "bracketId": 1537840,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 398822,
+                    "playerTag": "Charlie Wu"
+                }
+            ]
+        },
+        {
+            "id": 39672575,
+            "entrant1Id": 7914693,
+            "entrant2Id": 7980039,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "Duck Soup | Tenacity",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7914693,
+            "loserId": 7980039,
+            "winnerName": "Agency | Wally",
+            "loserName": "Duck Soup | Tenacity",
+            "bracketName": "Pools",
+            "bracketId": 1537840,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2129476,
+                    "playerTag": "Tenacity"
+                }
+            ]
+        },
+        {
+            "id": 41262289,
+            "entrant1Id": 8330748,
+            "entrant2Id": 8350474,
+            "entrant1Name": "TheSWOOPER",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8330748,
+            "loserId": 8350474,
+            "winnerName": "TheSWOOPER",
+            "loserName": "Agency | Wally",
+            "bracketName": "Top 32",
+            "bracketId": 1594247,
+            "entrant1Players": [
+                {
+                    "playerId": 50606,
+                    "playerTag": "TheSWOOPER"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 41262285,
+            "entrant1Id": 8350474,
+            "entrant2Id": 8382595,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "JJM",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8350474,
+            "loserId": 8382595,
+            "winnerName": "Agency | Wally",
+            "loserName": "JJM",
+            "bracketName": "Top 32",
+            "bracketId": 1594247,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 170768,
+                    "playerTag": "JJM"
+                }
+            ]
+        },
+        {
+            "id": 41262221,
+            "entrant1Id": 8350474,
+            "entrant2Id": 8451120,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "TG NBR | Panos",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8451120,
+            "loserId": 8350474,
+            "winnerName": "TG NBR | Panos",
+            "loserName": "Agency | Wally",
+            "bracketName": "Top 32",
+            "bracketId": 1594247,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16066,
+                    "playerTag": "Panos"
+                }
+            ]
+        },
+        {
+            "id": 41262279,
+            "entrant1Id": 8350474,
+            "entrant2Id": 8330730,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "We Are | Cannagar",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8350474,
+            "loserId": 8330730,
+            "winnerName": "Agency | Wally",
+            "loserName": "We Are | Cannagar",
+            "bracketName": "Top 32",
+            "bracketId": 1594247,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 157455,
+                    "playerTag": "Cannagar"
+                }
+            ]
+        },
+        {
+            "id": 41254304,
+            "entrant1Id": 8350474,
+            "entrant2Id": 8343533,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "YokaiNels",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8350474,
+            "loserId": 8343533,
+            "winnerName": "Agency | Wally",
+            "loserName": "YokaiNels",
+            "bracketName": "Pools",
+            "bracketId": 1594253,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 810425,
+                    "playerTag": "YokaiNels"
+                }
+            ]
+        },
+        {
+            "id": 41254300,
+            "entrant1Id": 8350474,
+            "entrant2Id": 8345126,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "Gomi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8350474,
+            "loserId": 8345126,
+            "winnerName": "Agency | Wally",
+            "loserName": "Gomi",
+            "bracketName": "Pools",
+            "bracketId": 1594253,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 881842,
+                    "playerTag": "Gomi"
+                }
+            ]
+        },
+        {
+            "id": 41254292,
+            "entrant1Id": 8350474,
+            "entrant2Id": 8473407,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "12G | BDS",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8350474,
+            "loserId": 8473407,
+            "winnerName": "Agency | Wally",
+            "loserName": "12G | BDS",
+            "bracketName": "Pools",
+            "bracketId": 1594253,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 24786,
+                    "playerTag": "BDS"
+                }
+            ]
+        },
+        {
+            "id": 41484491,
+            "entrant1Id": 8195114,
+            "entrant2Id": 8194541,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8195114,
+            "loserId": 8194541,
+            "winnerName": "NoFluxes",
+            "loserName": "Agency | Wally",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 41484521,
+            "entrant1Id": 8194541,
+            "entrant2Id": 8194356,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "Bones",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8194356,
+            "loserId": 8194541,
+            "winnerName": "Bones",
+            "loserName": "Agency | Wally",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5457,
+                    "playerTag": "Bones"
+                }
+            ]
+        },
+        {
+            "id": 41445486,
+            "entrant1Id": 8194541,
+            "entrant2Id": 8380710,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "KADP | dizzkidboogie",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8194541,
+            "loserId": 8380710,
+            "winnerName": "Agency | Wally",
+            "loserName": "KADP | dizzkidboogie",
+            "bracketName": "Top 64 - BO5",
+            "bracketId": 1572321,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3915,
+                    "playerTag": "dizzkidboogie"
+                }
+            ]
+        },
+        {
+            "id": 41445481,
+            "entrant1Id": 8194541,
+            "entrant2Id": 8198683,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "Dybloons",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8194541,
+            "loserId": 8198683,
+            "winnerName": "Agency | Wally",
+            "loserName": "Dybloons",
+            "bracketName": "Top 64 - BO5",
+            "bracketId": 1572321,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 148253,
+                    "playerTag": "Dybloons"
+                }
+            ]
+        },
+        {
+            "id": 41442902,
+            "entrant1Id": 8194541,
+            "entrant2Id": 8193703,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "Ben Snape",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8194541,
+            "loserId": 8193703,
+            "winnerName": "Agency | Wally",
+            "loserName": "Ben Snape",
+            "bracketName": "Pools",
+            "bracketId": 1572309,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1524828,
+                    "playerTag": "Ben Snape"
+                }
+            ]
+        },
+        {
+            "id": 41442898,
+            "entrant1Id": 8194541,
+            "entrant2Id": 8194277,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "T",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8194541,
+            "loserId": 8194277,
+            "winnerName": "Agency | Wally",
+            "loserName": "T",
+            "bracketName": "Pools",
+            "bracketId": 1572309,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 739465,
+                    "playerTag": "T"
+                }
+            ]
+        },
+        {
+            "id": 41442890,
+            "entrant1Id": 8194541,
+            "entrant2Id": 8239404,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "Scallops",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8194541,
+            "loserId": 8239404,
+            "winnerName": "Agency | Wally",
+            "loserName": "Scallops",
+            "bracketName": "Pools",
+            "bracketId": 1572309,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 445728,
+                    "playerTag": "Scallops"
+                }
+            ]
+        },
+        {
+            "id": 39634484,
+            "entrant1Id": 8043162,
+            "entrant2Id": 8054112,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "Polish",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8054112,
+            "loserId": 8043162,
+            "winnerName": "Polish",
+            "loserName": "Agency | Wally",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ]
+        },
+        {
+            "id": 39634611,
+            "entrant1Id": 8043162,
+            "entrant2Id": 8064445,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "Morsecode762",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8064445,
+            "loserId": 8043162,
+            "winnerName": "Morsecode762",
+            "loserName": "Agency | Wally",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3713,
+                    "playerTag": "Morsecode762"
+                }
+            ]
+        },
+        {
+            "id": 39634481,
+            "entrant1Id": 8061182,
+            "entrant2Id": 8043162,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8043162,
+            "loserId": 8061182,
+            "winnerName": "Agency | Wally",
+            "loserName": "GHQ | PEP | Zamu",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 39634476,
+            "entrant1Id": 8064445,
+            "entrant2Id": 8043162,
+            "entrant1Name": "Morsecode762",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8043162,
+            "loserId": 8064445,
+            "winnerName": "Agency | Wally",
+            "loserName": "Morsecode762",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 3713,
+                    "playerTag": "Morsecode762"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 39634466,
+            "entrant1Id": 8043162,
+            "entrant2Id": 8035921,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "sfy | Fizz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8043162,
+            "loserId": 8035921,
+            "winnerName": "Agency | Wally",
+            "loserName": "sfy | Fizz",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7764,
+                    "playerTag": "Fizz"
+                }
+            ]
+        },
+        {
+            "id": 39491936,
+            "entrant1Id": 7994446,
+            "entrant2Id": 7715408,
+            "entrant1Name": "TheSWOOPER",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7994446,
+            "loserId": 7715408,
+            "winnerName": "TheSWOOPER",
+            "loserName": "Agency | Wally",
+            "bracketName": "Top 24",
+            "bracketId": 1528580,
+            "entrant1Players": [
+                {
+                    "playerId": 50606,
+                    "playerTag": "TheSWOOPER"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 39491934,
+            "entrant1Id": 7715408,
+            "entrant2Id": 7722314,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "Kikoho",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7715408,
+            "loserId": 7722314,
+            "winnerName": "Agency | Wally",
+            "loserName": "Kikoho",
+            "bracketName": "Top 24",
+            "bracketId": 1528580,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 288009,
+                    "playerTag": "Kikoho"
+                }
+            ]
+        },
+        {
+            "id": 39491870,
+            "entrant1Id": 7713533,
+            "entrant2Id": 7715408,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7713533,
+            "loserId": 7715408,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "Agency | Wally",
+            "bracketName": "Top 24",
+            "bracketId": 1528580,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 39491930,
+            "entrant1Id": 7715408,
+            "entrant2Id": 7720494,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "Billz",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7715408,
+            "loserId": 7720494,
+            "winnerName": "Agency | Wally",
+            "loserName": "Billz",
+            "bracketName": "Top 24",
+            "bracketId": 1528580,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5824,
+                    "playerTag": "Billz"
+                }
+            ]
+        },
+        {
+            "id": 39482840,
+            "entrant1Id": 7715408,
+            "entrant2Id": 7713268,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "GUILD | ghettowarmachine420",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7715408,
+            "loserId": 7713268,
+            "winnerName": "Agency | Wally",
+            "loserName": "GUILD | ghettowarmachine420",
+            "bracketName": "Pools",
+            "bracketId": 1528579,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3936,
+                    "playerTag": "grownworkingman"
+                }
+            ]
+        },
+        {
+            "id": 39482837,
+            "entrant1Id": 7715408,
+            "entrant2Id": 7713862,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "Twisty",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7715408,
+            "loserId": 7713862,
+            "winnerName": "Agency | Wally",
+            "loserName": "Twisty",
+            "bracketName": "Pools",
+            "bracketId": 1528579,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36467,
+                    "playerTag": "Twisty"
+                }
+            ]
+        },
+        {
+            "id": 39482831,
+            "entrant1Id": 7715408,
+            "entrant2Id": 7721525,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "BKB! | stocmoney",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7715408,
+            "loserId": 7721525,
+            "winnerName": "Agency | Wally",
+            "loserName": "BKB! | stocmoney",
+            "bracketName": "Pools",
+            "bracketId": 1528579,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5630,
+                    "playerTag": "stocmoney"
+                }
+            ]
+        },
+        {
+            "id": 40844694,
+            "entrant1Id": 8150049,
+            "entrant2Id": 8161309,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "Wally",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8150049,
+            "loserId": 8161309,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "Wally",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 40844690,
+            "entrant1Id": 8138051,
+            "entrant2Id": 8161309,
+            "entrant1Name": "Trail",
+            "entrant2Name": "Wally",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8161309,
+            "loserId": 8138051,
+            "winnerName": "Wally",
+            "loserName": "Trail",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 7149,
+                    "playerTag": "Trail"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 40844686,
+            "entrant1Id": 8161309,
+            "entrant2Id": 8158869,
+            "entrant1Name": "Wally",
+            "entrant2Name": "bonfire10",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8161309,
+            "loserId": 8158869,
+            "winnerName": "Wally",
+            "loserName": "bonfire10",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3738,
+                    "playerTag": "bonfire10"
+                }
+            ]
+        },
+        {
+            "id": 40834494,
+            "entrant1Id": 8161309,
+            "entrant2Id": 8278732,
+            "entrant1Name": "Wally",
+            "entrant2Name": "Mekk",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8278732,
+            "loserId": 8161309,
+            "winnerName": "Mekk",
+            "loserName": "Wally",
+            "bracketName": "Pools",
+            "bracketId": 1584533,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ]
+        },
+        {
+            "id": 40834490,
+            "entrant1Id": 8161309,
+            "entrant2Id": 8156352,
+            "entrant1Name": "Wally",
+            "entrant2Name": "HoG | Arty",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8161309,
+            "loserId": 8156352,
+            "winnerName": "Wally",
+            "loserName": "HoG | Arty",
+            "bracketName": "Pools",
+            "bracketId": 1584533,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3798,
+                    "playerTag": "Arty"
+                }
+            ]
+        },
+        {
+            "id": 40834482,
+            "entrant1Id": 8161309,
+            "entrant2Id": 8141222,
+            "entrant1Name": "Wally",
+            "entrant2Name": "kero",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8161309,
+            "loserId": 8141222,
+            "winnerName": "Wally",
+            "loserName": "kero",
+            "bracketName": "Pools",
+            "bracketId": 1584533,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1250252,
+                    "playerTag": "kero"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "jflex",
+        "mot$",
+        "kurv",
+        "skerzo",
+        "zamu",
+        "morsecode762",
+        "fizz",
+        "kurv",
+        "drephen"
+    ],
+    "L": [
+        "axe",
+        "ibdw",
+        "zamu",
+        "ben",
+        "theswooper",
+        "Panos",
+        "nofluxes",
+        "bones",
+        "polish",
+        "morsecode762",
+        "theswooper",
+        "warmmer",
+        "warmmer",
+        "mekk",
+        "ginger",
+        "luigi ka-master"
+    ]
+}

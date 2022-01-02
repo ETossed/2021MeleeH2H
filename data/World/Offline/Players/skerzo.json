@@ -1,0 +1,1245 @@
+{
+    "MPGR": 200,
+    "Events": [
+        573828,
+        585641,
+        598932,
+        605856,
+        606697,
+        644491,
+        633485,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 40427571,
+            "entrant1Id": 7471204,
+            "entrant2Id": 7469490,
+            "entrant1Name": "CG | Zealot",
+            "entrant2Name": "Skerzo",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7471204,
+            "loserId": 7469490,
+            "winnerName": "CG | Zealot",
+            "loserName": "Skerzo",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547387,
+            "entrant1Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ]
+        },
+        {
+            "id": 40427693,
+            "entrant1Id": 7469490,
+            "entrant2Id": 7533833,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Chem",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7533833,
+            "loserId": 7469490,
+            "winnerName": "Chem",
+            "loserName": "Skerzo",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547387,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 709843,
+                    "playerTag": "Chem"
+                }
+            ]
+        },
+        {
+            "id": 40427293,
+            "entrant1Id": 7469490,
+            "entrant2Id": 7471300,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Justus",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7469490,
+            "loserId": 7471300,
+            "winnerName": "Skerzo",
+            "loserName": "Justus",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547358,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ]
+        },
+        {
+            "id": 40427291,
+            "entrant1Id": 7469490,
+            "entrant2Id": 7484730,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Clarkus",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7469490,
+            "loserId": 7484730,
+            "winnerName": "Skerzo",
+            "loserName": "Clarkus",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547358,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2239760,
+                    "playerTag": "Clarkus"
+                }
+            ]
+        },
+        {
+            "id": 40427287,
+            "entrant1Id": 7469490,
+            "entrant2Id": 7485250,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "M.A.C.",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7469490,
+            "loserId": 7485250,
+            "winnerName": "Skerzo",
+            "loserName": "M.A.C.",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547358,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 49655,
+                    "playerTag": "M.A.C."
+                }
+            ]
+        },
+        {
+            "id": 41043085,
+            "entrant1Id": 7601849,
+            "entrant2Id": 7601973,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Unsure",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7601973,
+            "loserId": 7601849,
+            "winnerName": "Unsure",
+            "loserName": "Skerzo",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 52030,
+                    "playerTag": "Unsure"
+                }
+            ]
+        },
+        {
+            "id": 41042968,
+            "entrant1Id": 7601849,
+            "entrant2Id": 7601961,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Pappi",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7601961,
+            "loserId": 7601849,
+            "winnerName": "Pappi",
+            "loserName": "Skerzo",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61570,
+                    "playerTag": "Pappi"
+                }
+            ]
+        },
+        {
+            "id": 41043070,
+            "entrant1Id": 7601849,
+            "entrant2Id": 8257006,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "tatuwah",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7601849,
+            "loserId": 8257006,
+            "winnerName": "Skerzo",
+            "loserName": "tatuwah",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46131,
+                    "playerTag": "tatuwah"
+                }
+            ]
+        },
+        {
+            "id": 41020364,
+            "entrant1Id": 7601849,
+            "entrant2Id": 8192653,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "YokaiNels",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7601849,
+            "loserId": 8192653,
+            "winnerName": "Skerzo",
+            "loserName": "YokaiNels",
+            "bracketName": "Pools",
+            "bracketId": 1583014,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 810425,
+                    "playerTag": "YokaiNels"
+                }
+            ]
+        },
+        {
+            "id": 41020360,
+            "entrant1Id": 7601849,
+            "entrant2Id": 7721338,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "StrawHat",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7601849,
+            "loserId": 7721338,
+            "winnerName": "Skerzo",
+            "loserName": "StrawHat",
+            "bracketName": "Pools",
+            "bracketId": 1583014,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2353632,
+                    "playerTag": "StrawHat"
+                }
+            ]
+        },
+        {
+            "id": 41020352,
+            "entrant1Id": 7601849,
+            "entrant2Id": 7603459,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Jimbo Calzone",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7601849,
+            "loserId": 7603459,
+            "winnerName": "Skerzo",
+            "loserName": "Jimbo Calzone",
+            "bracketName": "Pools",
+            "bracketId": 1583014,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51743,
+                    "playerTag": "Jimbo Calzone"
+                }
+            ]
+        },
+        {
+            "id": 39687847,
+            "entrant1Id": 7913314,
+            "entrant2Id": 7914693,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7914693,
+            "loserId": 7913314,
+            "winnerName": "Agency | Wally",
+            "loserName": "Skerzo",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 39687721,
+            "entrant1Id": 7994827,
+            "entrant2Id": 7913314,
+            "entrant1Name": "Drephen",
+            "entrant2Name": "Skerzo",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7994827,
+            "loserId": 7913314,
+            "winnerName": "Drephen",
+            "loserName": "Skerzo",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 6839,
+                    "playerTag": "Drephen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ]
+        },
+        {
+            "id": 39687839,
+            "entrant1Id": 7913314,
+            "entrant2Id": 7982675,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "SSRI | Phrigid",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7913314,
+            "loserId": 7982675,
+            "winnerName": "Skerzo",
+            "loserName": "SSRI | Phrigid",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6952,
+                    "playerTag": "Phrigid"
+                }
+            ]
+        },
+        {
+            "id": 39687709,
+            "entrant1Id": 7913314,
+            "entrant2Id": 8001955,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Pablo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7913314,
+            "loserId": 8001955,
+            "winnerName": "Skerzo",
+            "loserName": "Pablo",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 254913,
+                    "playerTag": "Pablo"
+                }
+            ]
+        },
+        {
+            "id": 39685406,
+            "entrant1Id": 7913314,
+            "entrant2Id": 8053987,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Elegy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7913314,
+            "loserId": 8053987,
+            "winnerName": "Skerzo",
+            "loserName": "Elegy",
+            "bracketName": "Pools",
+            "bracketId": 1537839,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27514,
+                    "playerTag": "Elegy"
+                }
+            ]
+        },
+        {
+            "id": 39685402,
+            "entrant1Id": 7913314,
+            "entrant2Id": 7919749,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Delta3445",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7913314,
+            "loserId": 7919749,
+            "winnerName": "Skerzo",
+            "loserName": "Delta3445",
+            "bracketName": "Pools",
+            "bracketId": 1537839,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 982001,
+                    "playerTag": "Delta"
+                }
+            ]
+        },
+        {
+            "id": 41484495,
+            "entrant1Id": 8197936,
+            "entrant2Id": 8194305,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Polish",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8194305,
+            "loserId": 8197936,
+            "winnerName": "Polish",
+            "loserName": "Skerzo",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ]
+        },
+        {
+            "id": 41484526,
+            "entrant1Id": 8197936,
+            "entrant2Id": 8193344,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Khryke",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8193344,
+            "loserId": 8197936,
+            "winnerName": "Khryke",
+            "loserName": "Skerzo",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279107,
+                    "playerTag": "Khryke"
+                }
+            ]
+        },
+        {
+            "id": 41484492,
+            "entrant1Id": 8194500,
+            "entrant2Id": 8197936,
+            "entrant1Name": "JJM",
+            "entrant2Name": "Skerzo",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8197936,
+            "loserId": 8194500,
+            "winnerName": "Skerzo",
+            "loserName": "JJM",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 170768,
+                    "playerTag": "JJM"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ]
+        },
+        {
+            "id": 41452635,
+            "entrant1Id": 8197936,
+            "entrant2Id": 8194356,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Bones",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8197936,
+            "loserId": 8194356,
+            "winnerName": "Skerzo",
+            "loserName": "Bones",
+            "bracketName": "Top 64 - BO5",
+            "bracketId": 1598099,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5457,
+                    "playerTag": "Bones"
+                }
+            ]
+        },
+        {
+            "id": 41452628,
+            "entrant1Id": 8197936,
+            "entrant2Id": 8202766,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "HSG | Guex",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8197936,
+            "loserId": 8202766,
+            "winnerName": "Skerzo",
+            "loserName": "HSG | Guex",
+            "bracketName": "Top 64 - BO5",
+            "bracketId": 1598099,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 434815,
+                    "playerTag": "Guex"
+                }
+            ]
+        },
+        {
+            "id": 41447602,
+            "entrant1Id": 8197936,
+            "entrant2Id": 8193462,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "reese",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8197936,
+            "loserId": 8193462,
+            "winnerName": "Skerzo",
+            "loserName": "reese",
+            "bracketName": "Pools",
+            "bracketId": 1572311,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15087,
+                    "playerTag": "reese"
+                }
+            ]
+        },
+        {
+            "id": 41447598,
+            "entrant1Id": 8197936,
+            "entrant2Id": 8194269,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "JayEmCee",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8197936,
+            "loserId": 8194269,
+            "winnerName": "Skerzo",
+            "loserName": "JayEmCee",
+            "bracketName": "Pools",
+            "bracketId": 1572311,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 229139,
+                    "playerTag": "JayEmCee"
+                }
+            ]
+        },
+        {
+            "id": 41447590,
+            "entrant1Id": 8197936,
+            "entrant2Id": 8194989,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "QuayeEpicGamer | *QuayeYT**",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8197936,
+            "loserId": 8194989,
+            "winnerName": "Skerzo",
+            "loserName": "QuayeEpicGamer | *QuayeYT**",
+            "bracketName": "Pools",
+            "bracketId": 1572311,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2425117,
+                    "playerTag": "*QuayeYT**"
+                }
+            ]
+        },
+        {
+            "id": 39634609,
+            "entrant1Id": 8056330,
+            "entrant2Id": 8064445,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Morsecode762",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8064445,
+            "loserId": 8056330,
+            "winnerName": "Morsecode762",
+            "loserName": "Skerzo",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3713,
+                    "playerTag": "Morsecode762"
+                }
+            ]
+        },
+        {
+            "id": 39634479,
+            "entrant1Id": 8061545,
+            "entrant2Id": 8056330,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "Skerzo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8061545,
+            "loserId": 8056330,
+            "winnerName": "LG | Ginger",
+            "loserName": "Skerzo",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ]
+        },
+        {
+            "id": 39634606,
+            "entrant1Id": 8056330,
+            "entrant2Id": 8047853,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Preeminent",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8056330,
+            "loserId": 8047853,
+            "winnerName": "Skerzo",
+            "loserName": "Preeminent",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 318568,
+                    "playerTag": "Preeminent"
+                }
+            ]
+        },
+        {
+            "id": 39634472,
+            "entrant1Id": 8056330,
+            "entrant2Id": 8057708,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8056330,
+            "loserId": 8057708,
+            "winnerName": "Skerzo",
+            "loserName": "TG | Mot$",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 39634457,
+            "entrant1Id": 8056330,
+            "entrant2Id": 8061576,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "RanD",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8056330,
+            "loserId": 8061576,
+            "winnerName": "Skerzo",
+            "loserName": "RanD",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 630728,
+                    "playerTag": "RanD"
+                }
+            ]
+        },
+        {
+            "id": 42922623,
+            "entrant1Id": 8851495,
+            "entrant2Id": 8869116,
+            "entrant1Name": "Drephen",
+            "entrant2Name": "Skerzo",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8851495,
+            "loserId": 8869116,
+            "winnerName": "Drephen",
+            "loserName": "Skerzo",
+            "bracketName": "Top Bracket",
+            "bracketId": 1617769,
+            "entrant1Players": [
+                {
+                    "playerId": 6839,
+                    "playerTag": "Drephen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ]
+        },
+        {
+            "id": 42922622,
+            "entrant1Id": 8874250,
+            "entrant2Id": 8869116,
+            "entrant1Name": "Free Palestine",
+            "entrant2Name": "Skerzo",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8869116,
+            "loserId": 8874250,
+            "winnerName": "Skerzo",
+            "loserName": "Free Palestine",
+            "bracketName": "Top Bracket",
+            "bracketId": 1617769,
+            "entrant1Players": [
+                {
+                    "playerId": 55110,
+                    "playerTag": "Free Palestine"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ]
+        },
+        {
+            "id": 42922494,
+            "entrant1Id": 8851495,
+            "entrant2Id": 8869116,
+            "entrant1Name": "Drephen",
+            "entrant2Name": "Skerzo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8851495,
+            "loserId": 8869116,
+            "winnerName": "Drephen",
+            "loserName": "Skerzo",
+            "bracketName": "Top Bracket",
+            "bracketId": 1617769,
+            "entrant1Players": [
+                {
+                    "playerId": 6839,
+                    "playerTag": "Drephen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ]
+        },
+        {
+            "id": 42922621,
+            "entrant1Id": 8869116,
+            "entrant2Id": 8869826,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Azzu",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8869116,
+            "loserId": 8869826,
+            "winnerName": "Skerzo",
+            "loserName": "Azzu",
+            "bracketName": "Top Bracket",
+            "bracketId": 1617769,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7400,
+                    "playerTag": "Azzu"
+                }
+            ]
+        },
+        {
+            "id": 42922492,
+            "entrant1Id": 8869116,
+            "entrant2Id": 8851594,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "tentpoles",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8869116,
+            "loserId": 8851594,
+            "winnerName": "Skerzo",
+            "loserName": "tentpoles",
+            "bracketName": "Top Bracket",
+            "bracketId": 1617769,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3545,
+                    "playerTag": "tentpoles"
+                }
+            ]
+        },
+        {
+            "id": 42922487,
+            "entrant1Id": 8869116,
+            "entrant2Id": 8870087,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Frost",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8869116,
+            "loserId": 8870087,
+            "winnerName": "Skerzo",
+            "loserName": "Frost",
+            "bracketName": "Top Bracket",
+            "bracketId": 1617769,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7482,
+                    "playerTag": "Frost"
+                }
+            ]
+        },
+        {
+            "id": 42908875,
+            "entrant1Id": 8869116,
+            "entrant2Id": 8722859,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "AlphaPancake",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8869116,
+            "loserId": 8722859,
+            "winnerName": "Skerzo",
+            "loserName": "AlphaPancake",
+            "bracketName": "Round Robin",
+            "bracketId": 1617755,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 415381,
+                    "playerTag": "AlphaPancake"
+                }
+            ]
+        },
+        {
+            "id": 42908871,
+            "entrant1Id": 8869116,
+            "entrant2Id": 8860959,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Lowm0",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8869116,
+            "loserId": 8860959,
+            "winnerName": "Skerzo",
+            "loserName": "Lowm0",
+            "bracketName": "Round Robin",
+            "bracketId": 1617755,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 41313,
+                    "playerTag": "Lowm0"
+                }
+            ]
+        },
+        {
+            "id": 42908867,
+            "entrant1Id": 8869116,
+            "entrant2Id": 8780618,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "dr tropical",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8869116,
+            "loserId": 8780618,
+            "winnerName": "Skerzo",
+            "loserName": "dr tropical",
+            "bracketName": "Round Robin",
+            "bracketId": 1617755,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2538684,
+                    "playerTag": "dr tropical"
+                }
+            ]
+        },
+        {
+            "id": 42908863,
+            "entrant1Id": 8869116,
+            "entrant2Id": 8874630,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "DILF | Bus Fire",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8869116,
+            "loserId": 8874630,
+            "winnerName": "Skerzo",
+            "loserName": "DILF | Bus Fire",
+            "bracketName": "Round Robin",
+            "bracketId": 1617755,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30716,
+                    "playerTag": "Bus Fire"
+                }
+            ]
+        },
+        {
+            "id": 42908859,
+            "entrant1Id": 8869116,
+            "entrant2Id": 8874088,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Senseovernet",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8869116,
+            "loserId": 8874088,
+            "winnerName": "Skerzo",
+            "loserName": "Senseovernet",
+            "bracketName": "Round Robin",
+            "bracketId": 1617755,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2165165,
+                    "playerTag": "Senseovernet"
+                }
+            ]
+        },
+        {
+            "id": 42908855,
+            "entrant1Id": 8869116,
+            "entrant2Id": 8796013,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Windy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8869116,
+            "loserId": 8796013,
+            "winnerName": "Skerzo",
+            "loserName": "Windy",
+            "bracketName": "Round Robin",
+            "bracketId": 1617755,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 224655,
+                    "playerTag": "Windy"
+                }
+            ]
+        },
+        {
+            "id": 42908851,
+            "entrant1Id": 8869116,
+            "entrant2Id": 8879119,
+            "entrant1Name": "Skerzo",
+            "entrant2Name": "Ju1ce",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8869116,
+            "loserId": 8879119,
+            "winnerName": "Skerzo",
+            "loserName": "Ju1ce",
+            "bracketName": "Round Robin",
+            "bracketId": 1617755,
+            "entrant1Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 509683,
+                    "playerTag": "Ju1ce"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "justus",
+        "bones",
+        "mot$",
+        "free palestine",
+        "bobby big ballz",
+        "kjh"
+    ],
+    "L": [
+        "zealot",
+        "chem",
+        "Unsure",
+        "pappi",
+        "wally",
+        "drephen",
+        "polish",
+        "khryke",
+        "morsecode762",
+        "ginger",
+        "drephen",
+        "drephen",
+        "magi",
+        "drephen",
+        "panda",
+        "Conman"
+    ]
+}

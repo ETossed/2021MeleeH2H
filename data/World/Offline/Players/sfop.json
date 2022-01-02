@@ -1,0 +1,443 @@
+{
+    "MPGR": 200,
+    "Events": [
+        573828,
+        585641,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 40442131,
+            "entrant1Id": 7481712,
+            "entrant2Id": 8130717,
+            "entrant1Name": "lloD",
+            "entrant2Name": "SFOP",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7481712,
+            "loserId": 8130717,
+            "winnerName": "lloD",
+            "loserName": "SFOP",
+            "bracketName": "Top 24",
+            "bracketId": 1547390,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ]
+        },
+        {
+            "id": 40427703,
+            "entrant1Id": 7471204,
+            "entrant2Id": 8130717,
+            "entrant1Name": "CG | Zealot",
+            "entrant2Name": "SFOP",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8130717,
+            "loserId": 7471204,
+            "winnerName": "SFOP",
+            "loserName": "CG | Zealot",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547387,
+            "entrant1Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ]
+        },
+        {
+            "id": 40427577,
+            "entrant1Id": 7484614,
+            "entrant2Id": 8130717,
+            "entrant1Name": "KoDoRiN",
+            "entrant2Name": "SFOP",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484614,
+            "loserId": 8130717,
+            "winnerName": "KoDoRiN",
+            "loserName": "SFOP",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547387,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ]
+        },
+        {
+            "id": 40427700,
+            "entrant1Id": 8130717,
+            "entrant2Id": 7485230,
+            "entrant1Name": "SFOP",
+            "entrant2Name": "Gooms",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8130717,
+            "loserId": 7485230,
+            "winnerName": "SFOP",
+            "loserName": "Gooms",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547387,
+            "entrant1Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 18840,
+                    "playerTag": "Gooms"
+                }
+            ]
+        },
+        {
+            "id": 40427573,
+            "entrant1Id": 8130717,
+            "entrant2Id": 7483967,
+            "entrant1Name": "SFOP",
+            "entrant2Name": "Golden",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8130717,
+            "loserId": 7483967,
+            "winnerName": "SFOP",
+            "loserName": "Golden",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547387,
+            "entrant1Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 138710,
+                    "playerTag": "Golden"
+                }
+            ]
+        },
+        {
+            "id": 40426318,
+            "entrant1Id": 8130717,
+            "entrant2Id": 7470332,
+            "entrant1Name": "SFOP",
+            "entrant2Name": "Moist",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8130717,
+            "loserId": 7470332,
+            "winnerName": "SFOP",
+            "loserName": "Moist",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547342,
+            "entrant1Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22876,
+                    "playerTag": "Moist"
+                }
+            ]
+        },
+        {
+            "id": 40426316,
+            "entrant1Id": 8130717,
+            "entrant2Id": 7484055,
+            "entrant1Name": "SFOP",
+            "entrant2Name": "Banger",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8130717,
+            "loserId": 7484055,
+            "winnerName": "SFOP",
+            "loserName": "Banger",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547342,
+            "entrant1Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 495213,
+                    "playerTag": "Banger"
+                }
+            ]
+        },
+        {
+            "id": 40426312,
+            "entrant1Id": 8130717,
+            "entrant2Id": 7471508,
+            "entrant1Name": "SFOP",
+            "entrant2Name": "Neuron",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8130717,
+            "loserId": 7471508,
+            "winnerName": "SFOP",
+            "loserName": "Neuron",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547342,
+            "entrant1Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 364846,
+                    "playerTag": "Neuron"
+                }
+            ]
+        },
+        {
+            "id": 41057026,
+            "entrant1Id": 7604256,
+            "entrant2Id": 8352241,
+            "entrant1Name": "SFOP",
+            "entrant2Name": "bc | Magi",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8352241,
+            "loserId": 7604256,
+            "winnerName": "bc | Magi",
+            "loserName": "SFOP",
+            "bracketName": "Top 16",
+            "bracketId": 1583000,
+            "entrant1Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 41057058,
+            "entrant1Id": 7604256,
+            "entrant2Id": 8183182,
+            "entrant1Name": "SFOP",
+            "entrant2Name": "Albert",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8183182,
+            "loserId": 7604256,
+            "winnerName": "Albert",
+            "loserName": "SFOP",
+            "bracketName": "Top 16",
+            "bracketId": 1583000,
+            "entrant1Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ]
+        },
+        {
+            "id": 41042971,
+            "entrant1Id": 8055322,
+            "entrant2Id": 7604256,
+            "entrant1Name": "S2J",
+            "entrant2Name": "SFOP",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7604256,
+            "loserId": 8055322,
+            "winnerName": "SFOP",
+            "loserName": "S2J",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ]
+        },
+        {
+            "id": 41042956,
+            "entrant1Id": 7604256,
+            "entrant2Id": 7610835,
+            "entrant1Name": "SFOP",
+            "entrant2Name": "MF | null",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7604256,
+            "loserId": 7610835,
+            "winnerName": "SFOP",
+            "loserName": "MF | null",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ]
+        },
+        {
+            "id": 41042188,
+            "entrant1Id": 7604256,
+            "entrant2Id": 8301255,
+            "entrant1Name": "SFOP",
+            "entrant2Name": "salami",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7604256,
+            "loserId": 8301255,
+            "winnerName": "SFOP",
+            "loserName": "salami",
+            "bracketName": "Pools",
+            "bracketId": 1583016,
+            "entrant1Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 294260,
+                    "playerTag": "salami"
+                }
+            ]
+        },
+        {
+            "id": 41042184,
+            "entrant1Id": 7604256,
+            "entrant2Id": 7604684,
+            "entrant1Name": "SFOP",
+            "entrant2Name": "Egsid",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7604256,
+            "loserId": 7604684,
+            "winnerName": "SFOP",
+            "loserName": "Egsid",
+            "bracketName": "Pools",
+            "bracketId": 1583016,
+            "entrant1Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 573832,
+                    "playerTag": "Egsid"
+                }
+            ]
+        },
+        {
+            "id": 41042176,
+            "entrant1Id": 7604256,
+            "entrant2Id": 8178878,
+            "entrant1Name": "SFOP",
+            "entrant2Name": "coolguy87",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7604256,
+            "loserId": 8178878,
+            "winnerName": "SFOP",
+            "loserName": "coolguy87",
+            "bracketName": "Pools",
+            "bracketId": 1583016,
+            "entrant1Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1048925,
+                    "playerTag": "coolguy87"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "zealot",
+        "s2j",
+        "null"
+    ],
+    "L": [
+        "llod",
+        "kodorin",
+        "magi",
+        "albert",
+        "fatgoku",
+        "axe"
+    ]
+}

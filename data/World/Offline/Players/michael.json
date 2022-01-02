@@ -1,0 +1,470 @@
+{
+    "MPGR": 50,
+    "Events": [
+        573828,
+        598932,
+        606697
+    ],
+    "Sets": [
+        {
+            "id": 40435604,
+            "entrant1Id": 7471393,
+            "entrant2Id": 7484717,
+            "entrant1Name": "UGS | Michael",
+            "entrant2Name": "Voo",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7484717,
+            "loserId": 7471393,
+            "winnerName": "Voo",
+            "loserName": "UGS | Michael",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547388,
+            "entrant1Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12236,
+                    "playerTag": "Voo"
+                }
+            ]
+        },
+        {
+            "id": 40435726,
+            "entrant1Id": 7471393,
+            "entrant2Id": 7484624,
+            "entrant1Name": "UGS | Michael",
+            "entrant2Name": "Blue",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7484624,
+            "loserId": 7471393,
+            "winnerName": "Blue",
+            "loserName": "UGS | Michael",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547388,
+            "entrant1Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 649535,
+                    "playerTag": "Blue"
+                }
+            ]
+        },
+        {
+            "id": 40434505,
+            "entrant1Id": 7471393,
+            "entrant2Id": 7484279,
+            "entrant1Name": "UGS | Michael",
+            "entrant2Name": "Rabbit",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471393,
+            "loserId": 7484279,
+            "winnerName": "UGS | Michael",
+            "loserName": "Rabbit",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547346,
+            "entrant1Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5126,
+                    "playerTag": "Rabbit"
+                }
+            ]
+        },
+        {
+            "id": 40434503,
+            "entrant1Id": 7471393,
+            "entrant2Id": 8123055,
+            "entrant1Name": "UGS | Michael",
+            "entrant2Name": "WatchingTime",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471393,
+            "loserId": 8123055,
+            "winnerName": "UGS | Michael",
+            "loserName": "WatchingTime",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547346,
+            "entrant1Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 39170,
+                    "playerTag": "WatchingTime"
+                }
+            ]
+        },
+        {
+            "id": 39687855,
+            "entrant1Id": 7914330,
+            "entrant2Id": 7914555,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "UGS | Michael",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7914330,
+            "loserId": 7914555,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "UGS | Michael",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ]
+        },
+        {
+            "id": 39687729,
+            "entrant1Id": 7913374,
+            "entrant2Id": 7914555,
+            "entrant1Name": "Polish",
+            "entrant2Name": "UGS | Michael",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7913374,
+            "loserId": 7914555,
+            "winnerName": "Polish",
+            "loserName": "UGS | Michael",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ]
+        },
+        {
+            "id": 39687852,
+            "entrant1Id": 7914555,
+            "entrant2Id": 7952908,
+            "entrant1Name": "UGS | Michael",
+            "entrant2Name": "TheRealThing",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7914555,
+            "loserId": 7952908,
+            "winnerName": "UGS | Michael",
+            "loserName": "TheRealThing",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 8043,
+                    "playerTag": "TheRealThing"
+                }
+            ]
+        },
+        {
+            "id": 39687725,
+            "entrant1Id": 7914555,
+            "entrant2Id": 8051955,
+            "entrant1Name": "UGS | Michael",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7914555,
+            "loserId": 8051955,
+            "winnerName": "UGS | Michael",
+            "loserName": "TG | Mot$",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 39687716,
+            "entrant1Id": 7914555,
+            "entrant2Id": 7982675,
+            "entrant1Name": "UGS | Michael",
+            "entrant2Name": "SSRI | Phrigid",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7914555,
+            "loserId": 7982675,
+            "winnerName": "UGS | Michael",
+            "loserName": "SSRI | Phrigid",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6952,
+                    "playerTag": "Phrigid"
+                }
+            ]
+        },
+        {
+            "id": 39672510,
+            "entrant1Id": 7914555,
+            "entrant2Id": 7914415,
+            "entrant1Name": "UGS | Michael",
+            "entrant2Name": "Fizz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7914555,
+            "loserId": 7914415,
+            "winnerName": "UGS | Michael",
+            "loserName": "Fizz",
+            "bracketName": "Pools",
+            "bracketId": 1537833,
+            "entrant1Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7764,
+                    "playerTag": "Fizz"
+                }
+            ]
+        },
+        {
+            "id": 39672506,
+            "entrant1Id": 7914555,
+            "entrant2Id": 7991243,
+            "entrant1Name": "UGS | Michael",
+            "entrant2Name": "sambone",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7914555,
+            "loserId": 7991243,
+            "winnerName": "UGS | Michael",
+            "loserName": "sambone",
+            "bracketName": "Pools",
+            "bracketId": 1537833,
+            "entrant1Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2158818,
+                    "playerTag": "sambone"
+                }
+            ]
+        },
+        {
+            "id": 39634604,
+            "entrant1Id": 8061182,
+            "entrant2Id": 8057897,
+            "entrant1Name": "GHQ | PEP | Zamu",
+            "entrant2Name": "UGS | Michael",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8061182,
+            "loserId": 8057897,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "UGS | Michael",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ]
+        },
+        {
+            "id": 39634600,
+            "entrant1Id": 8057897,
+            "entrant2Id": 8045503,
+            "entrant1Name": "UGS | Michael",
+            "entrant2Name": "Pleeba",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8057897,
+            "loserId": 8045503,
+            "winnerName": "UGS | Michael",
+            "loserName": "Pleeba",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4057,
+                    "playerTag": "Pleeba"
+                }
+            ]
+        },
+        {
+            "id": 39634474,
+            "entrant1Id": 8057897,
+            "entrant2Id": 8059521,
+            "entrant1Name": "UGS | Michael",
+            "entrant2Name": "Ober",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8059521,
+            "loserId": 8057897,
+            "winnerName": "Ober",
+            "loserName": "UGS | Michael",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30197,
+                    "playerTag": "Ober"
+                }
+            ]
+        },
+        {
+            "id": 39634592,
+            "entrant1Id": 8057897,
+            "entrant2Id": 8047361,
+            "entrant1Name": "UGS | Michael",
+            "entrant2Name": "Aero",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8057897,
+            "loserId": 8047361,
+            "winnerName": "UGS | Michael",
+            "loserName": "Aero",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1050995,
+                    "playerTag": "Aero"
+                }
+            ]
+        },
+        {
+            "id": 39634461,
+            "entrant1Id": 8057897,
+            "entrant2Id": 8061400,
+            "entrant1Name": "UGS | Michael",
+            "entrant2Name": "Guhnasher",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8057897,
+            "loserId": 8061400,
+            "winnerName": "UGS | Michael",
+            "loserName": "Guhnasher",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2145852,
+                    "playerTag": "Guhnasher"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "mot$",
+        "fizz"
+    ],
+    "L": [
+        "Voo",
+        "Blue",
+        "zamu",
+        "polish",
+        "zamu",
+        "Ober"
+    ]
+}

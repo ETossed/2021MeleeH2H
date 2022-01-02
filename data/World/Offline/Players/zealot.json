@@ -1,0 +1,190 @@
+{
+    "MPGR": 200,
+    "Events": [
+        573828,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 40427703,
+            "entrant1Id": 7471204,
+            "entrant2Id": 8130717,
+            "entrant1Name": "CG | Zealot",
+            "entrant2Name": "SFOP",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8130717,
+            "loserId": 7471204,
+            "winnerName": "SFOP",
+            "loserName": "CG | Zealot",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547387,
+            "entrant1Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ]
+        },
+        {
+            "id": 40427576,
+            "entrant1Id": 7471793,
+            "entrant2Id": 7471204,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "CG | Zealot",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7471793,
+            "loserId": 7471204,
+            "winnerName": "LG | Ginger",
+            "loserName": "CG | Zealot",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547387,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ]
+        },
+        {
+            "id": 40427699,
+            "entrant1Id": 7471204,
+            "entrant2Id": 7470876,
+            "entrant1Name": "CG | Zealot",
+            "entrant2Name": "CS | Travioli",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7471204,
+            "loserId": 7470876,
+            "winnerName": "CG | Zealot",
+            "loserName": "CS | Travioli",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547387,
+            "entrant1Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 215584,
+                    "playerTag": "Travioli"
+                }
+            ]
+        },
+        {
+            "id": 40427571,
+            "entrant1Id": 7471204,
+            "entrant2Id": 7469490,
+            "entrant1Name": "CG | Zealot",
+            "entrant2Name": "Skerzo",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7471204,
+            "loserId": 7469490,
+            "winnerName": "CG | Zealot",
+            "loserName": "Skerzo",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547387,
+            "entrant1Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ]
+        },
+        {
+            "id": 40424577,
+            "entrant1Id": 7471204,
+            "entrant2Id": 8022938,
+            "entrant1Name": "CG | Zealot",
+            "entrant2Name": "Tyli | TSI | Killablue",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471204,
+            "loserId": 8022938,
+            "winnerName": "CG | Zealot",
+            "loserName": "Tyli | TSI | Killablue",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547345,
+            "entrant1Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 126565,
+                    "playerTag": "Killablue"
+                }
+            ]
+        },
+        {
+            "id": 40424575,
+            "entrant1Id": 7471204,
+            "entrant2Id": 7471250,
+            "entrant1Name": "CG | Zealot",
+            "entrant2Name": "The Brig",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471204,
+            "loserId": 7471250,
+            "winnerName": "CG | Zealot",
+            "loserName": "The Brig",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547345,
+            "entrant1Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 9631,
+                    "playerTag": "The Brig"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "skerzo",
+        "far!",
+        "smashdaddy",
+        "slug",
+        "bobby big ballz"
+    ],
+    "L": [
+        "sfop",
+        "ginger",
+        "sfat",
+        "axe"
+    ]
+}

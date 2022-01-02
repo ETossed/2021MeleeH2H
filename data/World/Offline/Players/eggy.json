@@ -1,0 +1,641 @@
+{
+    "MPGR": 200,
+    "Events": [
+        573828,
+        605856,
+        610808,
+        633485
+    ],
+    "Sets": [
+        {
+            "id": 40416052,
+            "entrant1Id": 7484260,
+            "entrant2Id": 7484179,
+            "entrant1Name": "Eggy",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7484179,
+            "loserId": 7484260,
+            "winnerName": "bobby big ballz",
+            "loserName": "Eggy",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 40415922,
+            "entrant1Id": 7469532,
+            "entrant2Id": 7484260,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "Eggy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7469532,
+            "loserId": 7484260,
+            "winnerName": "Hungrybox",
+            "loserName": "Eggy",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ]
+        },
+        {
+            "id": 40416049,
+            "entrant1Id": 7484260,
+            "entrant2Id": 7470255,
+            "entrant1Name": "Eggy",
+            "entrant2Name": "Silk | Den",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484260,
+            "loserId": 7470255,
+            "winnerName": "Eggy",
+            "loserName": "Silk | Den",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 9884,
+                    "playerTag": "Den"
+                }
+            ]
+        },
+        {
+            "id": 40415915,
+            "entrant1Id": 7471844,
+            "entrant2Id": 7484260,
+            "entrant1Name": "null",
+            "entrant2Name": "Eggy",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7484260,
+            "loserId": 7471844,
+            "winnerName": "Eggy",
+            "loserName": "null",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ]
+        },
+        {
+            "id": 40414888,
+            "entrant1Id": 7484156,
+            "entrant2Id": 7484260,
+            "entrant1Name": "CC | Kalvar",
+            "entrant2Name": "Eggy",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7484260,
+            "loserId": 7484156,
+            "winnerName": "Eggy",
+            "loserName": "CC | Kalvar",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547352,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ]
+        },
+        {
+            "id": 40414887,
+            "entrant1Id": 7484260,
+            "entrant2Id": 7484331,
+            "entrant1Name": "Eggy",
+            "entrant2Name": "DSE | Tanooki",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484260,
+            "loserId": 7484331,
+            "winnerName": "Eggy",
+            "loserName": "DSE | Tanooki",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547352,
+            "entrant1Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 34902,
+                    "playerTag": "Tanooki"
+                }
+            ]
+        },
+        {
+            "id": 40414884,
+            "entrant1Id": 7484260,
+            "entrant2Id": 7471517,
+            "entrant1Name": "Eggy",
+            "entrant2Name": "FSC | Beastly Dad",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484260,
+            "loserId": 7471517,
+            "winnerName": "Eggy",
+            "loserName": "FSC | Beastly Dad",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547352,
+            "entrant1Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 381951,
+                    "playerTag": "Beastly Dad"
+                }
+            ]
+        },
+        {
+            "id": 41484515,
+            "entrant1Id": 8494892,
+            "entrant2Id": 8202818,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "Eggy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8494892,
+            "loserId": 8202818,
+            "winnerName": "Aspero | Logan",
+            "loserName": "Eggy",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ]
+        },
+        {
+            "id": 41445484,
+            "entrant1Id": 8193295,
+            "entrant2Id": 8202818,
+            "entrant1Name": "Juicebox",
+            "entrant2Name": "Eggy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8193295,
+            "loserId": 8202818,
+            "winnerName": "Juicebox",
+            "loserName": "Eggy",
+            "bracketName": "Top 64 - BO5",
+            "bracketId": 1572321,
+            "entrant1Players": [
+                {
+                    "playerId": 6304,
+                    "playerTag": "Juicebox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ]
+        },
+        {
+            "id": 41445544,
+            "entrant1Id": 8202818,
+            "entrant2Id": 8194642,
+            "entrant1Name": "Eggy",
+            "entrant2Name": "Fable",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8202818,
+            "loserId": 8194642,
+            "winnerName": "Eggy",
+            "loserName": "Fable",
+            "bracketName": "Top 64 - BO5",
+            "bracketId": 1572321,
+            "entrant1Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 8157,
+                    "playerTag": "Fable"
+                }
+            ]
+        },
+        {
+            "id": 41445478,
+            "entrant1Id": 8202818,
+            "entrant2Id": 8193601,
+            "entrant1Name": "Eggy",
+            "entrant2Name": "Frostbyte",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8202818,
+            "loserId": 8193601,
+            "winnerName": "Eggy",
+            "loserName": "Frostbyte",
+            "bracketName": "Top 64 - BO5",
+            "bracketId": 1572321,
+            "entrant1Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1109211,
+                    "playerTag": "Frostbyte"
+                }
+            ]
+        },
+        {
+            "id": 41431109,
+            "entrant1Id": 8202818,
+            "entrant2Id": 8195213,
+            "entrant1Name": "Eggy",
+            "entrant2Name": "tiebex",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8202818,
+            "loserId": 8195213,
+            "winnerName": "Eggy",
+            "loserName": "tiebex",
+            "bracketName": "Pools",
+            "bracketId": 1572313,
+            "entrant1Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 212497,
+                    "playerTag": "tiebex"
+                }
+            ]
+        },
+        {
+            "id": 41431105,
+            "entrant1Id": 8202818,
+            "entrant2Id": 8196392,
+            "entrant1Name": "Eggy",
+            "entrant2Name": "E-Money",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8202818,
+            "loserId": 8196392,
+            "winnerName": "Eggy",
+            "loserName": "E-Money",
+            "bracketName": "Pools",
+            "bracketId": 1572313,
+            "entrant1Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2425434,
+                    "playerTag": "E-Money"
+                }
+            ]
+        },
+        {
+            "id": 41431097,
+            "entrant1Id": 8202818,
+            "entrant2Id": 8194288,
+            "entrant1Name": "Eggy",
+            "entrant2Name": "Joak",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8202818,
+            "loserId": 8194288,
+            "winnerName": "Eggy",
+            "loserName": "Joak",
+            "bracketName": "Pools",
+            "bracketId": 1572313,
+            "entrant1Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 53662,
+                    "playerTag": "Joak"
+                }
+            ]
+        },
+        {
+            "id": 40844696,
+            "entrant1Id": 8179288,
+            "entrant2Id": 8150049,
+            "entrant1Name": "Eggy",
+            "entrant2Name": "HoG | Warmmer",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8150049,
+            "loserId": 8179288,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "Eggy",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ]
+        },
+        {
+            "id": 40844693,
+            "entrant1Id": 8153306,
+            "entrant2Id": 8179288,
+            "entrant1Name": "NC | Prometheus",
+            "entrant2Name": "Eggy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8179288,
+            "loserId": 8153306,
+            "winnerName": "Eggy",
+            "loserName": "NC | Prometheus",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 680265,
+                    "playerTag": "Prometheus"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ]
+        },
+        {
+            "id": 40844689,
+            "entrant1Id": 8158670,
+            "entrant2Id": 8179288,
+            "entrant1Name": "PUP | Dimension",
+            "entrant2Name": "Eggy",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8179288,
+            "loserId": 8158670,
+            "winnerName": "Eggy",
+            "loserName": "PUP | Dimension",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 587072,
+                    "playerTag": "Dimension"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ]
+        },
+        {
+            "id": 40844684,
+            "entrant1Id": 8156814,
+            "entrant2Id": 8179288,
+            "entrant1Name": "BKB | ghettowarmachine420",
+            "entrant2Name": "Eggy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8179288,
+            "loserId": 8156814,
+            "winnerName": "Eggy",
+            "loserName": "BKB | ghettowarmachine420",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 3936,
+                    "playerTag": "grownworkingman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ]
+        },
+        {
+            "id": 40828865,
+            "entrant1Id": 8179288,
+            "entrant2Id": 8162197,
+            "entrant1Name": "Eggy",
+            "entrant2Name": "RyGuy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8179288,
+            "loserId": 8162197,
+            "winnerName": "Eggy",
+            "loserName": "RyGuy",
+            "bracketName": "Pools",
+            "bracketId": 1584531,
+            "entrant1Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 35523,
+                    "playerTag": "RyGuy"
+                }
+            ]
+        },
+        {
+            "id": 40828835,
+            "entrant1Id": 8179288,
+            "entrant2Id": 8329256,
+            "entrant1Name": "Eggy",
+            "entrant2Name": "GodTouch",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8329256,
+            "loserId": 8179288,
+            "winnerName": "GodTouch",
+            "loserName": "Eggy",
+            "bracketName": "Pools",
+            "bracketId": 1584531,
+            "entrant1Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 55317,
+                    "playerTag": "GodTouch"
+                }
+            ]
+        },
+        {
+            "id": 40828861,
+            "entrant1Id": 8179288,
+            "entrant2Id": 8162388,
+            "entrant1Name": "Eggy",
+            "entrant2Name": "Hysteric",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8179288,
+            "loserId": 8162388,
+            "winnerName": "Eggy",
+            "loserName": "Hysteric",
+            "bracketName": "Pools",
+            "bracketId": 1584531,
+            "entrant1Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 182353,
+                    "playerTag": "Hysteric"
+                }
+            ]
+        },
+        {
+            "id": 40828830,
+            "entrant1Id": 8179288,
+            "entrant2Id": 8149778,
+            "entrant1Name": "Eggy",
+            "entrant2Name": "48th_Breadstick",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8179288,
+            "loserId": 8149778,
+            "winnerName": "Eggy",
+            "loserName": "48th_Breadstick",
+            "bracketName": "Pools",
+            "bracketId": 1584531,
+            "entrant1Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 148493,
+                    "playerTag": "48th_Breadstick"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "null",
+        "kalvar"
+    ],
+    "L": [
+        "bobby big ballz",
+        "hungrybox",
+        "logan",
+        "juicebox",
+        "warmmer",
+        "GodTouch",
+        "Alextrer",
+        "chem"
+    ]
+}

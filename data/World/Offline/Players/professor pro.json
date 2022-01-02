@@ -1,0 +1,1149 @@
+{
+    "MPGR": 34,
+    "Events": [
+        644621,
+        554625,
+        428582,
+        457669
+    ],
+    "Sets": [
+        {
+            "id": 43289110,
+            "entrant1Id": 8712500,
+            "entrant2Id": 8712504,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Ice",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712504,
+            "loserId": 8712500,
+            "winnerName": "Ice",
+            "loserName": "Professor Pro",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 43222592,
+            "entrant1Id": 8712511,
+            "entrant2Id": 8712500,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8712511,
+            "loserId": 8712500,
+            "winnerName": "SFAT",
+            "loserName": "Professor Pro",
+            "bracketName": "Group Stage",
+            "bracketId": 1635972,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 43222591,
+            "entrant1Id": 8774628,
+            "entrant2Id": 8712500,
+            "entrant1Name": "Inngenn",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712500,
+            "loserId": 8774628,
+            "winnerName": "Professor Pro",
+            "loserName": "Inngenn",
+            "bracketName": "Group Stage",
+            "bracketId": 1635972,
+            "entrant1Players": [
+                {
+                    "playerId": 2152019,
+                    "playerTag": "Inngenn"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 43222587,
+            "entrant1Id": 8712500,
+            "entrant2Id": 8954979,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712500,
+            "loserId": 8954979,
+            "winnerName": "Professor Pro",
+            "loserName": "HSTV | Zamu",
+            "bracketName": "Group Stage",
+            "bracketId": 1635972,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 43222584,
+            "entrant1Id": 8712500,
+            "entrant2Id": 8892146,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Magi",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8892146,
+            "loserId": 8712500,
+            "winnerName": "Magi",
+            "loserName": "Professor Pro",
+            "bracketName": "Group Stage",
+            "bracketId": 1635972,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 41697246,
+            "entrant1Id": 8552791,
+            "entrant2Id": 8552784,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552784,
+            "loserId": 8552791,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Professor Pro",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 41697244,
+            "entrant1Id": 8552801,
+            "entrant2Id": 8552791,
+            "entrant1Name": "PS | Ice",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552791,
+            "loserId": 8552801,
+            "winnerName": "Professor Pro",
+            "loserName": "PS | Ice",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 41697242,
+            "entrant1Id": 8552791,
+            "entrant2Id": 8552804,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552791,
+            "loserId": 8552804,
+            "winnerName": "Professor Pro",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 41697212,
+            "entrant1Id": 8552778,
+            "entrant2Id": 8552791,
+            "entrant1Name": "RSN | Frenzy",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552778,
+            "loserId": 8552791,
+            "winnerName": "RSN | Frenzy",
+            "loserName": "Professor Pro",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 41697238,
+            "entrant1Id": 8552791,
+            "entrant2Id": 8558916,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Fat Tino",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552791,
+            "loserId": 8558916,
+            "winnerName": "Professor Pro",
+            "loserName": "Fat Tino",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 667216,
+                    "playerTag": "Fat Tino"
+                }
+            ]
+        },
+        {
+            "id": 41641404,
+            "entrant1Id": 8552784,
+            "entrant2Id": 8552791,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552784,
+            "loserId": 8552791,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "Professor Pro",
+            "bracketName": "Group Stage",
+            "bracketId": 1603243,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 41641403,
+            "entrant1Id": 8552818,
+            "entrant2Id": 8552791,
+            "entrant1Name": "Mahie",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552791,
+            "loserId": 8552818,
+            "winnerName": "Professor Pro",
+            "loserName": "Mahie",
+            "bracketName": "Group Stage",
+            "bracketId": 1603243,
+            "entrant1Players": [
+                {
+                    "playerId": 5289,
+                    "playerTag": "Mahie"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 41641401,
+            "entrant1Id": 8552791,
+            "entrant2Id": 8552814,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "RLB | Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552791,
+            "loserId": 8552814,
+            "winnerName": "Professor Pro",
+            "loserName": "RLB | Rikzz",
+            "bracketName": "Group Stage",
+            "bracketId": 1603243,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 42572925,
+            "entrant1Id": 4456092,
+            "entrant2Id": 4487359,
+            "entrant1Name": "Pipsqueak",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4456092,
+            "loserId": 4487359,
+            "winnerName": "Pipsqueak",
+            "loserName": "Professor Pro",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 42573181,
+            "entrant1Id": 4487359,
+            "entrant2Id": 4698716,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "NGNS | Kins0",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 4698716,
+            "loserId": 4487359,
+            "winnerName": "NGNS | Kins0",
+            "loserName": "Professor Pro",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 686245,
+                    "playerTag": "Kins0"
+                }
+            ]
+        },
+        {
+            "id": 42572924,
+            "entrant1Id": 8713927,
+            "entrant2Id": 4487359,
+            "entrant1Name": "Meady",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 4487359,
+            "loserId": 8713927,
+            "winnerName": "Professor Pro",
+            "loserName": "Meady",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 42572922,
+            "entrant1Id": 4487359,
+            "entrant2Id": 8612382,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "FrankTheFisher",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 4487359,
+            "loserId": 8612382,
+            "winnerName": "Professor Pro",
+            "loserName": "FrankTheFisher",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2491740,
+                    "playerTag": "FrankTheFisher"
+                }
+            ]
+        },
+        {
+            "id": 42572917,
+            "entrant1Id": 4487359,
+            "entrant2Id": 4347656,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Fout NL",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4487359,
+            "loserId": 4347656,
+            "winnerName": "Professor Pro",
+            "loserName": "Fout NL",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158645,
+                    "playerTag": "Fout NL"
+                }
+            ]
+        },
+        {
+            "id": 42572907,
+            "entrant1Id": 4487359,
+            "entrant2Id": 8710295,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "SchlimmShady",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4487359,
+            "loserId": 8710295,
+            "winnerName": "Professor Pro",
+            "loserName": "SchlimmShady",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7434,
+                    "playerTag": "SchlimmShady"
+                }
+            ]
+        },
+        {
+            "id": 42572887,
+            "entrant1Id": 4487359,
+            "entrant2Id": 4347977,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "BANGBANG",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4487359,
+            "loserId": 4347977,
+            "winnerName": "Professor Pro",
+            "loserName": "BANGBANG",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 241072,
+                    "playerTag": "BANGBANG"
+                }
+            ]
+        },
+        {
+            "id": 42572847,
+            "entrant1Id": 4487359,
+            "entrant2Id": 8724536,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "SandBag | Xatnu",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4487359,
+            "loserId": 8724536,
+            "winnerName": "Professor Pro",
+            "loserName": "SandBag | Xatnu",
+            "bracketName": "Bracket",
+            "bracketId": 1195597,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1264387,
+                    "playerTag": "Xatnu"
+                }
+            ]
+        },
+        {
+            "id": 42516969,
+            "entrant1Id": 4487359,
+            "entrant2Id": 4759113,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "PT",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4487359,
+            "loserId": 4759113,
+            "winnerName": "Professor Pro",
+            "loserName": "PT",
+            "bracketName": "Pools",
+            "bracketId": 1234666,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 138775,
+                    "playerTag": "Paytay"
+                }
+            ]
+        },
+        {
+            "id": 42516967,
+            "entrant1Id": 4487359,
+            "entrant2Id": 4778021,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "P5 | Vinz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4487359,
+            "loserId": 4778021,
+            "winnerName": "Professor Pro",
+            "loserName": "P5 | Vinz",
+            "bracketName": "Pools",
+            "bracketId": 1234666,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 33007,
+                    "playerTag": "Vinz"
+                }
+            ]
+        },
+        {
+            "id": 42516965,
+            "entrant1Id": 4487359,
+            "entrant2Id": 4599033,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "PressTab | DWIP",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4487359,
+            "loserId": 4599033,
+            "winnerName": "Professor Pro",
+            "loserName": "PressTab | DWIP",
+            "bracketName": "Pools",
+            "bracketId": 1234666,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 157299,
+                    "playerTag": "DWIP"
+                }
+            ]
+        },
+        {
+            "id": 42516963,
+            "entrant1Id": 4487359,
+            "entrant2Id": 8539465,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "MaitreGimp",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 4487359,
+            "loserId": 8539465,
+            "winnerName": "Professor Pro",
+            "loserName": "MaitreGimp",
+            "bracketName": "Pools",
+            "bracketId": 1234666,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 326829,
+                    "playerTag": "MaitreGimp"
+                }
+            ]
+        },
+        {
+            "id": 41447672,
+            "entrant1Id": 8052521,
+            "entrant2Id": 8053554,
+            "entrant1Name": "Frenzy",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8053554,
+            "loserId": 8052521,
+            "winnerName": "Professor Pro",
+            "loserName": "Frenzy",
+            "bracketName": "Top 8",
+            "bracketId": 1551000,
+            "entrant1Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 41447673,
+            "entrant1Id": 8053554,
+            "entrant2Id": 8052521,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Frenzy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8052521,
+            "loserId": 8053554,
+            "winnerName": "Frenzy",
+            "loserName": "Professor Pro",
+            "bracketName": "Top 8",
+            "bracketId": 1551000,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 41447671,
+            "entrant1Id": 8053554,
+            "entrant2Id": 8052521,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Frenzy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8052521,
+            "loserId": 8053554,
+            "winnerName": "Frenzy",
+            "loserName": "Professor Pro",
+            "bracketName": "Top 8",
+            "bracketId": 1551000,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 41447687,
+            "entrant1Id": 8053554,
+            "entrant2Id": 8081694,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Rikzz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8053554,
+            "loserId": 8081694,
+            "winnerName": "Professor Pro",
+            "loserName": "Rikzz",
+            "bracketName": "Top 8",
+            "bracketId": 1551000,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 141233,
+                    "playerTag": "Rikzz"
+                }
+            ]
+        },
+        {
+            "id": 41447669,
+            "entrant1Id": 8053554,
+            "entrant2Id": 8431494,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "4Qs | 23",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8053554,
+            "loserId": 8431494,
+            "winnerName": "Professor Pro",
+            "loserName": "4Qs | 23",
+            "bracketName": "Top 8",
+            "bracketId": 1551000,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47763,
+                    "playerTag": "23"
+                }
+            ]
+        },
+        {
+            "id": 41432327,
+            "entrant1Id": 8053554,
+            "entrant2Id": 8055652,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Weston",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8053554,
+            "loserId": 8055652,
+            "winnerName": "Professor Pro",
+            "loserName": "Weston",
+            "bracketName": "Pools",
+            "bracketId": 1237600,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45404,
+                    "playerTag": "Weston"
+                }
+            ]
+        },
+        {
+            "id": 41432323,
+            "entrant1Id": 8053554,
+            "entrant2Id": 8192190,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Aiika",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8053554,
+            "loserId": 8192190,
+            "winnerName": "Professor Pro",
+            "loserName": "Aiika",
+            "bracketName": "Pools",
+            "bracketId": 1237600,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 156136,
+                    "playerTag": "Aiika"
+                }
+            ]
+        },
+        {
+            "id": 41432319,
+            "entrant1Id": 8053554,
+            "entrant2Id": 8123481,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "SwarmEngine",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8053554,
+            "loserId": 8123481,
+            "winnerName": "Professor Pro",
+            "loserName": "SwarmEngine",
+            "bracketName": "Pools",
+            "bracketId": 1237600,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 144440,
+                    "playerTag": "SwarmEngine"
+                }
+            ]
+        },
+        {
+            "id": 41432315,
+            "entrant1Id": 8053554,
+            "entrant2Id": 8360677,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Hydro | artdealer",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8053554,
+            "loserId": 8360677,
+            "winnerName": "Professor Pro",
+            "loserName": "Hydro | artdealer",
+            "bracketName": "Pools",
+            "bracketId": 1237600,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 63553,
+                    "playerTag": "artdealer"
+                }
+            ]
+        },
+        {
+            "id": 41432311,
+            "entrant1Id": 8053554,
+            "entrant2Id": 8221141,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Kade",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8053554,
+            "loserId": 8221141,
+            "winnerName": "Professor Pro",
+            "loserName": "Kade",
+            "bracketName": "Pools",
+            "bracketId": 1237600,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2311422,
+                    "playerTag": "Kade"
+                }
+            ]
+        },
+        {
+            "id": 41432307,
+            "entrant1Id": 8053554,
+            "entrant2Id": 8221709,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "LINCS | Marauder",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8053554,
+            "loserId": 8221709,
+            "winnerName": "Professor Pro",
+            "loserName": "LINCS | Marauder",
+            "bracketName": "Pools",
+            "bracketId": 1237600,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 351678,
+                    "playerTag": "Marauder"
+                }
+            ]
+        },
+        {
+            "id": 41432303,
+            "entrant1Id": 8053554,
+            "entrant2Id": 8484293,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "gorb",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8053554,
+            "loserId": 8484293,
+            "winnerName": "Professor Pro",
+            "loserName": "gorb",
+            "bracketName": "Pools",
+            "bracketId": 1237600,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2480556,
+                    "playerTag": "gorb"
+                }
+            ]
+        },
+        {
+            "id": 41438081,
+            "entrant1Id": 8053554,
+            "entrant2Id": 8078893,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Pi",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8053554,
+            "loserId": 8078893,
+            "winnerName": "Professor Pro",
+            "loserName": "Pi",
+            "bracketName": "A Bracket",
+            "bracketId": 1550999,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54828,
+                    "playerTag": "Pi"
+                }
+            ]
+        },
+        {
+            "id": 41438073,
+            "entrant1Id": 8053554,
+            "entrant2Id": 8124911,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Zepple",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8053554,
+            "loserId": 8124911,
+            "winnerName": "Professor Pro",
+            "loserName": "Zepple",
+            "bracketName": "A Bracket",
+            "bracketId": 1550999,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 456389,
+                    "playerTag": "Zepple"
+                }
+            ]
+        },
+        {
+            "id": 41438057,
+            "entrant1Id": 8053554,
+            "entrant2Id": 8435584,
+            "entrant1Name": "Professor Pro",
+            "entrant2Name": "Pafos",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8053554,
+            "loserId": 8435584,
+            "winnerName": "Professor Pro",
+            "loserName": "Pafos",
+            "bracketName": "A Bracket",
+            "bracketId": 1550999,
+            "entrant1Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 673902,
+                    "playerTag": "Pafos"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "zamu",
+        "ice",
+        "jah ridin'",
+        "frenzy"
+    ],
+    "L": [
+        "ice",
+        "sfat",
+        "magi",
+        "pipsqueak",
+        "frenzy",
+        "pipsqueak",
+        "pipsqueak",
+        "Kins0",
+        "frenzy",
+        "frenzy"
+    ]
+}

@@ -1,0 +1,623 @@
+{
+    "MPGR": 11,
+    "Events": [
+        585641,
+        554629,
+        644033,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 41085354,
+            "entrant1Id": 8186741,
+            "entrant2Id": 8055322,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "S2J",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8186741,
+            "loserId": 8055322,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "S2J",
+            "bracketName": "Top 8",
+            "bracketId": 1583001,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ]
+        },
+        {
+            "id": 41057055,
+            "entrant1Id": 7601124,
+            "entrant2Id": 8055322,
+            "entrant1Name": "Palpa",
+            "entrant2Name": "S2J",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8055322,
+            "loserId": 7601124,
+            "winnerName": "S2J",
+            "loserName": "Palpa",
+            "bracketName": "Top 16",
+            "bracketId": 1583000,
+            "entrant1Players": [
+                {
+                    "playerId": 662333,
+                    "playerTag": "Palpa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ]
+        },
+        {
+            "id": 41057051,
+            "entrant1Id": 8055322,
+            "entrant2Id": 8204984,
+            "entrant1Name": "S2J",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8055322,
+            "loserId": 8204984,
+            "winnerName": "S2J",
+            "loserName": "HSTV | Zamu",
+            "bracketName": "Top 16",
+            "bracketId": 1583000,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 41042971,
+            "entrant1Id": 8055322,
+            "entrant2Id": 7604256,
+            "entrant1Name": "S2J",
+            "entrant2Name": "SFOP",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7604256,
+            "loserId": 8055322,
+            "winnerName": "SFOP",
+            "loserName": "S2J",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ]
+        },
+        {
+            "id": 41043095,
+            "entrant1Id": 8055322,
+            "entrant2Id": 8283248,
+            "entrant1Name": "S2J",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8055322,
+            "loserId": 8283248,
+            "winnerName": "S2J",
+            "loserName": "NoFluxes",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 41042955,
+            "entrant1Id": 8055322,
+            "entrant2Id": 8084643,
+            "entrant1Name": "S2J",
+            "entrant2Name": "Joey Donuts",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8055322,
+            "loserId": 8084643,
+            "winnerName": "S2J",
+            "loserName": "Joey Donuts",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 184637,
+                    "playerTag": "Joey Donuts"
+                }
+            ]
+        },
+        {
+            "id": 41020696,
+            "entrant1Id": 8055322,
+            "entrant2Id": 8277279,
+            "entrant1Name": "S2J",
+            "entrant2Name": "Silk | Den",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8055322,
+            "loserId": 8277279,
+            "winnerName": "S2J",
+            "loserName": "Silk | Den",
+            "bracketName": "Pools",
+            "bracketId": 1514940,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 9884,
+                    "playerTag": "Den"
+                }
+            ]
+        },
+        {
+            "id": 41020692,
+            "entrant1Id": 8055322,
+            "entrant2Id": 7706164,
+            "entrant1Name": "S2J",
+            "entrant2Name": "Bombchu",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8055322,
+            "loserId": 7706164,
+            "winnerName": "S2J",
+            "loserName": "Bombchu",
+            "bracketName": "Pools",
+            "bracketId": 1514940,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 57712,
+                    "playerTag": "Bombchu"
+                }
+            ]
+        },
+        {
+            "id": 41020684,
+            "entrant1Id": 8055322,
+            "entrant2Id": 7604680,
+            "entrant1Name": "S2J",
+            "entrant2Name": "Jampy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8055322,
+            "loserId": 7604680,
+            "winnerName": "S2J",
+            "loserName": "Jampy",
+            "bracketName": "Pools",
+            "bracketId": 1514940,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26154,
+                    "playerTag": "Jampy"
+                }
+            ]
+        },
+        {
+            "id": 41711547,
+            "entrant1Id": 8552191,
+            "entrant2Id": 8552198,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "bc | S2J",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552191,
+            "loserId": 8552198,
+            "winnerName": "CLG | SFAT",
+            "loserName": "bc | S2J",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ]
+        },
+        {
+            "id": 41711578,
+            "entrant1Id": 8552198,
+            "entrant2Id": 8552213,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552213,
+            "loserId": 8552198,
+            "winnerName": "Fiction",
+            "loserName": "bc | S2J",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 41711545,
+            "entrant1Id": 8552198,
+            "entrant2Id": 8552205,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "Kalamazhu",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552198,
+            "loserId": 8552205,
+            "winnerName": "bc | S2J",
+            "loserName": "Kalamazhu",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ]
+        },
+        {
+            "id": 41664951,
+            "entrant1Id": 8552198,
+            "entrant2Id": 8552210,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "Albert",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552198,
+            "loserId": 8552210,
+            "winnerName": "bc | S2J",
+            "loserName": "Albert",
+            "bracketName": "Group Stage",
+            "bracketId": 1603215,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ]
+        },
+        {
+            "id": 41664949,
+            "entrant1Id": 8552198,
+            "entrant2Id": 8552229,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "Aura",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552198,
+            "loserId": 8552229,
+            "winnerName": "bc | S2J",
+            "loserName": "Aura",
+            "bracketName": "Group Stage",
+            "bracketId": 1603215,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46349,
+                    "playerTag": "Aura"
+                }
+            ]
+        },
+        {
+            "id": 41664947,
+            "entrant1Id": 8552198,
+            "entrant2Id": 8578575,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "SD | Android 0",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552198,
+            "loserId": 8578575,
+            "winnerName": "bc | S2J",
+            "loserName": "SD | Android 0",
+            "bracketName": "Group Stage",
+            "bracketId": 1603215,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ]
+        },
+        {
+            "id": 42188599,
+            "entrant1Id": 8688721,
+            "entrant2Id": 8708425,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "bc | S2J",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8688721,
+            "loserId": 8708425,
+            "winnerName": "Fiction",
+            "loserName": "bc | S2J",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ]
+        },
+        {
+            "id": 42188343,
+            "entrant1Id": 8708425,
+            "entrant2Id": 8708504,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "Mango's Friend | Lucky",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8708504,
+            "loserId": 8708425,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "bc | S2J",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ]
+        },
+        {
+            "id": 42188596,
+            "entrant1Id": 8708425,
+            "entrant2Id": 8704909,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "Blassy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8708425,
+            "loserId": 8704909,
+            "winnerName": "bc | S2J",
+            "loserName": "Blassy",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 173937,
+                    "playerTag": "Blassy"
+                }
+            ]
+        },
+        {
+            "id": 42188336,
+            "entrant1Id": 8708425,
+            "entrant2Id": 8696259,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "Ringler",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8708425,
+            "loserId": 8696259,
+            "winnerName": "bc | S2J",
+            "loserName": "Ringler",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ]
+        },
+        {
+            "id": 42188322,
+            "entrant1Id": 8708425,
+            "entrant2Id": 8695744,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "119 | Velparia Fan",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8708425,
+            "loserId": 8695744,
+            "winnerName": "bc | S2J",
+            "loserName": "119 | Velparia Fan",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21405,
+                    "playerTag": "Fire"
+                }
+            ]
+        },
+        {
+            "id": 42188294,
+            "entrant1Id": 8708425,
+            "entrant2Id": 8705393,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "y0sami",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8708425,
+            "loserId": 8705393,
+            "winnerName": "bc | S2J",
+            "loserName": "y0sami",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 14358,
+                    "playerTag": "y0sami"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "palpa",
+        "zamu",
+        "nofluxes",
+        "kalamazhu",
+        "albert",
+        "aura",
+        "android 0",
+        "ringler",
+        "fizz",
+        "n0ne/ bond / wizzyfan109",
+        "lucky",
+        "null"
+    ],
+    "L": [
+        "gahtzu",
+        "sfop",
+        "sfat",
+        "fiction",
+        "fiction",
+        "lucky",
+        "hungrybox",
+        "sfat"
+    ]
+}

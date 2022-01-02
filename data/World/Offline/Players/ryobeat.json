@@ -1,0 +1,239 @@
+{
+    "MPGR": 73,
+    "Events": [
+        593246
+    ],
+    "Sets": [
+        {
+            "id": 39491875,
+            "entrant1Id": 7713533,
+            "entrant2Id": 7722044,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "GST | Ryobeat",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7713533,
+            "loserId": 7722044,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "GST | Ryobeat",
+            "bracketName": "Top 24",
+            "bracketId": 1528580,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4748,
+                    "playerTag": "Ryobeat"
+                }
+            ]
+        },
+        {
+            "id": 39491939,
+            "entrant1Id": 7722044,
+            "entrant2Id": 7994446,
+            "entrant1Name": "GST | Ryobeat",
+            "entrant2Name": "TheSWOOPER",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7994446,
+            "loserId": 7722044,
+            "winnerName": "TheSWOOPER",
+            "loserName": "GST | Ryobeat",
+            "bracketName": "Top 24",
+            "bracketId": 1528580,
+            "entrant1Players": [
+                {
+                    "playerId": 4748,
+                    "playerTag": "Ryobeat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50606,
+                    "playerTag": "TheSWOOPER"
+                }
+            ]
+        },
+        {
+            "id": 39491874,
+            "entrant1Id": 7994446,
+            "entrant2Id": 7722044,
+            "entrant1Name": "TheSWOOPER",
+            "entrant2Name": "GST | Ryobeat",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7722044,
+            "loserId": 7994446,
+            "winnerName": "GST | Ryobeat",
+            "loserName": "TheSWOOPER",
+            "bracketName": "Top 24",
+            "bracketId": 1528580,
+            "entrant1Players": [
+                {
+                    "playerId": 50606,
+                    "playerTag": "TheSWOOPER"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4748,
+                    "playerTag": "Ryobeat"
+                }
+            ]
+        },
+        {
+            "id": 39491872,
+            "entrant1Id": 7722044,
+            "entrant2Id": 7914433,
+            "entrant1Name": "GST | Ryobeat",
+            "entrant2Name": "PUP | Dimension",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7722044,
+            "loserId": 7914433,
+            "winnerName": "GST | Ryobeat",
+            "loserName": "PUP | Dimension",
+            "bracketName": "Top 24",
+            "bracketId": 1528580,
+            "entrant1Players": [
+                {
+                    "playerId": 4748,
+                    "playerTag": "Ryobeat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 587072,
+                    "playerTag": "Dimension"
+                }
+            ]
+        },
+        {
+            "id": 39482648,
+            "entrant1Id": 7722044,
+            "entrant2Id": 7722314,
+            "entrant1Name": "GST | Ryobeat",
+            "entrant2Name": "Kikoho",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7722044,
+            "loserId": 7722314,
+            "winnerName": "GST | Ryobeat",
+            "loserName": "Kikoho",
+            "bracketName": "Pools",
+            "bracketId": 1528578,
+            "entrant1Players": [
+                {
+                    "playerId": 4748,
+                    "playerTag": "Ryobeat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 288009,
+                    "playerTag": "Kikoho"
+                }
+            ]
+        },
+        {
+            "id": 39482644,
+            "entrant1Id": 7722044,
+            "entrant2Id": 7713427,
+            "entrant1Name": "GST | Ryobeat",
+            "entrant2Name": "VLC | meep",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7722044,
+            "loserId": 7713427,
+            "winnerName": "GST | Ryobeat",
+            "loserName": "VLC | meep",
+            "bracketName": "Pools",
+            "bracketId": 1528578,
+            "entrant1Players": [
+                {
+                    "playerId": 4748,
+                    "playerTag": "Ryobeat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 270146,
+                    "playerTag": "meep"
+                }
+            ]
+        },
+        {
+            "id": 39482644,
+            "entrant1Id": 7722044,
+            "entrant2Id": 7713427,
+            "entrant1Name": "GST | Ryobeat",
+            "entrant2Name": "VLC | meep",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7722044,
+            "loserId": 7713427,
+            "winnerName": "GST | Ryobeat",
+            "loserName": "VLC | meep",
+            "bracketName": "Pools",
+            "bracketId": 1528578,
+            "entrant1Players": [
+                {
+                    "playerId": 4748,
+                    "playerTag": "Ryobeat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 270146,
+                    "playerTag": "meep"
+                }
+            ]
+        },
+        {
+            "id": 39482636,
+            "entrant1Id": 7722044,
+            "entrant2Id": 8003394,
+            "entrant1Name": "GST | Ryobeat",
+            "entrant2Name": "MP | Skib",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7722044,
+            "loserId": 8003394,
+            "winnerName": "GST | Ryobeat",
+            "loserName": "MP | Skib",
+            "bracketName": "Pools",
+            "bracketId": 1528578,
+            "entrant1Players": [
+                {
+                    "playerId": 4748,
+                    "playerTag": "Ryobeat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23058,
+                    "playerTag": "Skib"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "theswooper"
+    ],
+    "L": [
+        "warmmer",
+        "theswooper"
+    ]
+}

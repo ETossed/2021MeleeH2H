@@ -1,0 +1,504 @@
+{
+    "MPGR": 16,
+    "Events": [
+        644621,
+        554625
+    ],
+    "Sets": [
+        {
+            "id": 43289125,
+            "entrant1Id": 8712496,
+            "entrant2Id": 8712529,
+            "entrant1Name": "Trif",
+            "entrant2Name": "Polish",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712529,
+            "loserId": 8712496,
+            "winnerName": "Polish",
+            "loserName": "Trif",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ]
+        },
+        {
+            "id": 43289123,
+            "entrant1Id": 8774627,
+            "entrant2Id": 8712496,
+            "entrant1Name": "aMSa",
+            "entrant2Name": "Trif",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712496,
+            "loserId": 8774627,
+            "winnerName": "Trif",
+            "loserName": "aMSa",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 1021,
+                    "playerTag": "aMSa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ]
+        },
+        {
+            "id": 43289121,
+            "entrant1Id": 8701092,
+            "entrant2Id": 8712496,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "Trif",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712496,
+            "loserId": 8701092,
+            "winnerName": "Trif",
+            "loserName": "Faceroll",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ]
+        },
+        {
+            "id": 43289056,
+            "entrant1Id": 8849885,
+            "entrant2Id": 8712496,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "Trif",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8849885,
+            "loserId": 8712496,
+            "winnerName": "Wizzrobe",
+            "loserName": "Trif",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ]
+        },
+        {
+            "id": 43289118,
+            "entrant1Id": 8712496,
+            "entrant2Id": 8712536,
+            "entrant1Name": "Trif",
+            "entrant2Name": "Aklo",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712496,
+            "loserId": 8712536,
+            "winnerName": "Trif",
+            "loserName": "Aklo",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ]
+        },
+        {
+            "id": 43224433,
+            "entrant1Id": 8712496,
+            "entrant2Id": 8701092,
+            "entrant1Name": "Trif",
+            "entrant2Name": "Faceroll",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712496,
+            "loserId": 8701092,
+            "winnerName": "Trif",
+            "loserName": "Faceroll",
+            "bracketName": "Group Stage",
+            "bracketId": 1635975,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 43224431,
+            "entrant1Id": 8712496,
+            "entrant2Id": 8774880,
+            "entrant1Name": "Trif",
+            "entrant2Name": "Sora/Joshman",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712496,
+            "loserId": 8774880,
+            "winnerName": "Trif",
+            "loserName": "Sora/Joshman",
+            "bracketName": "Group Stage",
+            "bracketId": 1635975,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 43224429,
+            "entrant1Id": 8712496,
+            "entrant2Id": 8955030,
+            "entrant1Name": "Trif",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712496,
+            "loserId": 8955030,
+            "winnerName": "Trif",
+            "loserName": "IMP | Ben",
+            "bracketName": "Group Stage",
+            "bracketId": 1635975,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 43224427,
+            "entrant1Id": 8712496,
+            "entrant2Id": 8892143,
+            "entrant1Name": "Trif",
+            "entrant2Name": "Axe",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712496,
+            "loserId": 8892143,
+            "winnerName": "Trif",
+            "loserName": "Axe",
+            "bracketName": "Group Stage",
+            "bracketId": 1635975,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 41697216,
+            "entrant1Id": 8552768,
+            "entrant2Id": 8552770,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "PS | Trif",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552768,
+            "loserId": 8552770,
+            "winnerName": "TSM | Leffen",
+            "loserName": "PS | Trif",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ]
+        },
+        {
+            "id": 41697215,
+            "entrant1Id": 8552768,
+            "entrant2Id": 8552770,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "PS | Trif",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552768,
+            "loserId": 8552770,
+            "winnerName": "TSM | Leffen",
+            "loserName": "PS | Trif",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ]
+        },
+        {
+            "id": 41697247,
+            "entrant1Id": 8552770,
+            "entrant2Id": 8552784,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "PS | Pipsqueak",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552770,
+            "loserId": 8552784,
+            "winnerName": "PS | Trif",
+            "loserName": "PS | Pipsqueak",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 41697214,
+            "entrant1Id": 8552770,
+            "entrant2Id": 8552778,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552770,
+            "loserId": 8552778,
+            "winnerName": "PS | Trif",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 41697211,
+            "entrant1Id": 8552770,
+            "entrant2Id": 8552804,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "Jah Ridin'",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552770,
+            "loserId": 8552804,
+            "winnerName": "PS | Trif",
+            "loserName": "Jah Ridin'",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5377,
+                    "playerTag": "Jah Ridin'"
+                }
+            ]
+        },
+        {
+            "id": 41634295,
+            "entrant1Id": 8552770,
+            "entrant2Id": 8552803,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "PS | Nicki",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552770,
+            "loserId": 8552803,
+            "winnerName": "PS | Trif",
+            "loserName": "PS | Nicki",
+            "bracketName": "Group Stage",
+            "bracketId": 1603241,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ]
+        },
+        {
+            "id": 41634293,
+            "entrant1Id": 8552770,
+            "entrant2Id": 8552806,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552770,
+            "loserId": 8552806,
+            "winnerName": "PS | Trif",
+            "loserName": "Meady",
+            "bracketName": "Group Stage",
+            "bracketId": 1603241,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        },
+        {
+            "id": 41634291,
+            "entrant1Id": 8552770,
+            "entrant2Id": 8558916,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "Fat Tino",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552770,
+            "loserId": 8558916,
+            "winnerName": "PS | Trif",
+            "loserName": "Fat Tino",
+            "bracketName": "Group Stage",
+            "bracketId": 1603241,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 667216,
+                    "playerTag": "Fat Tino"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "amsa",
+        "faceroll",
+        "aklo",
+        "faceroll",
+        "sora/joshman",
+        "ben",
+        "axe",
+        "pipsqueak",
+        "frenzy",
+        "jah ridin'",
+        "nicki"
+    ],
+    "L": [
+        "polish",
+        "wizzrobe",
+        "leffen",
+        "leffen"
+    ]
+}

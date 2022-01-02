@@ -1,0 +1,1053 @@
+{
+    "MPGR": 8,
+    "Events": [
+        596002,
+        644621,
+        573828,
+        554629
+    ],
+    "Sets": [
+        {
+            "id": 38962583,
+            "entrant1Id": 7731707,
+            "entrant2Id": 7731696,
+            "entrant1Name": "Panda RB | Plup",
+            "entrant2Name": "C9 | Mang0",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731696,
+            "loserId": 7731707,
+            "winnerName": "C9 | Mang0",
+            "loserName": "Panda RB | Plup",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1000,
+                    "playerTag": "Mang0"
+                }
+            ]
+        },
+        {
+            "id": 38962550,
+            "entrant1Id": 7731686,
+            "entrant2Id": 7731707,
+            "entrant1Name": "Zain",
+            "entrant2Name": "Panda RB | Plup",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7731686,
+            "loserId": 7731707,
+            "winnerName": "Zain",
+            "loserName": "Panda RB | Plup",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ]
+        },
+        {
+            "id": 38962581,
+            "entrant1Id": 7731707,
+            "entrant2Id": 7731742,
+            "entrant1Name": "Panda RB | Plup",
+            "entrant2Name": "Envy | Wizzrobe",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7731707,
+            "loserId": 7731742,
+            "winnerName": "Panda RB | Plup",
+            "loserName": "Envy | Wizzrobe",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ]
+        },
+        {
+            "id": 38962547,
+            "entrant1Id": 7731707,
+            "entrant2Id": 7731696,
+            "entrant1Name": "Panda RB | Plup",
+            "entrant2Name": "C9 | Mang0",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7731707,
+            "loserId": 7731696,
+            "winnerName": "Panda RB | Plup",
+            "loserName": "C9 | Mang0",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1000,
+                    "playerTag": "Mang0"
+                }
+            ]
+        },
+        {
+            "id": 38946518,
+            "entrant1Id": 7731707,
+            "entrant2Id": 7754567,
+            "entrant1Name": "Panda RB | Plup",
+            "entrant2Name": "KoDoRiN",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7731707,
+            "loserId": 7754567,
+            "winnerName": "Panda RB | Plup",
+            "loserName": "KoDoRiN",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1534194,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 38888200,
+            "entrant1Id": 7731718,
+            "entrant2Id": 7731707,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Panda RB | Plup",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731707,
+            "loserId": 7731718,
+            "winnerName": "Panda RB | Plup",
+            "loserName": "Panda | iBDW",
+            "bracketName": "Group Stage",
+            "bracketId": 1534198,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ]
+        },
+        {
+            "id": 38888199,
+            "entrant1Id": 7731735,
+            "entrant2Id": 7731707,
+            "entrant1Name": "Tempo | Axe",
+            "entrant2Name": "Panda RB | Plup",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731707,
+            "loserId": 7731735,
+            "winnerName": "Panda RB | Plup",
+            "loserName": "Tempo | Axe",
+            "bracketName": "Group Stage",
+            "bracketId": 1534198,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ]
+        },
+        {
+            "id": 38888197,
+            "entrant1Id": 7731707,
+            "entrant2Id": 7731744,
+            "entrant1Name": "Panda RB | Plup",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7731707,
+            "loserId": 7731744,
+            "winnerName": "Panda RB | Plup",
+            "loserName": "2saint",
+            "bracketName": "Group Stage",
+            "bracketId": 1534198,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 43289063,
+            "entrant1Id": 8712510,
+            "entrant2Id": 8849885,
+            "entrant1Name": "Plup",
+            "entrant2Name": "Wizzrobe",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712510,
+            "loserId": 8849885,
+            "winnerName": "Plup",
+            "loserName": "Wizzrobe",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ]
+        },
+        {
+            "id": 43289062,
+            "entrant1Id": 8849885,
+            "entrant2Id": 8712510,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "Plup",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712510,
+            "loserId": 8849885,
+            "winnerName": "Plup",
+            "loserName": "Wizzrobe",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ]
+        },
+        {
+            "id": 43289061,
+            "entrant1Id": 8712510,
+            "entrant2Id": 8774627,
+            "entrant1Name": "Plup",
+            "entrant2Name": "aMSa",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712510,
+            "loserId": 8774627,
+            "winnerName": "Plup",
+            "loserName": "aMSa",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1021,
+                    "playerTag": "aMSa"
+                }
+            ]
+        },
+        {
+            "id": 43289058,
+            "entrant1Id": 8712510,
+            "entrant2Id": 8712497,
+            "entrant1Name": "Plup",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712510,
+            "loserId": 8712497,
+            "winnerName": "Plup",
+            "loserName": "Pipsqueak",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 43219486,
+            "entrant1Id": 8712510,
+            "entrant2Id": 8712536,
+            "entrant1Name": "Plup",
+            "entrant2Name": "Aklo",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712510,
+            "loserId": 8712536,
+            "winnerName": "Plup",
+            "loserName": "Aklo",
+            "bracketName": "Group Stage",
+            "bracketId": 1635969,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ]
+        },
+        {
+            "id": 43219484,
+            "entrant1Id": 8712510,
+            "entrant2Id": 8712504,
+            "entrant1Name": "Plup",
+            "entrant2Name": "Ice",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8712510,
+            "loserId": 8712504,
+            "winnerName": "Plup",
+            "loserName": "Ice",
+            "bracketName": "Group Stage",
+            "bracketId": 1635969,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 43219482,
+            "entrant1Id": 8712510,
+            "entrant2Id": 8849874,
+            "entrant1Name": "Plup",
+            "entrant2Name": "Shippu",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712510,
+            "loserId": 8849874,
+            "winnerName": "Plup",
+            "loserName": "Shippu",
+            "bracketName": "Group Stage",
+            "bracketId": 1635969,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250683,
+                    "playerTag": "Shippu"
+                }
+            ]
+        },
+        {
+            "id": 43219480,
+            "entrant1Id": 8712510,
+            "entrant2Id": 8892149,
+            "entrant1Name": "Plup",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712510,
+            "loserId": 8892149,
+            "winnerName": "Plup",
+            "loserName": "LG | Ginger",
+            "bracketName": "Group Stage",
+            "bracketId": 1635969,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 40465075,
+            "entrant1Id": 7471573,
+            "entrant2Id": 7469671,
+            "entrant1Name": "iBDW",
+            "entrant2Name": "Panda | Plup",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7471573,
+            "loserId": 7469671,
+            "winnerName": "iBDW",
+            "loserName": "Panda | Plup",
+            "bracketName": "Top 8",
+            "bracketId": 1547386,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ]
+        },
+        {
+            "id": 40465074,
+            "entrant1Id": 7471573,
+            "entrant2Id": 7469671,
+            "entrant1Name": "iBDW",
+            "entrant2Name": "Panda | Plup",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7471573,
+            "loserId": 7469671,
+            "winnerName": "iBDW",
+            "loserName": "Panda | Plup",
+            "bracketName": "Top 8",
+            "bracketId": 1547386,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ]
+        },
+        {
+            "id": 40465090,
+            "entrant1Id": 7469671,
+            "entrant2Id": 7469532,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "Hungrybox",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7469671,
+            "loserId": 7469532,
+            "winnerName": "Panda | Plup",
+            "loserName": "Hungrybox",
+            "bracketName": "Top 8",
+            "bracketId": 1547386,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 40465073,
+            "entrant1Id": 7469671,
+            "entrant2Id": 7485834,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7469671,
+            "loserId": 7485834,
+            "winnerName": "Panda | Plup",
+            "loserName": "SFAT",
+            "bracketName": "Top 8",
+            "bracketId": 1547386,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 40442105,
+            "entrant1Id": 7469671,
+            "entrant2Id": 7484614,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "KoDoRiN",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7469671,
+            "loserId": 7484614,
+            "winnerName": "Panda | Plup",
+            "loserName": "KoDoRiN",
+            "bracketName": "Top 24",
+            "bracketId": 1547390,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 40427578,
+            "entrant1Id": 7469671,
+            "entrant2Id": 7471538,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "Juicebox",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7469671,
+            "loserId": 7471538,
+            "winnerName": "Panda | Plup",
+            "loserName": "Juicebox",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547387,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6304,
+                    "playerTag": "Juicebox"
+                }
+            ]
+        },
+        {
+            "id": 40427574,
+            "entrant1Id": 7469671,
+            "entrant2Id": 7484205,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "Reeve",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7469671,
+            "loserId": 7484205,
+            "winnerName": "Panda | Plup",
+            "loserName": "Reeve",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547387,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7103,
+                    "playerTag": "Reeve"
+                }
+            ]
+        },
+        {
+            "id": 40427566,
+            "entrant1Id": 7469671,
+            "entrant2Id": 7485230,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "Gooms",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7469671,
+            "loserId": 7485230,
+            "winnerName": "Panda | Plup",
+            "loserName": "Gooms",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547387,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 18840,
+                    "playerTag": "Gooms"
+                }
+            ]
+        },
+        {
+            "id": 40425637,
+            "entrant1Id": 7469671,
+            "entrant2Id": 7484564,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "YokaiNels",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7469671,
+            "loserId": 7484564,
+            "winnerName": "Panda | Plup",
+            "loserName": "YokaiNels",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547321,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 810425,
+                    "playerTag": "YokaiNels"
+                }
+            ]
+        },
+        {
+            "id": 40425635,
+            "entrant1Id": 7469671,
+            "entrant2Id": 7485359,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "rotisseriedeluxe",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7469671,
+            "loserId": 7485359,
+            "winnerName": "Panda | Plup",
+            "loserName": "rotisseriedeluxe",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547321,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 244858,
+                    "playerTag": "rotisseriedeluxe"
+                }
+            ]
+        },
+        {
+            "id": 40425631,
+            "entrant1Id": 7469671,
+            "entrant2Id": 7534243,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "Nudepenguin",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7469671,
+            "loserId": 7534243,
+            "winnerName": "Panda | Plup",
+            "loserName": "Nudepenguin",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547321,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2029884,
+                    "playerTag": "Nudepenguin"
+                }
+            ]
+        },
+        {
+            "id": 41711549,
+            "entrant1Id": 8552191,
+            "entrant2Id": 8552184,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Panda | Plup",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552184,
+            "loserId": 8552191,
+            "winnerName": "Panda | Plup",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ]
+        },
+        {
+            "id": 41711550,
+            "entrant1Id": 8552184,
+            "entrant2Id": 8552191,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552184,
+            "loserId": 8552191,
+            "winnerName": "Panda | Plup",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 41711548,
+            "entrant1Id": 8552184,
+            "entrant2Id": 8552191,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552191,
+            "loserId": 8552184,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Panda | Plup",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 41711580,
+            "entrant1Id": 8552184,
+            "entrant2Id": 8552216,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "Captain Faceroll",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552184,
+            "loserId": 8552216,
+            "winnerName": "Panda | Plup",
+            "loserName": "Captain Faceroll",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 41711546,
+            "entrant1Id": 8552184,
+            "entrant2Id": 8552204,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "MF | KoDoRiN",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552184,
+            "loserId": 8552204,
+            "winnerName": "Panda | Plup",
+            "loserName": "MF | KoDoRiN",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 41711542,
+            "entrant1Id": 8552184,
+            "entrant2Id": 8552213,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552184,
+            "loserId": 8552213,
+            "winnerName": "Panda | Plup",
+            "loserName": "Fiction",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 41680476,
+            "entrant1Id": 8552184,
+            "entrant2Id": 8552216,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "Captain Faceroll",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552184,
+            "loserId": 8552216,
+            "winnerName": "Panda | Plup",
+            "loserName": "Captain Faceroll",
+            "bracketName": "Group Stage",
+            "bracketId": 1452632,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 41680474,
+            "entrant1Id": 8552184,
+            "entrant2Id": 8552220,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "Medz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552184,
+            "loserId": 8552220,
+            "winnerName": "Panda | Plup",
+            "loserName": "Medz",
+            "bracketName": "Group Stage",
+            "bracketId": 1452632,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40476,
+                    "playerTag": "Medz"
+                }
+            ]
+        },
+        {
+            "id": 41680472,
+            "entrant1Id": 8552184,
+            "entrant2Id": 8552235,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "billybopeep",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552184,
+            "loserId": 8552235,
+            "winnerName": "Panda | Plup",
+            "loserName": "billybopeep",
+            "bracketName": "Group Stage",
+            "bracketId": 1452632,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 135157,
+                    "playerTag": "billybopeep"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "wizzrobe",
+        "mang0",
+        "kodorin",
+        "ibdw",
+        "axe",
+        "2saint",
+        "wizzrobe",
+        "wizzrobe",
+        "amsa",
+        "pipsqueak",
+        "aklo",
+        "ice",
+        "ginger",
+        "hungrybox",
+        "sfat",
+        "kodorin",
+        "juicebox",
+        "sfat",
+        "sfat",
+        "faceroll",
+        "kodorin",
+        "fiction",
+        "faceroll",
+        "medz",
+        "billybopeep"
+    ],
+    "L": [
+        "mang0",
+        "zain",
+        "ibdw",
+        "ibdw",
+        "sfat"
+    ]
+}

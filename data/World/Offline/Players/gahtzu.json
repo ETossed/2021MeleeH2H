@@ -1,0 +1,823 @@
+{
+    "MPGR": 36,
+    "Events": [
+        644621,
+        573828,
+        585641,
+        554630,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 43219528,
+            "entrant1Id": 8774627,
+            "entrant2Id": 8712537,
+            "entrant1Name": "aMSa",
+            "entrant2Name": "Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8774627,
+            "loserId": 8712537,
+            "winnerName": "aMSa",
+            "loserName": "Gahtzu",
+            "bracketName": "Group Stage",
+            "bracketId": 1635970,
+            "entrant1Players": [
+                {
+                    "playerId": 1021,
+                    "playerTag": "aMSa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 43219527,
+            "entrant1Id": 8892148,
+            "entrant2Id": 8712537,
+            "entrant1Name": "Jmook",
+            "entrant2Name": "Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8892148,
+            "loserId": 8712537,
+            "winnerName": "Jmook",
+            "loserName": "Gahtzu",
+            "bracketName": "Group Stage",
+            "bracketId": 1635970,
+            "entrant1Players": [
+                {
+                    "playerId": 16105,
+                    "playerTag": "Jmook"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 43219525,
+            "entrant1Id": 8712524,
+            "entrant2Id": 8712537,
+            "entrant1Name": "Kalamazhu",
+            "entrant2Name": "Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712524,
+            "loserId": 8712537,
+            "winnerName": "Kalamazhu",
+            "loserName": "Gahtzu",
+            "bracketName": "Group Stage",
+            "bracketId": 1635970,
+            "entrant1Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 43219523,
+            "entrant1Id": 8712537,
+            "entrant2Id": 8849886,
+            "entrant1Name": "Gahtzu",
+            "entrant2Name": "Far!",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712537,
+            "loserId": 8849886,
+            "winnerName": "Gahtzu",
+            "loserName": "Far!",
+            "bracketName": "Group Stage",
+            "bracketId": 1635970,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 132537,
+                    "playerTag": "Far!"
+                }
+            ]
+        },
+        {
+            "id": 40442136,
+            "entrant1Id": 7484614,
+            "entrant2Id": 7484386,
+            "entrant1Name": "KoDoRiN",
+            "entrant2Name": "20GX | Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7484614,
+            "loserId": 7484386,
+            "winnerName": "KoDoRiN",
+            "loserName": "20GX | Gahtzu",
+            "bracketName": "Top 24",
+            "bracketId": 1547390,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 40442134,
+            "entrant1Id": 7484386,
+            "entrant2Id": 7481712,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "lloD",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484386,
+            "loserId": 7481712,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "lloD",
+            "bracketName": "Top 24",
+            "bracketId": 1547390,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ]
+        },
+        {
+            "id": 40442130,
+            "entrant1Id": 7484386,
+            "entrant2Id": 7533833,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "Chem",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484386,
+            "loserId": 7533833,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "Chem",
+            "bracketName": "Top 24",
+            "bracketId": 1547390,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 709843,
+                    "playerTag": "Chem"
+                }
+            ]
+        },
+        {
+            "id": 40435612,
+            "entrant1Id": 7485834,
+            "entrant2Id": 7484386,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "20GX | Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7485834,
+            "loserId": 7484386,
+            "winnerName": "SFAT",
+            "loserName": "20GX | Gahtzu",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547388,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 40435610,
+            "entrant1Id": 7484386,
+            "entrant2Id": 7484625,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "The Leaf",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484386,
+            "loserId": 7484625,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "The Leaf",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547388,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10529,
+                    "playerTag": "The Leaf"
+                }
+            ]
+        },
+        {
+            "id": 40435605,
+            "entrant1Id": 7484386,
+            "entrant2Id": 7484916,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "Sirmeris",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484386,
+            "loserId": 7484916,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "Sirmeris",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547388,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 53239,
+                    "playerTag": "Sirmeris"
+                }
+            ]
+        },
+        {
+            "id": 40433303,
+            "entrant1Id": 7484386,
+            "entrant2Id": 7484168,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "lexor",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484386,
+            "loserId": 7484168,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "lexor",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547330,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 225038,
+                    "playerTag": "lexor"
+                }
+            ]
+        },
+        {
+            "id": 40433301,
+            "entrant1Id": 7484386,
+            "entrant2Id": 7484666,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "Tips",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484386,
+            "loserId": 7484666,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "Tips",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547330,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 156234,
+                    "playerTag": "Tips"
+                }
+            ]
+        },
+        {
+            "id": 41085356,
+            "entrant1Id": 8352241,
+            "entrant2Id": 8186741,
+            "entrant1Name": "bc | Magi",
+            "entrant2Name": "20GX | Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8352241,
+            "loserId": 8186741,
+            "winnerName": "bc | Magi",
+            "loserName": "20GX | Gahtzu",
+            "bracketName": "Top 8",
+            "bracketId": 1583001,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 41085354,
+            "entrant1Id": 8186741,
+            "entrant2Id": 8055322,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "S2J",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8186741,
+            "loserId": 8055322,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "S2J",
+            "bracketName": "Top 8",
+            "bracketId": 1583001,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ]
+        },
+        {
+            "id": 41057056,
+            "entrant1Id": 7644427,
+            "entrant2Id": 8186741,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "20GX | Gahtzu",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8186741,
+            "loserId": 7644427,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "bobby big ballz",
+            "bracketName": "Top 16",
+            "bracketId": 1583000,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 41057052,
+            "entrant1Id": 8195589,
+            "entrant2Id": 8186741,
+            "entrant1Name": "ALP",
+            "entrant2Name": "20GX | Gahtzu",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8186741,
+            "loserId": 8195589,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "ALP",
+            "bracketName": "Top 16",
+            "bracketId": 1583000,
+            "entrant1Players": [
+                {
+                    "playerId": 10745,
+                    "playerTag": "ALP"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 41042974,
+            "entrant1Id": 8186741,
+            "entrant2Id": 8349340,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "NOT S2J | SDJ",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8349340,
+            "loserId": 8186741,
+            "winnerName": "NOT S2J | SDJ",
+            "loserName": "20GX | Gahtzu",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 325974,
+                    "playerTag": "SDJ"
+                }
+            ]
+        },
+        {
+            "id": 41043092,
+            "entrant1Id": 8186741,
+            "entrant2Id": 8209405,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "Mango's Friend | Lucky",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8186741,
+            "loserId": 8209405,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "Mango's Friend | Lucky",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ]
+        },
+        {
+            "id": 41042961,
+            "entrant1Id": 8186741,
+            "entrant2Id": 8250181,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "Lowercase hero",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8186741,
+            "loserId": 8250181,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "Lowercase hero",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 253048,
+                    "playerTag": "Lowercase hero"
+                }
+            ]
+        },
+        {
+            "id": 41032687,
+            "entrant1Id": 8186741,
+            "entrant2Id": 7616259,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "Maximus",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8186741,
+            "loserId": 7616259,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "Maximus",
+            "bracketName": "Pools",
+            "bracketId": 1583005,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27189,
+                    "playerTag": "Maximus"
+                }
+            ]
+        },
+        {
+            "id": 41032683,
+            "entrant1Id": 8186741,
+            "entrant2Id": 8329108,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "leechy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8186741,
+            "loserId": 8329108,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "leechy",
+            "bracketName": "Pools",
+            "bracketId": 1583005,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2254309,
+                    "playerTag": "leechy"
+                }
+            ]
+        },
+        {
+            "id": 41032675,
+            "entrant1Id": 8186741,
+            "entrant2Id": 7604197,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "P2P | VORTA",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8186741,
+            "loserId": 7604197,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "P2P | VORTA",
+            "bracketName": "Pools",
+            "bracketId": 1583005,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261321,
+                    "playerTag": "VORTA"
+                }
+            ]
+        },
+        {
+            "id": 41934622,
+            "entrant1Id": 8575599,
+            "entrant2Id": 8575458,
+            "entrant1Name": "lloD",
+            "entrant2Name": "20GX | Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575599,
+            "loserId": 8575458,
+            "winnerName": "lloD",
+            "loserName": "20GX | Gahtzu",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 41934591,
+            "entrant1Id": 8575424,
+            "entrant2Id": 8575458,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "20GX | Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575424,
+            "loserId": 8575458,
+            "winnerName": "Panda | iBDW",
+            "loserName": "20GX | Gahtzu",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 41934619,
+            "entrant1Id": 8575458,
+            "entrant2Id": 8575584,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575458,
+            "loserId": 8575584,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "IMP | Ben",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 41885792,
+            "entrant1Id": 8575422,
+            "entrant2Id": 8575458,
+            "entrant1Name": "Zain",
+            "entrant2Name": "20GX | Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575422,
+            "loserId": 8575458,
+            "winnerName": "Zain",
+            "loserName": "20GX | Gahtzu",
+            "bracketName": "Group Stage",
+            "bracketId": 1452633,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 41885791,
+            "entrant1Id": 8575603,
+            "entrant2Id": 8575458,
+            "entrant1Name": "HSTV | Zamu",
+            "entrant2Name": "20GX | Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8575603,
+            "loserId": 8575458,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "20GX | Gahtzu",
+            "bracketName": "Group Stage",
+            "bracketId": 1452633,
+            "entrant1Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 41885789,
+            "entrant1Id": 8575458,
+            "entrant2Id": 8575466,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "Brotherhood|CM | Aklo",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575458,
+            "loserId": 8575466,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "Brotherhood|CM | Aklo",
+            "bracketName": "Group Stage",
+            "bracketId": 1452633,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "far!",
+        "llod",
+        "chem",
+        "s2j",
+        "bobby big ballz",
+        "lucky",
+        "ben",
+        "aklo",
+        "aura",
+        "far!"
+    ],
+    "L": [
+        "amsa",
+        "jmook",
+        "kalamazhu",
+        "kodorin",
+        "sfat",
+        "magi",
+        "sdj",
+        "llod",
+        "ibdw",
+        "zain",
+        "zamu",
+        "magi",
+        "kodorin"
+    ]
+}

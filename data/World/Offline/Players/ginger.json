@@ -1,0 +1,1346 @@
+{
+    "MPGR": 21,
+    "Events": [
+        635845,
+        644621,
+        573828,
+        585641,
+        598932,
+        554630,
+        606697,
+        633485,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 43130455,
+            "entrant1Id": 8879471,
+            "entrant2Id": 8879501,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8879471,
+            "loserId": 8879501,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "LG | Ginger",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 43130451,
+            "entrant1Id": 8879501,
+            "entrant2Id": 8879538,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "Mango's Friend | null",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8879501,
+            "loserId": 8879538,
+            "winnerName": "LG | Ginger",
+            "loserName": "Mango's Friend | null",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ]
+        },
+        {
+            "id": 43109181,
+            "entrant1Id": 8879473,
+            "entrant2Id": 8879501,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8879473,
+            "loserId": 8879501,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "LG | Ginger",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1637746,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 43102922,
+            "entrant1Id": 8879510,
+            "entrant2Id": 8879501,
+            "entrant1Name": "bc | Magi",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879501,
+            "loserId": 8879510,
+            "winnerName": "LG | Ginger",
+            "loserName": "bc | Magi",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1637746,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 43043524,
+            "entrant1Id": 8879501,
+            "entrant2Id": 8879525,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "MF | Sora/Joshman",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879525,
+            "loserId": 8879501,
+            "winnerName": "MF | Sora/Joshman",
+            "loserName": "LG | Ginger",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637736,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 43043521,
+            "entrant1Id": 8879464,
+            "entrant2Id": 8879501,
+            "entrant1Name": "Zain",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8879464,
+            "loserId": 8879501,
+            "winnerName": "Zain",
+            "loserName": "LG | Ginger",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637736,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 43043520,
+            "entrant1Id": 8879491,
+            "entrant2Id": 8879501,
+            "entrant1Name": "Fly | KoDoRiN",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8879491,
+            "loserId": 8879501,
+            "winnerName": "Fly | KoDoRiN",
+            "loserName": "LG | Ginger",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637736,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 43219487,
+            "entrant1Id": 8849874,
+            "entrant2Id": 8892149,
+            "entrant1Name": "Shippu",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8892149,
+            "loserId": 8849874,
+            "winnerName": "LG | Ginger",
+            "loserName": "Shippu",
+            "bracketName": "Group Stage",
+            "bracketId": 1635969,
+            "entrant1Players": [
+                {
+                    "playerId": 250683,
+                    "playerTag": "Shippu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 43219483,
+            "entrant1Id": 8892149,
+            "entrant2Id": 8712504,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "Ice",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8892149,
+            "loserId": 8712504,
+            "winnerName": "LG | Ginger",
+            "loserName": "Ice",
+            "bracketName": "Group Stage",
+            "bracketId": 1635969,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19573,
+                    "playerTag": "Ice"
+                }
+            ]
+        },
+        {
+            "id": 43219480,
+            "entrant1Id": 8712510,
+            "entrant2Id": 8892149,
+            "entrant1Name": "Plup",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712510,
+            "loserId": 8892149,
+            "winnerName": "Plup",
+            "loserName": "LG | Ginger",
+            "bracketName": "Group Stage",
+            "bracketId": 1635969,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 43219478,
+            "entrant1Id": 8712536,
+            "entrant2Id": 8892149,
+            "entrant1Name": "Aklo",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712536,
+            "loserId": 8892149,
+            "winnerName": "Aklo",
+            "loserName": "LG | Ginger",
+            "bracketName": "Group Stage",
+            "bracketId": 1635969,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 40442135,
+            "entrant1Id": 7471793,
+            "entrant2Id": 7484627,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "Smile Army :) | Flash",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7484627,
+            "loserId": 7471793,
+            "winnerName": "Smile Army :) | Flash",
+            "loserName": "LG | Ginger",
+            "bracketName": "Top 24",
+            "bracketId": 1547390,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 262701,
+                    "playerTag": "Flash"
+                }
+            ]
+        },
+        {
+            "id": 40442132,
+            "entrant1Id": 7471793,
+            "entrant2Id": 7471750,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "Drephen",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7471793,
+            "loserId": 7471750,
+            "winnerName": "LG | Ginger",
+            "loserName": "Drephen",
+            "bracketName": "Top 24",
+            "bracketId": 1547390,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6839,
+                    "playerTag": "Drephen"
+                }
+            ]
+        },
+        {
+            "id": 40427579,
+            "entrant1Id": 7471793,
+            "entrant2Id": 7484614,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "KoDoRiN",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7484614,
+            "loserId": 7471793,
+            "winnerName": "KoDoRiN",
+            "loserName": "LG | Ginger",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547387,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 40427576,
+            "entrant1Id": 7471793,
+            "entrant2Id": 7471204,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "CG | Zealot",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7471793,
+            "loserId": 7471204,
+            "winnerName": "LG | Ginger",
+            "loserName": "CG | Zealot",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547387,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ]
+        },
+        {
+            "id": 40427570,
+            "entrant1Id": 7471793,
+            "entrant2Id": 7484358,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "Preeminent",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7471793,
+            "loserId": 7484358,
+            "winnerName": "LG | Ginger",
+            "loserName": "Preeminent",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547387,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 318568,
+                    "playerTag": "Preeminent"
+                }
+            ]
+        },
+        {
+            "id": 40425844,
+            "entrant1Id": 7471793,
+            "entrant2Id": 7469542,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "CakeAssault",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471793,
+            "loserId": 7469542,
+            "winnerName": "LG | Ginger",
+            "loserName": "CakeAssault",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547326,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 64185,
+                    "playerTag": "CakeAssault"
+                }
+            ]
+        },
+        {
+            "id": 40425842,
+            "entrant1Id": 7471793,
+            "entrant2Id": 7484208,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "~20%",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471793,
+            "loserId": 7484208,
+            "winnerName": "LG | Ginger",
+            "loserName": "~20%",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547326,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5253,
+                    "playerTag": "~20%"
+                }
+            ]
+        },
+        {
+            "id": 40425838,
+            "entrant1Id": 7471793,
+            "entrant2Id": 7533999,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "tonto",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471793,
+            "loserId": 7533999,
+            "winnerName": "LG | Ginger",
+            "loserName": "tonto",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547326,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 551041,
+                    "playerTag": "tonto"
+                }
+            ]
+        },
+        {
+            "id": 41085343,
+            "entrant1Id": 8169709,
+            "entrant2Id": 7736134,
+            "entrant1Name": "Ginger",
+            "entrant2Name": "Tempo | Axe",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8169709,
+            "loserId": 7736134,
+            "winnerName": "Ginger",
+            "loserName": "Tempo | Axe",
+            "bracketName": "Top 8",
+            "bracketId": 1583001,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 41085342,
+            "entrant1Id": 8169709,
+            "entrant2Id": 7736134,
+            "entrant1Name": "Ginger",
+            "entrant2Name": "Tempo | Axe",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8169709,
+            "loserId": 7736134,
+            "winnerName": "Ginger",
+            "loserName": "Tempo | Axe",
+            "bracketName": "Top 8",
+            "bracketId": 1583001,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 41085340,
+            "entrant1Id": 8352241,
+            "entrant2Id": 8169709,
+            "entrant1Name": "bc | Magi",
+            "entrant2Name": "Ginger",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8169709,
+            "loserId": 8352241,
+            "winnerName": "Ginger",
+            "loserName": "bc | Magi",
+            "bracketName": "Top 8",
+            "bracketId": 1583001,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 41057027,
+            "entrant1Id": 8169709,
+            "entrant2Id": 8349340,
+            "entrant1Name": "Ginger",
+            "entrant2Name": "NOT S2J | SDJ",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8169709,
+            "loserId": 8349340,
+            "winnerName": "Ginger",
+            "loserName": "NOT S2J | SDJ",
+            "bracketName": "Top 16",
+            "bracketId": 1583000,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 325974,
+                    "playerTag": "SDJ"
+                }
+            ]
+        },
+        {
+            "id": 41042973,
+            "entrant1Id": 8169709,
+            "entrant2Id": 8195589,
+            "entrant1Name": "Ginger",
+            "entrant2Name": "ALP",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8169709,
+            "loserId": 8195589,
+            "winnerName": "Ginger",
+            "loserName": "ALP",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10745,
+                    "playerTag": "ALP"
+                }
+            ]
+        },
+        {
+            "id": 41042959,
+            "entrant1Id": 8169709,
+            "entrant2Id": 8313151,
+            "entrant1Name": "Ginger",
+            "entrant2Name": "MegaXmas",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8169709,
+            "loserId": 8313151,
+            "winnerName": "Ginger",
+            "loserName": "MegaXmas",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4224,
+                    "playerTag": "MegaXmas"
+                }
+            ]
+        },
+        {
+            "id": 41041386,
+            "entrant1Id": 8169709,
+            "entrant2Id": 8001927,
+            "entrant1Name": "Ginger",
+            "entrant2Name": "blockie",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8169709,
+            "loserId": 8001927,
+            "winnerName": "Ginger",
+            "loserName": "blockie",
+            "bracketName": "Pools",
+            "bracketId": 1583004,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 594541,
+                    "playerTag": "blockie"
+                }
+            ]
+        },
+        {
+            "id": 41041382,
+            "entrant1Id": 8169709,
+            "entrant2Id": 8307317,
+            "entrant1Name": "Ginger",
+            "entrant2Name": "DSE | MoonMan",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8169709,
+            "loserId": 8307317,
+            "winnerName": "Ginger",
+            "loserName": "DSE | MoonMan",
+            "bracketName": "Pools",
+            "bracketId": 1583004,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 902209,
+                    "playerTag": "MoonMan"
+                }
+            ]
+        },
+        {
+            "id": 41041374,
+            "entrant1Id": 8169709,
+            "entrant2Id": 7607465,
+            "entrant1Name": "Ginger",
+            "entrant2Name": "SMA | Clem",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8169709,
+            "loserId": 7607465,
+            "winnerName": "Ginger",
+            "loserName": "SMA | Clem",
+            "bracketName": "Pools",
+            "bracketId": 1583004,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 706613,
+                    "playerTag": "Clem"
+                }
+            ]
+        },
+        {
+            "id": 39687733,
+            "entrant1Id": 7913682,
+            "entrant2Id": 7914952,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7913682,
+            "loserId": 7914952,
+            "winnerName": "LG | Ginger",
+            "loserName": "IMP | Ben",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 39687732,
+            "entrant1Id": 7913682,
+            "entrant2Id": 7913374,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "Polish",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7913682,
+            "loserId": 7913374,
+            "winnerName": "LG | Ginger",
+            "loserName": "Polish",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ]
+        },
+        {
+            "id": 39687730,
+            "entrant1Id": 7913682,
+            "entrant2Id": 7914952,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7913682,
+            "loserId": 7914952,
+            "winnerName": "LG | Ginger",
+            "loserName": "IMP | Ben",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 39687726,
+            "entrant1Id": 7913682,
+            "entrant2Id": 8054753,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "Morsecode762",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7913682,
+            "loserId": 8054753,
+            "winnerName": "LG | Ginger",
+            "loserName": "Morsecode762",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3713,
+                    "playerTag": "Morsecode762"
+                }
+            ]
+        },
+        {
+            "id": 39687718,
+            "entrant1Id": 7913682,
+            "entrant2Id": 7991186,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "HTL | Fluid",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7913682,
+            "loserId": 7991186,
+            "winnerName": "LG | Ginger",
+            "loserName": "HTL | Fluid",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 8002,
+                    "playerTag": "Fluid"
+                }
+            ]
+        },
+        {
+            "id": 39687702,
+            "entrant1Id": 7913682,
+            "entrant2Id": 7913879,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "Jada | The Beetle King",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7913682,
+            "loserId": 7913879,
+            "winnerName": "LG | Ginger",
+            "loserName": "Jada | The Beetle King",
+            "bracketName": "Top 64",
+            "bracketId": 1537844,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 18679,
+                    "playerTag": "Jada"
+                }
+            ]
+        },
+        {
+            "id": 39667842,
+            "entrant1Id": 7913682,
+            "entrant2Id": 7919770,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "TSI | Leo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7913682,
+            "loserId": 7919770,
+            "winnerName": "LG | Ginger",
+            "loserName": "TSI | Leo",
+            "bracketName": "Pools",
+            "bracketId": 1537828,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154273,
+                    "playerTag": "Leo"
+                }
+            ]
+        },
+        {
+            "id": 39667838,
+            "entrant1Id": 7913682,
+            "entrant2Id": 8044057,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "septy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7913682,
+            "loserId": 8044057,
+            "winnerName": "LG | Ginger",
+            "loserName": "septy",
+            "bracketName": "Pools",
+            "bracketId": 1537828,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1194297,
+                    "playerTag": "septy"
+                }
+            ]
+        },
+        {
+            "id": 41934617,
+            "entrant1Id": 8575429,
+            "entrant2Id": 8575435,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8575429,
+            "loserId": 8575435,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "LG | Ginger",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 41904057,
+            "entrant1Id": 8575569,
+            "entrant2Id": 8575435,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8575569,
+            "loserId": 8575435,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "LG | Ginger",
+            "bracketName": "Group Stage",
+            "bracketId": 1607844,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 41904056,
+            "entrant1Id": 8575589,
+            "entrant2Id": 8575435,
+            "entrant1Name": "Polish",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8575589,
+            "loserId": 8575435,
+            "winnerName": "Polish",
+            "loserName": "LG | Ginger",
+            "bracketName": "Group Stage",
+            "bracketId": 1607844,
+            "entrant1Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 41904054,
+            "entrant1Id": 8575435,
+            "entrant2Id": 8575574,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "bc | Magi",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575574,
+            "loserId": 8575435,
+            "winnerName": "bc | Magi",
+            "loserName": "LG | Ginger",
+            "bracketName": "Group Stage",
+            "bracketId": 1607844,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 39634486,
+            "entrant1Id": 8061545,
+            "entrant2Id": 8054112,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "Polish",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8061545,
+            "loserId": 8054112,
+            "winnerName": "LG | Ginger",
+            "loserName": "Polish",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ]
+        },
+        {
+            "id": 39634485,
+            "entrant1Id": 8061545,
+            "entrant2Id": 8054112,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "Polish",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8061545,
+            "loserId": 8054112,
+            "winnerName": "LG | Ginger",
+            "loserName": "Polish",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ]
+        },
+        {
+            "id": 39634483,
+            "entrant1Id": 8061545,
+            "entrant2Id": 8041649,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8061545,
+            "loserId": 8041649,
+            "winnerName": "LG | Ginger",
+            "loserName": "IMP | Ben",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 39634479,
+            "entrant1Id": 8061545,
+            "entrant2Id": 8056330,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "Skerzo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8061545,
+            "loserId": 8056330,
+            "winnerName": "LG | Ginger",
+            "loserName": "Skerzo",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ]
+        },
+        {
+            "id": 39634471,
+            "entrant1Id": 8061545,
+            "entrant2Id": 8047095,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "lexor",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8061545,
+            "loserId": 8047095,
+            "winnerName": "LG | Ginger",
+            "loserName": "lexor",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 225038,
+                    "playerTag": "lexor"
+                }
+            ]
+        },
+        {
+            "id": 39634455,
+            "entrant1Id": 8061545,
+            "entrant2Id": 8061018,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "Grab2Win",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8061545,
+            "loserId": 8061018,
+            "winnerName": "LG | Ginger",
+            "loserName": "Grab2Win",
+            "bracketName": "Bracket",
+            "bracketId": 1550895,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 56806,
+                    "playerTag": "Grab2Win"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "null",
+        "magi",
+        "ice",
+        "drephen",
+        "zealot",
+        "axe",
+        "axe",
+        "magi",
+        "sdj",
+        "ben",
+        "polish",
+        "ben",
+        "morsecode762",
+        "polish",
+        "polish",
+        "ben",
+        "skerzo",
+        "ibdw",
+        "fiction",
+        "rocky",
+        "wally",
+        "wevans"
+    ],
+    "L": [
+        "wizzrobe",
+        "hungrybox",
+        "sora/joshman",
+        "zain",
+        "kodorin",
+        "plup",
+        "aklo",
+        "flash",
+        "kodorin",
+        "wizzrobe",
+        "hungrybox",
+        "polish",
+        "magi",
+        "sfat",
+        "wizzrobe",
+        "colbol"
+    ]
+}

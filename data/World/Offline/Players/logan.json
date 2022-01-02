@@ -1,0 +1,879 @@
+{
+    "MPGR": 200,
+    "Events": [
+        596002,
+        573828,
+        605856,
+        554630,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 38962572,
+            "entrant1Id": 7731730,
+            "entrant2Id": 7731735,
+            "entrant1Name": "PEP | LSD",
+            "entrant2Name": "Tempo | Axe",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731735,
+            "loserId": 7731730,
+            "winnerName": "Tempo | Axe",
+            "loserName": "PEP | LSD",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 38930626,
+            "entrant1Id": 7731718,
+            "entrant2Id": 7731730,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "PEP | LSD",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7731718,
+            "loserId": 7731730,
+            "winnerName": "Panda | iBDW",
+            "loserName": "PEP | LSD",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1534191,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 38928127,
+            "entrant1Id": 7731716,
+            "entrant2Id": 7731730,
+            "entrant1Name": "EMG | moky",
+            "entrant2Name": "PEP | LSD",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731730,
+            "loserId": 7731716,
+            "winnerName": "PEP | LSD",
+            "loserName": "EMG | moky",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1534191,
+            "entrant1Players": [
+                {
+                    "playerId": 5080,
+                    "playerTag": "moky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 38899944,
+            "entrant1Id": 7731723,
+            "entrant2Id": 7731730,
+            "entrant1Name": "Brotherhood | Aklo",
+            "entrant2Name": "PEP | LSD",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731730,
+            "loserId": 7731723,
+            "winnerName": "PEP | LSD",
+            "loserName": "Brotherhood | Aklo",
+            "bracketName": "Group Stage",
+            "bracketId": 1534197,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 38899942,
+            "entrant1Id": 7731730,
+            "entrant2Id": 7731714,
+            "entrant1Name": "PEP | LSD",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731714,
+            "loserId": 7731730,
+            "winnerName": "CLG | SFAT",
+            "loserName": "PEP | LSD",
+            "bracketName": "Group Stage",
+            "bracketId": 1534197,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 38899939,
+            "entrant1Id": 7731742,
+            "entrant2Id": 7731730,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "PEP | LSD",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7731742,
+            "loserId": 7731730,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "PEP | LSD",
+            "bracketName": "Group Stage",
+            "bracketId": 1534197,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 40465085,
+            "entrant1Id": 7484131,
+            "entrant2Id": 7471864,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "Axe",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7471864,
+            "loserId": 7484131,
+            "winnerName": "Axe",
+            "loserName": "Aspero | Logan",
+            "bracketName": "Top 8",
+            "bracketId": 1547386,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 40437627,
+            "entrant1Id": 7471789,
+            "entrant2Id": 7484131,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "Aspero | Logan",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7484131,
+            "loserId": 7471789,
+            "winnerName": "Aspero | Logan",
+            "loserName": "IMP | Ben",
+            "bracketName": "Top 24",
+            "bracketId": 1547385,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 40437625,
+            "entrant1Id": 7484179,
+            "entrant2Id": 7484131,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Aspero | Logan",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7484131,
+            "loserId": 7484179,
+            "winnerName": "Aspero | Logan",
+            "loserName": "bobby big ballz",
+            "bracketName": "Top 24",
+            "bracketId": 1547385,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 40437622,
+            "entrant1Id": 7484959,
+            "entrant2Id": 7484131,
+            "entrant1Name": "Panda",
+            "entrant2Name": "Aspero | Logan",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7484131,
+            "loserId": 7484959,
+            "winnerName": "Aspero | Logan",
+            "loserName": "Panda",
+            "bracketName": "Top 24",
+            "bracketId": 1547385,
+            "entrant1Players": [
+                {
+                    "playerId": 27638,
+                    "playerTag": "Panda"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 40416051,
+            "entrant1Id": 7484131,
+            "entrant2Id": 7470910,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "Pulse | Tyler Swift",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7484131,
+            "loserId": 7470910,
+            "winnerName": "Aspero | Logan",
+            "loserName": "Pulse | Tyler Swift",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 49131,
+                    "playerTag": "Swift"
+                }
+            ]
+        },
+        {
+            "id": 40415924,
+            "entrant1Id": 7484131,
+            "entrant2Id": 7484527,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "CG | Jflex",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7484527,
+            "loserId": 7484131,
+            "winnerName": "CG | Jflex",
+            "loserName": "Aspero | Logan",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 40416047,
+            "entrant1Id": 7484131,
+            "entrant2Id": 7485097,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "Amida",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7484131,
+            "loserId": 7485097,
+            "winnerName": "Aspero | Logan",
+            "loserName": "Amida",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 150705,
+                    "playerTag": "Amida"
+                }
+            ]
+        },
+        {
+            "id": 40415918,
+            "entrant1Id": 7484131,
+            "entrant2Id": 7484558,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "FireflyHI",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484131,
+            "loserId": 7484558,
+            "winnerName": "Aspero | Logan",
+            "loserName": "FireflyHI",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547384,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 8024,
+                    "playerTag": "FireflyHI"
+                }
+            ]
+        },
+        {
+            "id": 40413972,
+            "entrant1Id": 7484131,
+            "entrant2Id": 7484562,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "Schnurb",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484131,
+            "loserId": 7484562,
+            "winnerName": "Aspero | Logan",
+            "loserName": "Schnurb",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547327,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7654,
+                    "playerTag": "Schnurb"
+                }
+            ]
+        },
+        {
+            "id": 40413970,
+            "entrant1Id": 7484131,
+            "entrant2Id": 7471899,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "JSP",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484131,
+            "loserId": 7471899,
+            "winnerName": "Aspero | Logan",
+            "loserName": "JSP",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547327,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65873,
+                    "playerTag": "JSP"
+                }
+            ]
+        },
+        {
+            "id": 40413966,
+            "entrant1Id": 7484131,
+            "entrant2Id": 7471452,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "Homer cow",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484131,
+            "loserId": 7471452,
+            "winnerName": "Aspero | Logan",
+            "loserName": "Homer cow",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547327,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 225223,
+                    "playerTag": "Homer cow"
+                }
+            ]
+        },
+        {
+            "id": 41484523,
+            "entrant1Id": 8494892,
+            "entrant2Id": 8193443,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8193443,
+            "loserId": 8494892,
+            "winnerName": "BLE | SluG",
+            "loserName": "Aspero | Logan",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 41484519,
+            "entrant1Id": 8194663,
+            "entrant2Id": 8494892,
+            "entrant1Name": "TheSWOOPER",
+            "entrant2Name": "Aspero | Logan",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8494892,
+            "loserId": 8194663,
+            "winnerName": "Aspero | Logan",
+            "loserName": "TheSWOOPER",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 50606,
+                    "playerTag": "TheSWOOPER"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 41484515,
+            "entrant1Id": 8494892,
+            "entrant2Id": 8202818,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "Eggy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8494892,
+            "loserId": 8202818,
+            "winnerName": "Aspero | Logan",
+            "loserName": "Eggy",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 754351,
+                    "playerTag": "Eggy"
+                }
+            ]
+        },
+        {
+            "id": 41445483,
+            "entrant1Id": 8494892,
+            "entrant2Id": 8193344,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "Khryke",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8193344,
+            "loserId": 8494892,
+            "winnerName": "Khryke",
+            "loserName": "Aspero | Logan",
+            "bracketName": "Top 64 - BO5",
+            "bracketId": 1572321,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279107,
+                    "playerTag": "Khryke"
+                }
+            ]
+        },
+        {
+            "id": 41445545,
+            "entrant1Id": 8494892,
+            "entrant2Id": 8194106,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "eve",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8494892,
+            "loserId": 8194106,
+            "winnerName": "Aspero | Logan",
+            "loserName": "eve",
+            "bracketName": "Top 64 - BO5",
+            "bracketId": 1572321,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 49711,
+                    "playerTag": "eve"
+                }
+            ]
+        },
+        {
+            "id": 41445475,
+            "entrant1Id": 8494892,
+            "entrant2Id": 8223257,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "essy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8494892,
+            "loserId": 8223257,
+            "winnerName": "Aspero | Logan",
+            "loserName": "essy",
+            "bracketName": "Top 64 - BO5",
+            "bracketId": 1572321,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 59086,
+                    "playerTag": "essy"
+                }
+            ]
+        },
+        {
+            "id": 41441874,
+            "entrant1Id": 8494892,
+            "entrant2Id": 8195480,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "BS",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8494892,
+            "loserId": 8195480,
+            "winnerName": "Aspero | Logan",
+            "loserName": "BS",
+            "bracketName": "Pools",
+            "bracketId": 1549438,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 942706,
+                    "playerTag": "BS"
+                }
+            ]
+        },
+        {
+            "id": 41441870,
+            "entrant1Id": 8494892,
+            "entrant2Id": 8195230,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "dinkles | SUMTINS HINKY !!",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8494892,
+            "loserId": 8195230,
+            "winnerName": "Aspero | Logan",
+            "loserName": "dinkles | SUMTINS HINKY !!",
+            "bracketName": "Pools",
+            "bracketId": 1549438,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40614,
+                    "playerTag": "SUMTINS HINKY !!"
+                }
+            ]
+        },
+        {
+            "id": 41441862,
+            "entrant1Id": 8494892,
+            "entrant2Id": 8194338,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "dumbryujifan69",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8494892,
+            "loserId": 8194338,
+            "winnerName": "Aspero | Logan",
+            "loserName": "dumbryujifan69",
+            "bracketName": "Pools",
+            "bracketId": 1549438,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1755148,
+                    "playerTag": "dumbryujifan69"
+                }
+            ]
+        },
+        {
+            "id": 41934614,
+            "entrant1Id": 8575598,
+            "entrant2Id": 8575603,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575603,
+            "loserId": 8575598,
+            "winnerName": "HSTV | Zamu",
+            "loserName": "Aspero | Logan",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 41895685,
+            "entrant1Id": 8575424,
+            "entrant2Id": 8575598,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Aspero | Logan",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575424,
+            "loserId": 8575598,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Aspero | Logan",
+            "bracketName": "Group Stage",
+            "bracketId": 1607843,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 41895684,
+            "entrant1Id": 8575571,
+            "entrant2Id": 8575598,
+            "entrant1Name": "Colbol",
+            "entrant2Name": "Aspero | Logan",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8575571,
+            "loserId": 8575598,
+            "winnerName": "Colbol",
+            "loserName": "Aspero | Logan",
+            "bracketName": "Group Stage",
+            "bracketId": 1607843,
+            "entrant1Players": [
+                {
+                    "playerId": 1009,
+                    "playerTag": "Colbol"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 41895682,
+            "entrant1Id": 8575598,
+            "entrant2Id": 8575461,
+            "entrant1Name": "Aspero | Logan",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575598,
+            "loserId": 8575461,
+            "winnerName": "Aspero | Logan",
+            "loserName": "2saint",
+            "bracketName": "Group Stage",
+            "bracketId": 1607843,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "moky",
+        "aklo",
+        "ben",
+        "bobby big ballz",
+        "panda",
+        "swift",
+        "theswooper",
+        "eggy",
+        "2saint",
+        "azel"
+    ],
+    "L": [
+        "axe",
+        "ibdw",
+        "sfat",
+        "wizzrobe",
+        "axe",
+        "jflex",
+        "slug",
+        "khryke",
+        "zamu",
+        "ibdw",
+        "colbol",
+        "far!",
+        "null"
+    ]
+}

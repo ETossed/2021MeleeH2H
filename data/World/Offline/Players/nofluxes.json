@@ -1,0 +1,871 @@
+{
+    "MPGR": 200,
+    "Events": [
+        573828,
+        585641,
+        605856,
+        610808,
+        633485
+    ],
+    "Sets": [
+        {
+            "id": 40421755,
+            "entrant1Id": 7484576,
+            "entrant2Id": 7484528,
+            "entrant1Name": "Casper",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7484576,
+            "loserId": 7484528,
+            "winnerName": "Casper",
+            "loserName": "NoFluxes",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 144268,
+                    "playerTag": "Casper"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 40421750,
+            "entrant1Id": 7471476,
+            "entrant2Id": 7484528,
+            "entrant1Name": "ManRay",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7484528,
+            "loserId": 7471476,
+            "winnerName": "NoFluxes",
+            "loserName": "ManRay",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 418740,
+                    "playerTag": "ManRay"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 40421742,
+            "entrant1Id": 7484528,
+            "entrant2Id": 7484482,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "Kanye Rest",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484528,
+            "loserId": 7484482,
+            "winnerName": "NoFluxes",
+            "loserName": "Kanye Rest",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7693,
+                    "playerTag": "Kanye Rest"
+                }
+            ]
+        },
+        {
+            "id": 40421731,
+            "entrant1Id": 7484528,
+            "entrant2Id": 7484093,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "TM | Mattchu",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484528,
+            "loserId": 7484093,
+            "winnerName": "NoFluxes",
+            "loserName": "TM | Mattchu",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 242828,
+                    "playerTag": "Mattchu"
+                }
+            ]
+        },
+        {
+            "id": 40419737,
+            "entrant1Id": 7470014,
+            "entrant2Id": 7484528,
+            "entrant1Name": "Free | Harry Pogger",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7470014,
+            "loserId": 7484528,
+            "winnerName": "Free | Harry Pogger",
+            "loserName": "NoFluxes",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547371,
+            "entrant1Players": [
+                {
+                    "playerId": 428600,
+                    "playerTag": "Balloon Day"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 40419736,
+            "entrant1Id": 7484528,
+            "entrant2Id": 8130680,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "Kuryoku",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484528,
+            "loserId": 8130680,
+            "winnerName": "NoFluxes",
+            "loserName": "Kuryoku",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547371,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 172646,
+                    "playerTag": "Kuryoku"
+                }
+            ]
+        },
+        {
+            "id": 40419733,
+            "entrant1Id": 7484528,
+            "entrant2Id": 7484469,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "Alice",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7484528,
+            "loserId": 7484469,
+            "winnerName": "NoFluxes",
+            "loserName": "Alice",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547371,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2247864,
+                    "playerTag": "Alice"
+                }
+            ]
+        },
+        {
+            "id": 41043095,
+            "entrant1Id": 8055322,
+            "entrant2Id": 8283248,
+            "entrant1Name": "S2J",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8055322,
+            "loserId": 8283248,
+            "winnerName": "S2J",
+            "loserName": "NoFluxes",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 41043087,
+            "entrant1Id": 7684101,
+            "entrant2Id": 8283248,
+            "entrant1Name": "Air",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8283248,
+            "loserId": 7684101,
+            "winnerName": "NoFluxes",
+            "loserName": "Air",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 10282,
+                    "playerTag": "Air"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 41042963,
+            "entrant1Id": 7736134,
+            "entrant2Id": 8283248,
+            "entrant1Name": "Tempo | Axe",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7736134,
+            "loserId": 8283248,
+            "winnerName": "Tempo | Axe",
+            "loserName": "NoFluxes",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 41043075,
+            "entrant1Id": 8283248,
+            "entrant2Id": 8264966,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "shamp",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8283248,
+            "loserId": 8264966,
+            "winnerName": "NoFluxes",
+            "loserName": "shamp",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 130321,
+                    "playerTag": "shamp"
+                }
+            ]
+        },
+        {
+            "id": 41029511,
+            "entrant1Id": 8283248,
+            "entrant2Id": 7601126,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "Secrets",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8283248,
+            "loserId": 7601126,
+            "winnerName": "NoFluxes",
+            "loserName": "Secrets",
+            "bracketName": "Pools",
+            "bracketId": 1583002,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 28720,
+                    "playerTag": "Secrets"
+                }
+            ]
+        },
+        {
+            "id": 41029508,
+            "entrant1Id": 8283248,
+            "entrant2Id": 7607059,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "Tarchwood",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8283248,
+            "loserId": 7607059,
+            "winnerName": "NoFluxes",
+            "loserName": "Tarchwood",
+            "bracketName": "Pools",
+            "bracketId": 1583002,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7705,
+                    "playerTag": "Tarchwood"
+                }
+            ]
+        },
+        {
+            "id": 41029502,
+            "entrant1Id": 8283248,
+            "entrant2Id": 8175857,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "destinybond",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8283248,
+            "loserId": 8175857,
+            "winnerName": "NoFluxes",
+            "loserName": "destinybond",
+            "bracketName": "Pools",
+            "bracketId": 1583002,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 254696,
+                    "playerTag": "destinybond"
+                }
+            ]
+        },
+        {
+            "id": 41484528,
+            "entrant1Id": 8193295,
+            "entrant2Id": 8195114,
+            "entrant1Name": "Juicebox",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8193295,
+            "loserId": 8195114,
+            "winnerName": "Juicebox",
+            "loserName": "NoFluxes",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 6304,
+                    "playerTag": "Juicebox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 41484527,
+            "entrant1Id": 8195114,
+            "entrant2Id": 8193344,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "Khryke",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8195114,
+            "loserId": 8193344,
+            "winnerName": "NoFluxes",
+            "loserName": "Khryke",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279107,
+                    "playerTag": "Khryke"
+                }
+            ]
+        },
+        {
+            "id": 41484494,
+            "entrant1Id": 8193295,
+            "entrant2Id": 8195114,
+            "entrant1Name": "Juicebox",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8193295,
+            "loserId": 8195114,
+            "winnerName": "Juicebox",
+            "loserName": "NoFluxes",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 6304,
+                    "playerTag": "Juicebox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 41484525,
+            "entrant1Id": 8195114,
+            "entrant2Id": 8193443,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8195114,
+            "loserId": 8193443,
+            "winnerName": "NoFluxes",
+            "loserName": "BLE | SluG",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 41484491,
+            "entrant1Id": 8195114,
+            "entrant2Id": 8194541,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8195114,
+            "loserId": 8194541,
+            "winnerName": "NoFluxes",
+            "loserName": "Agency | Wally",
+            "bracketName": "Top 16 - BO5",
+            "bracketId": 1572323,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 41445485,
+            "entrant1Id": 8193443,
+            "entrant2Id": 8195114,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8195114,
+            "loserId": 8193443,
+            "winnerName": "NoFluxes",
+            "loserName": "BLE | SluG",
+            "bracketName": "Top 64 - BO5",
+            "bracketId": 1572321,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 41445480,
+            "entrant1Id": 8194999,
+            "entrant2Id": 8195114,
+            "entrant1Name": "Wisp",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8195114,
+            "loserId": 8194999,
+            "winnerName": "NoFluxes",
+            "loserName": "Wisp",
+            "bracketName": "Top 64 - BO5",
+            "bracketId": 1572321,
+            "entrant1Players": [
+                {
+                    "playerId": 216425,
+                    "playerTag": "Wisp"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 41434335,
+            "entrant1Id": 8195114,
+            "entrant2Id": 8193492,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "Joey-Laces",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8195114,
+            "loserId": 8193492,
+            "winnerName": "NoFluxes",
+            "loserName": "Joey-Laces",
+            "bracketName": "Pools",
+            "bracketId": 1572317,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68395,
+                    "playerTag": "Joey-Laces"
+                }
+            ]
+        },
+        {
+            "id": 41434332,
+            "entrant1Id": 8195114,
+            "entrant2Id": 8205400,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "L4ME",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8195114,
+            "loserId": 8205400,
+            "winnerName": "NoFluxes",
+            "loserName": "L4ME",
+            "bracketName": "Pools",
+            "bracketId": 1572317,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 427517,
+                    "playerTag": "L4ME"
+                }
+            ]
+        },
+        {
+            "id": 41434326,
+            "entrant1Id": 8195114,
+            "entrant2Id": 8194154,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "StopN'Swop",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8195114,
+            "loserId": 8194154,
+            "winnerName": "NoFluxes",
+            "loserName": "StopN'Swop",
+            "bracketName": "Pools",
+            "bracketId": 1572317,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6306,
+                    "playerTag": "StopN'Swop"
+                }
+            ]
+        },
+        {
+            "id": 40844691,
+            "entrant1Id": 8158672,
+            "entrant2Id": 8179283,
+            "entrant1Name": "CC | Kalvar",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8158672,
+            "loserId": 8179283,
+            "winnerName": "CC | Kalvar",
+            "loserName": "NoFluxes",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 40844687,
+            "entrant1Id": 8162812,
+            "entrant2Id": 8179283,
+            "entrant1Name": "SloX",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8179283,
+            "loserId": 8162812,
+            "winnerName": "NoFluxes",
+            "loserName": "SloX",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 1061,
+                    "playerTag": "SloX"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 40844680,
+            "entrant1Id": 8179283,
+            "entrant2Id": 8157144,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "YAMI",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8179283,
+            "loserId": 8157144,
+            "winnerName": "NoFluxes",
+            "loserName": "YAMI",
+            "bracketName": "Top 24",
+            "bracketId": 1559351,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65928,
+                    "playerTag": "YAMI"
+                }
+            ]
+        },
+        {
+            "id": 40828836,
+            "entrant1Id": 8316054,
+            "entrant2Id": 8179283,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8316054,
+            "loserId": 8179283,
+            "winnerName": "CG | Jflex",
+            "loserName": "NoFluxes",
+            "bracketName": "Pools",
+            "bracketId": 1584531,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 40828833,
+            "entrant1Id": 8153811,
+            "entrant2Id": 8179283,
+            "entrant1Name": "Epic Murloc",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8179283,
+            "loserId": 8153811,
+            "winnerName": "NoFluxes",
+            "loserName": "Epic Murloc",
+            "bracketName": "Pools",
+            "bracketId": 1584531,
+            "entrant1Players": [
+                {
+                    "playerId": 53443,
+                    "playerTag": "Epic Murloc"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 40828827,
+            "entrant1Id": 8179283,
+            "entrant2Id": 8162018,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "OtES",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8179283,
+            "loserId": 8162018,
+            "winnerName": "NoFluxes",
+            "loserName": "OtES",
+            "bracketName": "Pools",
+            "bracketId": 1584531,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45356,
+                    "playerTag": "OtES"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "secrets",
+        "khryke",
+        "slug",
+        "wally",
+        "slug"
+    ],
+    "L": [
+        "Casper",
+        "Balloon Day",
+        "s2j",
+        "axe",
+        "juicebox",
+        "juicebox",
+        "kalvar",
+        "jflex",
+        "axe",
+        "Kuya"
+    ]
+}

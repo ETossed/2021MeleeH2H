@@ -1,0 +1,1004 @@
+{
+    "MPGR": 9,
+    "Events": [
+        596002,
+        635845,
+        573828,
+        554630,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 38962551,
+            "entrant1Id": 7731728,
+            "entrant2Id": 7731718,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "Panda | iBDW",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7731728,
+            "loserId": 7731718,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "Panda | iBDW",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ]
+        },
+        {
+            "id": 38962582,
+            "entrant1Id": 7731718,
+            "entrant2Id": 7731696,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "C9 | Mang0",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731696,
+            "loserId": 7731718,
+            "winnerName": "C9 | Mang0",
+            "loserName": "Panda | iBDW",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1000,
+                    "playerTag": "Mang0"
+                }
+            ]
+        },
+        {
+            "id": 38962549,
+            "entrant1Id": 7731742,
+            "entrant2Id": 7731718,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "Panda | iBDW",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731718,
+            "loserId": 7731742,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Envy | Wizzrobe",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ]
+        },
+        {
+            "id": 38930980,
+            "entrant1Id": 7731718,
+            "entrant2Id": 7731686,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Zain",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731686,
+            "loserId": 7731718,
+            "winnerName": "Zain",
+            "loserName": "Panda | iBDW",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1534191,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ]
+        },
+        {
+            "id": 38930626,
+            "entrant1Id": 7731718,
+            "entrant2Id": 7731730,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "PEP | LSD",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7731718,
+            "loserId": 7731730,
+            "winnerName": "Panda | iBDW",
+            "loserName": "PEP | LSD",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1534191,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 38888200,
+            "entrant1Id": 7731718,
+            "entrant2Id": 7731707,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Panda RB | Plup",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731707,
+            "loserId": 7731718,
+            "winnerName": "Panda RB | Plup",
+            "loserName": "Panda | iBDW",
+            "bracketName": "Group Stage",
+            "bracketId": 1534198,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ]
+        },
+        {
+            "id": 38888198,
+            "entrant1Id": 7731718,
+            "entrant2Id": 7731744,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7731718,
+            "loserId": 7731744,
+            "winnerName": "Panda | iBDW",
+            "loserName": "2saint",
+            "bracketName": "Group Stage",
+            "bracketId": 1534198,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 38888196,
+            "entrant1Id": 7731718,
+            "entrant2Id": 7731735,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Tempo | Axe",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7731718,
+            "loserId": 7731735,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Tempo | Axe",
+            "bracketName": "Group Stage",
+            "bracketId": 1534198,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 43130433,
+            "entrant1Id": 8879467,
+            "entrant2Id": 8880094,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "C9 | Mang0",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8879467,
+            "loserId": 8880094,
+            "winnerName": "Panda | iBDW",
+            "loserName": "C9 | Mang0",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1000,
+                    "playerTag": "Mang0"
+                }
+            ]
+        },
+        {
+            "id": 43130432,
+            "entrant1Id": 8879467,
+            "entrant2Id": 8879464,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Zain",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8879467,
+            "loserId": 8879464,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Zain",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ]
+        },
+        {
+            "id": 43130430,
+            "entrant1Id": 8879488,
+            "entrant2Id": 8879467,
+            "entrant1Name": "VGBC RB | aMSa",
+            "entrant2Name": "Panda | iBDW",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879467,
+            "loserId": 8879488,
+            "winnerName": "Panda | iBDW",
+            "loserName": "VGBC RB | aMSa",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 1021,
+                    "playerTag": "aMSa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ]
+        },
+        {
+            "id": 43130427,
+            "entrant1Id": 8879467,
+            "entrant2Id": 8879483,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "TSM | Leffen",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8879467,
+            "loserId": 8879483,
+            "winnerName": "Panda | iBDW",
+            "loserName": "TSM | Leffen",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ]
+        },
+        {
+            "id": 43039841,
+            "entrant1Id": 8879467,
+            "entrant2Id": 8879473,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Liquid | Hungrybox",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8879467,
+            "loserId": 8879473,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Liquid | Hungrybox",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637738,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 43039839,
+            "entrant1Id": 8879467,
+            "entrant2Id": 8879513,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Pipsqueak",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8879467,
+            "loserId": 8879513,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Pipsqueak",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637738,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ]
+        },
+        {
+            "id": 43039837,
+            "entrant1Id": 8879467,
+            "entrant2Id": 8879519,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Pulse | Tyler Swift",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8879467,
+            "loserId": 8879519,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Pulse | Tyler Swift",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637738,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 49131,
+                    "playerTag": "Swift"
+                }
+            ]
+        },
+        {
+            "id": 40465075,
+            "entrant1Id": 7471573,
+            "entrant2Id": 7469671,
+            "entrant1Name": "iBDW",
+            "entrant2Name": "Panda | Plup",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7471573,
+            "loserId": 7469671,
+            "winnerName": "iBDW",
+            "loserName": "Panda | Plup",
+            "bracketName": "Top 8",
+            "bracketId": 1547386,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ]
+        },
+        {
+            "id": 40465074,
+            "entrant1Id": 7471573,
+            "entrant2Id": 7469671,
+            "entrant1Name": "iBDW",
+            "entrant2Name": "Panda | Plup",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7471573,
+            "loserId": 7469671,
+            "winnerName": "iBDW",
+            "loserName": "Panda | Plup",
+            "bracketName": "Top 8",
+            "bracketId": 1547386,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ]
+        },
+        {
+            "id": 40465072,
+            "entrant1Id": 7469532,
+            "entrant2Id": 7471573,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "iBDW",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7471573,
+            "loserId": 7469532,
+            "winnerName": "iBDW",
+            "loserName": "Hungrybox",
+            "bracketName": "Top 8",
+            "bracketId": 1547386,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ]
+        },
+        {
+            "id": 40437597,
+            "entrant1Id": 7471573,
+            "entrant2Id": 7484475,
+            "entrant1Name": "iBDW",
+            "entrant2Name": "Krudo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471573,
+            "loserId": 7484475,
+            "winnerName": "iBDW",
+            "loserName": "Krudo",
+            "bracketName": "Top 24",
+            "bracketId": 1547385,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 147424,
+                    "playerTag": "Krudo"
+                }
+            ]
+        },
+        {
+            "id": 40421636,
+            "entrant1Id": 7471573,
+            "entrant2Id": 7484959,
+            "entrant1Name": "iBDW",
+            "entrant2Name": "Panda",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7471573,
+            "loserId": 7484959,
+            "winnerName": "iBDW",
+            "loserName": "Panda",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27638,
+                    "playerTag": "Panda"
+                }
+            ]
+        },
+        {
+            "id": 40421632,
+            "entrant1Id": 7471573,
+            "entrant2Id": 7470177,
+            "entrant1Name": "iBDW",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471573,
+            "loserId": 7470177,
+            "winnerName": "iBDW",
+            "loserName": "Agency | Wally",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 40421624,
+            "entrant1Id": 7471573,
+            "entrant2Id": 7484455,
+            "entrant1Name": "iBDW",
+            "entrant2Name": "Trail",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471573,
+            "loserId": 7484455,
+            "winnerName": "iBDW",
+            "loserName": "Trail",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547389,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7149,
+                    "playerTag": "Trail"
+                }
+            ]
+        },
+        {
+            "id": 40418398,
+            "entrant1Id": 7471573,
+            "entrant2Id": 7470085,
+            "entrant1Name": "iBDW",
+            "entrant2Name": "SIG BERT | Kevorkian",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471573,
+            "loserId": 7470085,
+            "winnerName": "iBDW",
+            "loserName": "SIG BERT | Kevorkian",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547323,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4199,
+                    "playerTag": "Kevorkian"
+                }
+            ]
+        },
+        {
+            "id": 40418396,
+            "entrant1Id": 7471573,
+            "entrant2Id": 7484274,
+            "entrant1Name": "iBDW",
+            "entrant2Name": "Arcade",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471573,
+            "loserId": 7484274,
+            "winnerName": "iBDW",
+            "loserName": "Arcade",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547323,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37401,
+                    "playerTag": "Arcade"
+                }
+            ]
+        },
+        {
+            "id": 40418392,
+            "entrant1Id": 7471573,
+            "entrant2Id": 7471818,
+            "entrant1Name": "iBDW",
+            "entrant2Name": "SoulOfficer",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7471573,
+            "loserId": 7471818,
+            "winnerName": "iBDW",
+            "loserName": "SoulOfficer",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547323,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 513893,
+                    "playerTag": "SoulOfficer"
+                }
+            ]
+        },
+        {
+            "id": 41934596,
+            "entrant1Id": 8575422,
+            "entrant2Id": 8575424,
+            "entrant1Name": "Zain",
+            "entrant2Name": "Panda | iBDW",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8575422,
+            "loserId": 8575424,
+            "winnerName": "Zain",
+            "loserName": "Panda | iBDW",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ]
+        },
+        {
+            "id": 41934627,
+            "entrant1Id": 8575589,
+            "entrant2Id": 8575424,
+            "entrant1Name": "Polish",
+            "entrant2Name": "Panda | iBDW",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575424,
+            "loserId": 8575589,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Polish",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ]
+        },
+        {
+            "id": 41934626,
+            "entrant1Id": 8575569,
+            "entrant2Id": 8575424,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "Panda | iBDW",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575424,
+            "loserId": 8575569,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Liquid | Hungrybox",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ]
+        },
+        {
+            "id": 41934594,
+            "entrant1Id": 8575424,
+            "entrant2Id": 8575589,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Polish",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8575589,
+            "loserId": 8575424,
+            "winnerName": "Polish",
+            "loserName": "Panda | iBDW",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ]
+        },
+        {
+            "id": 41934625,
+            "entrant1Id": 8575424,
+            "entrant2Id": 8575429,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Envy | Wizzrobe",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575424,
+            "loserId": 8575429,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Envy | Wizzrobe",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ]
+        },
+        {
+            "id": 41934591,
+            "entrant1Id": 8575424,
+            "entrant2Id": 8575458,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "20GX | Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575424,
+            "loserId": 8575458,
+            "winnerName": "Panda | iBDW",
+            "loserName": "20GX | Gahtzu",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 41895685,
+            "entrant1Id": 8575424,
+            "entrant2Id": 8575598,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Aspero | Logan",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575424,
+            "loserId": 8575598,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Aspero | Logan",
+            "bracketName": "Group Stage",
+            "bracketId": 1607843,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 41895683,
+            "entrant1Id": 8575424,
+            "entrant2Id": 8575461,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8575424,
+            "loserId": 8575461,
+            "winnerName": "Panda | iBDW",
+            "loserName": "2saint",
+            "bracketName": "Group Stage",
+            "bracketId": 1607843,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 41895681,
+            "entrant1Id": 8575424,
+            "entrant2Id": 8575571,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Colbol",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575424,
+            "loserId": 8575571,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Colbol",
+            "bracketName": "Group Stage",
+            "bracketId": 1607843,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1009,
+                    "playerTag": "Colbol"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "wizzrobe",
+        "logan",
+        "2saint",
+        "axe",
+        "mang0",
+        "zain",
+        "amsa",
+        "leffen",
+        "hungrybox",
+        "pipsqueak",
+        "swift",
+        "plup",
+        "plup",
+        "hungrybox",
+        "krudo",
+        "panda",
+        "wally",
+        "polish",
+        "hungrybox",
+        "wizzrobe",
+        "gahtzu",
+        "logan",
+        "2saint",
+        "colbol",
+        "medz",
+        "albert",
+        "dacky",
+        "axe"
+    ],
+    "L": [
+        "hungrybox",
+        "mang0",
+        "zain",
+        "plup",
+        "zain",
+        "polish",
+        "kodorin",
+        "ginger"
+    ]
+}

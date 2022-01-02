@@ -1,0 +1,329 @@
+{
+    "MPGR": 83,
+    "Events": [
+        644621,
+        554625
+    ],
+    "Sets": [
+        {
+            "id": 43289109,
+            "entrant1Id": 8712505,
+            "entrant2Id": 8712529,
+            "entrant1Name": "Nicki",
+            "entrant2Name": "Polish",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712529,
+            "loserId": 8712505,
+            "winnerName": "Polish",
+            "loserName": "Nicki",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ]
+        },
+        {
+            "id": 43219571,
+            "entrant1Id": 8712533,
+            "entrant2Id": 8712505,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "Nicki",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712533,
+            "loserId": 8712505,
+            "winnerName": "Hungrybox",
+            "loserName": "Nicki",
+            "bracketName": "Group Stage",
+            "bracketId": 1635971,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ]
+        },
+        {
+            "id": 43219570,
+            "entrant1Id": 8892147,
+            "entrant2Id": 8712505,
+            "entrant1Name": "Entropy | Luigi Ka-Master",
+            "entrant2Name": "Nicki",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712505,
+            "loserId": 8892147,
+            "winnerName": "Nicki",
+            "loserName": "Entropy | Luigi Ka-Master",
+            "bracketName": "Group Stage",
+            "bracketId": 1635971,
+            "entrant1Players": [
+                {
+                    "playerId": 27353,
+                    "playerTag": "Luigi Ka-Master"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ]
+        },
+        {
+            "id": 43219568,
+            "entrant1Id": 8712516,
+            "entrant2Id": 8712505,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "Nicki",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712505,
+            "loserId": 8712516,
+            "winnerName": "Nicki",
+            "loserName": "Fiction",
+            "bracketName": "Group Stage",
+            "bracketId": 1635971,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ]
+        },
+        {
+            "id": 43219566,
+            "entrant1Id": 8712505,
+            "entrant2Id": 8955022,
+            "entrant1Name": "Nicki",
+            "entrant2Name": "MF | Sock",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8955022,
+            "loserId": 8712505,
+            "winnerName": "MF | Sock",
+            "loserName": "Nicki",
+            "bracketName": "Group Stage",
+            "bracketId": 1635971,
+            "entrant1Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 41697243,
+            "entrant1Id": 8552784,
+            "entrant2Id": 8552803,
+            "entrant1Name": "PS | Pipsqueak",
+            "entrant2Name": "PS | Nicki",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552784,
+            "loserId": 8552803,
+            "winnerName": "PS | Pipsqueak",
+            "loserName": "PS | Nicki",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 261464,
+                    "playerTag": "Pipsqueak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ]
+        },
+        {
+            "id": 41697209,
+            "entrant1Id": 8552768,
+            "entrant2Id": 8552803,
+            "entrant1Name": "TSM | Leffen",
+            "entrant2Name": "PS | Nicki",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552768,
+            "loserId": 8552803,
+            "winnerName": "TSM | Leffen",
+            "loserName": "PS | Nicki",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 4465,
+                    "playerTag": "Leffen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ]
+        },
+        {
+            "id": 41697241,
+            "entrant1Id": 8552803,
+            "entrant2Id": 8552811,
+            "entrant1Name": "PS | Nicki",
+            "entrant2Name": "skullbro",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552803,
+            "loserId": 8552811,
+            "winnerName": "PS | Nicki",
+            "loserName": "skullbro",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603250,
+            "entrant1Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 506756,
+                    "playerTag": "skullbro"
+                }
+            ]
+        },
+        {
+            "id": 41634295,
+            "entrant1Id": 8552770,
+            "entrant2Id": 8552803,
+            "entrant1Name": "PS | Trif",
+            "entrant2Name": "PS | Nicki",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552770,
+            "loserId": 8552803,
+            "winnerName": "PS | Trif",
+            "loserName": "PS | Nicki",
+            "bracketName": "Group Stage",
+            "bracketId": 1603241,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ]
+        },
+        {
+            "id": 41634294,
+            "entrant1Id": 8558916,
+            "entrant2Id": 8552803,
+            "entrant1Name": "Fat Tino",
+            "entrant2Name": "PS | Nicki",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552803,
+            "loserId": 8558916,
+            "winnerName": "PS | Nicki",
+            "loserName": "Fat Tino",
+            "bracketName": "Group Stage",
+            "bracketId": 1603241,
+            "entrant1Players": [
+                {
+                    "playerId": 667216,
+                    "playerTag": "Fat Tino"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ]
+        },
+        {
+            "id": 41634292,
+            "entrant1Id": 8552803,
+            "entrant2Id": 8552806,
+            "entrant1Name": "PS | Nicki",
+            "entrant2Name": "Meady",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552803,
+            "loserId": 8552806,
+            "winnerName": "PS | Nicki",
+            "loserName": "Meady",
+            "bracketName": "Group Stage",
+            "bracketId": 1603241,
+            "entrant1Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 393861,
+                    "playerTag": "Meady"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "luigi ka-master",
+        "fiction"
+    ],
+    "L": [
+        "polish",
+        "hungrybox",
+        "sock",
+        "pipsqueak",
+        "leffen",
+        "trif"
+    ]
+}

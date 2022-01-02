@@ -1,0 +1,162 @@
+{
+    "MPGR": 91,
+    "Events": [
+        554629,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 41711574,
+            "entrant1Id": 8552213,
+            "entrant2Id": 8552227,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "Rocky",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552213,
+            "loserId": 8552227,
+            "winnerName": "Fiction",
+            "loserName": "Rocky",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ]
+        },
+        {
+            "id": 41711570,
+            "entrant1Id": 8552227,
+            "entrant2Id": 8578575,
+            "entrant1Name": "Rocky",
+            "entrant2Name": "SD | Android 0",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552227,
+            "loserId": 8578575,
+            "winnerName": "Rocky",
+            "loserName": "SD | Android 0",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ]
+        },
+        {
+            "id": 41690503,
+            "entrant1Id": 8552227,
+            "entrant2Id": 8552221,
+            "entrant1Name": "Rocky",
+            "entrant2Name": "Dacky",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552227,
+            "loserId": 8552221,
+            "winnerName": "Rocky",
+            "loserName": "Dacky",
+            "bracketName": "Group Stage",
+            "bracketId": 1603216,
+            "entrant1Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45951,
+                    "playerTag": "Dacky"
+                }
+            ]
+        },
+        {
+            "id": 41690500,
+            "entrant1Id": 8552204,
+            "entrant2Id": 8552227,
+            "entrant1Name": "MF | KoDoRiN",
+            "entrant2Name": "Rocky",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552204,
+            "loserId": 8552227,
+            "winnerName": "MF | KoDoRiN",
+            "loserName": "Rocky",
+            "bracketName": "Group Stage",
+            "bracketId": 1603216,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ]
+        },
+        {
+            "id": 41690499,
+            "entrant1Id": 8552205,
+            "entrant2Id": 8552227,
+            "entrant1Name": "Kalamazhu",
+            "entrant2Name": "Rocky",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552205,
+            "loserId": 8552227,
+            "winnerName": "Kalamazhu",
+            "loserName": "Rocky",
+            "bracketName": "Group Stage",
+            "bracketId": 1603216,
+            "entrant1Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "android 0",
+        "dacky",
+        "android 0",
+        "krudo"
+    ],
+    "L": [
+        "fiction",
+        "kodorin",
+        "kalamazhu",
+        "ginger",
+        "jflex"
+    ]
+}

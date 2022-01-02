@@ -1,0 +1,128 @@
+{
+    "MPGR": 200,
+    "Events": [
+        644621
+    ],
+    "Sets": [
+        {
+            "id": 43219574,
+            "entrant1Id": 8955022,
+            "entrant2Id": 8892147,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "Entropy | Luigi Ka-Master",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8955022,
+            "loserId": 8892147,
+            "winnerName": "MF | Sock",
+            "loserName": "Entropy | Luigi Ka-Master",
+            "bracketName": "Group Stage",
+            "bracketId": 1635971,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27353,
+                    "playerTag": "Luigi Ka-Master"
+                }
+            ]
+        },
+        {
+            "id": 43219572,
+            "entrant1Id": 8955022,
+            "entrant2Id": 8712516,
+            "entrant1Name": "MF | Sock",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712516,
+            "loserId": 8955022,
+            "winnerName": "Fiction",
+            "loserName": "MF | Sock",
+            "bracketName": "Group Stage",
+            "bracketId": 1635971,
+            "entrant1Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 43219569,
+            "entrant1Id": 8712533,
+            "entrant2Id": 8955022,
+            "entrant1Name": "Hungrybox",
+            "entrant2Name": "MF | Sock",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712533,
+            "loserId": 8955022,
+            "winnerName": "Hungrybox",
+            "loserName": "MF | Sock",
+            "bracketName": "Group Stage",
+            "bracketId": 1635971,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 43219566,
+            "entrant1Id": 8712505,
+            "entrant2Id": 8955022,
+            "entrant1Name": "Nicki",
+            "entrant2Name": "MF | Sock",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8955022,
+            "loserId": 8712505,
+            "winnerName": "MF | Sock",
+            "loserName": "Nicki",
+            "bracketName": "Group Stage",
+            "bracketId": 1635971,
+            "entrant1Players": [
+                {
+                    "playerId": 21553,
+                    "playerTag": "Nicki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "luigi ka-master",
+        "nicki"
+    ],
+    "L": [
+        "fiction",
+        "hungrybox"
+    ]
+}

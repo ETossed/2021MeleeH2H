@@ -1,0 +1,649 @@
+{
+    "MPGR": 20,
+    "Events": [
+        573828,
+        585641,
+        657283,
+        644033,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 41043092,
+            "entrant1Id": 8186741,
+            "entrant2Id": 8209405,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "Mango's Friend | Lucky",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8186741,
+            "loserId": 8209405,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "Mango's Friend | Lucky",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ]
+        },
+        {
+            "id": 41043084,
+            "entrant1Id": 8316066,
+            "entrant2Id": 8209405,
+            "entrant1Name": "GUG | Kurv",
+            "entrant2Name": "Mango's Friend | Lucky",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8209405,
+            "loserId": 8316066,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "GUG | Kurv",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 37116,
+                    "playerTag": "Kurv"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ]
+        },
+        {
+            "id": 41042969,
+            "entrant1Id": 8209405,
+            "entrant2Id": 7601124,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "Palpa",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7601124,
+            "loserId": 8209405,
+            "winnerName": "Palpa",
+            "loserName": "Mango's Friend | Lucky",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 662333,
+                    "playerTag": "Palpa"
+                }
+            ]
+        },
+        {
+            "id": 41043069,
+            "entrant1Id": 8209405,
+            "entrant2Id": 7603492,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "dansdaman",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8209405,
+            "loserId": 7603492,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "dansdaman",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 53112,
+                    "playerTag": "dansdaman"
+                }
+            ]
+        },
+        {
+            "id": 41020506,
+            "entrant1Id": 8209405,
+            "entrant2Id": 7684101,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "Air",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8209405,
+            "loserId": 7684101,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "Air",
+            "bracketName": "Pools",
+            "bracketId": 1583006,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10282,
+                    "playerTag": "Air"
+                }
+            ]
+        },
+        {
+            "id": 41020502,
+            "entrant1Id": 8209405,
+            "entrant2Id": 7622590,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "Professor Cube",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8209405,
+            "loserId": 7622590,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "Professor Cube",
+            "bracketName": "Pools",
+            "bracketId": 1583006,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 67230,
+                    "playerTag": "Professor Cube"
+                }
+            ]
+        },
+        {
+            "id": 41020494,
+            "entrant1Id": 8209405,
+            "entrant2Id": 8291855,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "Maus",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8209405,
+            "loserId": 8291855,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "Maus",
+            "bracketName": "Pools",
+            "bracketId": 1583006,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 931768,
+                    "playerTag": "Maus"
+                }
+            ]
+        },
+        {
+            "id": 43050269,
+            "entrant1Id": 8919696,
+            "entrant2Id": 8922349,
+            "entrant1Name": "Spark",
+            "entrant2Name": "Mango's Friend | Lucky",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8922349,
+            "loserId": 8919696,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "Spark",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ]
+        },
+        {
+            "id": 43050270,
+            "entrant1Id": 8922349,
+            "entrant2Id": 8919696,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "Spark",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8919696,
+            "loserId": 8922349,
+            "winnerName": "Spark",
+            "loserName": "Mango's Friend | Lucky",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ]
+        },
+        {
+            "id": 43050396,
+            "entrant1Id": 8919590,
+            "entrant2Id": 8922349,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "Mango's Friend | Lucky",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8922349,
+            "loserId": 8919590,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "Faceroll",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ]
+        },
+        {
+            "id": 43050267,
+            "entrant1Id": 8922349,
+            "entrant2Id": 8919696,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "Spark",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8919696,
+            "loserId": 8922349,
+            "winnerName": "Spark",
+            "loserName": "Mango's Friend | Lucky",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ]
+        },
+        {
+            "id": 43050394,
+            "entrant1Id": 8922349,
+            "entrant2Id": 8922801,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "Nintendude",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8922349,
+            "loserId": 8922801,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "Nintendude",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1023,
+                    "playerTag": "Nintendude"
+                }
+            ]
+        },
+        {
+            "id": 43050264,
+            "entrant1Id": 8922349,
+            "entrant2Id": 8919673,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "PULSE | Justus",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8922349,
+            "loserId": 8919673,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "PULSE | Justus",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ]
+        },
+        {
+            "id": 43050258,
+            "entrant1Id": 8922349,
+            "entrant2Id": 8919575,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "bonfire10",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8922349,
+            "loserId": 8919575,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "bonfire10",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3738,
+                    "playerTag": "bonfire10"
+                }
+            ]
+        },
+        {
+            "id": 43050246,
+            "entrant1Id": 8922349,
+            "entrant2Id": 8919617,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "Chu12ch",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8922349,
+            "loserId": 8919617,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "Chu12ch",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12572,
+                    "playerTag": "Chu12ch"
+                }
+            ]
+        },
+        {
+            "id": 42188348,
+            "entrant1Id": 8708504,
+            "entrant2Id": 8690065,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "MF | KoDoRiN",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8690065,
+            "loserId": 8708504,
+            "winnerName": "MF | KoDoRiN",
+            "loserName": "Mango's Friend | Lucky",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 42188604,
+            "entrant1Id": 8708504,
+            "entrant2Id": 8688721,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8688721,
+            "loserId": 8708504,
+            "winnerName": "Fiction",
+            "loserName": "Mango's Friend | Lucky",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 42188346,
+            "entrant1Id": 8689984,
+            "entrant2Id": 8708504,
+            "entrant1Name": "SD | Android 0",
+            "entrant2Name": "Mango's Friend | Lucky",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8708504,
+            "loserId": 8689984,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "SD | Android 0",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ]
+        },
+        {
+            "id": 42188343,
+            "entrant1Id": 8708425,
+            "entrant2Id": 8708504,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "Mango's Friend | Lucky",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8708504,
+            "loserId": 8708425,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "bc | S2J",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ]
+        },
+        {
+            "id": 42188337,
+            "entrant1Id": 8708504,
+            "entrant2Id": 8691168,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "GGC | Gooms",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8708504,
+            "loserId": 8691168,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "GGC | Gooms",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 18840,
+                    "playerTag": "Gooms"
+                }
+            ]
+        },
+        {
+            "id": 42188324,
+            "entrant1Id": 8708504,
+            "entrant2Id": 8690239,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "PBoDy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8708504,
+            "loserId": 8690239,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "PBoDy",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 39143,
+                    "playerTag": "PBoDy"
+                }
+            ]
+        },
+        {
+            "id": 42188298,
+            "entrant1Id": 8708504,
+            "entrant2Id": 8695276,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "Truffles",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8708504,
+            "loserId": 8695276,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "Truffles",
+            "bracketName": "Bracket",
+            "bracketId": 1616775,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 260486,
+                    "playerTag": "Truffles"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "kurv",
+        "spark",
+        "faceroll",
+        "justus",
+        "android 0",
+        "s2j",
+        "kalamazhu",
+        "dacky",
+        "faceroll"
+    ],
+    "L": [
+        "gahtzu",
+        "palpa",
+        "spark",
+        "spark",
+        "kodorin",
+        "fiction",
+        "s2j",
+        "wizzrobe"
+    ]
+}

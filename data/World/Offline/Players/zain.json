@@ -1,0 +1,680 @@
+{
+    "MPGR": 6,
+    "Events": [
+        596002,
+        635845,
+        606697
+    ],
+    "Sets": [
+        {
+            "id": 38962553,
+            "entrant1Id": 7731686,
+            "entrant2Id": 7731696,
+            "entrant1Name": "Zain",
+            "entrant2Name": "C9 | Mang0",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731696,
+            "loserId": 7731686,
+            "winnerName": "C9 | Mang0",
+            "loserName": "Zain",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1000,
+                    "playerTag": "Mang0"
+                }
+            ]
+        },
+        {
+            "id": 38962554,
+            "entrant1Id": 7731696,
+            "entrant2Id": 7731686,
+            "entrant1Name": "C9 | Mang0",
+            "entrant2Name": "Zain",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7731696,
+            "loserId": 7731686,
+            "winnerName": "C9 | Mang0",
+            "loserName": "Zain",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 1000,
+                    "playerTag": "Mang0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ]
+        },
+        {
+            "id": 38962552,
+            "entrant1Id": 7731686,
+            "entrant2Id": 7731728,
+            "entrant1Name": "Zain",
+            "entrant2Name": "Liquid | Hungrybox",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7731686,
+            "loserId": 7731728,
+            "winnerName": "Zain",
+            "loserName": "Liquid | Hungrybox",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 38962550,
+            "entrant1Id": 7731686,
+            "entrant2Id": 7731707,
+            "entrant1Name": "Zain",
+            "entrant2Name": "Panda RB | Plup",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7731686,
+            "loserId": 7731707,
+            "winnerName": "Zain",
+            "loserName": "Panda RB | Plup",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ]
+        },
+        {
+            "id": 38962546,
+            "entrant1Id": 7731686,
+            "entrant2Id": 7754567,
+            "entrant1Name": "Zain",
+            "entrant2Name": "KoDoRiN",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7731686,
+            "loserId": 7754567,
+            "winnerName": "Zain",
+            "loserName": "KoDoRiN",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 38930980,
+            "entrant1Id": 7731718,
+            "entrant2Id": 7731686,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Zain",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731686,
+            "loserId": 7731718,
+            "winnerName": "Zain",
+            "loserName": "Panda | iBDW",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1534191,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ]
+        },
+        {
+            "id": 38884387,
+            "entrant1Id": 7731686,
+            "entrant2Id": 7731722,
+            "entrant1Name": "Zain",
+            "entrant2Name": "GG | n0ne/ Bond / wizzyfan109",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7731686,
+            "loserId": 7731722,
+            "winnerName": "Zain",
+            "loserName": "GG | n0ne/ Bond / wizzyfan109",
+            "bracketName": "Group Stage",
+            "bracketId": 1533147,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4107,
+                    "playerTag": "n0ne/ Bond / wizzyfan109"
+                }
+            ]
+        },
+        {
+            "id": 38884385,
+            "entrant1Id": 7731686,
+            "entrant2Id": 7731710,
+            "entrant1Name": "Zain",
+            "entrant2Name": "VGBC RB | aMSa",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7731686,
+            "loserId": 7731710,
+            "winnerName": "Zain",
+            "loserName": "VGBC RB | aMSa",
+            "bracketName": "Group Stage",
+            "bracketId": 1533147,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1021,
+                    "playerTag": "aMSa"
+                }
+            ]
+        },
+        {
+            "id": 38884383,
+            "entrant1Id": 7731686,
+            "entrant2Id": 7731733,
+            "entrant1Name": "Zain",
+            "entrant2Name": "Frame1 | yingling",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7731686,
+            "loserId": 7731733,
+            "winnerName": "Zain",
+            "loserName": "Frame1 | yingling",
+            "bracketName": "Group Stage",
+            "bracketId": 1533147,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12137,
+                    "playerTag": "yingling"
+                }
+            ]
+        },
+        {
+            "id": 43130432,
+            "entrant1Id": 8879467,
+            "entrant2Id": 8879464,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Zain",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8879467,
+            "loserId": 8879464,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Zain",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ]
+        },
+        {
+            "id": 43130464,
+            "entrant1Id": 8879464,
+            "entrant2Id": 8880094,
+            "entrant1Name": "Zain",
+            "entrant2Name": "C9 | Mang0",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8880094,
+            "loserId": 8879464,
+            "winnerName": "C9 | Mang0",
+            "loserName": "Zain",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1000,
+                    "playerTag": "Mang0"
+                }
+            ]
+        },
+        {
+            "id": 43130431,
+            "entrant1Id": 8879464,
+            "entrant2Id": 8880094,
+            "entrant1Name": "Zain",
+            "entrant2Name": "C9 | Mang0",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8879464,
+            "loserId": 8880094,
+            "winnerName": "Zain",
+            "loserName": "C9 | Mang0",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1000,
+                    "playerTag": "Mang0"
+                }
+            ]
+        },
+        {
+            "id": 43130428,
+            "entrant1Id": 8879464,
+            "entrant2Id": 8879496,
+            "entrant1Name": "Zain",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8879464,
+            "loserId": 8879496,
+            "winnerName": "Zain",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 43043523,
+            "entrant1Id": 8879464,
+            "entrant2Id": 8879491,
+            "entrant1Name": "Zain",
+            "entrant2Name": "Fly | KoDoRiN",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8879464,
+            "loserId": 8879491,
+            "winnerName": "Zain",
+            "loserName": "Fly | KoDoRiN",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637736,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 43043521,
+            "entrant1Id": 8879464,
+            "entrant2Id": 8879501,
+            "entrant1Name": "Zain",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8879464,
+            "loserId": 8879501,
+            "winnerName": "Zain",
+            "loserName": "LG | Ginger",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637736,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 43043519,
+            "entrant1Id": 8879464,
+            "entrant2Id": 8879525,
+            "entrant1Name": "Zain",
+            "entrant2Name": "MF | Sora/Joshman",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8879464,
+            "loserId": 8879525,
+            "winnerName": "Zain",
+            "loserName": "MF | Sora/Joshman",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1637736,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 41934596,
+            "entrant1Id": 8575422,
+            "entrant2Id": 8575424,
+            "entrant1Name": "Zain",
+            "entrant2Name": "Panda | iBDW",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8575422,
+            "loserId": 8575424,
+            "winnerName": "Zain",
+            "loserName": "Panda | iBDW",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ]
+        },
+        {
+            "id": 41934595,
+            "entrant1Id": 8575422,
+            "entrant2Id": 8575589,
+            "entrant1Name": "Zain",
+            "entrant2Name": "Polish",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575422,
+            "loserId": 8575589,
+            "winnerName": "Zain",
+            "loserName": "Polish",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68928,
+                    "playerTag": "Polish"
+                }
+            ]
+        },
+        {
+            "id": 41934593,
+            "entrant1Id": 8575422,
+            "entrant2Id": 8575569,
+            "entrant1Name": "Zain",
+            "entrant2Name": "Liquid | Hungrybox",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8575422,
+            "loserId": 8575569,
+            "winnerName": "Zain",
+            "loserName": "Liquid | Hungrybox",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 41934589,
+            "entrant1Id": 8575422,
+            "entrant2Id": 8575571,
+            "entrant1Name": "Zain",
+            "entrant2Name": "Colbol",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8575422,
+            "loserId": 8575571,
+            "winnerName": "Zain",
+            "loserName": "Colbol",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1607846,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1009,
+                    "playerTag": "Colbol"
+                }
+            ]
+        },
+        {
+            "id": 41885792,
+            "entrant1Id": 8575422,
+            "entrant2Id": 8575458,
+            "entrant1Name": "Zain",
+            "entrant2Name": "20GX | Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575422,
+            "loserId": 8575458,
+            "winnerName": "Zain",
+            "loserName": "20GX | Gahtzu",
+            "bracketName": "Group Stage",
+            "bracketId": 1452633,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 41885790,
+            "entrant1Id": 8575422,
+            "entrant2Id": 8575466,
+            "entrant1Name": "Zain",
+            "entrant2Name": "Brotherhood|CM | Aklo",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8575422,
+            "loserId": 8575466,
+            "winnerName": "Zain",
+            "loserName": "Brotherhood|CM | Aklo",
+            "bracketName": "Group Stage",
+            "bracketId": 1452633,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ]
+        },
+        {
+            "id": 41885788,
+            "entrant1Id": 8575422,
+            "entrant2Id": 8575603,
+            "entrant1Name": "Zain",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8575422,
+            "loserId": 8575603,
+            "winnerName": "Zain",
+            "loserName": "HSTV | Zamu",
+            "bracketName": "Group Stage",
+            "bracketId": 1452633,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "hungrybox",
+        "plup",
+        "kodorin",
+        "ibdw",
+        "n0ne/ bond / wizzyfan109",
+        "amsa",
+        "mang0",
+        "sfat",
+        "kodorin",
+        "ginger",
+        "sora/joshman",
+        "ibdw",
+        "polish",
+        "hungrybox",
+        "colbol",
+        "gahtzu",
+        "aklo",
+        "zamu"
+    ],
+    "L": [
+        "mang0",
+        "mang0",
+        "ibdw",
+        "mang0"
+    ]
+}

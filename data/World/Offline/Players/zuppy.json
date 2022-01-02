@@ -1,0 +1,550 @@
+{
+    "MPGR": 200,
+    "Events": [
+        596731,
+        611389
+    ],
+    "Sets": [
+        {
+            "id": 41300460,
+            "entrant1Id": 8271181,
+            "entrant2Id": 8365339,
+            "entrant1Name": "Noble | Soonsay",
+            "entrant2Name": "Zuppy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8271181,
+            "loserId": 8365339,
+            "winnerName": "Noble | Soonsay",
+            "loserName": "Zuppy",
+            "bracketName": "Top 8",
+            "bracketId": 1592121,
+            "entrant1Players": [
+                {
+                    "playerId": 324561,
+                    "playerTag": "Soonsay"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ]
+        },
+        {
+            "id": 41300443,
+            "entrant1Id": 8191534,
+            "entrant2Id": 8365339,
+            "entrant1Name": "GG | n0ne/ Bond / wizzyfan109",
+            "entrant2Name": "Zuppy",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8191534,
+            "loserId": 8365339,
+            "winnerName": "GG | n0ne/ Bond / wizzyfan109",
+            "loserName": "Zuppy",
+            "bracketName": "Top 8",
+            "bracketId": 1592121,
+            "entrant1Players": [
+                {
+                    "playerId": 4107,
+                    "playerTag": "n0ne/ Bond / wizzyfan109"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ]
+        },
+        {
+            "id": 41300459,
+            "entrant1Id": 8365339,
+            "entrant2Id": 8172993,
+            "entrant1Name": "Zuppy",
+            "entrant2Name": "CLA | Elliot",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8365339,
+            "loserId": 8172993,
+            "winnerName": "Zuppy",
+            "loserName": "CLA | Elliot",
+            "bracketName": "Top 8",
+            "bracketId": 1592121,
+            "entrant1Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7612,
+                    "playerTag": "Elliot"
+                }
+            ]
+        },
+        {
+            "id": 41261855,
+            "entrant1Id": 8337137,
+            "entrant2Id": 8365339,
+            "entrant1Name": "Dacky",
+            "entrant2Name": "Zuppy",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8365339,
+            "loserId": 8337137,
+            "winnerName": "Zuppy",
+            "loserName": "Dacky",
+            "bracketName": "Top 32",
+            "bracketId": 1534711,
+            "entrant1Players": [
+                {
+                    "playerId": 45951,
+                    "playerTag": "Dacky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ]
+        },
+        {
+            "id": 41261849,
+            "entrant1Id": 8365339,
+            "entrant2Id": 8174638,
+            "entrant1Name": "Zuppy",
+            "entrant2Name": "zilo",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8365339,
+            "loserId": 8174638,
+            "winnerName": "Zuppy",
+            "loserName": "zilo",
+            "bracketName": "Top 32",
+            "bracketId": 1534711,
+            "entrant1Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 66311,
+                    "playerTag": "zilo"
+                }
+            ]
+        },
+        {
+            "id": 41253249,
+            "entrant1Id": 8365339,
+            "entrant2Id": 8442915,
+            "entrant1Name": "Zuppy",
+            "entrant2Name": "VI | Sage",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8365339,
+            "loserId": 8442915,
+            "winnerName": "Zuppy",
+            "loserName": "VI | Sage",
+            "bracketName": "Bracket",
+            "bracketId": 1592120,
+            "entrant1Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10530,
+                    "playerTag": "Sage"
+                }
+            ]
+        },
+        {
+            "id": 41253243,
+            "entrant1Id": 8365339,
+            "entrant2Id": 8344747,
+            "entrant1Name": "Zuppy",
+            "entrant2Name": "Falgar",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8365339,
+            "loserId": 8344747,
+            "winnerName": "Zuppy",
+            "loserName": "Falgar",
+            "bracketName": "Bracket",
+            "bracketId": 1592120,
+            "entrant1Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154414,
+                    "playerTag": "Falgar"
+                }
+            ]
+        },
+        {
+            "id": 40666843,
+            "entrant1Id": 8314556,
+            "entrant2Id": 8216062,
+            "entrant1Name": "GG | n0ne/ Bond / wizzyfan109",
+            "entrant2Name": "Zuppy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8314556,
+            "loserId": 8216062,
+            "winnerName": "GG | n0ne/ Bond / wizzyfan109",
+            "loserName": "Zuppy",
+            "bracketName": "Bracket",
+            "bracketId": 1577319,
+            "entrant1Players": [
+                {
+                    "playerId": 4107,
+                    "playerTag": "n0ne/ Bond / wizzyfan109"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ]
+        },
+        {
+            "id": 40666842,
+            "entrant1Id": 8314556,
+            "entrant2Id": 8216062,
+            "entrant1Name": "GG | n0ne/ Bond / wizzyfan109",
+            "entrant2Name": "Zuppy",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8314556,
+            "loserId": 8216062,
+            "winnerName": "GG | n0ne/ Bond / wizzyfan109",
+            "loserName": "Zuppy",
+            "bracketName": "Bracket",
+            "bracketId": 1577319,
+            "entrant1Players": [
+                {
+                    "playerId": 4107,
+                    "playerTag": "n0ne/ Bond / wizzyfan109"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ]
+        },
+        {
+            "id": 40666906,
+            "entrant1Id": 8216062,
+            "entrant2Id": 8216523,
+            "entrant1Name": "Zuppy",
+            "entrant2Name": "Faust",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8216062,
+            "loserId": 8216523,
+            "winnerName": "Zuppy",
+            "loserName": "Faust",
+            "bracketName": "Bracket",
+            "bracketId": 1577319,
+            "entrant1Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45726,
+                    "playerTag": "Faust"
+                }
+            ]
+        },
+        {
+            "id": 40666841,
+            "entrant1Id": 8216062,
+            "entrant2Id": 8215883,
+            "entrant1Name": "Zuppy",
+            "entrant2Name": "CG | Goosekhan",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8216062,
+            "loserId": 8215883,
+            "winnerName": "Zuppy",
+            "loserName": "CG | Goosekhan",
+            "bracketName": "Bracket",
+            "bracketId": 1577319,
+            "entrant1Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 508967,
+                    "playerTag": "Goosekhan"
+                }
+            ]
+        },
+        {
+            "id": 40666838,
+            "entrant1Id": 8216062,
+            "entrant2Id": 8218956,
+            "entrant1Name": "Zuppy",
+            "entrant2Name": "Rabbit",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8216062,
+            "loserId": 8218956,
+            "winnerName": "Zuppy",
+            "loserName": "Rabbit",
+            "bracketName": "Bracket",
+            "bracketId": 1577319,
+            "entrant1Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5126,
+                    "playerTag": "Rabbit"
+                }
+            ]
+        },
+        {
+            "id": 40666832,
+            "entrant1Id": 8216062,
+            "entrant2Id": 8252076,
+            "entrant1Name": "Zuppy",
+            "entrant2Name": "vash",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8216062,
+            "loserId": 8252076,
+            "winnerName": "Zuppy",
+            "loserName": "vash",
+            "bracketName": "Bracket",
+            "bracketId": 1577319,
+            "entrant1Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 131088,
+                    "playerTag": "vash"
+                }
+            ]
+        },
+        {
+            "id": 40666500,
+            "entrant1Id": 8216062,
+            "entrant2Id": 8258229,
+            "entrant1Name": "Zuppy",
+            "entrant2Name": "Seena",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8216062,
+            "loserId": 8258229,
+            "winnerName": "Zuppy",
+            "loserName": "Seena",
+            "bracketName": "POOLS",
+            "bracketId": 1577316,
+            "entrant1Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2952,
+                    "playerTag": "Seena"
+                }
+            ]
+        },
+        {
+            "id": 40666497,
+            "entrant1Id": 8216062,
+            "entrant2Id": 8252744,
+            "entrant1Name": "Zuppy",
+            "entrant2Name": "Fern",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8216062,
+            "loserId": 8252744,
+            "winnerName": "Zuppy",
+            "loserName": "Fern",
+            "bracketName": "POOLS",
+            "bracketId": 1577316,
+            "entrant1Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 608554,
+                    "playerTag": "Fern"
+                }
+            ]
+        },
+        {
+            "id": 40666494,
+            "entrant1Id": 8216062,
+            "entrant2Id": 8217665,
+            "entrant1Name": "Zuppy",
+            "entrant2Name": "NMFC",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8216062,
+            "loserId": 8217665,
+            "winnerName": "Zuppy",
+            "loserName": "NMFC",
+            "bracketName": "POOLS",
+            "bracketId": 1577316,
+            "entrant1Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1051301,
+                    "playerTag": "NMFC"
+                }
+            ]
+        },
+        {
+            "id": 40666491,
+            "entrant1Id": 8216062,
+            "entrant2Id": 8249959,
+            "entrant1Name": "Zuppy",
+            "entrant2Name": "BeanStubs",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8216062,
+            "loserId": 8249959,
+            "winnerName": "Zuppy",
+            "loserName": "BeanStubs",
+            "bracketName": "POOLS",
+            "bracketId": 1577316,
+            "entrant1Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54157,
+                    "playerTag": "BeanStubs"
+                }
+            ]
+        },
+        {
+            "id": 40666488,
+            "entrant1Id": 8216062,
+            "entrant2Id": 8250614,
+            "entrant1Name": "Zuppy",
+            "entrant2Name": "Disastin",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8216062,
+            "loserId": 8250614,
+            "winnerName": "Zuppy",
+            "loserName": "Disastin",
+            "bracketName": "POOLS",
+            "bracketId": 1577316,
+            "entrant1Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2436847,
+                    "playerTag": "Disastin"
+                }
+            ]
+        },
+        {
+            "id": 40666485,
+            "entrant1Id": 8216062,
+            "entrant2Id": 8283573,
+            "entrant1Name": "Zuppy",
+            "entrant2Name": "Schmeez",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8216062,
+            "loserId": 8283573,
+            "winnerName": "Zuppy",
+            "loserName": "Schmeez",
+            "bracketName": "POOLS",
+            "bracketId": 1577316,
+            "entrant1Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 946082,
+                    "playerTag": "Schmeez"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "dacky"
+    ],
+    "L": [
+        "Soonsay",
+        "n0ne/ bond / wizzyfan109",
+        "n0ne/ bond / wizzyfan109",
+        "n0ne/ bond / wizzyfan109"
+    ]
+}

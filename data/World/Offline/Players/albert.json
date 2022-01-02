@@ -1,0 +1,565 @@
+{
+    "MPGR": 37,
+    "Events": [
+        585641,
+        554629,
+        657283,
+        584741
+    ],
+    "Sets": [
+        {
+            "id": 41085353,
+            "entrant1Id": 8183182,
+            "entrant2Id": 8349340,
+            "entrant1Name": "Albert",
+            "entrant2Name": "NOT S2J | SDJ",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8349340,
+            "loserId": 8183182,
+            "winnerName": "NOT S2J | SDJ",
+            "loserName": "Albert",
+            "bracketName": "Top 8",
+            "bracketId": 1583001,
+            "entrant1Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 325974,
+                    "playerTag": "SDJ"
+                }
+            ]
+        },
+        {
+            "id": 41057058,
+            "entrant1Id": 7604256,
+            "entrant2Id": 8183182,
+            "entrant1Name": "SFOP",
+            "entrant2Name": "Albert",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8183182,
+            "loserId": 7604256,
+            "winnerName": "Albert",
+            "loserName": "SFOP",
+            "bracketName": "Top 16",
+            "bracketId": 1583000,
+            "entrant1Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ]
+        },
+        {
+            "id": 41057054,
+            "entrant1Id": 7601961,
+            "entrant2Id": 8183182,
+            "entrant1Name": "Pappi",
+            "entrant2Name": "Albert",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8183182,
+            "loserId": 7601961,
+            "winnerName": "Albert",
+            "loserName": "Pappi",
+            "bracketName": "Top 16",
+            "bracketId": 1583000,
+            "entrant1Players": [
+                {
+                    "playerId": 61570,
+                    "playerTag": "Pappi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ]
+        },
+        {
+            "id": 41042978,
+            "entrant1Id": 7601124,
+            "entrant2Id": 8183182,
+            "entrant1Name": "Palpa",
+            "entrant2Name": "Albert",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7601124,
+            "loserId": 8183182,
+            "winnerName": "Palpa",
+            "loserName": "Albert",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 662333,
+                    "playerTag": "Palpa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ]
+        },
+        {
+            "id": 41043096,
+            "entrant1Id": 8183182,
+            "entrant2Id": 7601126,
+            "entrant1Name": "Albert",
+            "entrant2Name": "Secrets",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8183182,
+            "loserId": 7601126,
+            "winnerName": "Albert",
+            "loserName": "Secrets",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 28720,
+                    "playerTag": "Secrets"
+                }
+            ]
+        },
+        {
+            "id": 41042970,
+            "entrant1Id": 8183182,
+            "entrant2Id": 8316066,
+            "entrant1Name": "Albert",
+            "entrant2Name": "GUG | Kurv",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8183182,
+            "loserId": 8316066,
+            "winnerName": "Albert",
+            "loserName": "GUG | Kurv",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37116,
+                    "playerTag": "Kurv"
+                }
+            ]
+        },
+        {
+            "id": 41020269,
+            "entrant1Id": 8183182,
+            "entrant2Id": 7602279,
+            "entrant1Name": "Albert",
+            "entrant2Name": "X-Rey",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8183182,
+            "loserId": 7602279,
+            "winnerName": "Albert",
+            "loserName": "X-Rey",
+            "bracketName": "Pools",
+            "bracketId": 1583011,
+            "entrant1Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 35863,
+                    "playerTag": "X-Rey"
+                }
+            ]
+        },
+        {
+            "id": 41020265,
+            "entrant1Id": 8183182,
+            "entrant2Id": 8142328,
+            "entrant1Name": "Albert",
+            "entrant2Name": "GT",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8183182,
+            "loserId": 8142328,
+            "winnerName": "Albert",
+            "loserName": "GT",
+            "bracketName": "Pools",
+            "bracketId": 1583011,
+            "entrant1Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 520755,
+                    "playerTag": "GT"
+                }
+            ]
+        },
+        {
+            "id": 41020257,
+            "entrant1Id": 8183182,
+            "entrant2Id": 8179203,
+            "entrant1Name": "Albert",
+            "entrant2Name": "Kr3g",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8183182,
+            "loserId": 8179203,
+            "winnerName": "Albert",
+            "loserName": "Kr3g",
+            "bracketName": "Pools",
+            "bracketId": 1583011,
+            "entrant1Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 244714,
+                    "playerTag": "Linkitcraig"
+                }
+            ]
+        },
+        {
+            "id": 41711572,
+            "entrant1Id": 8552216,
+            "entrant2Id": 8552210,
+            "entrant1Name": "Captain Faceroll",
+            "entrant2Name": "Albert",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552216,
+            "loserId": 8552210,
+            "winnerName": "Captain Faceroll",
+            "loserName": "Albert",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ]
+        },
+        {
+            "id": 41711568,
+            "entrant1Id": 8552210,
+            "entrant2Id": 8552221,
+            "entrant1Name": "Albert",
+            "entrant2Name": "Dacky",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552210,
+            "loserId": 8552221,
+            "winnerName": "Albert",
+            "loserName": "Dacky",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45951,
+                    "playerTag": "Dacky"
+                }
+            ]
+        },
+        {
+            "id": 41664951,
+            "entrant1Id": 8552198,
+            "entrant2Id": 8552210,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "Albert",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552198,
+            "loserId": 8552210,
+            "winnerName": "bc | S2J",
+            "loserName": "Albert",
+            "bracketName": "Group Stage",
+            "bracketId": 1603215,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ]
+        },
+        {
+            "id": 41664950,
+            "entrant1Id": 8578575,
+            "entrant2Id": 8552210,
+            "entrant1Name": "SD | Android 0",
+            "entrant2Name": "Albert",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552210,
+            "loserId": 8578575,
+            "winnerName": "Albert",
+            "loserName": "SD | Android 0",
+            "bracketName": "Group Stage",
+            "bracketId": 1603215,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ]
+        },
+        {
+            "id": 41664948,
+            "entrant1Id": 8552210,
+            "entrant2Id": 8552229,
+            "entrant1Name": "Albert",
+            "entrant2Name": "Aura",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552229,
+            "loserId": 8552210,
+            "winnerName": "Aura",
+            "loserName": "Albert",
+            "bracketName": "Group Stage",
+            "bracketId": 1603215,
+            "entrant1Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46349,
+                    "playerTag": "Aura"
+                }
+            ]
+        },
+        {
+            "id": 43050266,
+            "entrant1Id": 8919590,
+            "entrant2Id": 8919705,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "Albert",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8919590,
+            "loserId": 8919705,
+            "winnerName": "Faceroll",
+            "loserName": "Albert",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ]
+        },
+        {
+            "id": 43050393,
+            "entrant1Id": 8919705,
+            "entrant2Id": 8919673,
+            "entrant1Name": "Albert",
+            "entrant2Name": "PULSE | Justus",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8919705,
+            "loserId": 8919673,
+            "winnerName": "Albert",
+            "loserName": "PULSE | Justus",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ]
+        },
+        {
+            "id": 43050263,
+            "entrant1Id": 8919705,
+            "entrant2Id": 8919706,
+            "entrant1Name": "Albert",
+            "entrant2Name": "RSN | Frenzy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8919705,
+            "loserId": 8919706,
+            "winnerName": "Albert",
+            "loserName": "RSN | Frenzy",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11139,
+                    "playerTag": "Frenzy"
+                }
+            ]
+        },
+        {
+            "id": 43050256,
+            "entrant1Id": 8919705,
+            "entrant2Id": 8919626,
+            "entrant1Name": "Albert",
+            "entrant2Name": "TS | Mist",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8919705,
+            "loserId": 8919626,
+            "winnerName": "Albert",
+            "loserName": "TS | Mist",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10158,
+                    "playerTag": "Mist"
+                }
+            ]
+        },
+        {
+            "id": 43050242,
+            "entrant1Id": 8919705,
+            "entrant2Id": 8924280,
+            "entrant1Name": "Albert",
+            "entrant2Name": "PEPIS | Slime",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8919705,
+            "loserId": 8924280,
+            "winnerName": "Albert",
+            "loserName": "PEPIS | Slime",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13963,
+                    "playerTag": "Slime"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "sfop",
+        "pappi",
+        "secrets",
+        "kurv",
+        "dacky",
+        "android 0",
+        "justus",
+        "frenzy",
+        "eddy mexico",
+        "fatgoku"
+    ],
+    "L": [
+        "sdj",
+        "palpa",
+        "faceroll",
+        "s2j",
+        "aura",
+        "faceroll",
+        "ibdw",
+        "sfat"
+    ]
+}
