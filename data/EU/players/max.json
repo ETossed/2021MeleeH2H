@@ -1,4 +1,5 @@
 {
+    "ID": 818697,
     "Events": [
         554625,
         457669,
@@ -9,10 +10,7 @@
         543662,
         554988,
         550163,
-        541113,
-        607431,
-        622655,
-        648241
+        541113
     ],
     "Sets": [
         {
@@ -818,6 +816,62 @@
                 {
                     "playerId": 318564,
                     "playerTag": "ILikeTurtles"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 818697,
+                    "playerTag": "max"
+                }
+            ]
+        },
+        {
+            "id": 39839967,
+            "entrant1Id": 8099025,
+            "entrant2Id": 8100383,
+            "entrant1Name": "disot",
+            "entrant2Name": "max",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8100383,
+            "loserId": 8099025,
+            "winnerName": "max",
+            "loserName": "disot",
+            "bracketName": "Round Robin",
+            "bracketId": 1557211,
+            "entrant1Players": [
+                {
+                    "playerId": 2212539,
+                    "playerTag": "disot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 818697,
+                    "playerTag": "max"
+                }
+            ]
+        },
+        {
+            "id": 39839967,
+            "entrant1Id": 8099025,
+            "entrant2Id": 8100383,
+            "entrant1Name": "disot",
+            "entrant2Name": "max",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8100383,
+            "loserId": 8099025,
+            "winnerName": "max",
+            "loserName": "disot",
+            "bracketName": "Round Robin",
+            "bracketId": 1557211,
+            "entrant1Players": [
+                {
+                    "playerId": 2212539,
+                    "playerTag": "disot"
                 }
             ],
             "entrant2Players": [
@@ -2590,734 +2644,6 @@
                     "playerTag": "Lemmon"
                 }
             ]
-        },
-        {
-            "id": 40413369,
-            "entrant1Id": 8062918,
-            "entrant2Id": 8062953,
-            "entrant1Name": "Max",
-            "entrant2Name": "Cillit",
-            "entrant1Score": 1,
-            "entrant2Score": 3,
-            "completed": true,
-            "winnerId": 8062953,
-            "loserId": 8062918,
-            "winnerName": "Cillit",
-            "loserName": "Max",
-            "bracketName": "Intermediate Bracket",
-            "bracketId": 1552061,
-            "entrant1Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 25585,
-                    "playerTag": "Cillit"
-                }
-            ]
-        },
-        {
-            "id": 40413370,
-            "entrant1Id": 8062953,
-            "entrant2Id": 8062918,
-            "entrant1Name": "Cillit",
-            "entrant2Name": "Max",
-            "entrant1Score": 3,
-            "entrant2Score": 2,
-            "completed": true,
-            "winnerId": 8062953,
-            "loserId": 8062918,
-            "winnerName": "Cillit",
-            "loserName": "Max",
-            "bracketName": "Intermediate Bracket",
-            "bracketId": 1552061,
-            "entrant1Players": [
-                {
-                    "playerId": 25585,
-                    "playerTag": "Cillit"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ]
-        },
-        {
-            "id": 40413368,
-            "entrant1Id": 8062918,
-            "entrant2Id": 8157622,
-            "entrant1Name": "Max",
-            "entrant2Name": "Amnesia",
-            "entrant1Score": 3,
-            "entrant2Score": 1,
-            "completed": true,
-            "winnerId": 8062918,
-            "loserId": 8157622,
-            "winnerName": "Max",
-            "loserName": "Amnesia",
-            "bracketName": "Intermediate Bracket",
-            "bracketId": 1552061,
-            "entrant1Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 232179,
-                    "playerTag": "Amnesia"
-                }
-            ]
-        },
-        {
-            "id": 40410330,
-            "entrant1Id": 8062785,
-            "entrant2Id": 8062918,
-            "entrant1Name": "NGNS | Schima",
-            "entrant2Name": "Max",
-            "entrant1Score": 2,
-            "entrant2Score": 0,
-            "completed": true,
-            "winnerId": 8062785,
-            "loserId": 8062918,
-            "winnerName": "NGNS | Schima",
-            "loserName": "Max",
-            "bracketName": "Pools",
-            "bracketId": 1552055,
-            "entrant1Players": [
-                {
-                    "playerId": 374929,
-                    "playerTag": "Schima"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ]
-        },
-        {
-            "id": 40413366,
-            "entrant1Id": 8062953,
-            "entrant2Id": 8062918,
-            "entrant1Name": "Cillit",
-            "entrant2Name": "Max",
-            "entrant1Score": 0,
-            "entrant2Score": 3,
-            "completed": true,
-            "winnerId": 8062918,
-            "loserId": 8062953,
-            "winnerName": "Max",
-            "loserName": "Cillit",
-            "bracketName": "Intermediate Bracket",
-            "bracketId": 1552061,
-            "entrant1Players": [
-                {
-                    "playerId": 25585,
-                    "playerTag": "Cillit"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ]
-        },
-        {
-            "id": 40410329,
-            "entrant1Id": 8077832,
-            "entrant2Id": 8062918,
-            "entrant1Name": "lemone",
-            "entrant2Name": "Max",
-            "entrant1Score": 0,
-            "entrant2Score": 2,
-            "completed": true,
-            "winnerId": 8062918,
-            "loserId": 8077832,
-            "winnerName": "Max",
-            "loserName": "lemone",
-            "bracketName": "Pools",
-            "bracketId": 1552055,
-            "entrant1Players": [
-                {
-                    "playerId": 1270308,
-                    "playerTag": "lemone"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ]
-        },
-        {
-            "id": 40413363,
-            "entrant1Id": 8062918,
-            "entrant2Id": 8077171,
-            "entrant1Name": "Max",
-            "entrant2Name": "Kwalle",
-            "entrant1Score": 3,
-            "entrant2Score": 0,
-            "completed": true,
-            "winnerId": 8062918,
-            "loserId": 8077171,
-            "winnerName": "Max",
-            "loserName": "Kwalle",
-            "bracketName": "Intermediate Bracket",
-            "bracketId": 1552061,
-            "entrant1Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 154360,
-                    "playerTag": "Kwalle"
-                }
-            ]
-        },
-        {
-            "id": 40410327,
-            "entrant1Id": 8078749,
-            "entrant2Id": 8062918,
-            "entrant1Name": "Floursnail",
-            "entrant2Name": "Max",
-            "entrant1Score": 2,
-            "entrant2Score": 0,
-            "completed": true,
-            "winnerId": 8078749,
-            "loserId": 8062918,
-            "winnerName": "Floursnail",
-            "loserName": "Max",
-            "bracketName": "Pools",
-            "bracketId": 1552055,
-            "entrant1Players": [
-                {
-                    "playerId": 175864,
-                    "playerTag": "Floursnail"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ]
-        },
-        {
-            "id": 40413356,
-            "entrant1Id": 8062918,
-            "entrant2Id": 8097378,
-            "entrant1Name": "Max",
-            "entrant2Name": "Blackpixel",
-            "entrant1Score": 3,
-            "entrant2Score": 0,
-            "completed": true,
-            "winnerId": 8062918,
-            "loserId": 8097378,
-            "winnerName": "Max",
-            "loserName": "Blackpixel",
-            "bracketName": "Intermediate Bracket",
-            "bracketId": 1552061,
-            "entrant1Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 2031143,
-                    "playerTag": "Blackpixel"
-                }
-            ]
-        },
-        {
-            "id": 40410325,
-            "entrant1Id": 8062918,
-            "entrant2Id": 8063081,
-            "entrant1Name": "Max",
-            "entrant2Name": "soyboy",
-            "entrant1Score": 2,
-            "entrant2Score": 0,
-            "completed": true,
-            "winnerId": 8062918,
-            "loserId": 8063081,
-            "winnerName": "Max",
-            "loserName": "soyboy",
-            "bracketName": "Pools",
-            "bracketId": 1552055,
-            "entrant1Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 250949,
-                    "playerTag": "soyboy"
-                }
-            ]
-        },
-        {
-            "id": 42304286,
-            "entrant1Id": 8462759,
-            "entrant2Id": 8694138,
-            "entrant1Name": "Kins0",
-            "entrant2Name": "Max",
-            "entrant1Score": 2,
-            "entrant2Score": 0,
-            "completed": true,
-            "winnerId": 8462759,
-            "loserId": 8694138,
-            "winnerName": "Kins0",
-            "loserName": "Max",
-            "bracketName": "Pools",
-            "bracketId": 1579413,
-            "entrant1Players": [
-                {
-                    "playerId": 686245,
-                    "playerTag": "Kins0"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ]
-        },
-        {
-            "id": 42304285,
-            "entrant1Id": 8527088,
-            "entrant2Id": 8694138,
-            "entrant1Name": "Yung_Linc",
-            "entrant2Name": "Max",
-            "entrant1Score": 0,
-            "entrant2Score": 2,
-            "completed": true,
-            "winnerId": 8694138,
-            "loserId": 8527088,
-            "winnerName": "Max",
-            "loserName": "Yung_Linc",
-            "bracketName": "Pools",
-            "bracketId": 1579413,
-            "entrant1Players": [
-                {
-                    "playerId": 2483674,
-                    "playerTag": "Yung_Linc"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ]
-        },
-        {
-            "id": 42304281,
-            "entrant1Id": 8694138,
-            "entrant2Id": 8423192,
-            "entrant1Name": "Max",
-            "entrant2Name": "Bux_Baum",
-            "entrant1Score": 2,
-            "entrant2Score": 0,
-            "completed": true,
-            "winnerId": 8694138,
-            "loserId": 8423192,
-            "winnerName": "Max",
-            "loserName": "Bux_Baum",
-            "bracketName": "Pools",
-            "bracketId": 1579413,
-            "entrant1Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 5267,
-                    "playerTag": "Bux_Baum"
-                }
-            ]
-        },
-        {
-            "id": 42312252,
-            "entrant1Id": 8463268,
-            "entrant2Id": 8694138,
-            "entrant1Name": "Raisem",
-            "entrant2Name": "Max",
-            "entrant1Score": 3,
-            "entrant2Score": 0,
-            "completed": true,
-            "winnerId": 8463268,
-            "loserId": 8694138,
-            "winnerName": "Raisem",
-            "loserName": "Max",
-            "bracketName": "Top 16 Bracket",
-            "bracketId": 1579421,
-            "entrant1Players": [
-                {
-                    "playerId": 150040,
-                    "playerTag": "Raisem"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ]
-        },
-        {
-            "id": 42312248,
-            "entrant1Id": 8646635,
-            "entrant2Id": 8694138,
-            "entrant1Name": "lilfroozy",
-            "entrant2Name": "Max",
-            "entrant1Score": 1,
-            "entrant2Score": 3,
-            "completed": true,
-            "winnerId": 8694138,
-            "loserId": 8646635,
-            "winnerName": "Max",
-            "loserName": "lilfroozy",
-            "bracketName": "Top 16 Bracket",
-            "bracketId": 1579421,
-            "entrant1Players": [
-                {
-                    "playerId": 5388,
-                    "playerTag": "lilfroozy"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ]
-        },
-        {
-            "id": 42312218,
-            "entrant1Id": 8422666,
-            "entrant2Id": 8694138,
-            "entrant1Name": "104 | yung Ullrich",
-            "entrant2Name": "Max",
-            "entrant1Score": 3,
-            "entrant2Score": 0,
-            "completed": true,
-            "winnerId": 8422666,
-            "loserId": 8694138,
-            "winnerName": "104 | yung Ullrich",
-            "loserName": "Max",
-            "bracketName": "Top 16 Bracket",
-            "bracketId": 1579421,
-            "entrant1Players": [
-                {
-                    "playerId": 5767,
-                    "playerTag": "yung Ullrich"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ]
-        },
-        {
-            "id": 42304278,
-            "entrant1Id": 8694138,
-            "entrant2Id": 8541732,
-            "entrant1Name": "Max",
-            "entrant2Name": "Feyrir",
-            "entrant1Score": 2,
-            "entrant2Score": 0,
-            "completed": true,
-            "winnerId": 8694138,
-            "loserId": 8541732,
-            "winnerName": "Max",
-            "loserName": "Feyrir",
-            "bracketName": "Pools",
-            "bracketId": 1579413,
-            "entrant1Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 957422,
-                    "playerTag": "Feyrir"
-                }
-            ]
-        },
-        {
-            "id": 43248627,
-            "entrant1Id": 8824102,
-            "entrant2Id": 8940210,
-            "entrant1Name": "RLB | Rikzz",
-            "entrant2Name": "Max",
-            "entrant1Score": 2,
-            "entrant2Score": 1,
-            "completed": true,
-            "winnerId": 8824102,
-            "loserId": 8940210,
-            "winnerName": "RLB | Rikzz",
-            "loserName": "Max",
-            "bracketName": "Pools",
-            "bracketId": 1624006,
-            "entrant1Players": [
-                {
-                    "playerId": 141233,
-                    "playerTag": "Rikzz"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ]
-        },
-        {
-            "id": 43248626,
-            "entrant1Id": 8822394,
-            "entrant2Id": 8940210,
-            "entrant1Name": "Sandbag | cheddar",
-            "entrant2Name": "Max",
-            "entrant1Score": 0,
-            "entrant2Score": 2,
-            "completed": true,
-            "winnerId": 8940210,
-            "loserId": 8822394,
-            "winnerName": "Max",
-            "loserName": "Sandbag | cheddar",
-            "bracketName": "Pools",
-            "bracketId": 1624006,
-            "entrant1Players": [
-                {
-                    "playerId": 2370096,
-                    "playerTag": "cheddar"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ]
-        },
-        {
-            "id": 43253363,
-            "entrant1Id": 8937818,
-            "entrant2Id": 8940210,
-            "entrant1Name": "NSA | Kweet",
-            "entrant2Name": "Max",
-            "entrant1Score": 3,
-            "entrant2Score": 1,
-            "completed": true,
-            "winnerId": 8937818,
-            "loserId": 8940210,
-            "winnerName": "NSA | Kweet",
-            "loserName": "Max",
-            "bracketName": "Intermediate Bracket",
-            "bracketId": 1624015,
-            "entrant1Players": [
-                {
-                    "playerId": 38316,
-                    "playerTag": "Kweet"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ]
-        },
-        {
-            "id": 43253361,
-            "entrant1Id": 8838355,
-            "entrant2Id": 8940210,
-            "entrant1Name": "labernich",
-            "entrant2Name": "Max",
-            "entrant1Score": 2,
-            "entrant2Score": 3,
-            "completed": true,
-            "winnerId": 8940210,
-            "loserId": 8838355,
-            "winnerName": "Max",
-            "loserName": "labernich",
-            "bracketName": "Intermediate Bracket",
-            "bracketId": 1624015,
-            "entrant1Players": [
-                {
-                    "playerId": 69529,
-                    "playerTag": "labernich"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ]
-        },
-        {
-            "id": 43253357,
-            "entrant1Id": 8922282,
-            "entrant2Id": 8940210,
-            "entrant1Name": "CO | Marley",
-            "entrant2Name": "Max",
-            "entrant1Score": 0,
-            "entrant2Score": 2,
-            "completed": true,
-            "winnerId": 8940210,
-            "loserId": 8922282,
-            "winnerName": "Max",
-            "loserName": "CO | Marley",
-            "bracketName": "Intermediate Bracket",
-            "bracketId": 1624015,
-            "entrant1Players": [
-                {
-                    "playerId": 1273693,
-                    "playerTag": "Marley"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ]
-        },
-        {
-            "id": 43253289,
-            "entrant1Id": 8940210,
-            "entrant2Id": 8821267,
-            "entrant1Name": "Max",
-            "entrant2Name": "Duman",
-            "entrant1Score": 1,
-            "entrant2Score": 2,
-            "completed": true,
-            "winnerId": 8821267,
-            "loserId": 8940210,
-            "winnerName": "Duman",
-            "loserName": "Max",
-            "bracketName": "Intermediate Bracket",
-            "bracketId": 1624015,
-            "entrant1Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 581552,
-                    "playerTag": "Duman"
-                }
-            ]
-        },
-        {
-            "id": 43253353,
-            "entrant1Id": 8940210,
-            "entrant2Id": 8844171,
-            "entrant1Name": "Max",
-            "entrant2Name": "Hamburg | Stamo",
-            "entrant1Score": 2,
-            "entrant2Score": 1,
-            "completed": true,
-            "winnerId": 8940210,
-            "loserId": 8844171,
-            "winnerName": "Max",
-            "loserName": "Hamburg | Stamo",
-            "bracketName": "Intermediate Bracket",
-            "bracketId": 1624015,
-            "entrant1Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 909420,
-                    "playerTag": "Stamo"
-                }
-            ]
-        },
-        {
-            "id": 43248622,
-            "entrant1Id": 8940210,
-            "entrant2Id": 8849708,
-            "entrant1Name": "Max",
-            "entrant2Name": "3rd",
-            "entrant1Score": 0,
-            "entrant2Score": 2,
-            "completed": true,
-            "winnerId": 8849708,
-            "loserId": 8940210,
-            "winnerName": "3rd",
-            "loserName": "Max",
-            "bracketName": "Pools",
-            "bracketId": 1624006,
-            "entrant1Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 859325,
-                    "playerTag": "3rd"
-                }
-            ]
-        },
-        {
-            "id": 43248619,
-            "entrant1Id": 8940210,
-            "entrant2Id": 8826502,
-            "entrant1Name": "Max",
-            "entrant2Name": "leaves",
-            "entrant1Score": 2,
-            "entrant2Score": 0,
-            "completed": true,
-            "winnerId": 8940210,
-            "loserId": 8826502,
-            "winnerName": "Max",
-            "loserName": "leaves",
-            "bracketName": "Pools",
-            "bracketId": 1624006,
-            "entrant1Players": [
-                {
-                    "playerId": 559191,
-                    "playerTag": "Max"
-                }
-            ],
-            "entrant2Players": [
-                {
-                    "playerId": 1198966,
-                    "playerTag": "leaves"
-                }
-            ]
         }
     ],
     "W": [
@@ -3328,14 +2654,12 @@
         "fuzzyness",
         "savestate",
         "laurster",
-        "senx",
+        "senX",
         "meady",
         "trif",
-        "jeapie",
         "humpe",
-        "gg",
+        "g",
         "senx",
-        "ninjagofan72",
         "prins esse",
         "abbson",
         "abbearv",
@@ -3366,18 +2690,7 @@
         "poilon",
         "Psylo",
         "Link69",
-        "humpe",
-        "Calle W",
-        "Cillit",
-        "Cillit",
-        "schima",
-        "Floursnail",
-        "kins0",
-        "Raisem",
-        "yung Ullrich",
-        "rikzz",
-        "Kweet",
-        "Duman",
-        "3rd"
+        "Humpe",
+        "Calle W"
     ]
 }
