@@ -1,0 +1,6482 @@
+{
+    "Events": [
+        "644621",
+        "584741",
+        "578847",
+        "573828",
+        "614184",
+        "596002",
+        "555934",
+        "534513",
+        "544255",
+        "532534",
+        "580662",
+        "538172",
+        "545027",
+        "635845",
+        "544994",
+        "552324",
+        "549620",
+        "549172",
+        "546877",
+        "554629",
+        "623403",
+        "617479",
+        "611338",
+        "604446",
+        "601303",
+        "584826",
+        "570757",
+        "564693",
+        "564691",
+        "543200"
+    ],
+    "Sets": [
+        {
+            "id": 43222592,
+            "entrant1Id": 8712511,
+            "entrant2Id": 8712500,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Professor Pro",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8712511,
+            "loserId": 8712500,
+            "winnerName": "SFAT",
+            "loserName": "Professor Pro",
+            "bracketName": "Group Stage",
+            "bracketId": 1635972,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5563,
+                    "playerTag": "Professor Pro"
+                }
+            ]
+        },
+        {
+            "id": 43222590,
+            "entrant1Id": 8712511,
+            "entrant2Id": 8954979,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "HSTV | Zamu",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712511,
+            "loserId": 8954979,
+            "winnerName": "SFAT",
+            "loserName": "HSTV | Zamu",
+            "bracketName": "Group Stage",
+            "bracketId": 1635972,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 43222588,
+            "entrant1Id": 8712511,
+            "entrant2Id": 8774628,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Inngenn",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712511,
+            "loserId": 8774628,
+            "winnerName": "SFAT",
+            "loserName": "Inngenn",
+            "bracketName": "Group Stage",
+            "bracketId": 1635972,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2152019,
+                    "playerTag": "Inngenn"
+                }
+            ]
+        },
+        {
+            "id": 43222586,
+            "entrant1Id": 8712511,
+            "entrant2Id": 8892146,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Magi",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8892146,
+            "loserId": 8712511,
+            "winnerName": "Magi",
+            "loserName": "SFAT",
+            "bracketName": "Group Stage",
+            "bracketId": 1635972,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 43289107,
+            "entrant1Id": 8712536,
+            "entrant2Id": 8712511,
+            "entrant1Name": "Aklo",
+            "entrant2Name": "SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8712536,
+            "loserId": 8712511,
+            "winnerName": "Aklo",
+            "loserName": "SFAT",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 42343345,
+            "entrant1Id": 8382141,
+            "entrant2Id": 8458552,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "PKK | Bongo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8382141,
+            "loserId": 8458552,
+            "winnerName": "CLG | SFAT",
+            "loserName": "PKK | Bongo",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603579,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 132536,
+                    "playerTag": "Bongo"
+                }
+            ]
+        },
+        {
+            "id": 42343341,
+            "entrant1Id": 8382141,
+            "entrant2Id": 7571473,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "psyched",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8382141,
+            "loserId": 7571473,
+            "winnerName": "CLG | SFAT",
+            "loserName": "psyched",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603579,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 345965,
+                    "playerTag": "psyched"
+                }
+            ]
+        },
+        {
+            "id": 42373122,
+            "entrant1Id": 8382141,
+            "entrant2Id": 7749369,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "MF | KoDoRiN",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7749369,
+            "loserId": 8382141,
+            "winnerName": "MF | KoDoRiN",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Top 16",
+            "bracketId": 1603577,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 42343333,
+            "entrant1Id": 8382141,
+            "entrant2Id": 8604686,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "LoreAx",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8382141,
+            "loserId": 8604686,
+            "winnerName": "CLG | SFAT",
+            "loserName": "LoreAx",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603579,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 385741,
+                    "playerTag": "LoreAx"
+                }
+            ]
+        },
+        {
+            "id": 42357541,
+            "entrant1Id": 8382141,
+            "entrant2Id": 8687553,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Medz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8382141,
+            "loserId": 8687553,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Medz",
+            "bracketName": "Top 64",
+            "bracketId": 1619224,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40476,
+                    "playerTag": "Medz"
+                }
+            ]
+        },
+        {
+            "id": 42373120,
+            "entrant1Id": 7886153,
+            "entrant2Id": 8382141,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8382141,
+            "loserId": 7886153,
+            "winnerName": "CLG | SFAT",
+            "loserName": "LG | Ginger",
+            "bracketName": "Top 16",
+            "bracketId": 1603577,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 42373118,
+            "entrant1Id": 8382141,
+            "entrant2Id": 8055318,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "S2J",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8382141,
+            "loserId": 8055318,
+            "winnerName": "CLG | SFAT",
+            "loserName": "S2J",
+            "bracketName": "Top 16",
+            "bracketId": 1603577,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ]
+        },
+        {
+            "id": 42350123,
+            "entrant1Id": 8382141,
+            "entrant2Id": 8649471,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "rom",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8382141,
+            "loserId": 8649471,
+            "winnerName": "CLG | SFAT",
+            "loserName": "rom",
+            "bracketName": "Round 2 Pools",
+            "bracketId": 1620257,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3899,
+                    "playerTag": "rom"
+                }
+            ]
+        },
+        {
+            "id": 42373088,
+            "entrant1Id": 8382141,
+            "entrant2Id": 7749369,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "MF | KoDoRiN",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7749369,
+            "loserId": 8382141,
+            "winnerName": "MF | KoDoRiN",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Top 16",
+            "bracketId": 1603577,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 42357535,
+            "entrant1Id": 8382141,
+            "entrant2Id": 8377598,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "CG | Zealot",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8382141,
+            "loserId": 8377598,
+            "winnerName": "CLG | SFAT",
+            "loserName": "CG | Zealot",
+            "bracketName": "Top 64",
+            "bracketId": 1619224,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ]
+        },
+        {
+            "id": 42373114,
+            "entrant1Id": 8382141,
+            "entrant2Id": 8623023,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Albert",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8382141,
+            "loserId": 8623023,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Albert",
+            "bracketName": "Top 16",
+            "bracketId": 1603577,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ]
+        },
+        {
+            "id": 40379069,
+            "entrant1Id": 8085023,
+            "entrant2Id": 7469910,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Free Palestine",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8085023,
+            "loserId": 7469910,
+            "winnerName": "SFAT",
+            "loserName": "Free Palestine",
+            "bracketName": "Top 32",
+            "bracketId": 1547302,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 55110,
+                    "playerTag": "Free Palestine"
+                }
+            ]
+        },
+        {
+            "id": 40379068,
+            "entrant1Id": 8085023,
+            "entrant2Id": 7469910,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Free Palestine",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8085023,
+            "loserId": 7469910,
+            "winnerName": "SFAT",
+            "loserName": "Free Palestine",
+            "bracketName": "Top 32",
+            "bracketId": 1547302,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 55110,
+                    "playerTag": "Free Palestine"
+                }
+            ]
+        },
+        {
+            "id": 40374836,
+            "entrant1Id": 8085023,
+            "entrant2Id": 7484593,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Woley",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8085023,
+            "loserId": 7484593,
+            "winnerName": "SFAT",
+            "loserName": "Woley",
+            "bracketName": "Pools",
+            "bracketId": 1501980,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7796,
+                    "playerTag": "Woley"
+                }
+            ]
+        },
+        {
+            "id": 40379066,
+            "entrant1Id": 8085023,
+            "entrant2Id": 7484254,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "GHQ | HSTV | Zamu",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8085023,
+            "loserId": 7484254,
+            "winnerName": "SFAT",
+            "loserName": "GHQ | HSTV | Zamu",
+            "bracketName": "Top 32",
+            "bracketId": 1547302,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 40374832,
+            "entrant1Id": 8085023,
+            "entrant2Id": 7538884,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "CommonEnemy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8085023,
+            "loserId": 7538884,
+            "winnerName": "SFAT",
+            "loserName": "CommonEnemy",
+            "bracketName": "Pools",
+            "bracketId": 1501980,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1126165,
+                    "playerTag": "CommonEnemy"
+                }
+            ]
+        },
+        {
+            "id": 40379062,
+            "entrant1Id": 8085023,
+            "entrant2Id": 7470877,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "CS | Travioli",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8085023,
+            "loserId": 7470877,
+            "winnerName": "SFAT",
+            "loserName": "CS | Travioli",
+            "bracketName": "Top 32",
+            "bracketId": 1547302,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 215584,
+                    "playerTag": "Travioli"
+                }
+            ]
+        },
+        {
+            "id": 40379054,
+            "entrant1Id": 8085023,
+            "entrant2Id": 7484181,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "lexor",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8085023,
+            "loserId": 7484181,
+            "winnerName": "SFAT",
+            "loserName": "lexor",
+            "bracketName": "Top 32",
+            "bracketId": 1547302,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 225038,
+                    "playerTag": "lexor"
+                }
+            ]
+        },
+        {
+            "id": 40435117,
+            "entrant1Id": 7485834,
+            "entrant2Id": 7484496,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Aspero | Travy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7485834,
+            "loserId": 7484496,
+            "winnerName": "SFAT",
+            "loserName": "Aspero | Travy",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547325,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 55354,
+                    "playerTag": "Travy"
+                }
+            ]
+        },
+        {
+            "id": 40435115,
+            "entrant1Id": 7485834,
+            "entrant2Id": 7469806,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Dragoid",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7485834,
+            "loserId": 7469806,
+            "winnerName": "SFAT",
+            "loserName": "Dragoid",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547325,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 264874,
+                    "playerTag": "Dragoid"
+                }
+            ]
+        },
+        {
+            "id": 40435612,
+            "entrant1Id": 7485834,
+            "entrant2Id": 7484386,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "20GX | Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7485834,
+            "loserId": 7484386,
+            "winnerName": "SFAT",
+            "loserName": "20GX | Gahtzu",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547388,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 40435111,
+            "entrant1Id": 7485834,
+            "entrant2Id": 7533606,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Negativ3",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7485834,
+            "loserId": 7533606,
+            "winnerName": "SFAT",
+            "loserName": "Negativ3",
+            "bracketName": "R1 Pools",
+            "bracketId": 1547325,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2318308,
+                    "playerTag": "Negativ3"
+                }
+            ]
+        },
+        {
+            "id": 40435609,
+            "entrant1Id": 7485834,
+            "entrant2Id": 7484717,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Voo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7485834,
+            "loserId": 7484717,
+            "winnerName": "SFAT",
+            "loserName": "Voo",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547388,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12236,
+                    "playerTag": "Voo"
+                }
+            ]
+        },
+        {
+            "id": 40465089,
+            "entrant1Id": 7485834,
+            "entrant2Id": 7469532,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Hungrybox",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7469532,
+            "loserId": 7485834,
+            "winnerName": "Hungrybox",
+            "loserName": "SFAT",
+            "bracketName": "Top 8",
+            "bracketId": 1547386,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 40442106,
+            "entrant1Id": 7471382,
+            "entrant2Id": 7485834,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "SFAT",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7485834,
+            "loserId": 7471382,
+            "winnerName": "SFAT",
+            "loserName": "Wizzrobe",
+            "bracketName": "Top 24",
+            "bracketId": 1547390,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 40442106,
+            "entrant1Id": 7471382,
+            "entrant2Id": 7485834,
+            "entrant1Name": "Wizzrobe",
+            "entrant2Name": "SFAT",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7485834,
+            "loserId": 7471382,
+            "winnerName": "SFAT",
+            "loserName": "Wizzrobe",
+            "bracketName": "Top 24",
+            "bracketId": 1547390,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 40465073,
+            "entrant1Id": 7469671,
+            "entrant2Id": 7485834,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7469671,
+            "loserId": 7485834,
+            "winnerName": "Panda | Plup",
+            "loserName": "SFAT",
+            "bracketName": "Top 8",
+            "bracketId": 1547386,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 40435603,
+            "entrant1Id": 7485834,
+            "entrant2Id": 7484657,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "PULSE | Tempo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7485834,
+            "loserId": 7484657,
+            "winnerName": "SFAT",
+            "loserName": "PULSE | Tempo",
+            "bracketName": "R2 Pools",
+            "bracketId": 1547388,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 149012,
+                    "playerTag": "Tempo"
+                }
+            ]
+        },
+        {
+            "id": 40465087,
+            "entrant1Id": 7485834,
+            "entrant2Id": 7471864,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Axe",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7485834,
+            "loserId": 7471864,
+            "winnerName": "SFAT",
+            "loserName": "Axe",
+            "bracketName": "Top 8",
+            "bracketId": 1547386,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 40145627,
+            "entrant1Id": 8185581,
+            "entrant2Id": 8186590,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8185581,
+            "loserId": 8186590,
+            "winnerName": "bc | S2J",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Main Bracket",
+            "bracketId": 1563449,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 40145626,
+            "entrant1Id": 8186590,
+            "entrant2Id": 8187617,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Medz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8186590,
+            "loserId": 8187617,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Medz",
+            "bracketName": "Main Bracket",
+            "bracketId": 1563449,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40476,
+                    "playerTag": "Medz"
+                }
+            ]
+        },
+        {
+            "id": 40145562,
+            "entrant1Id": 8185581,
+            "entrant2Id": 8186590,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8185581,
+            "loserId": 8186590,
+            "winnerName": "bc | S2J",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Main Bracket",
+            "bracketId": 1563449,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 40145624,
+            "entrant1Id": 8186590,
+            "entrant2Id": 8187542,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8186590,
+            "loserId": 8187542,
+            "winnerName": "CLG | SFAT",
+            "loserName": "bobby big ballz",
+            "bracketName": "Main Bracket",
+            "bracketId": 1563449,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 40145560,
+            "entrant1Id": 8186590,
+            "entrant2Id": 8187489,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "CG | Peppi | Pappi",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8186590,
+            "loserId": 8187489,
+            "winnerName": "CLG | SFAT",
+            "loserName": "CG | Peppi | Pappi",
+            "bracketName": "Main Bracket",
+            "bracketId": 1563449,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61570,
+                    "playerTag": "Pappi"
+                }
+            ]
+        },
+        {
+            "id": 40145555,
+            "entrant1Id": 8186590,
+            "entrant2Id": 8187543,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Dova",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8186590,
+            "loserId": 8187543,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Dova",
+            "bracketName": "Main Bracket",
+            "bracketId": 1563449,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 531485,
+                    "playerTag": "Dova"
+                }
+            ]
+        },
+        {
+            "id": 38899943,
+            "entrant1Id": 7731742,
+            "entrant2Id": 7731714,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7731742,
+            "loserId": 7731714,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Group Stage",
+            "bracketId": 1534197,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 38945491,
+            "entrant1Id": 7754567,
+            "entrant2Id": 7731714,
+            "entrant1Name": "KoDoRiN",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7754567,
+            "loserId": 7731714,
+            "winnerName": "KoDoRiN",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1534194,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 38899942,
+            "entrant1Id": 7731730,
+            "entrant2Id": 7731714,
+            "entrant1Name": "PEP | LSD",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7731714,
+            "loserId": 7731730,
+            "winnerName": "CLG | SFAT",
+            "loserName": "PEP | LSD",
+            "bracketName": "Group Stage",
+            "bracketId": 1534197,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 38899940,
+            "entrant1Id": 7731714,
+            "entrant2Id": 7731723,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Brotherhood | Aklo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7731714,
+            "loserId": 7731723,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Brotherhood | Aklo",
+            "bracketName": "Group Stage",
+            "bracketId": 1534197,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ]
+        },
+        {
+            "id": 38962575,
+            "entrant1Id": 7731742,
+            "entrant2Id": 7731714,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7731742,
+            "loserId": 7731714,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 38962571,
+            "entrant1Id": 7731714,
+            "entrant2Id": 7731733,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Frame1 | yingling",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7731714,
+            "loserId": 7731733,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Frame1 | yingling",
+            "bracketName": "Final Bracket",
+            "bracketId": 1534195,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12137,
+                    "playerTag": "yingling"
+                }
+            ]
+        },
+        {
+            "id": 36116357,
+            "entrant1Id": 6899276,
+            "entrant2Id": 6902441,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Duckrobin",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6899276,
+            "loserId": 6902441,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Duckrobin",
+            "bracketName": "WC Pools",
+            "bracketId": 1455369,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158146,
+                    "playerTag": "Duckrobin"
+                }
+            ]
+        },
+        {
+            "id": 36116353,
+            "entrant1Id": 6899276,
+            "entrant2Id": 6956101,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "K.H.D | RE!GN",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6899276,
+            "loserId": 6956101,
+            "winnerName": "CLG | SFAT",
+            "loserName": "K.H.D | RE!GN",
+            "bracketName": "WC Pools",
+            "bracketId": 1455369,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 18722,
+                    "playerTag": "REIGN"
+                }
+            ]
+        },
+        {
+            "id": 36145384,
+            "entrant1Id": 6899276,
+            "entrant2Id": 7020645,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Aura",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6899276,
+            "loserId": 7020645,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Aura",
+            "bracketName": "WC Top 32",
+            "bracketId": 1455376,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46349,
+                    "playerTag": "Aura"
+                }
+            ]
+        },
+        {
+            "id": 36151368,
+            "entrant1Id": 6899276,
+            "entrant2Id": 6972934,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "LG | Ginger",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6972934,
+            "loserId": 6899276,
+            "winnerName": "LG | Ginger",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Top 16",
+            "bracketId": 1455378,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 36145378,
+            "entrant1Id": 6899276,
+            "entrant2Id": 6894734,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "ycz6",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6899276,
+            "loserId": 6894734,
+            "winnerName": "CLG | SFAT",
+            "loserName": "ycz6",
+            "bracketName": "WC Top 32",
+            "bracketId": 1455376,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2088,
+                    "playerTag": "ycz6"
+                }
+            ]
+        },
+        {
+            "id": 36156511,
+            "entrant1Id": 7000043,
+            "entrant2Id": 6899276,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7000043,
+            "loserId": 6899276,
+            "winnerName": "Panda | iBDW",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Top 8",
+            "bracketId": 1455379,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 36151396,
+            "entrant1Id": 6899276,
+            "entrant2Id": 7025738,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "n0ne",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6899276,
+            "loserId": 7025738,
+            "winnerName": "CLG | SFAT",
+            "loserName": "n0ne",
+            "bracketName": "Top 16",
+            "bracketId": 1455378,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4107,
+                    "playerTag": "n0ne/ Bond / wizzyfan109"
+                }
+            ]
+        },
+        {
+            "id": 36156509,
+            "entrant1Id": 6899276,
+            "entrant2Id": 7000053,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Tempo | Axe",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6899276,
+            "loserId": 7000053,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Tempo | Axe",
+            "bracketName": "Top 8",
+            "bracketId": 1455379,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 34630285,
+            "entrant1Id": 6671611,
+            "entrant2Id": 6612030,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Dawson",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6671611,
+            "loserId": 6612030,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Dawson",
+            "bracketName": "Pools",
+            "bracketId": 1412877,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 147811,
+                    "playerTag": "Dawson"
+                }
+            ]
+        },
+        {
+            "id": 34641963,
+            "entrant1Id": 6671611,
+            "entrant2Id": 6667150,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "EMG | Hax$",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6671611,
+            "loserId": 6667150,
+            "winnerName": "CLG | SFAT",
+            "loserName": "EMG | Hax$",
+            "bracketName": "Top 8",
+            "bracketId": 1412884,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 34630274,
+            "entrant1Id": 6671611,
+            "entrant2Id": 6663918,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "LFG | Panda",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6671611,
+            "loserId": 6663918,
+            "winnerName": "CLG | SFAT",
+            "loserName": "LFG | Panda",
+            "bracketName": "Pools",
+            "bracketId": 1412877,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 58217,
+                    "playerTag": "Panda \u03b2"
+                }
+            ]
+        },
+        {
+            "id": 34641962,
+            "entrant1Id": 6637678,
+            "entrant2Id": 6671611,
+            "entrant1Name": "Brotherhood|OS | Aklo",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6671611,
+            "loserId": 6637678,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Brotherhood|OS | Aklo",
+            "bracketName": "Top 8",
+            "bracketId": 1412884,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 34634175,
+            "entrant1Id": 6671611,
+            "entrant2Id": 6658993,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "DontTestMe",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6671611,
+            "loserId": 6658993,
+            "winnerName": "CLG | SFAT",
+            "loserName": "DontTestMe",
+            "bracketName": "Top 32",
+            "bracketId": 1412885,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1839605,
+                    "playerTag": "DontTestMe"
+                }
+            ]
+        },
+        {
+            "id": 34641961,
+            "entrant1Id": 6671611,
+            "entrant2Id": 6667150,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "EMG | Hax$",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6671611,
+            "loserId": 6667150,
+            "winnerName": "CLG | SFAT",
+            "loserName": "EMG | Hax$",
+            "bracketName": "Top 8",
+            "bracketId": 1412884,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 34634169,
+            "entrant1Id": 6671611,
+            "entrant2Id": 6655286,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Forrest",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6671611,
+            "loserId": 6655286,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Forrest",
+            "bracketName": "Top 32",
+            "bracketId": 1412885,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 397293,
+                    "playerTag": "Forrest"
+                }
+            ]
+        },
+        {
+            "id": 34511361,
+            "entrant1Id": 6644536,
+            "entrant2Id": 6646123,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Snap",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6644536,
+            "loserId": 6646123,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Snap",
+            "bracketName": "Bracket",
+            "bracketId": 1432328,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3377,
+                    "playerTag": "Snap"
+                }
+            ]
+        },
+        {
+            "id": 34492411,
+            "entrant1Id": 6630578,
+            "entrant2Id": 6644536,
+            "entrant1Name": "GOGO",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6644536,
+            "loserId": 6630578,
+            "winnerName": "CLG | SFAT",
+            "loserName": "GOGO",
+            "bracketName": "Bracket",
+            "bracketId": 1432328,
+            "entrant1Players": [
+                {
+                    "playerId": 1274119,
+                    "playerTag": "GOGO"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 34492541,
+            "entrant1Id": 6626075,
+            "entrant2Id": 6644536,
+            "entrant1Name": "Zellpree",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6644536,
+            "loserId": 6626075,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Zellpree",
+            "bracketName": "Bracket",
+            "bracketId": 1432328,
+            "entrant1Players": [
+                {
+                    "playerId": 37975,
+                    "playerTag": "Zellpree"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 34492557,
+            "entrant1Id": 6641919,
+            "entrant2Id": 6644536,
+            "entrant1Name": "JED | BunnyCutie64",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6644536,
+            "loserId": 6641919,
+            "winnerName": "CLG | SFAT",
+            "loserName": "JED | BunnyCutie64",
+            "bracketName": "Bracket",
+            "bracketId": 1432328,
+            "entrant1Players": [
+                {
+                    "playerId": 1204460,
+                    "playerTag": "BunnyCutie64"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 34510501,
+            "entrant1Id": 6644666,
+            "entrant2Id": 6644536,
+            "entrant1Name": "The Crimson Chin",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6644536,
+            "loserId": 6644666,
+            "winnerName": "CLG | SFAT",
+            "loserName": "The Crimson Chin",
+            "bracketName": "Bracket",
+            "bracketId": 1432328,
+            "entrant1Players": [
+                {
+                    "playerId": 38665,
+                    "playerTag": "The Crimson Chin"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 34511255,
+            "entrant1Id": 6644536,
+            "entrant2Id": 6630341,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Relusion",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6644536,
+            "loserId": 6630341,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Relusion",
+            "bracketName": "Bracket",
+            "bracketId": 1432328,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15676,
+                    "playerTag": "Relusion"
+                }
+            ]
+        },
+        {
+            "id": 34492798,
+            "entrant1Id": 6643869,
+            "entrant2Id": 6644536,
+            "entrant1Name": "Iron",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6644536,
+            "loserId": 6643869,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Iron",
+            "bracketName": "Bracket",
+            "bracketId": 1432328,
+            "entrant1Players": [
+                {
+                    "playerId": 897692,
+                    "playerTag": "Iron"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 34510601,
+            "entrant1Id": 6644536,
+            "entrant2Id": 6630187,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Melo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6644536,
+            "loserId": 6630187,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Melo",
+            "bracketName": "Bracket",
+            "bracketId": 1432328,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 466221,
+                    "playerTag": "Melo"
+                }
+            ]
+        },
+        {
+            "id": 34492710,
+            "entrant1Id": 6644138,
+            "entrant2Id": 6644536,
+            "entrant1Name": "SFOP",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6644536,
+            "loserId": 6644138,
+            "winnerName": "CLG | SFAT",
+            "loserName": "SFOP",
+            "bracketName": "Bracket",
+            "bracketId": 1432328,
+            "entrant1Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 34492746,
+            "entrant1Id": 6633445,
+            "entrant2Id": 6644536,
+            "entrant1Name": "yingling",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6644536,
+            "loserId": 6633445,
+            "winnerName": "CLG | SFAT",
+            "loserName": "yingling",
+            "bracketName": "Bracket",
+            "bracketId": 1432328,
+            "entrant1Players": [
+                {
+                    "playerId": 12137,
+                    "playerTag": "yingling"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 34493470,
+            "entrant1Id": 6644294,
+            "entrant2Id": 6644536,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6644536,
+            "loserId": 6644294,
+            "winnerName": "CLG | SFAT",
+            "loserName": "bobby big ballz",
+            "bracketName": "Bracket",
+            "bracketId": 1432328,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 34493470,
+            "entrant1Id": 6644294,
+            "entrant2Id": 6644536,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6644536,
+            "loserId": 6644294,
+            "winnerName": "CLG | SFAT",
+            "loserName": "bobby big ballz",
+            "bracketName": "Bracket",
+            "bracketId": 1432328,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 34498979,
+            "entrant1Id": 6596981,
+            "entrant2Id": 6613557,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "clich\u00e9",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6596981,
+            "loserId": 6613557,
+            "winnerName": "CLG | SFAT",
+            "loserName": "clich\u00e9",
+            "bracketName": "WC Pools",
+            "bracketId": 1432943,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 927948,
+                    "playerTag": "clich\u00e9"
+                }
+            ]
+        },
+        {
+            "id": 34533229,
+            "entrant1Id": 6632864,
+            "entrant2Id": 6596981,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6632864,
+            "loserId": 6596981,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Top 8",
+            "bracketId": 1432934,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 34498975,
+            "entrant1Id": 6596981,
+            "entrant2Id": 6492213,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Golf",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6596981,
+            "loserId": 6492213,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Golf",
+            "bracketName": "WC Pools",
+            "bracketId": 1432943,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1280646,
+                    "playerTag": "Golf"
+                }
+            ]
+        },
+        {
+            "id": 34498967,
+            "entrant1Id": 6596981,
+            "entrant2Id": 6625191,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Wheelz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6596981,
+            "loserId": 6625191,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Wheelz",
+            "bracketName": "WC Pools",
+            "bracketId": 1432943,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 246052,
+                    "playerTag": "Wheelz"
+                }
+            ]
+        },
+        {
+            "id": 34533228,
+            "entrant1Id": 6632864,
+            "entrant2Id": 6596981,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6632864,
+            "loserId": 6596981,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Top 8",
+            "bracketId": 1432934,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 34519577,
+            "entrant1Id": 6596981,
+            "entrant2Id": 6626289,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Connor",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6596981,
+            "loserId": 6626289,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Connor",
+            "bracketName": "WC Top 32",
+            "bracketId": 1432931,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1092,
+                    "playerTag": "Connor"
+                }
+            ]
+        },
+        {
+            "id": 34533244,
+            "entrant1Id": 6596981,
+            "entrant2Id": 6628917,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "EMG | Hax$",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6596981,
+            "loserId": 6628917,
+            "winnerName": "CLG | SFAT",
+            "loserName": "EMG | Hax$",
+            "bracketName": "Top 8",
+            "bracketId": 1432934,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 34533227,
+            "entrant1Id": 6596981,
+            "entrant2Id": 6634412,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Revenge | Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6596981,
+            "loserId": 6634412,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Revenge | Gahtzu",
+            "bracketName": "Top 8",
+            "bracketId": 1432934,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 34524864,
+            "entrant1Id": 6596981,
+            "entrant2Id": 6632599,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "lloD",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6596981,
+            "loserId": 6632599,
+            "winnerName": "CLG | SFAT",
+            "loserName": "lloD",
+            "bracketName": "Top 16",
+            "bracketId": 1432933,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ]
+        },
+        {
+            "id": 34519571,
+            "entrant1Id": 6596981,
+            "entrant2Id": 6569894,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Blues Clues",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6596981,
+            "loserId": 6569894,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Blues Clues",
+            "bracketName": "WC Top 32",
+            "bracketId": 1432931,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 64692,
+                    "playerTag": "Blues Clues"
+                }
+            ]
+        },
+        {
+            "id": 38393632,
+            "entrant1Id": 7544429,
+            "entrant2Id": 7436745,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "clich\u00e9",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7544429,
+            "loserId": 7436745,
+            "winnerName": "CLG | SFAT",
+            "loserName": "clich\u00e9",
+            "bracketName": "West Pools",
+            "bracketId": 1520728,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 927948,
+                    "playerTag": "clich\u00e9"
+                }
+            ]
+        },
+        {
+            "id": 38393619,
+            "entrant1Id": 7544429,
+            "entrant2Id": 7437335,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "MysticWarrior",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7544429,
+            "loserId": 7437335,
+            "winnerName": "CLG | SFAT",
+            "loserName": "MysticWarrior",
+            "bracketName": "West Pools",
+            "bracketId": 1520728,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2000561,
+                    "playerTag": "MysticWarrior"
+                }
+            ]
+        },
+        {
+            "id": 38441007,
+            "entrant1Id": 7585890,
+            "entrant2Id": 7544429,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7585890,
+            "loserId": 7544429,
+            "winnerName": "Panda | iBDW",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Top 8",
+            "bracketId": 1520736,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 38441006,
+            "entrant1Id": 7585890,
+            "entrant2Id": 7544429,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7585890,
+            "loserId": 7544429,
+            "winnerName": "Panda | iBDW",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Top 8",
+            "bracketId": 1520736,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 38393592,
+            "entrant1Id": 7544429,
+            "entrant2Id": 7498040,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Tax Evader",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7544429,
+            "loserId": 7498040,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Tax Evader",
+            "bracketName": "West Pools",
+            "bracketId": 1520728,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 704450,
+                    "playerTag": "Tax Evader"
+                }
+            ]
+        },
+        {
+            "id": 38410964,
+            "entrant1Id": 7544429,
+            "entrant2Id": 7546795,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Brotherhood | Aklo",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7544429,
+            "loserId": 7546795,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Brotherhood | Aklo",
+            "bracketName": "Top 64",
+            "bracketId": 1520734,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ]
+        },
+        {
+            "id": 38441022,
+            "entrant1Id": 7544429,
+            "entrant2Id": 7523952,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "2saint",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7544429,
+            "loserId": 7523952,
+            "winnerName": "CLG | SFAT",
+            "loserName": "2saint",
+            "bracketName": "Top 8",
+            "bracketId": 1520736,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ]
+        },
+        {
+            "id": 38441005,
+            "entrant1Id": 7523952,
+            "entrant2Id": 7544429,
+            "entrant1Name": "2saint",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7544429,
+            "loserId": 7523952,
+            "winnerName": "CLG | SFAT",
+            "loserName": "2saint",
+            "bracketName": "Top 8",
+            "bracketId": 1520736,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 38431557,
+            "entrant1Id": 7593702,
+            "entrant2Id": 7544429,
+            "entrant1Name": "GG | n0ne",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7544429,
+            "loserId": 7593702,
+            "winnerName": "CLG | SFAT",
+            "loserName": "GG | n0ne",
+            "bracketName": "Top 16",
+            "bracketId": 1520735,
+            "entrant1Players": [
+                {
+                    "playerId": 4107,
+                    "playerTag": "n0ne/ Bond / wizzyfan109"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 38410955,
+            "entrant1Id": 7544429,
+            "entrant2Id": 7437943,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Reeve",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7544429,
+            "loserId": 7437943,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Reeve",
+            "bracketName": "Top 64",
+            "bracketId": 1520734,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7103,
+                    "playerTag": "Reeve"
+                }
+            ]
+        },
+        {
+            "id": 34843234,
+            "entrant1Id": 6689063,
+            "entrant2Id": 6699102,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "KoDoRiN",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6689063,
+            "loserId": 6699102,
+            "winnerName": "CLG | SFAT",
+            "loserName": "KoDoRiN",
+            "bracketName": "West-Coast Singles",
+            "bracketId": 1419775,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 34843231,
+            "entrant1Id": 6689063,
+            "entrant2Id": 6699861,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "YC | Pappi",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6689063,
+            "loserId": 6699861,
+            "winnerName": "CLG | SFAT",
+            "loserName": "YC | Pappi",
+            "bracketName": "West-Coast Singles",
+            "bracketId": 1419775,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61570,
+                    "playerTag": "Pappi"
+                }
+            ]
+        },
+        {
+            "id": 34843225,
+            "entrant1Id": 6689063,
+            "entrant2Id": 6678372,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Snap",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6689063,
+            "loserId": 6678372,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Snap",
+            "bracketName": "West-Coast Singles",
+            "bracketId": 1419775,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3377,
+                    "playerTag": "Snap"
+                }
+            ]
+        },
+        {
+            "id": 34843213,
+            "entrant1Id": 6689063,
+            "entrant2Id": 6724103,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Baja",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6689063,
+            "loserId": 6724103,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Baja",
+            "bracketName": "West-Coast Singles",
+            "bracketId": 1419775,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13746,
+                    "playerTag": "Baja"
+                }
+            ]
+        },
+        {
+            "id": 34853331,
+            "entrant1Id": 6689063,
+            "entrant2Id": 6694000,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Tempo | Axe",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6689063,
+            "loserId": 6694000,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Tempo | Axe",
+            "bracketName": "Top 8",
+            "bracketId": 1441017,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 34853330,
+            "entrant1Id": 6722166,
+            "entrant2Id": 6689063,
+            "entrant1Name": "Brotherhood|OS | Aklo",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6689063,
+            "loserId": 6722166,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Brotherhood|OS | Aklo",
+            "bracketName": "Top 8",
+            "bracketId": 1441017,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 34853329,
+            "entrant1Id": 6689063,
+            "entrant2Id": 6666164,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6689063,
+            "loserId": 6666164,
+            "winnerName": "CLG | SFAT",
+            "loserName": "IMP | Ben",
+            "bracketName": "Top 8",
+            "bracketId": 1441017,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 34610877,
+            "entrant1Id": 6655082,
+            "entrant2Id": 6664107,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Retro SHFFL | Leng\u00fcitas",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6655082,
+            "loserId": 6664107,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Retro SHFFL | Leng\u00fcitas",
+            "bracketName": "Pools",
+            "bracketId": 1437118,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 56038,
+                    "playerTag": "Leng\u00fcitas"
+                }
+            ]
+        },
+        {
+            "id": 34617102,
+            "entrant1Id": 6655082,
+            "entrant2Id": 6671813,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Tenacity | Albert",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6655082,
+            "loserId": 6671813,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Tenacity | Albert",
+            "bracketName": "Top 8",
+            "bracketId": 1436885,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ]
+        },
+        {
+            "id": 34610859,
+            "entrant1Id": 6655082,
+            "entrant2Id": 6674740,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Mario$",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6655082,
+            "loserId": 6674740,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Mario$",
+            "bracketName": "Pools",
+            "bracketId": 1437118,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1888738,
+                    "playerTag": "cool bruh"
+                }
+            ]
+        },
+        {
+            "id": 34617101,
+            "entrant1Id": 6671813,
+            "entrant2Id": 6655082,
+            "entrant1Name": "Tenacity | Albert",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6655082,
+            "loserId": 6671813,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Tenacity | Albert",
+            "bracketName": "Top 8",
+            "bracketId": 1436885,
+            "entrant1Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 34610822,
+            "entrant1Id": 6655082,
+            "entrant2Id": 6667128,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "CSUS | Copacetic",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6655082,
+            "loserId": 6667128,
+            "winnerName": "CLG | SFAT",
+            "loserName": "CSUS | Copacetic",
+            "bracketName": "Pools",
+            "bracketId": 1437118,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31537,
+                    "playerTag": "Copacetic"
+                }
+            ]
+        },
+        {
+            "id": 34616058,
+            "entrant1Id": 6655082,
+            "entrant2Id": 6653242,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "KoDoRiN",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6655082,
+            "loserId": 6653242,
+            "winnerName": "CLG | SFAT",
+            "loserName": "KoDoRiN",
+            "bracketName": "Top 32",
+            "bracketId": 1433924,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 34617100,
+            "entrant1Id": 6671903,
+            "entrant2Id": 6655082,
+            "entrant1Name": "S2J",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6655082,
+            "loserId": 6671903,
+            "winnerName": "CLG | SFAT",
+            "loserName": "S2J",
+            "bracketName": "Top 8",
+            "bracketId": 1436885,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 34616053,
+            "entrant1Id": 6655082,
+            "entrant2Id": 6656489,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Will | | KoopaTroopa895",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6655082,
+            "loserId": 6656489,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Will | | KoopaTroopa895",
+            "bracketName": "Top 32",
+            "bracketId": 1433924,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4005,
+                    "playerTag": "KoopaTroopa895"
+                }
+            ]
+        },
+        {
+            "id": 43038578,
+            "entrant1Id": 8879496,
+            "entrant2Id": 8879543,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Free Palestine",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8879496,
+            "loserId": 8879543,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Free Palestine",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1602052,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 55110,
+                    "playerTag": "Free Palestine"
+                }
+            ]
+        },
+        {
+            "id": 43038575,
+            "entrant1Id": 8880094,
+            "entrant2Id": 8879496,
+            "entrant1Name": "C9 | Mang0",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879496,
+            "loserId": 8880094,
+            "winnerName": "CLG | SFAT",
+            "loserName": "C9 | Mang0",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1602052,
+            "entrant1Players": [
+                {
+                    "playerId": 1000,
+                    "playerTag": "Mang0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 43109865,
+            "entrant1Id": 8879496,
+            "entrant2Id": 8879525,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "MF | Sora/Joshman",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8879496,
+            "loserId": 8879525,
+            "winnerName": "CLG | SFAT",
+            "loserName": "MF | Sora/Joshman",
+            "bracketName": "Gauntlet Stage",
+            "bracketId": 1637745,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 43130428,
+            "entrant1Id": 8879464,
+            "entrant2Id": 8879496,
+            "entrant1Name": "Zain",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8879464,
+            "loserId": 8879496,
+            "winnerName": "Zain",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 6126,
+                    "playerTag": "Zain"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 43038574,
+            "entrant1Id": 8879488,
+            "entrant2Id": 8879496,
+            "entrant1Name": "VGBC RB | aMSa",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8879488,
+            "loserId": 8879496,
+            "winnerName": "VGBC RB | aMSa",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1602052,
+            "entrant1Players": [
+                {
+                    "playerId": 1021,
+                    "playerTag": "aMSa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 43130456,
+            "entrant1Id": 8879496,
+            "entrant2Id": 8879510,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "bc | Magi",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8879510,
+            "loserId": 8879496,
+            "winnerName": "bc | Magi",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Final Bracket",
+            "bracketId": 1637741,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 35160177,
+            "entrant1Id": 6798423,
+            "entrant2Id": 6797394,
+            "entrant1Name": "Epic Murloc",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6798423,
+            "loserId": 6797394,
+            "winnerName": "Epic Murloc",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1433861,
+            "entrant1Players": [
+                {
+                    "playerId": 53443,
+                    "playerTag": "Epic Murloc"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 35160174,
+            "entrant1Id": 6692093,
+            "entrant2Id": 6797394,
+            "entrant1Name": "K.H.D | Reign",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6797394,
+            "loserId": 6692093,
+            "winnerName": "CLG | SFAT",
+            "loserName": "K.H.D | Reign",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1433861,
+            "entrant1Players": [
+                {
+                    "playerId": 18722,
+                    "playerTag": "REIGN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 35160171,
+            "entrant1Id": 6799004,
+            "entrant2Id": 6797394,
+            "entrant1Name": "EnvoyOTE",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6797394,
+            "loserId": 6799004,
+            "winnerName": "CLG | SFAT",
+            "loserName": "EnvoyOTE",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1433861,
+            "entrant1Players": [
+                {
+                    "playerId": 8031,
+                    "playerTag": "EnvoyOTE"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 35160163,
+            "entrant1Id": 6804674,
+            "entrant2Id": 6797394,
+            "entrant1Name": "Guts",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6797394,
+            "loserId": 6804674,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Guts",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1433861,
+            "entrant1Players": [
+                {
+                    "playerId": 67744,
+                    "playerTag": "Hochpoch"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 35160147,
+            "entrant1Id": 6797394,
+            "entrant2Id": 6805597,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "$$$$ | cashRAXX",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6797394,
+            "loserId": 6805597,
+            "winnerName": "CLG | SFAT",
+            "loserName": "$$$$ | cashRAXX",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1433861,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1782662,
+                    "playerTag": "cashRAXX"
+                }
+            ]
+        },
+        {
+            "id": 35172220,
+            "entrant1Id": 6797394,
+            "entrant2Id": 6692506,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Trail",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6692506,
+            "loserId": 6797394,
+            "winnerName": "Trail",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Top 16",
+            "bracketId": 1433869,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7149,
+                    "playerTag": "Trail"
+                }
+            ]
+        },
+        {
+            "id": 35160137,
+            "entrant1Id": 6797394,
+            "entrant2Id": 6804966,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Bone",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6797394,
+            "loserId": 6804966,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Bone",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1433861,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22595,
+                    "playerTag": "Aura"
+                }
+            ]
+        },
+        {
+            "id": 35172216,
+            "entrant1Id": 6769199,
+            "entrant2Id": 6797394,
+            "entrant1Name": "Ford$",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6797394,
+            "loserId": 6769199,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Ford$",
+            "bracketName": "Top 16",
+            "bracketId": 1433869,
+            "entrant1Players": [
+                {
+                    "playerId": 252688,
+                    "playerTag": "Ford$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 35172212,
+            "entrant1Id": 6797394,
+            "entrant2Id": 6803209,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Warriorknight",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6797394,
+            "loserId": 6803209,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Warriorknight",
+            "bracketName": "Top 16",
+            "bracketId": 1433869,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4758,
+                    "playerTag": "Warriorknight"
+                }
+            ]
+        },
+        {
+            "id": 35985520,
+            "entrant1Id": 6994102,
+            "entrant2Id": 6944097,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Magi",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6944097,
+            "loserId": 6994102,
+            "winnerName": "Magi",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Top 64",
+            "bracketId": 1466095,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ]
+        },
+        {
+            "id": 35985393,
+            "entrant1Id": 6994102,
+            "entrant2Id": 6942272,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "GHQ | Zamu",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6942272,
+            "loserId": 6994102,
+            "winnerName": "GHQ | Zamu",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Top 64",
+            "bracketId": 1466095,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 35981791,
+            "entrant1Id": 6994102,
+            "entrant2Id": 6941317,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "DMT",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6994102,
+            "loserId": 6941317,
+            "winnerName": "CLG | SFAT",
+            "loserName": "DMT",
+            "bracketName": "West Coast Pools",
+            "bracketId": 1464898,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 231685,
+                    "playerTag": "DMT"
+                }
+            ]
+        },
+        {
+            "id": 35985516,
+            "entrant1Id": 6994102,
+            "entrant2Id": 6994132,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Chem",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6994102,
+            "loserId": 6994132,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Chem",
+            "bracketName": "Top 64",
+            "bracketId": 1466095,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 709843,
+                    "playerTag": "Chem"
+                }
+            ]
+        },
+        {
+            "id": 35981776,
+            "entrant1Id": 6994102,
+            "entrant2Id": 6943428,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "RePlay",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6994102,
+            "loserId": 6943428,
+            "winnerName": "CLG | SFAT",
+            "loserName": "RePlay",
+            "bracketName": "West Coast Pools",
+            "bracketId": 1464898,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 494593,
+                    "playerTag": "RePlay"
+                }
+            ]
+        },
+        {
+            "id": 35985387,
+            "entrant1Id": 6994102,
+            "entrant2Id": 6931740,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "lluZ | PEP | LSD",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6994102,
+            "loserId": 6931740,
+            "winnerName": "CLG | SFAT",
+            "loserName": "lluZ | PEP | LSD",
+            "bracketName": "Top 64",
+            "bracketId": 1466095,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 35985375,
+            "entrant1Id": 6994102,
+            "entrant2Id": 6946913,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Dawson",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6994102,
+            "loserId": 6946913,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Dawson",
+            "bracketName": "Top 64",
+            "bracketId": 1466095,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 147811,
+                    "playerTag": "Dawson"
+                }
+            ]
+        },
+        {
+            "id": 35008787,
+            "entrant1Id": 6753946,
+            "entrant2Id": 6766756,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "MT",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6753946,
+            "loserId": 6766756,
+            "winnerName": "CLG | SFAT",
+            "loserName": "MT",
+            "bracketName": "Main Bracket Pools",
+            "bracketId": 1445149,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7634,
+                    "playerTag": "MT"
+                }
+            ]
+        },
+        {
+            "id": 35008772,
+            "entrant1Id": 6753946,
+            "entrant2Id": 6769662,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Megaman",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6753946,
+            "loserId": 6769662,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Megaman",
+            "bracketName": "Main Bracket Pools",
+            "bracketId": 1445149,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27527,
+                    "playerTag": "Megaman"
+                }
+            ]
+        },
+        {
+            "id": 35015179,
+            "entrant1Id": 6753946,
+            "entrant2Id": 6757971,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6757971,
+            "loserId": 6753946,
+            "winnerName": "bobby big ballz",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Top 32",
+            "bracketId": 1445148,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 35015241,
+            "entrant1Id": 6753946,
+            "entrant2Id": 6769829,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "deft",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6753946,
+            "loserId": 6769829,
+            "winnerName": "CLG | SFAT",
+            "loserName": "deft",
+            "bracketName": "Top 32",
+            "bracketId": 1445148,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 311208,
+                    "playerTag": "deft"
+                }
+            ]
+        },
+        {
+            "id": 35022191,
+            "entrant1Id": 6770421,
+            "entrant2Id": 6753946,
+            "entrant1Name": "Soonsay",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6770421,
+            "loserId": 6753946,
+            "winnerName": "Soonsay",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Top 8",
+            "bracketId": 1445157,
+            "entrant1Players": [
+                {
+                    "playerId": 324561,
+                    "playerTag": "Soonsay"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 35022190,
+            "entrant1Id": 6757971,
+            "entrant2Id": 6753946,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6753946,
+            "loserId": 6757971,
+            "winnerName": "CLG | SFAT",
+            "loserName": "bobby big ballz",
+            "bracketName": "Top 8",
+            "bracketId": 1445157,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 35015173,
+            "entrant1Id": 6753946,
+            "entrant2Id": 6770010,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Darrell",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6753946,
+            "loserId": 6770010,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Darrell",
+            "bracketName": "Top 32",
+            "bracketId": 1445148,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 211440,
+                    "playerTag": "Darrell"
+                }
+            ]
+        },
+        {
+            "id": 35022189,
+            "entrant1Id": 6773144,
+            "entrant2Id": 6753946,
+            "entrant1Name": "Medz",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6753946,
+            "loserId": 6773144,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Medz",
+            "bracketName": "Top 8",
+            "bracketId": 1445157,
+            "entrant1Players": [
+                {
+                    "playerId": 40476,
+                    "playerTag": "Medz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 35022187,
+            "entrant1Id": 6753946,
+            "entrant2Id": 6753686,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "KoDoRiN",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6753946,
+            "loserId": 6753686,
+            "winnerName": "CLG | SFAT",
+            "loserName": "KoDoRiN",
+            "bracketName": "Top 8",
+            "bracketId": 1445157,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 34941304,
+            "entrant1Id": 6760846,
+            "entrant2Id": 6754318,
+            "entrant1Name": "S2J",
+            "entrant2Name": "SFAT",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6754318,
+            "loserId": 6760846,
+            "winnerName": "SFAT",
+            "loserName": "S2J",
+            "bracketName": "Top 8",
+            "bracketId": 1442347,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 34941305,
+            "entrant1Id": 6754318,
+            "entrant2Id": 6760846,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "S2J",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6760846,
+            "loserId": 6754318,
+            "winnerName": "S2J",
+            "loserName": "SFAT",
+            "bracketName": "Top 8",
+            "bracketId": 1442347,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ]
+        },
+        {
+            "id": 34935840,
+            "entrant1Id": 6754318,
+            "entrant2Id": 6750259,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Yamasaki",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6754318,
+            "loserId": 6750259,
+            "winnerName": "SFAT",
+            "loserName": "Yamasaki",
+            "bracketName": "Pools",
+            "bracketId": 1442342,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 183677,
+                    "playerTag": "Yamasaki"
+                }
+            ]
+        },
+        {
+            "id": 34935829,
+            "entrant1Id": 6754318,
+            "entrant2Id": 6756216,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Rivera",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6754318,
+            "loserId": 6756216,
+            "winnerName": "SFAT",
+            "loserName": "Rivera",
+            "bracketName": "Pools",
+            "bracketId": 1442342,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 543568,
+                    "playerTag": "Rivera"
+                }
+            ]
+        },
+        {
+            "id": 34939912,
+            "entrant1Id": 6754318,
+            "entrant2Id": 6761069,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Pepis | Elliot",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6754318,
+            "loserId": 6761069,
+            "winnerName": "SFAT",
+            "loserName": "Pepis | Elliot",
+            "bracketName": "Top 32",
+            "bracketId": 1442346,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7612,
+                    "playerTag": "Elliot"
+                }
+            ]
+        },
+        {
+            "id": 34941319,
+            "entrant1Id": 6758007,
+            "entrant2Id": 6754318,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "SFAT",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6754318,
+            "loserId": 6758007,
+            "winnerName": "SFAT",
+            "loserName": "bobby big ballz",
+            "bracketName": "Top 8",
+            "bracketId": 1442347,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 34941318,
+            "entrant1Id": 6759779,
+            "entrant2Id": 6754318,
+            "entrant1Name": "Soonsay",
+            "entrant2Name": "SFAT",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6754318,
+            "loserId": 6759779,
+            "winnerName": "SFAT",
+            "loserName": "Soonsay",
+            "bracketName": "Top 8",
+            "bracketId": 1442347,
+            "entrant1Players": [
+                {
+                    "playerId": 324561,
+                    "playerTag": "Soonsay"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 34941301,
+            "entrant1Id": 6754318,
+            "entrant2Id": 6758007,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6758007,
+            "loserId": 6754318,
+            "winnerName": "bobby big ballz",
+            "loserName": "SFAT",
+            "bracketName": "Top 8",
+            "bracketId": 1442347,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 34939904,
+            "entrant1Id": 6754318,
+            "entrant2Id": 6752133,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6754318,
+            "loserId": 6752133,
+            "winnerName": "SFAT",
+            "loserName": "Quaff",
+            "bracketName": "Top 32",
+            "bracketId": 1442346,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34941317,
+            "entrant1Id": 6754318,
+            "entrant2Id": 6755468,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "LFG | Eddy Mexico",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6754318,
+            "loserId": 6755468,
+            "winnerName": "SFAT",
+            "loserName": "LFG | Eddy Mexico",
+            "bracketName": "Top 8",
+            "bracketId": 1442347,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1030,
+                    "playerTag": "Eddy Mexico"
+                }
+            ]
+        },
+        {
+            "id": 34782965,
+            "entrant1Id": 6705186,
+            "entrant2Id": 6711251,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "S2J",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6711251,
+            "loserId": 6705186,
+            "winnerName": "S2J",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Top 8",
+            "bracketId": 1437614,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ]
+        },
+        {
+            "id": 34782966,
+            "entrant1Id": 6711251,
+            "entrant2Id": 6705186,
+            "entrant1Name": "S2J",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6711251,
+            "loserId": 6705186,
+            "winnerName": "S2J",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Top 8",
+            "bracketId": 1437614,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 34777447,
+            "entrant1Id": 6705186,
+            "entrant2Id": 6715896,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Pipe",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6705186,
+            "loserId": 6715896,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Pipe",
+            "bracketName": "Pools",
+            "bracketId": 1437605,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 627118,
+                    "playerTag": "Pipe"
+                }
+            ]
+        },
+        {
+            "id": 34782964,
+            "entrant1Id": 6705186,
+            "entrant2Id": 6711251,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "S2J",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6705186,
+            "loserId": 6711251,
+            "winnerName": "CLG | SFAT",
+            "loserName": "S2J",
+            "bracketName": "Top 8",
+            "bracketId": 1437614,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ]
+        },
+        {
+            "id": 34781652,
+            "entrant1Id": 6705186,
+            "entrant2Id": 6714540,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "ALP",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6705186,
+            "loserId": 6714540,
+            "winnerName": "CLG | SFAT",
+            "loserName": "ALP",
+            "bracketName": "Top 32",
+            "bracketId": 1437613,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10745,
+                    "playerTag": "ALP"
+                }
+            ]
+        },
+        {
+            "id": 34781644,
+            "entrant1Id": 6705186,
+            "entrant2Id": 6710713,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "yingling",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6705186,
+            "loserId": 6710713,
+            "winnerName": "CLG | SFAT",
+            "loserName": "yingling",
+            "bracketName": "Top 32",
+            "bracketId": 1437613,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12137,
+                    "playerTag": "yingling"
+                }
+            ]
+        },
+        {
+            "id": 34782962,
+            "entrant1Id": 6705186,
+            "entrant2Id": 6711377,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "ARMY",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6705186,
+            "loserId": 6711377,
+            "winnerName": "CLG | SFAT",
+            "loserName": "ARMY",
+            "bracketName": "Top 8",
+            "bracketId": 1437614,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23458,
+                    "playerTag": "ARMY"
+                }
+            ]
+        },
+        {
+            "id": 41711549,
+            "entrant1Id": 8552191,
+            "entrant2Id": 8552184,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Panda | Plup",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552184,
+            "loserId": 8552191,
+            "winnerName": "Panda | Plup",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ]
+        },
+        {
+            "id": 41711550,
+            "entrant1Id": 8552184,
+            "entrant2Id": 8552191,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552184,
+            "loserId": 8552191,
+            "winnerName": "Panda | Plup",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 41711548,
+            "entrant1Id": 8552184,
+            "entrant2Id": 8552191,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552191,
+            "loserId": 8552184,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Panda | Plup",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 41672752,
+            "entrant1Id": 8552191,
+            "entrant2Id": 8552213,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552191,
+            "loserId": 8552213,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Fiction",
+            "bracketName": "Group Stage",
+            "bracketId": 1603214,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 41711547,
+            "entrant1Id": 8552191,
+            "entrant2Id": 8552198,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "bc | S2J",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552191,
+            "loserId": 8552198,
+            "winnerName": "CLG | SFAT",
+            "loserName": "bc | S2J",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ]
+        },
+        {
+            "id": 41672750,
+            "entrant1Id": 8552191,
+            "entrant2Id": 8552218,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552191,
+            "loserId": 8552218,
+            "winnerName": "CLG | SFAT",
+            "loserName": "bobby big ballz",
+            "bracketName": "Group Stage",
+            "bracketId": 1603214,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 41711544,
+            "entrant1Id": 8552191,
+            "entrant2Id": 8552216,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Captain Faceroll",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552191,
+            "loserId": 8552216,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Captain Faceroll",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 41672748,
+            "entrant1Id": 8552191,
+            "entrant2Id": 8552233,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Tai",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552191,
+            "loserId": 8552233,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Tai",
+            "bracketName": "Group Stage",
+            "bracketId": 1603214,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1084,
+                    "playerTag": "Tai"
+                }
+            ]
+        },
+        {
+            "id": 41300776,
+            "entrant1Id": 8352087,
+            "entrant2Id": 8382106,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Rocky",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8382106,
+            "loserId": 8352087,
+            "winnerName": "Rocky",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Top 8",
+            "bracketId": 1582376,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ]
+        },
+        {
+            "id": 41300777,
+            "entrant1Id": 8382106,
+            "entrant2Id": 8352087,
+            "entrant1Name": "Rocky",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8352087,
+            "loserId": 8382106,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Rocky",
+            "bracketName": "Top 8",
+            "bracketId": 1582376,
+            "entrant1Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 41256243,
+            "entrant1Id": 8352087,
+            "entrant2Id": 8437270,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Frame1 | yingling",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8352087,
+            "loserId": 8437270,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Frame1 | yingling",
+            "bracketName": "West Pools",
+            "bracketId": 1580685,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12137,
+                    "playerTag": "yingling"
+                }
+            ]
+        },
+        {
+            "id": 41300775,
+            "entrant1Id": 8352087,
+            "entrant2Id": 8382106,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Rocky",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8352087,
+            "loserId": 8382106,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Rocky",
+            "bracketName": "Top 8",
+            "bracketId": 1582376,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ]
+        },
+        {
+            "id": 41256239,
+            "entrant1Id": 8352087,
+            "entrant2Id": 8419055,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Elderdurid",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8352087,
+            "loserId": 8419055,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Elderdurid",
+            "bracketName": "West Pools",
+            "bracketId": 1580685,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2447803,
+                    "playerTag": "Elderdurid"
+                }
+            ]
+        },
+        {
+            "id": 41264296,
+            "entrant1Id": 8352087,
+            "entrant2Id": 8460567,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "LFG | PanterA",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8352087,
+            "loserId": 8460567,
+            "winnerName": "CLG | SFAT",
+            "loserName": "LFG | PanterA",
+            "bracketName": "Top 32",
+            "bracketId": 1580688,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 135088,
+                    "playerTag": "PanterA"
+                }
+            ]
+        },
+        {
+            "id": 41264288,
+            "entrant1Id": 8352087,
+            "entrant2Id": 8419579,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Dad Inside | tag714",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8352087,
+            "loserId": 8419579,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Dad Inside | tag714",
+            "bracketName": "Top 32",
+            "bracketId": 1580688,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 921511,
+                    "playerTag": "tag714"
+                }
+            ]
+        },
+        {
+            "id": 41300773,
+            "entrant1Id": 8352087,
+            "entrant2Id": 8362179,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Bones",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8352087,
+            "loserId": 8362179,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Bones",
+            "bracketName": "Top 8",
+            "bracketId": 1582376,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5457,
+                    "playerTag": "Bones"
+                }
+            ]
+        },
+        {
+            "id": 40330850,
+            "entrant1Id": 8236735,
+            "entrant2Id": 8236940,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8236940,
+            "loserId": 8236735,
+            "winnerName": "bobby big ballz",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Main Bracket",
+            "bracketId": 1570144,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 40330914,
+            "entrant1Id": 8236735,
+            "entrant2Id": 8234397,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "CG | Smashdaddy",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8234397,
+            "loserId": 8236735,
+            "winnerName": "CG | Smashdaddy",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Main Bracket",
+            "bracketId": 1570144,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36403,
+                    "playerTag": "Smashdaddy"
+                }
+            ]
+        },
+        {
+            "id": 40330846,
+            "entrant1Id": 8236735,
+            "entrant2Id": 8236982,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Peppi YC | Salt",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8236735,
+            "loserId": 8236982,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Peppi YC | Salt",
+            "bracketName": "Main Bracket",
+            "bracketId": 1570144,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 133666,
+                    "playerTag": "Salt"
+                }
+            ]
+        },
+        {
+            "id": 40330838,
+            "entrant1Id": 8236735,
+            "entrant2Id": 8237057,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "FreeLight | Buttlet",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8236735,
+            "loserId": 8237057,
+            "winnerName": "CLG | SFAT",
+            "loserName": "FreeLight | Buttlet",
+            "bracketName": "Main Bracket",
+            "bracketId": 1570144,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 70110,
+                    "playerTag": "Buttlet"
+                }
+            ]
+        },
+        {
+            "id": 39949972,
+            "entrant1Id": 8142999,
+            "entrant2Id": 8140449,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Rocky",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8142999,
+            "loserId": 8140449,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Rocky",
+            "bracketName": "Main Bracket",
+            "bracketId": 1558741,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ]
+        },
+        {
+            "id": 39949971,
+            "entrant1Id": 8142999,
+            "entrant2Id": 8140449,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Rocky",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8142999,
+            "loserId": 8140449,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Rocky",
+            "bracketName": "Main Bracket",
+            "bracketId": 1558741,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ]
+        },
+        {
+            "id": 39949969,
+            "entrant1Id": 8142999,
+            "entrant2Id": 8140956,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8142999,
+            "loserId": 8140956,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Quaff",
+            "bracketName": "Main Bracket",
+            "bracketId": 1558741,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39949965,
+            "entrant1Id": 8142999,
+            "entrant2Id": 8142996,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "LFG | PanterA",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8142999,
+            "loserId": 8142996,
+            "winnerName": "CLG | SFAT",
+            "loserName": "LFG | PanterA",
+            "bracketName": "Main Bracket",
+            "bracketId": 1558741,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 135088,
+                    "playerTag": "PanterA"
+                }
+            ]
+        },
+        {
+            "id": 39949957,
+            "entrant1Id": 8142999,
+            "entrant2Id": 8143005,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "clich\u00e9",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8142999,
+            "loserId": 8143005,
+            "winnerName": "CLG | SFAT",
+            "loserName": "clich\u00e9",
+            "bracketName": "Main Bracket",
+            "bracketId": 1558741,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 927948,
+                    "playerTag": "clich\u00e9"
+                }
+            ]
+        },
+        {
+            "id": 39373463,
+            "entrant1Id": 8001683,
+            "entrant2Id": 8002390,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8002390,
+            "loserId": 8001683,
+            "winnerName": "bobby big ballz",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Main Bracket",
+            "bracketId": 1547035,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 39373464,
+            "entrant1Id": 8002390,
+            "entrant2Id": 8001683,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8002390,
+            "loserId": 8001683,
+            "winnerName": "bobby big ballz",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Main Bracket",
+            "bracketId": 1547035,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 39373462,
+            "entrant1Id": 8001683,
+            "entrant2Id": 8001686,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Mango's Friend | Lucky",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8001683,
+            "loserId": 8001686,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Mango's Friend | Lucky",
+            "bracketName": "Main Bracket",
+            "bracketId": 1547035,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ]
+        },
+        {
+            "id": 39373460,
+            "entrant1Id": 8001683,
+            "entrant2Id": 8002405,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "CG | Peppi | Pappi",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8001683,
+            "loserId": 8002405,
+            "winnerName": "CLG | SFAT",
+            "loserName": "CG | Peppi | Pappi",
+            "bracketName": "Main Bracket",
+            "bracketId": 1547035,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61570,
+                    "playerTag": "Pappi"
+                }
+            ]
+        },
+        {
+            "id": 39373456,
+            "entrant1Id": 8001683,
+            "entrant2Id": 8002389,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Steech",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8001683,
+            "loserId": 8002389,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Steech",
+            "bracketName": "Main Bracket",
+            "bracketId": 1547035,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 731487,
+                    "playerTag": "Steech"
+                }
+            ]
+        },
+        {
+            "id": 39373448,
+            "entrant1Id": 8001683,
+            "entrant2Id": 8002407,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Elk G | Ivayne",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8001683,
+            "loserId": 8002407,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Elk G | Ivayne",
+            "bracketName": "Main Bracket",
+            "bracketId": 1547035,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10362,
+                    "playerTag": "Ivayne"
+                }
+            ]
+        },
+        {
+            "id": 39197426,
+            "entrant1Id": 7955736,
+            "entrant2Id": 7955590,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Smashdaddy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7955736,
+            "loserId": 7955590,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Smashdaddy",
+            "bracketName": "Main Bracket",
+            "bracketId": 1541684,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36403,
+                    "playerTag": "Smashdaddy"
+                }
+            ]
+        },
+        {
+            "id": 39197425,
+            "entrant1Id": 7955736,
+            "entrant2Id": 7955590,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Smashdaddy",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7955736,
+            "loserId": 7955590,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Smashdaddy",
+            "bracketName": "Main Bracket",
+            "bracketId": 1541684,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36403,
+                    "playerTag": "Smashdaddy"
+                }
+            ]
+        },
+        {
+            "id": 39197423,
+            "entrant1Id": 7955736,
+            "entrant2Id": 7955604,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "CG | Peppi | Pappi",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7955736,
+            "loserId": 7955604,
+            "winnerName": "CLG | SFAT",
+            "loserName": "CG | Peppi | Pappi",
+            "bracketName": "Main Bracket",
+            "bracketId": 1541684,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61570,
+                    "playerTag": "Pappi"
+                }
+            ]
+        },
+        {
+            "id": 39197419,
+            "entrant1Id": 7955736,
+            "entrant2Id": 7955707,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "PanterA",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7955736,
+            "loserId": 7955707,
+            "winnerName": "CLG | SFAT",
+            "loserName": "PanterA",
+            "bracketName": "Main Bracket",
+            "bracketId": 1541684,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 135088,
+                    "playerTag": "PanterA"
+                }
+            ]
+        },
+        {
+            "id": 39197411,
+            "entrant1Id": 7955736,
+            "entrant2Id": 7955722,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "PhDeeznuts",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7955736,
+            "loserId": 7955722,
+            "winnerName": "CLG | SFAT",
+            "loserName": "PhDeeznuts",
+            "bracketName": "Main Bracket",
+            "bracketId": 1541684,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15563,
+                    "playerTag": "PhDeeznuts"
+                }
+            ]
+        },
+        {
+            "id": 38135190,
+            "entrant1Id": 7552047,
+            "entrant2Id": 7551976,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "KoDoRiN",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7551976,
+            "loserId": 7552047,
+            "winnerName": "KoDoRiN",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Main Bracket",
+            "bracketId": 1513271,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 38135191,
+            "entrant1Id": 7551976,
+            "entrant2Id": 7552047,
+            "entrant1Name": "KoDoRiN",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7552047,
+            "loserId": 7551976,
+            "winnerName": "CLG | SFAT",
+            "loserName": "KoDoRiN",
+            "bracketName": "Main Bracket",
+            "bracketId": 1513271,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 38135189,
+            "entrant1Id": 7552047,
+            "entrant2Id": 7551976,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "KoDoRiN",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7552047,
+            "loserId": 7551976,
+            "winnerName": "CLG | SFAT",
+            "loserName": "KoDoRiN",
+            "bracketName": "Main Bracket",
+            "bracketId": 1513271,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 38135187,
+            "entrant1Id": 7552047,
+            "entrant2Id": 7551962,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7552047,
+            "loserId": 7551962,
+            "winnerName": "CLG | SFAT",
+            "loserName": "bobby big ballz",
+            "bracketName": "Main Bracket",
+            "bracketId": 1513271,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 38135183,
+            "entrant1Id": 7552047,
+            "entrant2Id": 7552030,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "SANS | Blues Clues",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7552047,
+            "loserId": 7552030,
+            "winnerName": "CLG | SFAT",
+            "loserName": "SANS | Blues Clues",
+            "bracketName": "Main Bracket",
+            "bracketId": 1513271,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 64692,
+                    "playerTag": "Blues Clues"
+                }
+            ]
+        },
+        {
+            "id": 38135175,
+            "entrant1Id": 7552047,
+            "entrant2Id": 7552007,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "IWI | Marrgasm",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7552047,
+            "loserId": 7552007,
+            "winnerName": "CLG | SFAT",
+            "loserName": "IWI | Marrgasm",
+            "bracketName": "Main Bracket",
+            "bracketId": 1513271,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 327212,
+                    "playerTag": "Marrgasm"
+                }
+            ]
+        },
+        {
+            "id": 36992062,
+            "entrant1Id": 7245843,
+            "entrant2Id": 7225612,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Mango's Friend | Lucky",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7245843,
+            "loserId": 7225612,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Mango's Friend | Lucky",
+            "bracketName": "Top 8",
+            "bracketId": 1485534,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ]
+        },
+        {
+            "id": 36981573,
+            "entrant1Id": 7245843,
+            "entrant2Id": 7253947,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "GS | TreyTheTrashman",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7245843,
+            "loserId": 7253947,
+            "winnerName": "CLG | SFAT",
+            "loserName": "GS | TreyTheTrashman",
+            "bracketName": "Pools",
+            "bracketId": 1485529,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 147251,
+                    "playerTag": "TreyTheTrashman"
+                }
+            ]
+        },
+        {
+            "id": 36992061,
+            "entrant1Id": 7245843,
+            "entrant2Id": 7238997,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "rocky",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7245843,
+            "loserId": 7238997,
+            "winnerName": "CLG | SFAT",
+            "loserName": "rocky",
+            "bracketName": "Top 8",
+            "bracketId": 1485534,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ]
+        },
+        {
+            "id": 36981565,
+            "entrant1Id": 7245843,
+            "entrant2Id": 7250239,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "nmble-mann",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7245843,
+            "loserId": 7250239,
+            "winnerName": "CLG | SFAT",
+            "loserName": "nmble-mann",
+            "bracketName": "Pools",
+            "bracketId": 1485529,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2206263,
+                    "playerTag": "nmble-mann"
+                }
+            ]
+        },
+        {
+            "id": 36984811,
+            "entrant1Id": 7245843,
+            "entrant2Id": 7243350,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "YC | Peppi | | Pappi",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7245843,
+            "loserId": 7243350,
+            "winnerName": "CLG | SFAT",
+            "loserName": "YC | Peppi | | Pappi",
+            "bracketName": "Top 32",
+            "bracketId": 1485533,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61570,
+                    "playerTag": "Pappi"
+                }
+            ]
+        },
+        {
+            "id": 36984803,
+            "entrant1Id": 7245843,
+            "entrant2Id": 7249592,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Elliot",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7245843,
+            "loserId": 7249592,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Elliot",
+            "bracketName": "Top 32",
+            "bracketId": 1485533,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7612,
+                    "playerTag": "Elliot"
+                }
+            ]
+        },
+        {
+            "id": 36992059,
+            "entrant1Id": 7245843,
+            "entrant2Id": 7245356,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7245843,
+            "loserId": 7245356,
+            "winnerName": "CLG | SFAT",
+            "loserName": "bobby big ballz",
+            "bracketName": "Top 8",
+            "bracketId": 1485534,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 36339026,
+            "entrant1Id": 7098997,
+            "entrant2Id": 7099049,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "FreeHops",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7098997,
+            "loserId": 7099049,
+            "winnerName": "CLG | SFAT",
+            "loserName": "FreeHops",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1473226,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077796,
+                    "playerTag": "FreeHops"
+                }
+            ]
+        },
+        {
+            "id": 36339302,
+            "entrant1Id": 7099036,
+            "entrant2Id": 7098997,
+            "entrant1Name": "K\u00fcrv",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7098997,
+            "loserId": 7099036,
+            "winnerName": "CLG | SFAT",
+            "loserName": "K\u00fcrv",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1473226,
+            "entrant1Players": [
+                {
+                    "playerId": 37116,
+                    "playerTag": "K\u00fcrv"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 36339529,
+            "entrant1Id": 7098997,
+            "entrant2Id": 7097454,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "SANS | Blues Clues",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7098997,
+            "loserId": 7097454,
+            "winnerName": "CLG | SFAT",
+            "loserName": "SANS | Blues Clues",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1473226,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 64692,
+                    "playerTag": "Blues Clues"
+                }
+            ]
+        },
+        {
+            "id": 36339235,
+            "entrant1Id": 7095658,
+            "entrant2Id": 7098997,
+            "entrant1Name": "Darrell",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7098997,
+            "loserId": 7095658,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Darrell",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1473226,
+            "entrant1Players": [
+                {
+                    "playerId": 211440,
+                    "playerTag": "Darrell"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 36338756,
+            "entrant1Id": 7098997,
+            "entrant2Id": 7099039,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Flow | ESPONJA",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7098997,
+            "loserId": 7099039,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Flow | ESPONJA",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1473226,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 129363,
+                    "playerTag": "ESPONJA"
+                }
+            ]
+        },
+        {
+            "id": 36339103,
+            "entrant1Id": 7098997,
+            "entrant2Id": 7098627,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Mr. Butterfly",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7098997,
+            "loserId": 7098627,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Mr. Butterfly",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1473226,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 890721,
+                    "playerTag": "Mr. Butterfly"
+                }
+            ]
+        },
+        {
+            "id": 36339084,
+            "entrant1Id": 7098997,
+            "entrant2Id": 7098835,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "BEBO",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7098997,
+            "loserId": 7098835,
+            "winnerName": "CLG | SFAT",
+            "loserName": "BEBO",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1473226,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 360229,
+                    "playerTag": "BEBO"
+                }
+            ]
+        },
+        {
+            "id": 36338658,
+            "entrant1Id": 7098689,
+            "entrant2Id": 7098997,
+            "entrant1Name": "KoDoRiN",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7098997,
+            "loserId": 7098689,
+            "winnerName": "CLG | SFAT",
+            "loserName": "KoDoRiN",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1473226,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 36338810,
+            "entrant1Id": 7098997,
+            "entrant2Id": 7097454,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "SANS | Blues Clues",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7098997,
+            "loserId": 7097454,
+            "winnerName": "CLG | SFAT",
+            "loserName": "SANS | Blues Clues",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1473226,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 64692,
+                    "playerTag": "Blues Clues"
+                }
+            ]
+        },
+        {
+            "id": 36339214,
+            "entrant1Id": 7098997,
+            "entrant2Id": 7098826,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "The Leaf",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7098997,
+            "loserId": 7098826,
+            "winnerName": "CLG | SFAT",
+            "loserName": "The Leaf",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1473226,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10529,
+                    "playerTag": "The Leaf"
+                }
+            ]
+        },
+        {
+            "id": 36350288,
+            "entrant1Id": 7102465,
+            "entrant2Id": 7102468,
+            "entrant1Name": "KoDoRiN",
+            "entrant2Name": "CLG | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7102465,
+            "loserId": 7102468,
+            "winnerName": "KoDoRiN",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Main Bracket",
+            "bracketId": 1473224,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 36350223,
+            "entrant1Id": 7102468,
+            "entrant2Id": 7102969,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Revenge | Gahtzu",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7102969,
+            "loserId": 7102468,
+            "winnerName": "Revenge | Gahtzu",
+            "loserName": "CLG | SFAT",
+            "bracketName": "Main Bracket",
+            "bracketId": 1473224,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 36350287,
+            "entrant1Id": 7102468,
+            "entrant2Id": 7102415,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7102468,
+            "loserId": 7102415,
+            "winnerName": "CLG | SFAT",
+            "loserName": "TG | Mot$",
+            "bracketName": "Main Bracket",
+            "bracketId": 1473224,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 36350219,
+            "entrant1Id": 7102468,
+            "entrant2Id": 7103510,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "K\u00fcrv",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7102468,
+            "loserId": 7103510,
+            "winnerName": "CLG | SFAT",
+            "loserName": "K\u00fcrv",
+            "bracketName": "Main Bracket",
+            "bracketId": 1473224,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37116,
+                    "playerTag": "K\u00fcrv"
+                }
+            ]
+        },
+        {
+            "id": 36350211,
+            "entrant1Id": 7102468,
+            "entrant2Id": 7102448,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Typhoon",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7102468,
+            "loserId": 7102448,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Typhoon",
+            "bracketName": "Main Bracket",
+            "bracketId": 1473224,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 221423,
+                    "playerTag": "Typhoon"
+                }
+            ]
+        },
+        {
+            "id": 34422486,
+            "entrant1Id": 6606699,
+            "entrant2Id": 6622851,
+            "entrant1Name": "KoDoRiN",
+            "entrant2Name": "CLG. | SFAT",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6606699,
+            "loserId": 6622851,
+            "winnerName": "KoDoRiN",
+            "loserName": "CLG. | SFAT",
+            "bracketName": "Main Bracket",
+            "bracketId": 1430452,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ]
+        },
+        {
+            "id": 34422550,
+            "entrant1Id": 6622851,
+            "entrant2Id": 6624489,
+            "entrant1Name": "CLG. | SFAT",
+            "entrant2Name": "Ginger",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6624489,
+            "loserId": 6622851,
+            "winnerName": "Ginger",
+            "loserName": "CLG. | SFAT",
+            "bracketName": "Main Bracket",
+            "bracketId": 1430452,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ]
+        },
+        {
+            "id": 34422485,
+            "entrant1Id": 6622851,
+            "entrant2Id": 6620669,
+            "entrant1Name": "CLG. | SFAT",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6622851,
+            "loserId": 6620669,
+            "winnerName": "CLG. | SFAT",
+            "loserName": "bobby big ballz",
+            "bracketName": "Main Bracket",
+            "bracketId": 1430452,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 34422482,
+            "entrant1Id": 6622851,
+            "entrant2Id": 6620658,
+            "entrant1Name": "CLG. | SFAT",
+            "entrant2Name": "TLOC | SFOP",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6622851,
+            "loserId": 6620658,
+            "winnerName": "CLG. | SFAT",
+            "loserName": "TLOC | SFOP",
+            "bracketName": "Main Bracket",
+            "bracketId": 1430452,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ]
+        },
+        {
+            "id": 34422476,
+            "entrant1Id": 6622851,
+            "entrant2Id": 6620651,
+            "entrant1Name": "CLG. | SFAT",
+            "entrant2Name": "oh",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6622851,
+            "loserId": 6620651,
+            "winnerName": "CLG. | SFAT",
+            "loserName": "oh",
+            "bracketName": "Main Bracket",
+            "bracketId": 1430452,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15171,
+                    "playerTag": "oh"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "professor pro",
+        "zamu",
+        "medz",
+        "ginger",
+        "s2j",
+        "zealot",
+        "albert",
+        "free palestine",
+        "free palestine",
+        "zamu",
+        "travioli",
+        "gahtzu",
+        "wizzrobe",
+        "wizzrobe",
+        "axe",
+        "medz",
+        "bobby big ballz",
+        "pappi",
+        "logan",
+        "aklo",
+        "aura",
+        "n0ne/ bond / wizzyfan109",
+        "axe",
+        "dawson",
+        "hax$",
+        "aklo",
+        "donttestme",
+        "hax$",
+        "forrest",
+        "sfop",
+        "bobby big ballz",
+        "bobby big ballz",
+        "hax$",
+        "gahtzu",
+        "llod",
+        "blues clues",
+        "aklo",
+        "2saint",
+        "2saint",
+        "n0ne/ bond / wizzyfan109",
+        "kodorin",
+        "pappi",
+        "axe",
+        "aklo",
+        "ben",
+        "albert",
+        "albert",
+        "kodorin",
+        "s2j",
+        "free palestine",
+        "mang0",
+        "sora/joshman",
+        "aura",
+        "chem",
+        "logan",
+        "dawson",
+        "bobby big ballz",
+        "medz",
+        "kodorin",
+        "s2j",
+        "bobby big ballz",
+        "soonsay",
+        "quaff",
+        "eddy mexico",
+        "s2j",
+        "army",
+        "plup",
+        "fiction",
+        "s2j",
+        "bobby big ballz",
+        "faceroll",
+        "tai",
+        "rocky",
+        "rocky",
+        "bones",
+        "salt",
+        "rocky",
+        "rocky",
+        "quaff",
+        "lucky",
+        "pappi",
+        "smashdaddy",
+        "smashdaddy",
+        "pappi",
+        "kodorin",
+        "kodorin",
+        "bobby big ballz",
+        "blues clues",
+        "lucky",
+        "rocky",
+        "pappi",
+        "bobby big ballz",
+        "blues clues",
+        "kodorin",
+        "blues clues",
+        "the leaf",
+        "mot$",
+        "typhoon",
+        "bobby big ballz",
+        "sfop"
+    ],
+    "L": [
+        "magi",
+        "aklo",
+        "kodorin",
+        "kodorin",
+        "hungrybox",
+        "plup",
+        "s2j",
+        "s2j",
+        "wizzrobe",
+        "kodorin",
+        "wizzrobe",
+        "ginger",
+        "ibdw",
+        "hungrybox",
+        "hungrybox",
+        "ibdw",
+        "ibdw",
+        "zain",
+        "amsa",
+        "magi",
+        "Epic Murloc",
+        "trail",
+        "magi",
+        "zamu",
+        "bobby big ballz",
+        "soonsay",
+        "s2j",
+        "bobby big ballz",
+        "s2j",
+        "s2j",
+        "plup",
+        "plup",
+        "rocky",
+        "bobby big ballz",
+        "smashdaddy",
+        "bobby big ballz",
+        "bobby big ballz",
+        "kodorin",
+        "kodorin",
+        "gahtzu",
+        "kodorin",
+        "ginger"
+    ]
+}

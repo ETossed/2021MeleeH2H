@@ -1,0 +1,5600 @@
+{
+    "Events": [
+        "555557",
+        "554186",
+        "552626",
+        "538172",
+        "545027",
+        "608952",
+        "608950",
+        "606731",
+        "606729",
+        "552907",
+        "552440",
+        "549620",
+        "549172",
+        "546904",
+        "546902",
+        "611340",
+        "611338",
+        "601305",
+        "601303",
+        "562795",
+        "550585",
+        "550583",
+        "552425",
+        "545128",
+        "545126",
+        "536568",
+        "543645"
+    ],
+    "Sets": [
+        {
+            "id": 35793873,
+            "entrant1Id": 6960900,
+            "entrant2Id": 6941582,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "RG | Far!",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6960900,
+            "loserId": 6941582,
+            "winnerName": "Quaff",
+            "loserName": "RG | Far!",
+            "bracketName": "West Coast Pools",
+            "bracketId": 1454617,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 132537,
+                    "playerTag": "Far!"
+                }
+            ]
+        },
+        {
+            "id": 35793866,
+            "entrant1Id": 6960900,
+            "entrant2Id": 6956525,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Noodle",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6960900,
+            "loserId": 6956525,
+            "winnerName": "Quaff",
+            "loserName": "Noodle",
+            "bracketName": "West Coast Pools",
+            "bracketId": 1454617,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 786226,
+                    "playerTag": "Noodle"
+                }
+            ]
+        },
+        {
+            "id": 35793852,
+            "entrant1Id": 6960900,
+            "entrant2Id": 6944343,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Chubbz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6960900,
+            "loserId": 6944343,
+            "winnerName": "Quaff",
+            "loserName": "Chubbz",
+            "bracketName": "West Coast Pools",
+            "bracketId": 1454617,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1794541,
+                    "playerTag": "Chubbz"
+                }
+            ]
+        },
+        {
+            "id": 35797019,
+            "entrant1Id": 6956141,
+            "entrant2Id": 6960900,
+            "entrant1Name": "Tempo | Axe",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6956141,
+            "loserId": 6960900,
+            "winnerName": "Tempo | Axe",
+            "loserName": "Quaff",
+            "bracketName": "Top 64 West",
+            "bracketId": 1460697,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 35797075,
+            "entrant1Id": 6960900,
+            "entrant2Id": 6935058,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Azel",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6935058,
+            "loserId": 6960900,
+            "winnerName": "Azel",
+            "loserName": "Quaff",
+            "bracketName": "Top 64 West",
+            "bracketId": 1460697,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 35312498,
+            "entrant1Id": 6846975,
+            "entrant2Id": 6846988,
+            "entrant1Name": "S2J",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6846975,
+            "loserId": 6846988,
+            "winnerName": "S2J",
+            "loserName": "Quaff",
+            "bracketName": "Bracket",
+            "bracketId": 1451825,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 35312529,
+            "entrant1Id": 6846988,
+            "entrant2Id": 6846955,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6846955,
+            "loserId": 6846988,
+            "winnerName": "IMP | Ben",
+            "loserName": "Quaff",
+            "bracketName": "Bracket",
+            "bracketId": 1451825,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 35312496,
+            "entrant1Id": 6846927,
+            "entrant2Id": 6846988,
+            "entrant1Name": "htwa",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6846988,
+            "loserId": 6846927,
+            "winnerName": "Quaff",
+            "loserName": "htwa",
+            "bracketName": "Bracket",
+            "bracketId": 1451825,
+            "entrant1Players": [
+                {
+                    "playerId": 11781,
+                    "playerTag": "htwa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 35304702,
+            "entrant1Id": 6844425,
+            "entrant2Id": 6815386,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "yingling",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6844425,
+            "loserId": 6815386,
+            "winnerName": "Quaff",
+            "loserName": "yingling",
+            "bracketName": "Bracket pools",
+            "bracketId": 1448680,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12137,
+                    "playerTag": "yingling"
+                }
+            ]
+        },
+        {
+            "id": 35304693,
+            "entrant1Id": 6844425,
+            "entrant2Id": 6831541,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Pink",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6844425,
+            "loserId": 6831541,
+            "winnerName": "Quaff",
+            "loserName": "Pink",
+            "bracketName": "Bracket pools",
+            "bracketId": 1448680,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2167243,
+                    "playerTag": "Provider"
+                }
+            ]
+        },
+        {
+            "id": 35309296,
+            "entrant1Id": 6840557,
+            "entrant2Id": 6844425,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6844425,
+            "loserId": 6840557,
+            "winnerName": "Quaff",
+            "loserName": "bobby big ballz",
+            "bracketName": "Bracket top 16",
+            "bracketId": 1451724,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34843488,
+            "entrant1Id": 6699102,
+            "entrant2Id": 6698616,
+            "entrant1Name": "KoDoRiN",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6699102,
+            "loserId": 6698616,
+            "winnerName": "KoDoRiN",
+            "loserName": "Quaff",
+            "bracketName": "West-Coast Singles",
+            "bracketId": 1419775,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34843486,
+            "entrant1Id": 6698616,
+            "entrant2Id": 6693154,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "OAK | Spacepigeon",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6698616,
+            "loserId": 6693154,
+            "winnerName": "Quaff",
+            "loserName": "OAK | Spacepigeon",
+            "bracketName": "West-Coast Singles",
+            "bracketId": 1419775,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 24024,
+                    "playerTag": "SpacePigeon"
+                }
+            ]
+        },
+        {
+            "id": 34843229,
+            "entrant1Id": 6694000,
+            "entrant2Id": 6698616,
+            "entrant1Name": "Tempo | Axe",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6694000,
+            "loserId": 6698616,
+            "winnerName": "Tempo | Axe",
+            "loserName": "Quaff",
+            "bracketName": "West-Coast Singles",
+            "bracketId": 1419775,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34843482,
+            "entrant1Id": 6698616,
+            "entrant2Id": 6723955,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "GUG | K\u00fcrv",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6698616,
+            "loserId": 6723955,
+            "winnerName": "Quaff",
+            "loserName": "GUG | K\u00fcrv",
+            "bracketName": "West-Coast Singles",
+            "bracketId": 1419775,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37116,
+                    "playerTag": "K\u00fcrv"
+                }
+            ]
+        },
+        {
+            "id": 34843222,
+            "entrant1Id": 6698616,
+            "entrant2Id": 6677979,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Egg$",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6698616,
+            "loserId": 6677979,
+            "winnerName": "Quaff",
+            "loserName": "Egg$",
+            "bracketName": "West-Coast Singles",
+            "bracketId": 1419775,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 286931,
+                    "playerTag": "Egg$"
+                }
+            ]
+        },
+        {
+            "id": 34843207,
+            "entrant1Id": 6698616,
+            "entrant2Id": 6694169,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Redcoat",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6698616,
+            "loserId": 6694169,
+            "winnerName": "Quaff",
+            "loserName": "Redcoat",
+            "bracketName": "West-Coast Singles",
+            "bracketId": 1419775,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22333,
+                    "playerTag": "Redcoat"
+                }
+            ]
+        },
+        {
+            "id": 34843177,
+            "entrant1Id": 6698616,
+            "entrant2Id": 6669460,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "SIMP | Vagab0nd",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6698616,
+            "loserId": 6669460,
+            "winnerName": "Quaff",
+            "loserName": "SIMP | Vagab0nd",
+            "bracketName": "West-Coast Singles",
+            "bracketId": 1419775,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 245346,
+                    "playerTag": "tayborn"
+                }
+            ]
+        },
+        {
+            "id": 34610867,
+            "entrant1Id": 6672823,
+            "entrant2Id": 6660720,
+            "entrant1Name": "Connor",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6672823,
+            "loserId": 6660720,
+            "winnerName": "Connor",
+            "loserName": "Quaff",
+            "bracketName": "Pools",
+            "bracketId": 1437120,
+            "entrant1Players": [
+                {
+                    "playerId": 1092,
+                    "playerTag": "Connor"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34611173,
+            "entrant1Id": 6660720,
+            "entrant2Id": 6653270,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Liquid | Chillindude",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6660720,
+            "loserId": 6653270,
+            "winnerName": "Quaff",
+            "loserName": "Liquid | Chillindude",
+            "bracketName": "Pools",
+            "bracketId": 1437120,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1493,
+                    "playerTag": "Chillindude"
+                }
+            ]
+        },
+        {
+            "id": 34610856,
+            "entrant1Id": 6660720,
+            "entrant2Id": 6672585,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Jahnsin",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6660720,
+            "loserId": 6672585,
+            "winnerName": "Quaff",
+            "loserName": "Jahnsin",
+            "bracketName": "Pools",
+            "bracketId": 1437120,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 131653,
+                    "playerTag": "Jahnsin"
+                }
+            ]
+        },
+        {
+            "id": 34616117,
+            "entrant1Id": 6673654,
+            "entrant2Id": 6660720,
+            "entrant1Name": "Tempo | Axe",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6673654,
+            "loserId": 6660720,
+            "winnerName": "Tempo | Axe",
+            "loserName": "Quaff",
+            "bracketName": "Top 32",
+            "bracketId": 1433924,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34616113,
+            "entrant1Id": 6660536,
+            "entrant2Id": 6660720,
+            "entrant1Name": "LFG | Eddy Mexico",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6660720,
+            "loserId": 6660536,
+            "winnerName": "Quaff",
+            "loserName": "LFG | Eddy Mexico",
+            "bracketName": "Top 32",
+            "bracketId": 1433924,
+            "entrant1Players": [
+                {
+                    "playerId": 1030,
+                    "playerTag": "Eddy Mexico"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34616107,
+            "entrant1Id": 6671457,
+            "entrant2Id": 6660720,
+            "entrant1Name": "SDJ",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6660720,
+            "loserId": 6671457,
+            "winnerName": "Quaff",
+            "loserName": "SDJ",
+            "bracketName": "Top 32",
+            "bracketId": 1433924,
+            "entrant1Players": [
+                {
+                    "playerId": 325974,
+                    "playerTag": "SDJ"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34616099,
+            "entrant1Id": 6660720,
+            "entrant2Id": 6674953,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Polo",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6660720,
+            "loserId": 6674953,
+            "winnerName": "Quaff",
+            "loserName": "Polo",
+            "bracketName": "Top 32",
+            "bracketId": 1433924,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61873,
+                    "playerTag": "Polo"
+                }
+            ]
+        },
+        {
+            "id": 39756066,
+            "entrant1Id": 8092665,
+            "entrant2Id": 8093107,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Bahn",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8092665,
+            "loserId": 8093107,
+            "winnerName": "Quaff",
+            "loserName": "Bahn",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1554580,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45875,
+                    "playerTag": "Bahn"
+                }
+            ]
+        },
+        {
+            "id": 39756350,
+            "entrant1Id": 8092665,
+            "entrant2Id": 8089316,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "kelpo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8092665,
+            "loserId": 8089316,
+            "winnerName": "Quaff",
+            "loserName": "kelpo",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1554580,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 928066,
+                    "playerTag": "kelpo"
+                }
+            ]
+        },
+        {
+            "id": 39758035,
+            "entrant1Id": 8092665,
+            "entrant2Id": 8084927,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Iifter",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8084927,
+            "loserId": 8092665,
+            "winnerName": "Iifter",
+            "loserName": "Quaff",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1554580,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26588,
+                    "playerTag": "Iifter"
+                }
+            ]
+        },
+        {
+            "id": 39758035,
+            "entrant1Id": 8092665,
+            "entrant2Id": 8084927,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Iifter",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8084927,
+            "loserId": 8092665,
+            "winnerName": "Iifter",
+            "loserName": "Quaff",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1554580,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26588,
+                    "playerTag": "Iifter"
+                }
+            ]
+        },
+        {
+            "id": 39759187,
+            "entrant1Id": 8091149,
+            "entrant2Id": 8092665,
+            "entrant1Name": "CG | Peppi | Pappi",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8092665,
+            "loserId": 8091149,
+            "winnerName": "Quaff",
+            "loserName": "CG | Peppi | Pappi",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1554580,
+            "entrant1Players": [
+                {
+                    "playerId": 61570,
+                    "playerTag": "Pappi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39758651,
+            "entrant1Id": 8090659,
+            "entrant2Id": 8092665,
+            "entrant1Name": "SMYD | Lil Sosa",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8092665,
+            "loserId": 8090659,
+            "winnerName": "Quaff",
+            "loserName": "SMYD | Lil Sosa",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1554580,
+            "entrant1Players": [
+                {
+                    "playerId": 2219293,
+                    "playerTag": "Lil Sosa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39759873,
+            "entrant1Id": 8092665,
+            "entrant2Id": 8093167,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "TLOC | SFOP",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8092665,
+            "loserId": 8093167,
+            "winnerName": "Quaff",
+            "loserName": "TLOC | SFOP",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1554580,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ]
+        },
+        {
+            "id": 39757352,
+            "entrant1Id": 8092665,
+            "entrant2Id": 8092227,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Dova",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8092665,
+            "loserId": 8092227,
+            "winnerName": "Quaff",
+            "loserName": "Dova",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1554580,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 531485,
+                    "playerTag": "Dova"
+                }
+            ]
+        },
+        {
+            "id": 39760089,
+            "entrant1Id": 8092227,
+            "entrant2Id": 8092665,
+            "entrant1Name": "Dova",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8092665,
+            "loserId": 8092227,
+            "winnerName": "Quaff",
+            "loserName": "Dova",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1554580,
+            "entrant1Players": [
+                {
+                    "playerId": 531485,
+                    "playerTag": "Dova"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39758357,
+            "entrant1Id": 8092665,
+            "entrant2Id": 8093139,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Popa Squat",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8092665,
+            "loserId": 8093139,
+            "winnerName": "Quaff",
+            "loserName": "Popa Squat",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1554580,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 492679,
+                    "playerTag": "Popa Squat"
+                }
+            ]
+        },
+        {
+            "id": 39754955,
+            "entrant1Id": 8092665,
+            "entrant2Id": 8093071,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Typhoon",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8093071,
+            "loserId": 8092665,
+            "winnerName": "Typhoon",
+            "loserName": "Quaff",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1554580,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 221423,
+                    "playerTag": "Typhoon"
+                }
+            ]
+        },
+        {
+            "id": 39755524,
+            "entrant1Id": 8092665,
+            "entrant2Id": 8092809,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Easy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8092665,
+            "loserId": 8092809,
+            "winnerName": "Quaff",
+            "loserName": "Easy",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1554580,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154482,
+                    "playerTag": "Easy"
+                }
+            ]
+        },
+        {
+            "id": 39757499,
+            "entrant1Id": 8082261,
+            "entrant2Id": 8092665,
+            "entrant1Name": "FREE HAX",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8092665,
+            "loserId": 8082261,
+            "winnerName": "Quaff",
+            "loserName": "FREE HAX",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1554580,
+            "entrant1Players": [
+                {
+                    "playerId": 2394152,
+                    "playerTag": "FREE HAX"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39756691,
+            "entrant1Id": 8092665,
+            "entrant2Id": 8089803,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Mucho Man Randy Passion",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8092665,
+            "loserId": 8089803,
+            "winnerName": "Quaff",
+            "loserName": "Mucho Man Randy Passion",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1554580,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11961,
+                    "playerTag": "Mucho Man Randy Passion"
+                }
+            ]
+        },
+        {
+            "id": 39760820,
+            "entrant1Id": 8094625,
+            "entrant2Id": 8094571,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8094571,
+            "loserId": 8094625,
+            "winnerName": "Quaff",
+            "loserName": "bobby big ballz",
+            "bracketName": "Main Bracket",
+            "bracketId": 1554578,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39760819,
+            "entrant1Id": 8094564,
+            "entrant2Id": 8094571,
+            "entrant1Name": "TLOC | SFOP",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8094571,
+            "loserId": 8094564,
+            "winnerName": "Quaff",
+            "loserName": "TLOC | SFOP",
+            "bracketName": "Main Bracket",
+            "bracketId": 1554578,
+            "entrant1Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39760754,
+            "entrant1Id": 8091214,
+            "entrant2Id": 8094571,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8091214,
+            "loserId": 8094571,
+            "winnerName": "bc | S2J",
+            "loserName": "Quaff",
+            "bracketName": "Main Bracket",
+            "bracketId": 1554578,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39760818,
+            "entrant1Id": 8094571,
+            "entrant2Id": 8094640,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "CG | Peppi | Pappi",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8094571,
+            "loserId": 8094640,
+            "winnerName": "Quaff",
+            "loserName": "CG | Peppi | Pappi",
+            "bracketName": "Main Bracket",
+            "bracketId": 1554578,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61570,
+                    "playerTag": "Pappi"
+                }
+            ]
+        },
+        {
+            "id": 39760751,
+            "entrant1Id": 8094564,
+            "entrant2Id": 8094571,
+            "entrant1Name": "TLOC | SFOP",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8094571,
+            "loserId": 8094564,
+            "winnerName": "Quaff",
+            "loserName": "TLOC | SFOP",
+            "bracketName": "Main Bracket",
+            "bracketId": 1554578,
+            "entrant1Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39760745,
+            "entrant1Id": 8094571,
+            "entrant2Id": 8094649,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Arcadia",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8094571,
+            "loserId": 8094649,
+            "winnerName": "Quaff",
+            "loserName": "Arcadia",
+            "bracketName": "Main Bracket",
+            "bracketId": 1554578,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3772,
+                    "playerTag": "Arcadia"
+                }
+            ]
+        },
+        {
+            "id": 39559903,
+            "entrant1Id": 8046843,
+            "entrant2Id": 8045269,
+            "entrant1Name": "GUG | K\u00fcrv",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8045269,
+            "loserId": 8046843,
+            "winnerName": "Quaff",
+            "loserName": "GUG | K\u00fcrv",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1550933,
+            "entrant1Players": [
+                {
+                    "playerId": 37116,
+                    "playerTag": "K\u00fcrv"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39562583,
+            "entrant1Id": 8045269,
+            "entrant2Id": 8045049,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Trail | HaxMoneyHulkHogan",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8045269,
+            "loserId": 8045049,
+            "winnerName": "Quaff",
+            "loserName": "Trail | HaxMoneyHulkHogan",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1550933,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2146437,
+                    "playerTag": "HaxMoneyHulkHogan"
+                }
+            ]
+        },
+        {
+            "id": 39562583,
+            "entrant1Id": 8045269,
+            "entrant2Id": 8045049,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Trail | HaxMoneyHulkHogan",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8045269,
+            "loserId": 8045049,
+            "winnerName": "Quaff",
+            "loserName": "Trail | HaxMoneyHulkHogan",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1550933,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2146437,
+                    "playerTag": "HaxMoneyHulkHogan"
+                }
+            ]
+        },
+        {
+            "id": 39564677,
+            "entrant1Id": 8046843,
+            "entrant2Id": 8045269,
+            "entrant1Name": "GUG | K\u00fcrv",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8045269,
+            "loserId": 8046843,
+            "winnerName": "Quaff",
+            "loserName": "GUG | K\u00fcrv",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1550933,
+            "entrant1Players": [
+                {
+                    "playerId": 37116,
+                    "playerTag": "K\u00fcrv"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39560955,
+            "entrant1Id": 8046867,
+            "entrant2Id": 8045269,
+            "entrant1Name": "10CT | Asashi",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8046867,
+            "loserId": 8045269,
+            "winnerName": "10CT | Asashi",
+            "loserName": "Quaff",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1550933,
+            "entrant1Players": [
+                {
+                    "playerId": 48850,
+                    "playerTag": "Asashi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39561591,
+            "entrant1Id": 8043952,
+            "entrant2Id": 8045269,
+            "entrant1Name": "FrawwgyFresh",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8045269,
+            "loserId": 8043952,
+            "winnerName": "Quaff",
+            "loserName": "FrawwgyFresh",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1550933,
+            "entrant1Players": [
+                {
+                    "playerId": 2167761,
+                    "playerTag": "FrawggyFresh"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39560955,
+            "entrant1Id": 8046867,
+            "entrant2Id": 8045269,
+            "entrant1Name": "10CT | Asashi",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8046867,
+            "loserId": 8045269,
+            "winnerName": "10CT | Asashi",
+            "loserName": "Quaff",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1550933,
+            "entrant1Players": [
+                {
+                    "playerId": 48850,
+                    "playerTag": "Asashi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39561591,
+            "entrant1Id": 8043952,
+            "entrant2Id": 8045269,
+            "entrant1Name": "FrawwgyFresh",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8045269,
+            "loserId": 8043952,
+            "winnerName": "Quaff",
+            "loserName": "FrawwgyFresh",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1550933,
+            "entrant1Players": [
+                {
+                    "playerId": 2167761,
+                    "playerTag": "FrawggyFresh"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39561355,
+            "entrant1Id": 8045269,
+            "entrant2Id": 8047033,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "MT",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8047033,
+            "loserId": 8045269,
+            "winnerName": "MT",
+            "loserName": "Quaff",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1550933,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7634,
+                    "playerTag": "MT"
+                }
+            ]
+        },
+        {
+            "id": 39563229,
+            "entrant1Id": 8043461,
+            "entrant2Id": 8045269,
+            "entrant1Name": "Iifter",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8043461,
+            "loserId": 8045269,
+            "winnerName": "Iifter",
+            "loserName": "Quaff",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1550933,
+            "entrant1Players": [
+                {
+                    "playerId": 26588,
+                    "playerTag": "Iifter"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39563546,
+            "entrant1Id": 8045269,
+            "entrant2Id": 8046879,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "SadSack",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8045269,
+            "loserId": 8046879,
+            "winnerName": "Quaff",
+            "loserName": "SadSack",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1550933,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 328736,
+                    "playerTag": "SadSack"
+                }
+            ]
+        },
+        {
+            "id": 39563871,
+            "entrant1Id": 8045269,
+            "entrant2Id": 8046786,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Cat Named Virtue",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8045269,
+            "loserId": 8046786,
+            "winnerName": "Quaff",
+            "loserName": "Cat Named Virtue",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1550933,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 138177,
+                    "playerTag": "Cat Named Virtue"
+                }
+            ]
+        },
+        {
+            "id": 39559793,
+            "entrant1Id": 8045269,
+            "entrant2Id": 8046680,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Nab206",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8045269,
+            "loserId": 8046680,
+            "winnerName": "Quaff",
+            "loserName": "Nab206",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1550933,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 266779,
+                    "playerTag": "Nab206"
+                }
+            ]
+        },
+        {
+            "id": 39561601,
+            "entrant1Id": 8045269,
+            "entrant2Id": 8046686,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Popa Squat",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8045269,
+            "loserId": 8046686,
+            "winnerName": "Quaff",
+            "loserName": "Popa Squat",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1550933,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 492679,
+                    "playerTag": "Popa Squat"
+                }
+            ]
+        },
+        {
+            "id": 39562840,
+            "entrant1Id": 8045269,
+            "entrant2Id": 8046262,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "RSC | Omar",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8045269,
+            "loserId": 8046262,
+            "winnerName": "Quaff",
+            "loserName": "RSC | Omar",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1550933,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 272474,
+                    "playerTag": "Omar"
+                }
+            ]
+        },
+        {
+            "id": 39563465,
+            "entrant1Id": 8046843,
+            "entrant2Id": 8045269,
+            "entrant1Name": "GUG | K\u00fcrv",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8045269,
+            "loserId": 8046843,
+            "winnerName": "Quaff",
+            "loserName": "GUG | K\u00fcrv",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1550933,
+            "entrant1Players": [
+                {
+                    "playerId": 37116,
+                    "playerTag": "K\u00fcrv"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39562840,
+            "entrant1Id": 8045269,
+            "entrant2Id": 8046262,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "RSC | Omar",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8045269,
+            "loserId": 8046262,
+            "winnerName": "Quaff",
+            "loserName": "RSC | Omar",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1550933,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 272474,
+                    "playerTag": "Omar"
+                }
+            ]
+        },
+        {
+            "id": 39563465,
+            "entrant1Id": 8046843,
+            "entrant2Id": 8045269,
+            "entrant1Name": "GUG | K\u00fcrv",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8045269,
+            "loserId": 8046843,
+            "winnerName": "Quaff",
+            "loserName": "GUG | K\u00fcrv",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1550933,
+            "entrant1Players": [
+                {
+                    "playerId": 37116,
+                    "playerTag": "K\u00fcrv"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39565062,
+            "entrant1Id": 8044037,
+            "entrant2Id": 8047794,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8044037,
+            "loserId": 8047794,
+            "winnerName": "bc | S2J",
+            "loserName": "Quaff",
+            "bracketName": "Main Bracket",
+            "bracketId": 1550931,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39565125,
+            "entrant1Id": 8047731,
+            "entrant2Id": 8047794,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8047794,
+            "loserId": 8047731,
+            "winnerName": "Quaff",
+            "loserName": "bobby big ballz",
+            "bracketName": "Main Bracket",
+            "bracketId": 1550931,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39565124,
+            "entrant1Id": 8047794,
+            "entrant2Id": 8047800,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "GUG | K\u00fcrv",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8047794,
+            "loserId": 8047800,
+            "winnerName": "Quaff",
+            "loserName": "GUG | K\u00fcrv",
+            "bracketName": "Main Bracket",
+            "bracketId": 1550931,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37116,
+                    "playerTag": "K\u00fcrv"
+                }
+            ]
+        },
+        {
+            "id": 39565122,
+            "entrant1Id": 8047804,
+            "entrant2Id": 8047794,
+            "entrant1Name": "10CT | Asashi",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8047794,
+            "loserId": 8047804,
+            "winnerName": "Quaff",
+            "loserName": "10CT | Asashi",
+            "bracketName": "Main Bracket",
+            "bracketId": 1550931,
+            "entrant1Players": [
+                {
+                    "playerId": 48850,
+                    "playerTag": "Asashi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39565120,
+            "entrant1Id": 8047794,
+            "entrant2Id": 8047810,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "RSC | Omar",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8047794,
+            "loserId": 8047810,
+            "winnerName": "Quaff",
+            "loserName": "RSC | Omar",
+            "bracketName": "Main Bracket",
+            "bracketId": 1550931,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 272474,
+                    "playerTag": "Omar"
+                }
+            ]
+        },
+        {
+            "id": 39565056,
+            "entrant1Id": 8047794,
+            "entrant2Id": 8047808,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "MT",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8047808,
+            "loserId": 8047794,
+            "winnerName": "MT",
+            "loserName": "Quaff",
+            "bracketName": "Main Bracket",
+            "bracketId": 1550931,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7634,
+                    "playerTag": "MT"
+                }
+            ]
+        },
+        {
+            "id": 39565116,
+            "entrant1Id": 8047794,
+            "entrant2Id": 8047824,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "inconexa",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8047794,
+            "loserId": 8047824,
+            "winnerName": "Quaff",
+            "loserName": "inconexa",
+            "bracketName": "Main Bracket",
+            "bracketId": 1550931,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 47293,
+                    "playerTag": "inconexa"
+                }
+            ]
+        },
+        {
+            "id": 39565049,
+            "entrant1Id": 8047794,
+            "entrant2Id": 8047818,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Rob jr | blargh257",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8047794,
+            "loserId": 8047818,
+            "winnerName": "Quaff",
+            "loserName": "Rob jr | blargh257",
+            "bracketName": "Main Bracket",
+            "bracketId": 1550931,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11126,
+                    "playerTag": "blargh257"
+                }
+            ]
+        },
+        {
+            "id": 35423863,
+            "entrant1Id": 6875833,
+            "entrant2Id": 6876225,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "TNS | Asashi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6875833,
+            "loserId": 6876225,
+            "winnerName": "Quaff",
+            "loserName": "TNS | Asashi",
+            "bracketName": "Pools",
+            "bracketId": 1449163,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48850,
+                    "playerTag": "Asashi"
+                }
+            ]
+        },
+        {
+            "id": 35426524,
+            "entrant1Id": 6869957,
+            "entrant2Id": 6875833,
+            "entrant1Name": "S2J",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6869957,
+            "loserId": 6875833,
+            "winnerName": "S2J",
+            "loserName": "Quaff",
+            "bracketName": "Top 32",
+            "bracketId": 1449167,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 35423858,
+            "entrant1Id": 6875833,
+            "entrant2Id": 6860830,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Equi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6875833,
+            "loserId": 6860830,
+            "winnerName": "Quaff",
+            "loserName": "Equi",
+            "bracketName": "Pools",
+            "bracketId": 1449163,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151220,
+                    "playerTag": "Equi"
+                }
+            ]
+        },
+        {
+            "id": 35426586,
+            "entrant1Id": 6875833,
+            "entrant2Id": 6877040,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Azusa",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6877040,
+            "loserId": 6875833,
+            "winnerName": "Azusa",
+            "loserName": "Quaff",
+            "bracketName": "Top 32",
+            "bracketId": 1449167,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3378,
+                    "playerTag": "Azusa"
+                }
+            ]
+        },
+        {
+            "id": 35426517,
+            "entrant1Id": 6875547,
+            "entrant2Id": 6875833,
+            "entrant1Name": "KoopaTroopa895",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6875833,
+            "loserId": 6875547,
+            "winnerName": "Quaff",
+            "loserName": "KoopaTroopa895",
+            "bracketName": "Top 32",
+            "bracketId": 1449167,
+            "entrant1Players": [
+                {
+                    "playerId": 4005,
+                    "playerTag": "KoopaTroopa895"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 35334233,
+            "entrant1Id": 6850380,
+            "entrant2Id": 6847942,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Anchovy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6850380,
+            "loserId": 6847942,
+            "winnerName": "Quaff",
+            "loserName": "Anchovy",
+            "bracketName": "Main Bracket Pools",
+            "bracketId": 1448342,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 41374,
+                    "playerTag": "Anchovy"
+                }
+            ]
+        },
+        {
+            "id": 35334228,
+            "entrant1Id": 6850380,
+            "entrant2Id": 6848382,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Megaman",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6850380,
+            "loserId": 6848382,
+            "winnerName": "Quaff",
+            "loserName": "Megaman",
+            "bracketName": "Main Bracket Pools",
+            "bracketId": 1448342,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27527,
+                    "playerTag": "Megaman"
+                }
+            ]
+        },
+        {
+            "id": 35342030,
+            "entrant1Id": 6847873,
+            "entrant2Id": 6850380,
+            "entrant1Name": "Dacky",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6847873,
+            "loserId": 6850380,
+            "winnerName": "Dacky",
+            "loserName": "Quaff",
+            "bracketName": "Top 8",
+            "bracketId": 1448346,
+            "entrant1Players": [
+                {
+                    "playerId": 45951,
+                    "playerTag": "Dacky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 35338251,
+            "entrant1Id": 6849182,
+            "entrant2Id": 6850380,
+            "entrant1Name": "LFG | PanterA",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6850380,
+            "loserId": 6849182,
+            "winnerName": "Quaff",
+            "loserName": "LFG | PanterA",
+            "bracketName": "Top 24",
+            "bracketId": 1448345,
+            "entrant1Players": [
+                {
+                    "playerId": 135088,
+                    "playerTag": "PanterA"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 35342044,
+            "entrant1Id": 6850380,
+            "entrant2Id": 6837692,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Smashdaddy",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6837692,
+            "loserId": 6850380,
+            "winnerName": "Smashdaddy",
+            "loserName": "Quaff",
+            "bracketName": "Top 8",
+            "bracketId": 1448346,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36403,
+                    "playerTag": "Smashdaddy"
+                }
+            ]
+        },
+        {
+            "id": 35008921,
+            "entrant1Id": 6770024,
+            "entrant2Id": 6762888,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Anchovy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6770024,
+            "loserId": 6762888,
+            "winnerName": "Quaff",
+            "loserName": "Anchovy",
+            "bracketName": "Main Bracket Pools",
+            "bracketId": 1445151,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 41374,
+                    "playerTag": "Anchovy"
+                }
+            ]
+        },
+        {
+            "id": 35008914,
+            "entrant1Id": 6770024,
+            "entrant2Id": 6770618,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Connorasada",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6770024,
+            "loserId": 6770618,
+            "winnerName": "Quaff",
+            "loserName": "Connorasada",
+            "bracketName": "Main Bracket Pools",
+            "bracketId": 1445151,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19270,
+                    "playerTag": "Connorasada"
+                }
+            ]
+        },
+        {
+            "id": 35015240,
+            "entrant1Id": 6753686,
+            "entrant2Id": 6770024,
+            "entrant1Name": "KoDoRiN",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6753686,
+            "loserId": 6770024,
+            "winnerName": "KoDoRiN",
+            "loserName": "Quaff",
+            "bracketName": "Top 32",
+            "bracketId": 1445148,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 35015236,
+            "entrant1Id": 6769442,
+            "entrant2Id": 6770024,
+            "entrant1Name": "LFG | Eddy Mexico",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6770024,
+            "loserId": 6769442,
+            "winnerName": "Quaff",
+            "loserName": "LFG | Eddy Mexico",
+            "bracketName": "Top 32",
+            "bracketId": 1445148,
+            "entrant1Players": [
+                {
+                    "playerId": 1030,
+                    "playerTag": "Eddy Mexico"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 35015171,
+            "entrant1Id": 6773144,
+            "entrant2Id": 6770024,
+            "entrant1Name": "Medz",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6773144,
+            "loserId": 6770024,
+            "winnerName": "Medz",
+            "loserName": "Quaff",
+            "bracketName": "Top 32",
+            "bracketId": 1445148,
+            "entrant1Players": [
+                {
+                    "playerId": 40476,
+                    "playerTag": "Medz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 35015231,
+            "entrant1Id": 6770024,
+            "entrant2Id": 6769257,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "OAK | Spacepigeon",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6770024,
+            "loserId": 6769257,
+            "winnerName": "Quaff",
+            "loserName": "OAK | Spacepigeon",
+            "bracketName": "Top 32",
+            "bracketId": 1445148,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 24024,
+                    "playerTag": "SpacePigeon"
+                }
+            ]
+        },
+        {
+            "id": 34935842,
+            "entrant1Id": 6752133,
+            "entrant2Id": 6759122,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Hunt",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6752133,
+            "loserId": 6759122,
+            "winnerName": "Quaff",
+            "loserName": "Hunt",
+            "bracketName": "Pools",
+            "bracketId": 1442342,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3661,
+                    "playerTag": "Hunt"
+                }
+            ]
+        },
+        {
+            "id": 34935832,
+            "entrant1Id": 6752133,
+            "entrant2Id": 6759729,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Twin",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6752133,
+            "loserId": 6759729,
+            "winnerName": "Quaff",
+            "loserName": "Twin",
+            "bracketName": "Pools",
+            "bracketId": 1442342,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 260545,
+                    "playerTag": "Twin"
+                }
+            ]
+        },
+        {
+            "id": 34939976,
+            "entrant1Id": 6759914,
+            "entrant2Id": 6752133,
+            "entrant1Name": "Aura",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6759914,
+            "loserId": 6752133,
+            "winnerName": "Aura",
+            "loserName": "Quaff",
+            "bracketName": "Top 32",
+            "bracketId": 1442346,
+            "entrant1Players": [
+                {
+                    "playerId": 46349,
+                    "playerTag": "Aura"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34939972,
+            "entrant1Id": 6759012,
+            "entrant2Id": 6752133,
+            "entrant1Name": "Polo",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6752133,
+            "loserId": 6759012,
+            "winnerName": "Quaff",
+            "loserName": "Polo",
+            "bracketName": "Top 32",
+            "bracketId": 1442346,
+            "entrant1Players": [
+                {
+                    "playerId": 61873,
+                    "playerTag": "Polo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34939904,
+            "entrant1Id": 6754318,
+            "entrant2Id": 6752133,
+            "entrant1Name": "SFAT",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6754318,
+            "loserId": 6752133,
+            "winnerName": "SFAT",
+            "loserName": "Quaff",
+            "bracketName": "Top 32",
+            "bracketId": 1442346,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34939968,
+            "entrant1Id": 6752133,
+            "entrant2Id": 6756712,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "OAK | Spacepigeon",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6752133,
+            "loserId": 6756712,
+            "winnerName": "Quaff",
+            "loserName": "OAK | Spacepigeon",
+            "bracketName": "Top 32",
+            "bracketId": 1442346,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 24024,
+                    "playerTag": "SpacePigeon"
+                }
+            ]
+        },
+        {
+            "id": 34705059,
+            "entrant1Id": 6687938,
+            "entrant2Id": 6692781,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Sor",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6687938,
+            "loserId": 6692781,
+            "winnerName": "Quaff",
+            "loserName": "Sor",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1437658,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 225396,
+                    "playerTag": "Sor"
+                }
+            ]
+        },
+        {
+            "id": 34706584,
+            "entrant1Id": 6687938,
+            "entrant2Id": 6691560,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Egg$",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6691560,
+            "loserId": 6687938,
+            "winnerName": "Egg$",
+            "loserName": "Quaff",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1437658,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 286931,
+                    "playerTag": "Egg$"
+                }
+            ]
+        },
+        {
+            "id": 34706695,
+            "entrant1Id": 6687938,
+            "entrant2Id": 6690034,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Flow | ESPONJA",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6687938,
+            "loserId": 6690034,
+            "winnerName": "Quaff",
+            "loserName": "Flow | ESPONJA",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1437658,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 129363,
+                    "playerTag": "ESPONJA"
+                }
+            ]
+        },
+        {
+            "id": 34704963,
+            "entrant1Id": 6692903,
+            "entrant2Id": 6687938,
+            "entrant1Name": "DD",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6687938,
+            "loserId": 6692903,
+            "winnerName": "Quaff",
+            "loserName": "DD",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1437658,
+            "entrant1Players": [
+                {
+                    "playerId": 10485,
+                    "playerTag": "DD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34705534,
+            "entrant1Id": 6690247,
+            "entrant2Id": 6687938,
+            "entrant1Name": "R3 | $limChang",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6690247,
+            "loserId": 6687938,
+            "winnerName": "R3 | $limChang",
+            "loserName": "Quaff",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1437658,
+            "entrant1Players": [
+                {
+                    "playerId": 50143,
+                    "playerTag": "$limChang"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34705824,
+            "entrant1Id": 6693061,
+            "entrant2Id": 6687938,
+            "entrant1Name": "jeff | raid shadow legends",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6687938,
+            "loserId": 6693061,
+            "winnerName": "Quaff",
+            "loserName": "jeff | raid shadow legends",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1437658,
+            "entrant1Players": [
+                {
+                    "playerId": 67516,
+                    "playerTag": "Fortnite"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34705996,
+            "entrant1Id": 6687938,
+            "entrant2Id": 6692924,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "thesiscat",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6687938,
+            "loserId": 6692924,
+            "winnerName": "Quaff",
+            "loserName": "thesiscat",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1437658,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2038523,
+                    "playerTag": "Cat"
+                }
+            ]
+        },
+        {
+            "id": 34706507,
+            "entrant1Id": 6687938,
+            "entrant2Id": 6692734,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "SFOP",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6687938,
+            "loserId": 6692734,
+            "winnerName": "Quaff",
+            "loserName": "SFOP",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1437658,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ]
+        },
+        {
+            "id": 34706411,
+            "entrant1Id": 6687938,
+            "entrant2Id": 6690073,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Pe\u00f1a",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6687938,
+            "loserId": 6690073,
+            "winnerName": "Quaff",
+            "loserName": "Pe\u00f1a",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1437658,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 598192,
+                    "playerTag": "Pe\u00f1a"
+                }
+            ]
+        },
+        {
+            "id": 34706679,
+            "entrant1Id": 6693218,
+            "entrant2Id": 6687938,
+            "entrant1Name": "yingling",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6687938,
+            "loserId": 6693218,
+            "winnerName": "Quaff",
+            "loserName": "yingling",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1437658,
+            "entrant1Players": [
+                {
+                    "playerId": 12137,
+                    "playerTag": "yingling"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34705225,
+            "entrant1Id": 6692392,
+            "entrant2Id": 6687938,
+            "entrant1Name": "Vish",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6687938,
+            "loserId": 6692392,
+            "winnerName": "Quaff",
+            "loserName": "Vish",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1437658,
+            "entrant1Players": [
+                {
+                    "playerId": 3299,
+                    "playerTag": "Vish"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34705367,
+            "entrant1Id": 6687938,
+            "entrant2Id": 6690743,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "MordecaiPielord",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6687938,
+            "loserId": 6690743,
+            "winnerName": "Quaff",
+            "loserName": "MordecaiPielord",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1437658,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 982735,
+                    "playerTag": "MordecaiPielord"
+                }
+            ]
+        },
+        {
+            "id": 34705943,
+            "entrant1Id": 6693218,
+            "entrant2Id": 6687938,
+            "entrant1Name": "yingling",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6687938,
+            "loserId": 6693218,
+            "winnerName": "Quaff",
+            "loserName": "yingling",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1437658,
+            "entrant1Players": [
+                {
+                    "playerId": 12137,
+                    "playerTag": "yingling"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34706465,
+            "entrant1Id": 6690238,
+            "entrant2Id": 6687938,
+            "entrant1Name": "Dream",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6687938,
+            "loserId": 6690238,
+            "winnerName": "Quaff",
+            "loserName": "Dream",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1437658,
+            "entrant1Players": [
+                {
+                    "playerId": 39235,
+                    "playerTag": "Dream"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34703850,
+            "entrant1Id": 6687938,
+            "entrant2Id": 6693061,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "jeff | raid shadow legends",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6693061,
+            "loserId": 6687938,
+            "winnerName": "jeff | raid shadow legends",
+            "loserName": "Quaff",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1437658,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 67516,
+                    "playerTag": "Fortnite"
+                }
+            ]
+        },
+        {
+            "id": 34719356,
+            "entrant1Id": 6694276,
+            "entrant2Id": 6694307,
+            "entrant1Name": "Revenge | Gahtzu",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6694276,
+            "loserId": 6694307,
+            "winnerName": "Revenge | Gahtzu",
+            "loserName": "Quaff",
+            "bracketName": "Main Bracket",
+            "bracketId": 1437656,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34719287,
+            "entrant1Id": 6694283,
+            "entrant2Id": 6694307,
+            "entrant1Name": "lluZ | PEP | LSD",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6694283,
+            "loserId": 6694307,
+            "winnerName": "lluZ | PEP | LSD",
+            "loserName": "Quaff",
+            "bracketName": "Main Bracket",
+            "bracketId": 1437656,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34719347,
+            "entrant1Id": 6694307,
+            "entrant2Id": 6694309,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Zhyrri",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6694307,
+            "loserId": 6694309,
+            "winnerName": "Quaff",
+            "loserName": "Zhyrri",
+            "bracketName": "Main Bracket",
+            "bracketId": 1437656,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4394,
+                    "playerTag": "Zhyrri"
+                }
+            ]
+        },
+        {
+            "id": 34719274,
+            "entrant1Id": 6694278,
+            "entrant2Id": 6694307,
+            "entrant1Name": "Vish",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6694307,
+            "loserId": 6694278,
+            "winnerName": "Quaff",
+            "loserName": "Vish",
+            "bracketName": "Main Bracket",
+            "bracketId": 1437656,
+            "entrant1Players": [
+                {
+                    "playerId": 3299,
+                    "playerTag": "Vish"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39948632,
+            "entrant1Id": 8142553,
+            "entrant2Id": 8142660,
+            "entrant1Name": "a-on",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8142660,
+            "loserId": 8142553,
+            "winnerName": "Quaff",
+            "loserName": "a-on",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1558743,
+            "entrant1Players": [
+                {
+                    "playerId": 4205,
+                    "playerTag": "a-on"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39948939,
+            "entrant1Id": 8142660,
+            "entrant2Id": 8140442,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "DMT",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8140442,
+            "loserId": 8142660,
+            "winnerName": "DMT",
+            "loserName": "Quaff",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1558743,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 231685,
+                    "playerTag": "DMT"
+                }
+            ]
+        },
+        {
+            "id": 39946954,
+            "entrant1Id": 8142660,
+            "entrant2Id": 8139427,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Troy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8142660,
+            "loserId": 8139427,
+            "winnerName": "Quaff",
+            "loserName": "Troy",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1558743,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27295,
+                    "playerTag": "Troy"
+                }
+            ]
+        },
+        {
+            "id": 39948395,
+            "entrant1Id": 8142660,
+            "entrant2Id": 8142285,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "jasonyu.me | Zeldafreak",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8142660,
+            "loserId": 8142285,
+            "winnerName": "Quaff",
+            "loserName": "jasonyu.me | Zeldafreak",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1558743,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10635,
+                    "playerTag": "Zeldafreak"
+                }
+            ]
+        },
+        {
+            "id": 39949103,
+            "entrant1Id": 8142660,
+            "entrant2Id": 8141510,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Solomon",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8142660,
+            "loserId": 8141510,
+            "winnerName": "Quaff",
+            "loserName": "Solomon",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1558743,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4317,
+                    "playerTag": "Solomon"
+                }
+            ]
+        },
+        {
+            "id": 39947434,
+            "entrant1Id": 8139652,
+            "entrant2Id": 8142660,
+            "entrant1Name": "Brando",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8142660,
+            "loserId": 8139652,
+            "winnerName": "Quaff",
+            "loserName": "Brando",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1558743,
+            "entrant1Players": [
+                {
+                    "playerId": 1117046,
+                    "playerTag": "Brand0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39947993,
+            "entrant1Id": 8142634,
+            "entrant2Id": 8142660,
+            "entrant1Name": "Pilot",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8142634,
+            "loserId": 8142660,
+            "winnerName": "Pilot",
+            "loserName": "Quaff",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1558743,
+            "entrant1Players": [
+                {
+                    "playerId": 1228401,
+                    "playerTag": "Pilot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39948859,
+            "entrant1Id": 8142660,
+            "entrant2Id": 8141262,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Mucho Man Randy Passion",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8142660,
+            "loserId": 8141262,
+            "winnerName": "Quaff",
+            "loserName": "Mucho Man Randy Passion",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1558743,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11961,
+                    "playerTag": "Mucho Man Randy Passion"
+                }
+            ]
+        },
+        {
+            "id": 39947139,
+            "entrant1Id": 8141846,
+            "entrant2Id": 8142660,
+            "entrant1Name": "Loads",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8142660,
+            "loserId": 8141846,
+            "winnerName": "Quaff",
+            "loserName": "Loads",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1558743,
+            "entrant1Players": [
+                {
+                    "playerId": 2415179,
+                    "playerTag": "Loads"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39950034,
+            "entrant1Id": 8142974,
+            "entrant2Id": 8140956,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8142974,
+            "loserId": 8140956,
+            "winnerName": "bobby big ballz",
+            "loserName": "Quaff",
+            "bracketName": "Main Bracket",
+            "bracketId": 1558741,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39949969,
+            "entrant1Id": 8142999,
+            "entrant2Id": 8140956,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8142999,
+            "loserId": 8140956,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Quaff",
+            "bracketName": "Main Bracket",
+            "bracketId": 1558741,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39950033,
+            "entrant1Id": 8140956,
+            "entrant2Id": 8142997,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "DD",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8140956,
+            "loserId": 8142997,
+            "winnerName": "Quaff",
+            "loserName": "DD",
+            "bracketName": "Main Bracket",
+            "bracketId": 1558741,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10485,
+                    "playerTag": "DD"
+                }
+            ]
+        },
+        {
+            "id": 39949966,
+            "entrant1Id": 8143016,
+            "entrant2Id": 8140956,
+            "entrant1Name": "GUG | K\u00fcrv",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8140956,
+            "loserId": 8143016,
+            "winnerName": "Quaff",
+            "loserName": "GUG | K\u00fcrv",
+            "bracketName": "Main Bracket",
+            "bracketId": 1558741,
+            "entrant1Players": [
+                {
+                    "playerId": 37116,
+                    "playerTag": "K\u00fcrv"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39949960,
+            "entrant1Id": 8140956,
+            "entrant2Id": 8142997,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "DD",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8140956,
+            "loserId": 8142997,
+            "winnerName": "Quaff",
+            "loserName": "DD",
+            "bracketName": "Main Bracket",
+            "bracketId": 1558741,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10485,
+                    "playerTag": "DD"
+                }
+            ]
+        },
+        {
+            "id": 39192271,
+            "entrant1Id": 7953580,
+            "entrant2Id": 7952111,
+            "entrant1Name": "Breakfast",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7952111,
+            "loserId": 7953580,
+            "winnerName": "Quaff",
+            "loserName": "Breakfast",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1541686,
+            "entrant1Players": [
+                {
+                    "playerId": 13778,
+                    "playerTag": "Breakfast"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39196452,
+            "entrant1Id": 7952111,
+            "entrant2Id": 7955349,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Smashdaddy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7952111,
+            "loserId": 7955349,
+            "winnerName": "Quaff",
+            "loserName": "Smashdaddy",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1541686,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36403,
+                    "playerTag": "Smashdaddy"
+                }
+            ]
+        },
+        {
+            "id": 39194889,
+            "entrant1Id": 7952111,
+            "entrant2Id": 7955190,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "MT",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7952111,
+            "loserId": 7955190,
+            "winnerName": "Quaff",
+            "loserName": "MT",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1541686,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7634,
+                    "playerTag": "MT"
+                }
+            ]
+        },
+        {
+            "id": 39195640,
+            "entrant1Id": 7952111,
+            "entrant2Id": 7955181,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "LFG | Bimbo",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7952111,
+            "loserId": 7955181,
+            "winnerName": "Quaff",
+            "loserName": "LFG | Bimbo",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1541686,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38255,
+                    "playerTag": "Bimbo"
+                }
+            ]
+        },
+        {
+            "id": 39196609,
+            "entrant1Id": 7952111,
+            "entrant2Id": 7943873,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "RSC | Omar",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7952111,
+            "loserId": 7943873,
+            "winnerName": "Quaff",
+            "loserName": "RSC | Omar",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1541686,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 272474,
+                    "playerTag": "Omar"
+                }
+            ]
+        },
+        {
+            "id": 39194276,
+            "entrant1Id": 7943873,
+            "entrant2Id": 7952111,
+            "entrant1Name": "RSC | Omar",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7943873,
+            "loserId": 7952111,
+            "winnerName": "RSC | Omar",
+            "loserName": "Quaff",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1541686,
+            "entrant1Players": [
+                {
+                    "playerId": 272474,
+                    "playerTag": "Omar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39191734,
+            "entrant1Id": 7954370,
+            "entrant2Id": 7952111,
+            "entrant1Name": "drip",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7952111,
+            "loserId": 7954370,
+            "winnerName": "Quaff",
+            "loserName": "drip",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1541686,
+            "entrant1Players": [
+                {
+                    "playerId": 1020960,
+                    "playerTag": "drip"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39194276,
+            "entrant1Id": 7943873,
+            "entrant2Id": 7952111,
+            "entrant1Name": "RSC | Omar",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7943873,
+            "loserId": 7952111,
+            "winnerName": "RSC | Omar",
+            "loserName": "Quaff",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1541686,
+            "entrant1Players": [
+                {
+                    "playerId": 272474,
+                    "playerTag": "Omar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39191734,
+            "entrant1Id": 7954370,
+            "entrant2Id": 7952111,
+            "entrant1Name": "drip",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7952111,
+            "loserId": 7954370,
+            "winnerName": "Quaff",
+            "loserName": "drip",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1541686,
+            "entrant1Players": [
+                {
+                    "playerId": 1020960,
+                    "playerTag": "drip"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39195168,
+            "entrant1Id": 7941469,
+            "entrant2Id": 7952111,
+            "entrant1Name": "V | Kuyo",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7952111,
+            "loserId": 7941469,
+            "winnerName": "Quaff",
+            "loserName": "V | Kuyo",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1541686,
+            "entrant1Players": [
+                {
+                    "playerId": 2366378,
+                    "playerTag": "Kuyo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39195970,
+            "entrant1Id": 7954703,
+            "entrant2Id": 7952111,
+            "entrant1Name": "DMT",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7952111,
+            "loserId": 7954703,
+            "winnerName": "Quaff",
+            "loserName": "DMT",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1541686,
+            "entrant1Players": [
+                {
+                    "playerId": 231685,
+                    "playerTag": "DMT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39195970,
+            "entrant1Id": 7954703,
+            "entrant2Id": 7952111,
+            "entrant1Name": "DMT",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7952111,
+            "loserId": 7954703,
+            "winnerName": "Quaff",
+            "loserName": "DMT",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1541686,
+            "entrant1Players": [
+                {
+                    "playerId": 231685,
+                    "playerTag": "DMT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39196020,
+            "entrant1Id": 7952111,
+            "entrant2Id": 7955229,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Rasec",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7952111,
+            "loserId": 7955229,
+            "winnerName": "Quaff",
+            "loserName": "Rasec",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1541686,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 358739,
+                    "playerTag": "Rasec"
+                }
+            ]
+        },
+        {
+            "id": 39196533,
+            "entrant1Id": 7952111,
+            "entrant2Id": 7953048,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Easy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7952111,
+            "loserId": 7953048,
+            "winnerName": "Quaff",
+            "loserName": "Easy",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1541686,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154482,
+                    "playerTag": "Easy"
+                }
+            ]
+        },
+        {
+            "id": 39197485,
+            "entrant1Id": 7955718,
+            "entrant2Id": 7955593,
+            "entrant1Name": "GUG | K\u00fcrv",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7955718,
+            "loserId": 7955593,
+            "winnerName": "GUG | K\u00fcrv",
+            "loserName": "Quaff",
+            "bracketName": "Main Bracket",
+            "bracketId": 1541684,
+            "entrant1Players": [
+                {
+                    "playerId": 37116,
+                    "playerTag": "K\u00fcrv"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39197421,
+            "entrant1Id": 7955590,
+            "entrant2Id": 7955593,
+            "entrant1Name": "Smashdaddy",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7955590,
+            "loserId": 7955593,
+            "winnerName": "Smashdaddy",
+            "loserName": "Quaff",
+            "bracketName": "Main Bracket",
+            "bracketId": 1541684,
+            "entrant1Players": [
+                {
+                    "playerId": 36403,
+                    "playerTag": "Smashdaddy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 39197483,
+            "entrant1Id": 7955593,
+            "entrant2Id": 7955722,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "PhDeeznuts",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7955593,
+            "loserId": 7955722,
+            "winnerName": "Quaff",
+            "loserName": "PhDeeznuts",
+            "bracketName": "Main Bracket",
+            "bracketId": 1541684,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15563,
+                    "playerTag": "PhDeeznuts"
+                }
+            ]
+        },
+        {
+            "id": 39197416,
+            "entrant1Id": 7955593,
+            "entrant2Id": 7955602,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Flow | Stark",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7955593,
+            "loserId": 7955602,
+            "winnerName": "Quaff",
+            "loserName": "Flow | Stark",
+            "bracketName": "Main Bracket",
+            "bracketId": 1541684,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10228,
+                    "playerTag": "Stark"
+                }
+            ]
+        },
+        {
+            "id": 36185524,
+            "entrant1Id": 7062828,
+            "entrant2Id": 7060283,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Goosekhan",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7060283,
+            "loserId": 7062828,
+            "winnerName": "Goosekhan",
+            "loserName": "Quaff",
+            "bracketName": "Main Bracket",
+            "bracketId": 1469622,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 508967,
+                    "playerTag": "Goosekhan"
+                }
+            ]
+        },
+        {
+            "id": 35039540,
+            "entrant1Id": 6779678,
+            "entrant2Id": 6775043,
+            "entrant1Name": "ZouL",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6775043,
+            "loserId": 6779678,
+            "winnerName": "Quaff",
+            "loserName": "ZouL",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1445116,
+            "entrant1Players": [
+                {
+                    "playerId": 153138,
+                    "playerTag": "ZouL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 35039681,
+            "entrant1Id": 6775043,
+            "entrant2Id": 6780336,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "EP | Justus",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6775043,
+            "loserId": 6780336,
+            "winnerName": "Quaff",
+            "loserName": "EP | Justus",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1445116,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ]
+        },
+        {
+            "id": 35038138,
+            "entrant1Id": 6780074,
+            "entrant2Id": 6775043,
+            "entrant1Name": "Neck",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6775043,
+            "loserId": 6780074,
+            "winnerName": "Quaff",
+            "loserName": "Neck",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1445116,
+            "entrant1Players": [
+                {
+                    "playerId": 520837,
+                    "playerTag": "Neck"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 35038600,
+            "entrant1Id": 6775043,
+            "entrant2Id": 6780208,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "K.H.D | Reign",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6775043,
+            "loserId": 6780208,
+            "winnerName": "Quaff",
+            "loserName": "K.H.D | Reign",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1445116,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 18722,
+                    "playerTag": "REIGN"
+                }
+            ]
+        },
+        {
+            "id": 35037692,
+            "entrant1Id": 6775043,
+            "entrant2Id": 6779834,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Yamasaki",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6775043,
+            "loserId": 6779834,
+            "winnerName": "Quaff",
+            "loserName": "Yamasaki",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1445116,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 183677,
+                    "playerTag": "Yamasaki"
+                }
+            ]
+        },
+        {
+            "id": 35039453,
+            "entrant1Id": 6775043,
+            "entrant2Id": 6775267,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Elk G | Ivayne",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6775267,
+            "loserId": 6775043,
+            "winnerName": "Elk G | Ivayne",
+            "loserName": "Quaff",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1445116,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10362,
+                    "playerTag": "Ivayne"
+                }
+            ]
+        },
+        {
+            "id": 35038279,
+            "entrant1Id": 6780077,
+            "entrant2Id": 6775043,
+            "entrant1Name": "MaxJacks",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6775043,
+            "loserId": 6780077,
+            "winnerName": "Quaff",
+            "loserName": "MaxJacks",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1445116,
+            "entrant1Players": [
+                {
+                    "playerId": 472971,
+                    "playerTag": "MaxJacks"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 35039841,
+            "entrant1Id": 6775043,
+            "entrant2Id": 6778063,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "SuperCuak",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6775043,
+            "loserId": 6778063,
+            "winnerName": "Quaff",
+            "loserName": "SuperCuak",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1445116,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 62626,
+                    "playerTag": "SuperCuak"
+                }
+            ]
+        },
+        {
+            "id": 35039603,
+            "entrant1Id": 6775043,
+            "entrant2Id": 6779850,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "BHC | Evan",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6775043,
+            "loserId": 6779850,
+            "winnerName": "Quaff",
+            "loserName": "BHC | Evan",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1445116,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 70796,
+                    "playerTag": "Evan"
+                }
+            ]
+        },
+        {
+            "id": 35039160,
+            "entrant1Id": 6775043,
+            "entrant2Id": 6778505,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "KG/SBC | Oreo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6775043,
+            "loserId": 6778505,
+            "winnerName": "Quaff",
+            "loserName": "KG/SBC | Oreo",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1445116,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 378512,
+                    "playerTag": "Oreo"
+                }
+            ]
+        },
+        {
+            "id": 35038535,
+            "entrant1Id": 6775043,
+            "entrant2Id": 6780066,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Kombeze Ataie",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6775043,
+            "loserId": 6780066,
+            "winnerName": "Quaff",
+            "loserName": "Kombeze Ataie",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1445116,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1737518,
+                    "playerTag": "Kombeze"
+                }
+            ]
+        },
+        {
+            "id": 35051110,
+            "entrant1Id": 6784643,
+            "entrant2Id": 6784575,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Soonsay",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6784575,
+            "loserId": 6784643,
+            "winnerName": "Soonsay",
+            "loserName": "Quaff",
+            "bracketName": "Main Bracket",
+            "bracketId": 1445114,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 324561,
+                    "playerTag": "Soonsay"
+                }
+            ]
+        },
+        {
+            "id": 35051108,
+            "entrant1Id": 6783141,
+            "entrant2Id": 6784643,
+            "entrant1Name": "Aura",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6784643,
+            "loserId": 6783141,
+            "winnerName": "Quaff",
+            "loserName": "Aura",
+            "bracketName": "Main Bracket",
+            "bracketId": 1445114,
+            "entrant1Players": [
+                {
+                    "playerId": 46349,
+                    "playerTag": "Aura"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 35051106,
+            "entrant1Id": 6784643,
+            "entrant2Id": 6784672,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Krizski",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6784643,
+            "loserId": 6784672,
+            "winnerName": "Quaff",
+            "loserName": "Krizski",
+            "bracketName": "Main Bracket",
+            "bracketId": 1445114,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 852916,
+                    "playerTag": "Krizski"
+                }
+            ]
+        },
+        {
+            "id": 35051042,
+            "entrant1Id": 6784645,
+            "entrant2Id": 6784643,
+            "entrant1Name": "Westballz",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6784645,
+            "loserId": 6784643,
+            "winnerName": "Westballz",
+            "loserName": "Quaff",
+            "bracketName": "Main Bracket",
+            "bracketId": 1445114,
+            "entrant1Players": [
+                {
+                    "playerId": 1008,
+                    "playerTag": "Westballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 35051102,
+            "entrant1Id": 6784643,
+            "entrant2Id": 6784619,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Zeeker",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6784643,
+            "loserId": 6784619,
+            "winnerName": "Quaff",
+            "loserName": "Zeeker",
+            "bracketName": "Main Bracket",
+            "bracketId": 1445114,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 221136,
+                    "playerTag": "Zeeker"
+                }
+            ]
+        },
+        {
+            "id": 35051036,
+            "entrant1Id": 6784643,
+            "entrant2Id": 6784618,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "EP | Justus",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6784643,
+            "loserId": 6784618,
+            "winnerName": "Quaff",
+            "loserName": "EP | Justus",
+            "bracketName": "Main Bracket",
+            "bracketId": 1445114,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ]
+        },
+        {
+            "id": 35221198,
+            "entrant1Id": 6824331,
+            "entrant2Id": 6821928,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6821928,
+            "loserId": 6824331,
+            "winnerName": "Quaff",
+            "loserName": "bobby big ballz",
+            "bracketName": "Main Bracket",
+            "bracketId": 1448324,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 35221199,
+            "entrant1Id": 6821928,
+            "entrant2Id": 6824331,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6821928,
+            "loserId": 6824331,
+            "winnerName": "Quaff",
+            "loserName": "bobby big ballz",
+            "bracketName": "Main Bracket",
+            "bracketId": 1448324,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 35221261,
+            "entrant1Id": 6821942,
+            "entrant2Id": 6821928,
+            "entrant1Name": "GUG | K\u00fcrv",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6821928,
+            "loserId": 6821942,
+            "winnerName": "Quaff",
+            "loserName": "GUG | K\u00fcrv",
+            "bracketName": "Main Bracket",
+            "bracketId": 1448324,
+            "entrant1Players": [
+                {
+                    "playerId": 37116,
+                    "playerTag": "K\u00fcrv"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 35221260,
+            "entrant1Id": 6821943,
+            "entrant2Id": 6821928,
+            "entrant1Name": "Medz",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6821928,
+            "loserId": 6821943,
+            "winnerName": "Quaff",
+            "loserName": "Medz",
+            "bracketName": "Main Bracket",
+            "bracketId": 1448324,
+            "entrant1Players": [
+                {
+                    "playerId": 40476,
+                    "playerTag": "Medz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 35221195,
+            "entrant1Id": 6824331,
+            "entrant2Id": 6821928,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6824331,
+            "loserId": 6821928,
+            "winnerName": "bobby big ballz",
+            "loserName": "Quaff",
+            "bracketName": "Main Bracket",
+            "bracketId": 1448324,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 35221259,
+            "entrant1Id": 6821928,
+            "entrant2Id": 6821944,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "ycz6",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6821928,
+            "loserId": 6821944,
+            "winnerName": "Quaff",
+            "loserName": "ycz6",
+            "bracketName": "Main Bracket",
+            "bracketId": 1448324,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2088,
+                    "playerTag": "ycz6"
+                }
+            ]
+        },
+        {
+            "id": 35221192,
+            "entrant1Id": 6825813,
+            "entrant2Id": 6821928,
+            "entrant1Name": "Krizski",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6821928,
+            "loserId": 6825813,
+            "winnerName": "Quaff",
+            "loserName": "Krizski",
+            "bracketName": "Main Bracket",
+            "bracketId": 1448324,
+            "entrant1Players": [
+                {
+                    "playerId": 852916,
+                    "playerTag": "Krizski"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 35221186,
+            "entrant1Id": 6821928,
+            "entrant2Id": 6821926,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Khryke",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6821928,
+            "loserId": 6821926,
+            "winnerName": "Quaff",
+            "loserName": "Khryke",
+            "bracketName": "Main Bracket",
+            "bracketId": 1448324,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279107,
+                    "playerTag": "Khryke"
+                }
+            ]
+        },
+        {
+            "id": 34544476,
+            "entrant1Id": 6652973,
+            "entrant2Id": 6655196,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "404 YC | Salt",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6652973,
+            "loserId": 6655196,
+            "winnerName": "Quaff",
+            "loserName": "404 YC | Salt",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1434066,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 133666,
+                    "playerTag": "Salt"
+                }
+            ]
+        },
+        {
+            "id": 34544572,
+            "entrant1Id": 6652973,
+            "entrant2Id": 6655341,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Stiv",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6652973,
+            "loserId": 6655341,
+            "winnerName": "Quaff",
+            "loserName": "Stiv",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1434066,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 998814,
+                    "playerTag": "Stiv"
+                }
+            ]
+        },
+        {
+            "id": 34546245,
+            "entrant1Id": 6652973,
+            "entrant2Id": 6652303,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Egg$",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6652973,
+            "loserId": 6652303,
+            "winnerName": "Quaff",
+            "loserName": "Egg$",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1434066,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 286931,
+                    "playerTag": "Egg$"
+                }
+            ]
+        },
+        {
+            "id": 34544717,
+            "entrant1Id": 6652973,
+            "entrant2Id": 6654904,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Neck",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6652973,
+            "loserId": 6654904,
+            "winnerName": "Quaff",
+            "loserName": "Neck",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1434066,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 520837,
+                    "playerTag": "Neck"
+                }
+            ]
+        },
+        {
+            "id": 34545356,
+            "entrant1Id": 6652973,
+            "entrant2Id": 6654290,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "rocky",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6652973,
+            "loserId": 6654290,
+            "winnerName": "Quaff",
+            "loserName": "rocky",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1434066,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ]
+        },
+        {
+            "id": 34544843,
+            "entrant1Id": 6652973,
+            "entrant2Id": 6654482,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Gulu",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6652973,
+            "loserId": 6654482,
+            "winnerName": "Quaff",
+            "loserName": "Gulu",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1434066,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 34863,
+                    "playerTag": "Gulu"
+                }
+            ]
+        },
+        {
+            "id": 34542890,
+            "entrant1Id": 6651471,
+            "entrant2Id": 6652973,
+            "entrant1Name": "josh",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6652973,
+            "loserId": 6651471,
+            "winnerName": "Quaff",
+            "loserName": "josh",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1434066,
+            "entrant1Players": [
+                {
+                    "playerId": 2141037,
+                    "playerTag": "trfjosh"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34545775,
+            "entrant1Id": 6654290,
+            "entrant2Id": 6652973,
+            "entrant1Name": "rocky",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6652973,
+            "loserId": 6654290,
+            "winnerName": "Quaff",
+            "loserName": "rocky",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1434066,
+            "entrant1Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34546330,
+            "entrant1Id": 6651112,
+            "entrant2Id": 6652973,
+            "entrant1Name": "Daz",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6652973,
+            "loserId": 6651112,
+            "winnerName": "Quaff",
+            "loserName": "Daz",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1434066,
+            "entrant1Players": [
+                {
+                    "playerId": 45197,
+                    "playerTag": "Daz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34558508,
+            "entrant1Id": 6659549,
+            "entrant2Id": 6659557,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Aura",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6659557,
+            "loserId": 6659549,
+            "winnerName": "Aura",
+            "loserName": "Quaff",
+            "bracketName": "Main Bracket",
+            "bracketId": 1434064,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46349,
+                    "playerTag": "Aura"
+                }
+            ]
+        },
+        {
+            "id": 34558441,
+            "entrant1Id": 6659549,
+            "entrant2Id": 6659539,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "GUG | K\u00fcrv",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6659539,
+            "loserId": 6659549,
+            "winnerName": "GUG | K\u00fcrv",
+            "loserName": "Quaff",
+            "bracketName": "Main Bracket",
+            "bracketId": 1434064,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37116,
+                    "playerTag": "K\u00fcrv"
+                }
+            ]
+        },
+        {
+            "id": 34558503,
+            "entrant1Id": 6659549,
+            "entrant2Id": 6659559,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Crispy | Chango",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6659549,
+            "loserId": 6659559,
+            "winnerName": "Quaff",
+            "loserName": "Crispy | Chango",
+            "bracketName": "Main Bracket",
+            "bracketId": 1434064,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 34980,
+                    "playerTag": "Chango"
+                }
+            ]
+        },
+        {
+            "id": 34929851,
+            "entrant1Id": 6752137,
+            "entrant2Id": 6684724,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "akir",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6752137,
+            "loserId": 6684724,
+            "winnerName": "Quaff",
+            "loserName": "akir",
+            "bracketName": "Bracket",
+            "bracketId": 1416764,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 144798,
+                    "playerTag": "Akir"
+                }
+            ]
+        },
+        {
+            "id": 34929850,
+            "entrant1Id": 6756660,
+            "entrant2Id": 6752137,
+            "entrant1Name": "Snap",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6752137,
+            "loserId": 6756660,
+            "winnerName": "Quaff",
+            "loserName": "Snap",
+            "bracketName": "Bracket",
+            "bracketId": 1416764,
+            "entrant1Players": [
+                {
+                    "playerId": 3377,
+                    "playerTag": "Snap"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34929849,
+            "entrant1Id": 6752137,
+            "entrant2Id": 6754921,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Epoodle",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6752137,
+            "loserId": 6754921,
+            "winnerName": "Quaff",
+            "loserName": "Epoodle",
+            "bracketName": "Bracket",
+            "bracketId": 1416764,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1375808,
+                    "playerTag": "Epoodle"
+                }
+            ]
+        },
+        {
+            "id": 34929846,
+            "entrant1Id": 6752137,
+            "entrant2Id": 6736926,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "H19 | chaka",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6752137,
+            "loserId": 6736926,
+            "winnerName": "Quaff",
+            "loserName": "H19 | chaka",
+            "bracketName": "Bracket",
+            "bracketId": 1416764,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175669,
+                    "playerTag": "chaka"
+                }
+            ]
+        },
+        {
+            "id": 34929840,
+            "entrant1Id": 6752137,
+            "entrant2Id": 6750647,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "R3 | $limChang",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6752137,
+            "loserId": 6750647,
+            "winnerName": "Quaff",
+            "loserName": "R3 | $limChang",
+            "bracketName": "Bracket",
+            "bracketId": 1416764,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50143,
+                    "playerTag": "$limChang"
+                }
+            ]
+        },
+        {
+            "id": 34830301,
+            "entrant1Id": 6698613,
+            "entrant2Id": 6683661,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Neferitou",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6698613,
+            "loserId": 6683661,
+            "winnerName": "Quaff",
+            "loserName": "Neferitou",
+            "bracketName": "West Coast - Top 64",
+            "bracketId": 1433574,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 666650,
+                    "playerTag": "Neferitou"
+                }
+            ]
+        },
+        {
+            "id": 34855254,
+            "entrant1Id": 6680781,
+            "entrant2Id": 6698613,
+            "entrant1Name": "TNC | n3zModGod",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6680781,
+            "loserId": 6698613,
+            "winnerName": "TNC | n3zModGod",
+            "loserName": "Quaff",
+            "bracketName": "West Coast - Top 8",
+            "bracketId": 1433575,
+            "entrant1Players": [
+                {
+                    "playerId": 63720,
+                    "playerTag": "n3zModGod"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34812719,
+            "entrant1Id": 6698613,
+            "entrant2Id": 6675039,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Ocean Man",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6698613,
+            "loserId": 6675039,
+            "winnerName": "Quaff",
+            "loserName": "Ocean Man",
+            "bracketName": "West Coast - Pools",
+            "bracketId": 1433584,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 221444,
+                    "playerTag": "Ocean Man"
+                }
+            ]
+        },
+        {
+            "id": 34812705,
+            "entrant1Id": 6698613,
+            "entrant2Id": 6711290,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "YoR",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6698613,
+            "loserId": 6711290,
+            "winnerName": "Quaff",
+            "loserName": "YoR",
+            "bracketName": "West Coast - Pools",
+            "bracketId": 1433584,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1250148,
+                    "playerTag": "YoR"
+                }
+            ]
+        },
+        {
+            "id": 34830296,
+            "entrant1Id": 6698613,
+            "entrant2Id": 6656665,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Stray",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6698613,
+            "loserId": 6656665,
+            "winnerName": "Quaff",
+            "loserName": "Stray",
+            "bracketName": "West Coast - Top 64",
+            "bracketId": 1433574,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 526043,
+                    "playerTag": "Stray"
+                }
+            ]
+        },
+        {
+            "id": 34855269,
+            "entrant1Id": 6666189,
+            "entrant2Id": 6698613,
+            "entrant1Name": "Peachy Keen",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6698613,
+            "loserId": 6666189,
+            "winnerName": "Quaff",
+            "loserName": "Peachy Keen",
+            "bracketName": "West Coast - Top 8",
+            "bracketId": 1433575,
+            "entrant1Players": [
+                {
+                    "playerId": 24713,
+                    "playerTag": "Peachy Keen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34855268,
+            "entrant1Id": 6698613,
+            "entrant2Id": 6641801,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Jace",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6698613,
+            "loserId": 6641801,
+            "winnerName": "Quaff",
+            "loserName": "Jace",
+            "bracketName": "West Coast - Top 8",
+            "bracketId": 1433575,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4506,
+                    "playerTag": "Jace"
+                }
+            ]
+        },
+        {
+            "id": 34855252,
+            "entrant1Id": 6666189,
+            "entrant2Id": 6698613,
+            "entrant1Name": "Peachy Keen",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6666189,
+            "loserId": 6698613,
+            "winnerName": "Peachy Keen",
+            "loserName": "Quaff",
+            "bracketName": "West Coast - Top 8",
+            "bracketId": 1433575,
+            "entrant1Players": [
+                {
+                    "playerId": 24713,
+                    "playerTag": "Peachy Keen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        },
+        {
+            "id": 34830286,
+            "entrant1Id": 6666827,
+            "entrant2Id": 6698613,
+            "entrant1Name": "Hoohahbox",
+            "entrant2Name": "Quaff",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6698613,
+            "loserId": 6666827,
+            "winnerName": "Quaff",
+            "loserName": "Hoohahbox",
+            "bracketName": "West Coast - Top 64",
+            "bracketId": 1433574,
+            "entrant1Players": [
+                {
+                    "playerId": 1639295,
+                    "playerTag": "Hoohahbox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "far!",
+        "htwa",
+        "bobby big ballz",
+        "eddy mexico",
+        "sdj",
+        "pappi",
+        "sfop",
+        "bobby big ballz",
+        "sfop",
+        "pappi",
+        "sfop",
+        "bobby big ballz",
+        "eddy mexico",
+        "sfop",
+        "smashdaddy",
+        "justus",
+        "aura",
+        "zeeker",
+        "justus",
+        "bobby big ballz",
+        "bobby big ballz",
+        "medz",
+        "khryke",
+        "salt",
+        "rocky",
+        "rocky",
+        "akir"
+    ],
+    "L": [
+        "axe",
+        "azel",
+        "s2j",
+        "ben",
+        "kodorin",
+        "axe",
+        "Connor",
+        "axe",
+        "Iifter",
+        "Iifter",
+        "typhoon",
+        "s2j",
+        "Asashi",
+        "Asashi",
+        "MT",
+        "Iifter",
+        "s2j",
+        "MT",
+        "s2j",
+        "Azusa",
+        "dacky",
+        "smashdaddy",
+        "kodorin",
+        "medz",
+        "aura",
+        "sfat",
+        "Egg$",
+        "$limChang",
+        "Fortnite",
+        "gahtzu",
+        "logan",
+        "DMT",
+        "Pilot",
+        "bobby big ballz",
+        "sfat",
+        "Omar",
+        "Omar",
+        "K\u00fcrv",
+        "smashdaddy",
+        "Goosekhan",
+        "Ivayne",
+        "soonsay",
+        "westballz",
+        "bobby big ballz",
+        "aura",
+        "K\u00fcrv",
+        "n3zModGod",
+        "Peachy Keen"
+    ]
+}

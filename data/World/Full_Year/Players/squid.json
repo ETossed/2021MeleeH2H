@@ -1,0 +1,2350 @@
+{
+    "Events": [
+        "653570",
+        "653567",
+        "584741",
+        "645631",
+        "645629",
+        "658403",
+        "655991",
+        "570757",
+        "648468",
+        "653830",
+        "642350",
+        "642348",
+        "572265"
+    ],
+    "Sets": [
+        {
+            "id": 42789279,
+            "entrant1Id": 8859210,
+            "entrant2Id": 8859349,
+            "entrant1Name": "Breakfast",
+            "entrant2Name": "Squid",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8859349,
+            "loserId": 8859210,
+            "winnerName": "Squid",
+            "loserName": "Breakfast",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1633679,
+            "entrant1Players": [
+                {
+                    "playerId": 13778,
+                    "playerTag": "Breakfast"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42788214,
+            "entrant1Id": 8853911,
+            "entrant2Id": 8859349,
+            "entrant1Name": "Rei | Leviathan",
+            "entrant2Name": "Squid",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8853911,
+            "loserId": 8859349,
+            "winnerName": "Rei | Leviathan",
+            "loserName": "Squid",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1633679,
+            "entrant1Players": [
+                {
+                    "playerId": 22479,
+                    "playerTag": "Rei"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42786142,
+            "entrant1Id": 8859349,
+            "entrant2Id": 8859210,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Breakfast",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8859349,
+            "loserId": 8859210,
+            "winnerName": "Squid",
+            "loserName": "Breakfast",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1633679,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13778,
+                    "playerTag": "Breakfast"
+                }
+            ]
+        },
+        {
+            "id": 42787746,
+            "entrant1Id": 8859349,
+            "entrant2Id": 8859209,
+            "entrant1Name": "Squid",
+            "entrant2Name": "SuperCuak",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8859209,
+            "loserId": 8859349,
+            "winnerName": "SuperCuak",
+            "loserName": "Squid",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1633679,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 62626,
+                    "playerTag": "SuperCuak"
+                }
+            ]
+        },
+        {
+            "id": 42789492,
+            "entrant1Id": 8858282,
+            "entrant2Id": 8859349,
+            "entrant1Name": "Green River",
+            "entrant2Name": "Squid",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8859349,
+            "loserId": 8858282,
+            "winnerName": "Squid",
+            "loserName": "Green River",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1633679,
+            "entrant1Players": [
+                {
+                    "playerId": 1857983,
+                    "playerTag": "Green River"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42788877,
+            "entrant1Id": 8859587,
+            "entrant2Id": 8859349,
+            "entrant1Name": "PULSE | Justus",
+            "entrant2Name": "Squid",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8859349,
+            "loserId": 8859587,
+            "winnerName": "Squid",
+            "loserName": "PULSE | Justus",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1633679,
+            "entrant1Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42791838,
+            "entrant1Id": 8860063,
+            "entrant2Id": 8860055,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Rei | Leviathan",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8860055,
+            "loserId": 8860063,
+            "winnerName": "Rei | Leviathan",
+            "loserName": "Squid",
+            "bracketName": "Main Bracket",
+            "bracketId": 1633677,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22479,
+                    "playerTag": "Rei"
+                }
+            ]
+        },
+        {
+            "id": 42791775,
+            "entrant1Id": 8860063,
+            "entrant2Id": 8860267,
+            "entrant1Name": "Squid",
+            "entrant2Name": "CG HSTV YC | Salt",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8860267,
+            "loserId": 8860063,
+            "winnerName": "CG HSTV YC | Salt",
+            "loserName": "Squid",
+            "bracketName": "Main Bracket",
+            "bracketId": 1633677,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 133666,
+                    "playerTag": "Salt"
+                }
+            ]
+        },
+        {
+            "id": 42791835,
+            "entrant1Id": 8860063,
+            "entrant2Id": 8860265,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Breakfast",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8860063,
+            "loserId": 8860265,
+            "winnerName": "Squid",
+            "loserName": "Breakfast",
+            "bracketName": "Main Bracket",
+            "bracketId": 1633677,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13778,
+                    "playerTag": "Breakfast"
+                }
+            ]
+        },
+        {
+            "id": 42791770,
+            "entrant1Id": 8860063,
+            "entrant2Id": 8860277,
+            "entrant1Name": "Squid",
+            "entrant2Name": "YB | Opponent",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8860063,
+            "loserId": 8860277,
+            "winnerName": "Squid",
+            "loserName": "YB | Opponent",
+            "bracketName": "Main Bracket",
+            "bracketId": 1633677,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 172909,
+                    "playerTag": "Opponent"
+                }
+            ]
+        },
+        {
+            "id": 42358680,
+            "entrant1Id": 8682949,
+            "entrant2Id": 7569165,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Ober",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8682949,
+            "loserId": 7569165,
+            "winnerName": "Squid",
+            "loserName": "Ober",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603589,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30197,
+                    "playerTag": "Ober"
+                }
+            ]
+        },
+        {
+            "id": 42358677,
+            "entrant1Id": 8682949,
+            "entrant2Id": 7632948,
+            "entrant1Name": "Squid",
+            "entrant2Name": "ASK",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8682949,
+            "loserId": 7632948,
+            "winnerName": "Squid",
+            "loserName": "ASK",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603589,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4294,
+                    "playerTag": "ASK"
+                }
+            ]
+        },
+        {
+            "id": 42358671,
+            "entrant1Id": 8682949,
+            "entrant2Id": 8429463,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Chockrit",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8682949,
+            "loserId": 8429463,
+            "winnerName": "Squid",
+            "loserName": "Chockrit",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603589,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 31169,
+                    "playerTag": "Chockrit"
+                }
+            ]
+        },
+        {
+            "id": 42360303,
+            "entrant1Id": 8655132,
+            "entrant2Id": 8682949,
+            "entrant1Name": "Kalamazhu",
+            "entrant2Name": "Squid",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8655132,
+            "loserId": 8682949,
+            "winnerName": "Kalamazhu",
+            "loserName": "Squid",
+            "bracketName": "Round 2 Pools",
+            "bracketId": 1620258,
+            "entrant1Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42360363,
+            "entrant1Id": 8682949,
+            "entrant2Id": 7569144,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Lowercase hero",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8682949,
+            "loserId": 7569144,
+            "winnerName": "Squid",
+            "loserName": "Lowercase hero",
+            "bracketName": "Round 2 Pools",
+            "bracketId": 1620258,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 253048,
+                    "playerTag": "Lowercase hero"
+                }
+            ]
+        },
+        {
+            "id": 42361096,
+            "entrant1Id": 8682949,
+            "entrant2Id": 7571765,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Bladewise",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7571765,
+            "loserId": 8682949,
+            "winnerName": "Bladewise",
+            "loserName": "Squid",
+            "bracketName": "Top 64",
+            "bracketId": 1603576,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1032,
+                    "playerTag": "Bladewise"
+                }
+            ]
+        },
+        {
+            "id": 42203127,
+            "entrant1Id": 8716653,
+            "entrant2Id": 8718298,
+            "entrant1Name": "Dova",
+            "entrant2Name": "Squid",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8716653,
+            "loserId": 8718298,
+            "winnerName": "Dova",
+            "loserName": "Squid",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1619421,
+            "entrant1Players": [
+                {
+                    "playerId": 531485,
+                    "playerTag": "Dova"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42204307,
+            "entrant1Id": 8718298,
+            "entrant2Id": 8718207,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Thato",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8718298,
+            "loserId": 8718207,
+            "winnerName": "Squid",
+            "loserName": "Thato",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1619421,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1676118,
+                    "playerTag": "Thato"
+                }
+            ]
+        },
+        {
+            "id": 42202305,
+            "entrant1Id": 8718298,
+            "entrant2Id": 8718528,
+            "entrant1Name": "Squid",
+            "entrant2Name": "DD",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8718528,
+            "loserId": 8718298,
+            "winnerName": "DD",
+            "loserName": "Squid",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1619421,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10485,
+                    "playerTag": "DD"
+                }
+            ]
+        },
+        {
+            "id": 42206287,
+            "entrant1Id": 8719179,
+            "entrant2Id": 8718298,
+            "entrant1Name": "clich\u00e9",
+            "entrant2Name": "Squid",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8719179,
+            "loserId": 8718298,
+            "winnerName": "clich\u00e9",
+            "loserName": "Squid",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1619421,
+            "entrant1Players": [
+                {
+                    "playerId": 927948,
+                    "playerTag": "clich\u00e9"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42200373,
+            "entrant1Id": 8718298,
+            "entrant2Id": 8718110,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Phorox",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8718298,
+            "loserId": 8718110,
+            "winnerName": "Squid",
+            "loserName": "Phorox",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1619421,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007304,
+                    "playerTag": "Phorox"
+                }
+            ]
+        },
+        {
+            "id": 42202187,
+            "entrant1Id": 8715713,
+            "entrant2Id": 8718298,
+            "entrant1Name": "in10city",
+            "entrant2Name": "Squid",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8718298,
+            "loserId": 8715713,
+            "winnerName": "Squid",
+            "loserName": "in10city",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1619421,
+            "entrant1Players": [
+                {
+                    "playerId": 48931,
+                    "playerTag": "in10city"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42204441,
+            "entrant1Id": 8718110,
+            "entrant2Id": 8718298,
+            "entrant1Name": "Phorox",
+            "entrant2Name": "Squid",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8718298,
+            "loserId": 8718110,
+            "winnerName": "Squid",
+            "loserName": "Phorox",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1619421,
+            "entrant1Players": [
+                {
+                    "playerId": 1007304,
+                    "playerTag": "Phorox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42202187,
+            "entrant1Id": 8715713,
+            "entrant2Id": 8718298,
+            "entrant1Name": "in10city",
+            "entrant2Name": "Squid",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8718298,
+            "loserId": 8715713,
+            "winnerName": "Squid",
+            "loserName": "in10city",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1619421,
+            "entrant1Players": [
+                {
+                    "playerId": 48931,
+                    "playerTag": "in10city"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42201494,
+            "entrant1Id": 8718298,
+            "entrant2Id": 8718190,
+            "entrant1Name": "Squid",
+            "entrant2Name": "GhettoTastic",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8718298,
+            "loserId": 8718190,
+            "winnerName": "Squid",
+            "loserName": "GhettoTastic",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1619421,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4578,
+                    "playerTag": "GhettoTastic"
+                }
+            ]
+        },
+        {
+            "id": 42207365,
+            "entrant1Id": 8719348,
+            "entrant2Id": 8719033,
+            "entrant1Name": "Squid",
+            "entrant2Name": "CG | Smashdaddy",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8719033,
+            "loserId": 8719348,
+            "winnerName": "CG | Smashdaddy",
+            "loserName": "Squid",
+            "bracketName": "Main Bracket",
+            "bracketId": 1619419,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36403,
+                    "playerTag": "Smashdaddy"
+                }
+            ]
+        },
+        {
+            "id": 42207361,
+            "entrant1Id": 8719341,
+            "entrant2Id": 8719348,
+            "entrant1Name": "ycz6",
+            "entrant2Name": "Squid",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8719348,
+            "loserId": 8719341,
+            "winnerName": "Squid",
+            "loserName": "ycz6",
+            "bracketName": "Main Bracket",
+            "bracketId": 1619419,
+            "entrant1Players": [
+                {
+                    "playerId": 2088,
+                    "playerTag": "ycz6"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42207357,
+            "entrant1Id": 8719348,
+            "entrant2Id": 8719376,
+            "entrant1Name": "Squid",
+            "entrant2Name": "CG | LFG | Eddy Mexico",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8719348,
+            "loserId": 8719376,
+            "winnerName": "Squid",
+            "loserName": "CG | LFG | Eddy Mexico",
+            "bracketName": "Main Bracket",
+            "bracketId": 1619419,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1030,
+                    "playerTag": "Eddy Mexico"
+                }
+            ]
+        },
+        {
+            "id": 42207299,
+            "entrant1Id": 8719348,
+            "entrant2Id": 8719477,
+            "entrant1Name": "Squid",
+            "entrant2Name": "haunter",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8719477,
+            "loserId": 8719348,
+            "winnerName": "haunter",
+            "loserName": "Squid",
+            "bracketName": "Main Bracket",
+            "bracketId": 1619419,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1862410,
+                    "playerTag": "haunter"
+                }
+            ]
+        },
+        {
+            "id": 42207349,
+            "entrant1Id": 8719348,
+            "entrant2Id": 8719337,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Stiv",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8719348,
+            "loserId": 8719337,
+            "winnerName": "Squid",
+            "loserName": "Stiv",
+            "bracketName": "Main Bracket",
+            "bracketId": 1619419,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 998814,
+                    "playerTag": "Stiv"
+                }
+            ]
+        },
+        {
+            "id": 43156424,
+            "entrant1Id": 8944529,
+            "entrant2Id": 8945490,
+            "entrant1Name": "SD | Android 0",
+            "entrant2Name": "Squid",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8944529,
+            "loserId": 8945490,
+            "winnerName": "SD | Android 0",
+            "loserName": "Squid",
+            "bracketName": "Bracket",
+            "bracketId": 1642433,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 43156422,
+            "entrant1Id": 8939784,
+            "entrant2Id": 8945490,
+            "entrant1Name": "Q",
+            "entrant2Name": "Squid",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8945490,
+            "loserId": 8939784,
+            "winnerName": "Squid",
+            "loserName": "Q",
+            "bracketName": "Bracket",
+            "bracketId": 1642433,
+            "entrant1Players": [
+                {
+                    "playerId": 22398,
+                    "playerTag": "Q"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 43156296,
+            "entrant1Id": 8945222,
+            "entrant2Id": 8945490,
+            "entrant1Name": "Westballz",
+            "entrant2Name": "Squid",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8945222,
+            "loserId": 8945490,
+            "winnerName": "Westballz",
+            "loserName": "Squid",
+            "bracketName": "Bracket",
+            "bracketId": 1642433,
+            "entrant1Players": [
+                {
+                    "playerId": 1008,
+                    "playerTag": "Westballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 43156419,
+            "entrant1Id": 8945490,
+            "entrant2Id": 8934266,
+            "entrant1Name": "Squid",
+            "entrant2Name": "MF | Sock",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8945490,
+            "loserId": 8934266,
+            "winnerName": "Squid",
+            "loserName": "MF | Sock",
+            "bracketName": "Bracket",
+            "bracketId": 1642433,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223213,
+                    "playerTag": "Sock"
+                }
+            ]
+        },
+        {
+            "id": 43156292,
+            "entrant1Id": 8945490,
+            "entrant2Id": 8945481,
+            "entrant1Name": "Squid",
+            "entrant2Name": "LGC | DonB",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8945490,
+            "loserId": 8945481,
+            "winnerName": "Squid",
+            "loserName": "LGC | DonB",
+            "bracketName": "Bracket",
+            "bracketId": 1642433,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38789,
+                    "playerTag": "DonB"
+                }
+            ]
+        },
+        {
+            "id": 43156283,
+            "entrant1Id": 8945490,
+            "entrant2Id": 8938094,
+            "entrant1Name": "Squid",
+            "entrant2Name": "J-moo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8945490,
+            "loserId": 8938094,
+            "winnerName": "Squid",
+            "loserName": "J-moo",
+            "bracketName": "Bracket",
+            "bracketId": 1642433,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 229065,
+                    "playerTag": "J-moo"
+                }
+            ]
+        },
+        {
+            "id": 42977227,
+            "entrant1Id": 8898187,
+            "entrant2Id": 8899582,
+            "entrant1Name": "MF | Sora/Joshman",
+            "entrant2Name": "Squid",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8898187,
+            "loserId": 8899582,
+            "winnerName": "MF | Sora/Joshman",
+            "loserName": "Squid",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42977225,
+            "entrant1Id": 8899582,
+            "entrant2Id": 8900334,
+            "entrant1Name": "Squid",
+            "entrant2Name": "SD | Android 0",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8899582,
+            "loserId": 8900334,
+            "winnerName": "Squid",
+            "loserName": "SD | Android 0",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ]
+        },
+        {
+            "id": 42977098,
+            "entrant1Id": 8899998,
+            "entrant2Id": 8899582,
+            "entrant1Name": "Westballz",
+            "entrant2Name": "Squid",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8899998,
+            "loserId": 8899582,
+            "winnerName": "Westballz",
+            "loserName": "Squid",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 1008,
+                    "playerTag": "Westballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42977221,
+            "entrant1Id": 8899582,
+            "entrant2Id": 8900348,
+            "entrant1Name": "Squid",
+            "entrant2Name": "GGC | Gooms",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8899582,
+            "loserId": 8900348,
+            "winnerName": "Squid",
+            "loserName": "GGC | Gooms",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 18840,
+                    "playerTag": "Gooms"
+                }
+            ]
+        },
+        {
+            "id": 42977093,
+            "entrant1Id": 8899582,
+            "entrant2Id": 8899499,
+            "entrant1Name": "Squid",
+            "entrant2Name": "BZ | Asashi",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8899582,
+            "loserId": 8899499,
+            "winnerName": "Squid",
+            "loserName": "BZ | Asashi",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48850,
+                    "playerTag": "Asashi"
+                }
+            ]
+        },
+        {
+            "id": 42977082,
+            "entrant1Id": 8899582,
+            "entrant2Id": 8900297,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Echo3zDown",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8899582,
+            "loserId": 8900297,
+            "winnerName": "Squid",
+            "loserName": "Echo3zDown",
+            "bracketName": "Bracket",
+            "bracketId": 1638342,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2451735,
+                    "playerTag": "Echo3zDown"
+                }
+            ]
+        },
+        {
+            "id": 36981695,
+            "entrant1Id": 7238975,
+            "entrant2Id": 7239721,
+            "entrant1Name": "Squid",
+            "entrant2Name": "FireflyHI",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7238975,
+            "loserId": 7239721,
+            "winnerName": "Squid",
+            "loserName": "FireflyHI",
+            "bracketName": "Pools",
+            "bracketId": 1488489,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 8024,
+                    "playerTag": "FireflyHI"
+                }
+            ]
+        },
+        {
+            "id": 36981685,
+            "entrant1Id": 7238975,
+            "entrant2Id": 7221573,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Mucho Man Randy Passion",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7238975,
+            "loserId": 7221573,
+            "winnerName": "Squid",
+            "loserName": "Mucho Man Randy Passion",
+            "bracketName": "Pools",
+            "bracketId": 1488489,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11961,
+                    "playerTag": "Mucho Man Randy Passion"
+                }
+            ]
+        },
+        {
+            "id": 36984874,
+            "entrant1Id": 7225612,
+            "entrant2Id": 7238975,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "Squid",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7225612,
+            "loserId": 7238975,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "Squid",
+            "bracketName": "Top 32",
+            "bracketId": 1485533,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 36984870,
+            "entrant1Id": 7238975,
+            "entrant2Id": 7238899,
+            "entrant1Name": "Squid",
+            "entrant2Name": "aCID",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7238975,
+            "loserId": 7238899,
+            "winnerName": "Squid",
+            "loserName": "aCID",
+            "bracketName": "Top 32",
+            "bracketId": 1485533,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2078335,
+                    "playerTag": "aCID"
+                }
+            ]
+        },
+        {
+            "id": 36984806,
+            "entrant1Id": 7245356,
+            "entrant2Id": 7238975,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Squid",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7245356,
+            "loserId": 7238975,
+            "winnerName": "bobby big ballz",
+            "loserName": "Squid",
+            "bracketName": "Top 32",
+            "bracketId": 1485533,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 36984864,
+            "entrant1Id": 7238975,
+            "entrant2Id": 7221808,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Yamasaki",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7238975,
+            "loserId": 7221808,
+            "winnerName": "Squid",
+            "loserName": "Yamasaki",
+            "bracketName": "Top 32",
+            "bracketId": 1485533,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 183677,
+                    "playerTag": "Yamasaki"
+                }
+            ]
+        },
+        {
+            "id": 42601318,
+            "entrant1Id": 8793821,
+            "entrant2Id": 8783132,
+            "entrant1Name": "Steech",
+            "entrant2Name": "Squid",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8793821,
+            "loserId": 8783132,
+            "winnerName": "Steech",
+            "loserName": "Squid",
+            "bracketName": "Bracket",
+            "bracketId": 1624324,
+            "entrant1Players": [
+                {
+                    "playerId": 731487,
+                    "playerTag": "Steech"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42601189,
+            "entrant1Id": 8783335,
+            "entrant2Id": 8783132,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Squid",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8783335,
+            "loserId": 8783132,
+            "winnerName": "Franz",
+            "loserName": "Squid",
+            "bracketName": "Bracket",
+            "bracketId": 1624324,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42601316,
+            "entrant1Id": 8783132,
+            "entrant2Id": 8804783,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Tristan's Rule",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8783132,
+            "loserId": 8804783,
+            "winnerName": "Squid",
+            "loserName": "Tristan's Rule",
+            "bracketName": "Bracket",
+            "bracketId": 1624324,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38979,
+                    "playerTag": "Tristan's Rule"
+                }
+            ]
+        },
+        {
+            "id": 42601183,
+            "entrant1Id": 8783132,
+            "entrant2Id": 8783646,
+            "entrant1Name": "Squid",
+            "entrant2Name": "clich\u00e9",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8783132,
+            "loserId": 8783646,
+            "winnerName": "Squid",
+            "loserName": "clich\u00e9",
+            "bracketName": "Bracket",
+            "bracketId": 1624324,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 927948,
+                    "playerTag": "clich\u00e9"
+                }
+            ]
+        },
+        {
+            "id": 42601170,
+            "entrant1Id": 8783132,
+            "entrant2Id": 8800541,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Caeg",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8783132,
+            "loserId": 8800541,
+            "winnerName": "Squid",
+            "loserName": "Caeg",
+            "bracketName": "Bracket",
+            "bracketId": 1624324,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 294343,
+                    "playerTag": "Caeg"
+                }
+            ]
+        },
+        {
+            "id": 42959104,
+            "entrant1Id": 8886497,
+            "entrant2Id": 8893239,
+            "entrant1Name": "Squid",
+            "entrant2Name": "MegaXmas",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8893239,
+            "loserId": 8886497,
+            "winnerName": "MegaXmas",
+            "loserName": "Squid",
+            "bracketName": "Bracket",
+            "bracketId": 1634128,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4224,
+                    "playerTag": "MegaXmas"
+                }
+            ]
+        },
+        {
+            "id": 42959105,
+            "entrant1Id": 8893239,
+            "entrant2Id": 8886497,
+            "entrant1Name": "MegaXmas",
+            "entrant2Name": "Squid",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8886497,
+            "loserId": 8893239,
+            "winnerName": "Squid",
+            "loserName": "MegaXmas",
+            "bracketName": "Bracket",
+            "bracketId": 1634128,
+            "entrant1Players": [
+                {
+                    "playerId": 4224,
+                    "playerTag": "MegaXmas"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42959103,
+            "entrant1Id": 8893239,
+            "entrant2Id": 8886497,
+            "entrant1Name": "MegaXmas",
+            "entrant2Name": "Squid",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8886497,
+            "loserId": 8893239,
+            "winnerName": "Squid",
+            "loserName": "MegaXmas",
+            "bracketName": "Bracket",
+            "bracketId": 1634128,
+            "entrant1Players": [
+                {
+                    "playerId": 4224,
+                    "playerTag": "MegaXmas"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42959102,
+            "entrant1Id": 8892648,
+            "entrant2Id": 8886497,
+            "entrant1Name": "YET | Venelox",
+            "entrant2Name": "Squid",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8886497,
+            "loserId": 8892648,
+            "winnerName": "Squid",
+            "loserName": "YET | Venelox",
+            "bracketName": "Bracket",
+            "bracketId": 1634128,
+            "entrant1Players": [
+                {
+                    "playerId": 39138,
+                    "playerTag": "Venelox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42959100,
+            "entrant1Id": 8871434,
+            "entrant2Id": 8886497,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Squid",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8886497,
+            "loserId": 8871434,
+            "winnerName": "Squid",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1634128,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42959096,
+            "entrant1Id": 8886497,
+            "entrant2Id": 8893157,
+            "entrant1Name": "Squid",
+            "entrant2Name": "snake",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8886497,
+            "loserId": 8893157,
+            "winnerName": "Squid",
+            "loserName": "snake",
+            "bracketName": "Bracket",
+            "bracketId": 1634128,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 725320,
+                    "playerTag": "snake"
+                }
+            ]
+        },
+        {
+            "id": 42959087,
+            "entrant1Id": 8886497,
+            "entrant2Id": 8892103,
+            "entrant1Name": "Squid",
+            "entrant2Name": "reese",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8886497,
+            "loserId": 8892103,
+            "winnerName": "Squid",
+            "loserName": "reese",
+            "bracketName": "Bracket",
+            "bracketId": 1634128,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2339415,
+                    "playerTag": "reese"
+                }
+            ]
+        },
+        {
+            "id": 41978800,
+            "entrant1Id": 8664131,
+            "entrant2Id": 8660873,
+            "entrant1Name": "LFG | PanterA",
+            "entrant2Name": "Squid",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8664131,
+            "loserId": 8660873,
+            "winnerName": "LFG | PanterA",
+            "loserName": "Squid",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1613508,
+            "entrant1Players": [
+                {
+                    "playerId": 135088,
+                    "playerTag": "PanterA"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 41981485,
+            "entrant1Id": 8664443,
+            "entrant2Id": 8660873,
+            "entrant1Name": "Gulu",
+            "entrant2Name": "Squid",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8660873,
+            "loserId": 8664443,
+            "winnerName": "Squid",
+            "loserName": "Gulu",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1613508,
+            "entrant1Players": [
+                {
+                    "playerId": 34863,
+                    "playerTag": "Gulu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 41979053,
+            "entrant1Id": 8664050,
+            "entrant2Id": 8660873,
+            "entrant1Name": "Brand0",
+            "entrant2Name": "Squid",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8660873,
+            "loserId": 8664050,
+            "winnerName": "Squid",
+            "loserName": "Brand0",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1613508,
+            "entrant1Players": [
+                {
+                    "playerId": 1117046,
+                    "playerTag": "Brand0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 41979560,
+            "entrant1Id": 8660856,
+            "entrant2Id": 8660873,
+            "entrant1Name": "buttcakes29",
+            "entrant2Name": "Squid",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8660873,
+            "loserId": 8660856,
+            "winnerName": "Squid",
+            "loserName": "buttcakes29",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1613508,
+            "entrant1Players": [
+                {
+                    "playerId": 1998865,
+                    "playerTag": "buttcakes29"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 41982083,
+            "entrant1Id": 8664131,
+            "entrant2Id": 8660873,
+            "entrant1Name": "LFG | PanterA",
+            "entrant2Name": "Squid",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8660873,
+            "loserId": 8664131,
+            "winnerName": "Squid",
+            "loserName": "LFG | PanterA",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1613508,
+            "entrant1Players": [
+                {
+                    "playerId": 135088,
+                    "playerTag": "PanterA"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 41979858,
+            "entrant1Id": 8660873,
+            "entrant2Id": 8663910,
+            "entrant1Name": "Squid",
+            "entrant2Name": "SquidTheCat",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8660873,
+            "loserId": 8663910,
+            "winnerName": "Squid",
+            "loserName": "SquidTheCat",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1613508,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 269511,
+                    "playerTag": "SquidTheCat"
+                }
+            ]
+        },
+        {
+            "id": 41979890,
+            "entrant1Id": 8664021,
+            "entrant2Id": 8660873,
+            "entrant1Name": "Phorox",
+            "entrant2Name": "Squid",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8664021,
+            "loserId": 8660873,
+            "winnerName": "Phorox",
+            "loserName": "Squid",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1613508,
+            "entrant1Players": [
+                {
+                    "playerId": 1007304,
+                    "playerTag": "Phorox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 41981096,
+            "entrant1Id": 8660873,
+            "entrant2Id": 8663576,
+            "entrant1Name": "Squid",
+            "entrant2Name": "ACEOFINK | CATiCAP",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8660873,
+            "loserId": 8663576,
+            "winnerName": "Squid",
+            "loserName": "ACEOFINK | CATiCAP",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1613508,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 788730,
+                    "playerTag": "CATiCAP"
+                }
+            ]
+        },
+        {
+            "id": 41981848,
+            "entrant1Id": 8660873,
+            "entrant2Id": 8664803,
+            "entrant1Name": "Squid",
+            "entrant2Name": "FreeLight | Buttlet",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8660873,
+            "loserId": 8664803,
+            "winnerName": "Squid",
+            "loserName": "FreeLight | Buttlet",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1613508,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 70110,
+                    "playerTag": "Buttlet"
+                }
+            ]
+        },
+        {
+            "id": 41984930,
+            "entrant1Id": 8665035,
+            "entrant2Id": 8660873,
+            "entrant1Name": "a-on",
+            "entrant2Name": "Squid",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8660873,
+            "loserId": 8665035,
+            "winnerName": "Squid",
+            "loserName": "a-on",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1613508,
+            "entrant1Players": [
+                {
+                    "playerId": 4205,
+                    "playerTag": "a-on"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 41980524,
+            "entrant1Id": 8664061,
+            "entrant2Id": 8660873,
+            "entrant1Name": "SubTails",
+            "entrant2Name": "Squid",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8660873,
+            "loserId": 8664061,
+            "winnerName": "Squid",
+            "loserName": "SubTails",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1613508,
+            "entrant1Players": [
+                {
+                    "playerId": 135091,
+                    "playerTag": "SubTails"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 41985408,
+            "entrant1Id": 8665661,
+            "entrant2Id": 8665685,
+            "entrant1Name": "CG | LFG | Eddy Mexico",
+            "entrant2Name": "Squid",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8665661,
+            "loserId": 8665685,
+            "winnerName": "CG | LFG | Eddy Mexico",
+            "loserName": "Squid",
+            "bracketName": "Main Bracket",
+            "bracketId": 1613506,
+            "entrant1Players": [
+                {
+                    "playerId": 1030,
+                    "playerTag": "Eddy Mexico"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 41985470,
+            "entrant1Id": 8665685,
+            "entrant2Id": 8665733,
+            "entrant1Name": "Squid",
+            "entrant2Name": "DD",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8665733,
+            "loserId": 8665685,
+            "winnerName": "DD",
+            "loserName": "Squid",
+            "bracketName": "Main Bracket",
+            "bracketId": 1613506,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10485,
+                    "playerTag": "DD"
+                }
+            ]
+        },
+        {
+            "id": 41985406,
+            "entrant1Id": 8665685,
+            "entrant2Id": 8665699,
+            "entrant1Name": "Squid",
+            "entrant2Name": "rom",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8665685,
+            "loserId": 8665699,
+            "winnerName": "Squid",
+            "loserName": "rom",
+            "bracketName": "Main Bracket",
+            "bracketId": 1613506,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3899,
+                    "playerTag": "rom"
+                }
+            ]
+        },
+        {
+            "id": 41985401,
+            "entrant1Id": 8665685,
+            "entrant2Id": 8665836,
+            "entrant1Name": "Squid",
+            "entrant2Name": "a-on",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8665685,
+            "loserId": 8665836,
+            "winnerName": "Squid",
+            "loserName": "a-on",
+            "bracketName": "Main Bracket",
+            "bracketId": 1613506,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4205,
+                    "playerTag": "a-on"
+                }
+            ]
+        },
+        {
+            "id": 37011470,
+            "entrant1Id": 7262785,
+            "entrant2Id": 7262553,
+            "entrant1Name": "Zamorita",
+            "entrant2Name": "Squid",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7262553,
+            "loserId": 7262785,
+            "winnerName": "Squid",
+            "loserName": "Zamorita",
+            "bracketName": "Melee Singles",
+            "bracketId": 1488606,
+            "entrant1Players": [
+                {
+                    "playerId": 1300387,
+                    "playerTag": "Zamorita"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 37011471,
+            "entrant1Id": 7262553,
+            "entrant2Id": 7262785,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Zamorita",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7262553,
+            "loserId": 7262785,
+            "winnerName": "Squid",
+            "loserName": "Zamorita",
+            "bracketName": "Melee Singles",
+            "bracketId": 1488606,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1300387,
+                    "playerTag": "Zamorita"
+                }
+            ]
+        },
+        {
+            "id": 37011469,
+            "entrant1Id": 7262553,
+            "entrant2Id": 7262785,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Zamorita",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7262785,
+            "loserId": 7262553,
+            "winnerName": "Zamorita",
+            "loserName": "Squid",
+            "bracketName": "Melee Singles",
+            "bracketId": 1488606,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1300387,
+                    "playerTag": "Zamorita"
+                }
+            ]
+        },
+        {
+            "id": 37011533,
+            "entrant1Id": 7262553,
+            "entrant2Id": 7258530,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Galen The Wise",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7262553,
+            "loserId": 7258530,
+            "winnerName": "Squid",
+            "loserName": "Galen The Wise",
+            "bracketName": "Melee Singles",
+            "bracketId": 1488606,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21305,
+                    "playerTag": "Galen The Wise"
+                }
+            ]
+        },
+        {
+            "id": 37011467,
+            "entrant1Id": 7262553,
+            "entrant2Id": 7262659,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Phorox",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7262553,
+            "loserId": 7262659,
+            "winnerName": "Squid",
+            "loserName": "Phorox",
+            "bracketName": "Melee Singles",
+            "bracketId": 1488606,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007304,
+                    "playerTag": "Phorox"
+                }
+            ]
+        },
+        {
+            "id": 37011463,
+            "entrant1Id": 7262553,
+            "entrant2Id": 7262399,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Draizin",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7262553,
+            "loserId": 7262399,
+            "winnerName": "Squid",
+            "loserName": "Draizin",
+            "bracketName": "Melee Singles",
+            "bracketId": 1488606,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 364804,
+                    "playerTag": "Draizin"
+                }
+            ]
+        },
+        {
+            "id": 37011455,
+            "entrant1Id": 7262553,
+            "entrant2Id": 7262752,
+            "entrant1Name": "Squid",
+            "entrant2Name": "Schwifty | Sirjaxism",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7262553,
+            "loserId": 7262752,
+            "winnerName": "Squid",
+            "loserName": "Schwifty | Sirjaxism",
+            "bracketName": "Melee Singles",
+            "bracketId": 1488606,
+            "entrant1Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 524651,
+                    "playerTag": "Sirjaxism"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "justus",
+        "ober",
+        "eddy mexico",
+        "sock",
+        "android 0",
+        "franz"
+    ],
+    "L": [
+        "rei",
+        "SuperCuak",
+        "rei",
+        "salt",
+        "kalamazhu",
+        "Bladewise",
+        "Dova",
+        "DD",
+        "clich\u00e9",
+        "smashdaddy",
+        "haunter",
+        "android 0",
+        "westballz",
+        "sora/joshman",
+        "westballz",
+        "lucky",
+        "bobby big ballz",
+        "Steech",
+        "franz",
+        "MegaXmas",
+        "PanterA",
+        "Phorox",
+        "eddy mexico",
+        "DD",
+        "Zamorita"
+    ]
+}

@@ -1,0 +1,4107 @@
+{
+    "Events": [
+        "647468",
+        "584741",
+        "571841",
+        "571839",
+        "576084",
+        "594527",
+        "581934",
+        "581932",
+        "549620",
+        "562797",
+        "555551",
+        "665745",
+        "665743",
+        "620102",
+        "644428",
+        "663557",
+        "654576",
+        "652973",
+        "643458",
+        "646945",
+        "635961",
+        "615172",
+        "607302",
+        "587406",
+        "564188"
+    ],
+    "Sets": [
+        {
+            "id": 42913924,
+            "entrant1Id": 8880009,
+            "entrant2Id": 8870006,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8880009,
+            "loserId": 8870006,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "Umarth",
+            "bracketName": "WC Pools",
+            "bracketId": 1622774,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 42914051,
+            "entrant1Id": 8870006,
+            "entrant2Id": 8870165,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "CG | LFG | Eddy Mexico",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8870165,
+            "loserId": 8870006,
+            "winnerName": "CG | LFG | Eddy Mexico",
+            "loserName": "Umarth",
+            "bracketName": "WC Pools",
+            "bracketId": 1622774,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1030,
+                    "playerTag": "Eddy Mexico"
+                }
+            ]
+        },
+        {
+            "id": 42913921,
+            "entrant1Id": 8878251,
+            "entrant2Id": 8870006,
+            "entrant1Name": "a-on",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8870006,
+            "loserId": 8878251,
+            "winnerName": "Umarth",
+            "loserName": "a-on",
+            "bracketName": "WC Pools",
+            "bracketId": 1622774,
+            "entrant1Players": [
+                {
+                    "playerId": 4205,
+                    "playerTag": "a-on"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 42913915,
+            "entrant1Id": 8870006,
+            "entrant2Id": 8801754,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "enby | chaka",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8870006,
+            "loserId": 8801754,
+            "winnerName": "Umarth",
+            "loserName": "enby | chaka",
+            "bracketName": "WC Pools",
+            "bracketId": 1622774,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175669,
+                    "playerTag": "chaka"
+                }
+            ]
+        },
+        {
+            "id": 42913902,
+            "entrant1Id": 8870006,
+            "entrant2Id": 8799731,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "technospider",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8870006,
+            "loserId": 8799731,
+            "winnerName": "Umarth",
+            "loserName": "technospider",
+            "bracketName": "WC Pools",
+            "bracketId": 1622774,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 172280,
+                    "playerTag": "technospider"
+                }
+            ]
+        },
+        {
+            "id": 42332568,
+            "entrant1Id": 7705954,
+            "entrant2Id": 7882711,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7705954,
+            "loserId": 7882711,
+            "winnerName": "Fizz",
+            "loserName": "Umarth",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603583,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 42332566,
+            "entrant1Id": 7882711,
+            "entrant2Id": 7735774,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "#34 | Gleason",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7882711,
+            "loserId": 7735774,
+            "winnerName": "Umarth",
+            "loserName": "#34 | Gleason",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603583,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 14588,
+                    "playerTag": "Gleason"
+                }
+            ]
+        },
+        {
+            "id": 42334752,
+            "entrant1Id": 7572701,
+            "entrant2Id": 7882711,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7572701,
+            "loserId": 7882711,
+            "winnerName": "BLE | SluG",
+            "loserName": "Umarth",
+            "bracketName": "Round 2 Pools",
+            "bracketId": 1620255,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 42334744,
+            "entrant1Id": 7882711,
+            "entrant2Id": 8624435,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Jet",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7882711,
+            "loserId": 8624435,
+            "winnerName": "Umarth",
+            "loserName": "Jet",
+            "bracketName": "Round 2 Pools",
+            "bracketId": 1620255,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 679572,
+                    "playerTag": "Jet"
+                }
+            ]
+        },
+        {
+            "id": 37011175,
+            "entrant1Id": 7260703,
+            "entrant2Id": 7262222,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Hell Kaiser",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7260703,
+            "loserId": 7262222,
+            "winnerName": "Umarth",
+            "loserName": "Hell Kaiser",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1487664,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 181689,
+                    "playerTag": "Hell Kaiser"
+                }
+            ]
+        },
+        {
+            "id": 37008099,
+            "entrant1Id": 7260703,
+            "entrant2Id": 7261849,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Yamasaki",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7260703,
+            "loserId": 7261849,
+            "winnerName": "Umarth",
+            "loserName": "Yamasaki",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1487664,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 183677,
+                    "playerTag": "Yamasaki"
+                }
+            ]
+        },
+        {
+            "id": 37008359,
+            "entrant1Id": 7260703,
+            "entrant2Id": 7260669,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "GS | SubTails",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7260703,
+            "loserId": 7260669,
+            "winnerName": "Umarth",
+            "loserName": "GS | SubTails",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1487664,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 135091,
+                    "playerTag": "SubTails"
+                }
+            ]
+        },
+        {
+            "id": 37011371,
+            "entrant1Id": 7260703,
+            "entrant2Id": 7261042,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "BoffTarget",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7260703,
+            "loserId": 7261042,
+            "winnerName": "Umarth",
+            "loserName": "BoffTarget",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1487664,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 492755,
+                    "playerTag": "BoffTarget"
+                }
+            ]
+        },
+        {
+            "id": 37011399,
+            "entrant1Id": 7260703,
+            "entrant2Id": 7261656,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "E",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7260703,
+            "loserId": 7261656,
+            "winnerName": "Umarth",
+            "loserName": "E",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1487664,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 48946,
+                    "playerTag": "Yaj"
+                }
+            ]
+        },
+        {
+            "id": 37011010,
+            "entrant1Id": 7260674,
+            "entrant2Id": 7260703,
+            "entrant1Name": "DarkHero",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7260703,
+            "loserId": 7260674,
+            "winnerName": "Umarth",
+            "loserName": "DarkHero",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1487664,
+            "entrant1Players": [
+                {
+                    "playerId": 15989,
+                    "playerTag": "DarkHero"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 37011281,
+            "entrant1Id": 7258623,
+            "entrant2Id": 7260703,
+            "entrant1Name": "Anjo",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7260703,
+            "loserId": 7258623,
+            "winnerName": "Umarth",
+            "loserName": "Anjo",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1487664,
+            "entrant1Players": [
+                {
+                    "playerId": 15586,
+                    "playerTag": "Anjo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 37010412,
+            "entrant1Id": 7261656,
+            "entrant2Id": 7260703,
+            "entrant1Name": "E",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7260703,
+            "loserId": 7261656,
+            "winnerName": "Umarth",
+            "loserName": "E",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1487664,
+            "entrant1Players": [
+                {
+                    "playerId": 48946,
+                    "playerTag": "Yaj"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 37010802,
+            "entrant1Id": 7259727,
+            "entrant2Id": 7260703,
+            "entrant1Name": "Wassabi",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7260703,
+            "loserId": 7259727,
+            "winnerName": "Umarth",
+            "loserName": "Wassabi",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1487664,
+            "entrant1Players": [
+                {
+                    "playerId": 5724,
+                    "playerTag": "Wassabi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 37021503,
+            "entrant1Id": 7265769,
+            "entrant2Id": 7266839,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7265769,
+            "loserId": 7266839,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "Umarth",
+            "bracketName": "Main Bracket",
+            "bracketId": 1487662,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 37021567,
+            "entrant1Id": 7266839,
+            "entrant2Id": 7267326,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Blues Clues",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7267326,
+            "loserId": 7266839,
+            "winnerName": "Blues Clues",
+            "loserName": "Umarth",
+            "bracketName": "Main Bracket",
+            "bracketId": 1487662,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 64692,
+                    "playerTag": "Blues Clues"
+                }
+            ]
+        },
+        {
+            "id": 37021500,
+            "entrant1Id": 7266838,
+            "entrant2Id": 7266839,
+            "entrant1Name": "LG | Yu",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7266839,
+            "loserId": 7266838,
+            "winnerName": "Umarth",
+            "loserName": "LG | Yu",
+            "bracketName": "Main Bracket",
+            "bracketId": 1487662,
+            "entrant1Players": [
+                {
+                    "playerId": 252543,
+                    "playerTag": "Yu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 37021494,
+            "entrant1Id": 7266839,
+            "entrant2Id": 7266834,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Younger",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7266839,
+            "loserId": 7266834,
+            "winnerName": "Umarth",
+            "loserName": "Younger",
+            "bracketName": "Main Bracket",
+            "bracketId": 1487662,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3665,
+                    "playerTag": "Younger"
+                }
+            ]
+        },
+        {
+            "id": 38720124,
+            "entrant1Id": 7372535,
+            "entrant2Id": 7589382,
+            "entrant1Name": "ManRay",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7589382,
+            "loserId": 7372535,
+            "winnerName": "Umarth",
+            "loserName": "ManRay",
+            "bracketName": "Bracket",
+            "bracketId": 1530853,
+            "entrant1Players": [
+                {
+                    "playerId": 418740,
+                    "playerTag": "ManRay"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 38720118,
+            "entrant1Id": 7589382,
+            "entrant2Id": 7675650,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "emy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7589382,
+            "loserId": 7675650,
+            "winnerName": "Umarth",
+            "loserName": "emy",
+            "bracketName": "Bracket",
+            "bracketId": 1530853,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 245152,
+                    "playerTag": "emy"
+                }
+            ]
+        },
+        {
+            "id": 38720071,
+            "entrant1Id": 7589382,
+            "entrant2Id": 7618787,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Ovenn",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7589382,
+            "loserId": 7618787,
+            "winnerName": "Umarth",
+            "loserName": "Ovenn",
+            "bracketName": "Bracket",
+            "bracketId": 1530853,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10532,
+                    "playerTag": "Ovenn"
+                }
+            ]
+        },
+        {
+            "id": 38743674,
+            "entrant1Id": 7717213,
+            "entrant2Id": 7717231,
+            "entrant1Name": "FatGoku",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7717213,
+            "loserId": 7717231,
+            "winnerName": "FatGoku",
+            "loserName": "Umarth",
+            "bracketName": "Bracket",
+            "bracketId": 1530770,
+            "entrant1Players": [
+                {
+                    "playerId": 4518,
+                    "playerTag": "FatGoku"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 38743788,
+            "entrant1Id": 7717231,
+            "entrant2Id": 7717336,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Bbatts",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7717336,
+            "loserId": 7717231,
+            "winnerName": "Bbatts",
+            "loserName": "Umarth",
+            "bracketName": "Bracket",
+            "bracketId": 1530770,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 542693,
+                    "playerTag": "Bbatts"
+                }
+            ]
+        },
+        {
+            "id": 37821206,
+            "entrant1Id": 7458211,
+            "entrant2Id": 7457173,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "YungWaff",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7458211,
+            "loserId": 7457173,
+            "winnerName": "Umarth",
+            "loserName": "YungWaff",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1507595,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3954,
+                    "playerTag": "YungWaff"
+                }
+            ]
+        },
+        {
+            "id": 37820626,
+            "entrant1Id": 7458301,
+            "entrant2Id": 7458211,
+            "entrant1Name": "PYR",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7458211,
+            "loserId": 7458301,
+            "winnerName": "Umarth",
+            "loserName": "PYR",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1507595,
+            "entrant1Players": [
+                {
+                    "playerId": 1171263,
+                    "playerTag": "PYR"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 37820995,
+            "entrant1Id": 7458400,
+            "entrant2Id": 7458211,
+            "entrant1Name": "EP | Justus",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7458211,
+            "loserId": 7458400,
+            "winnerName": "Umarth",
+            "loserName": "EP | Justus",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1507595,
+            "entrant1Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 37822953,
+            "entrant1Id": 7458211,
+            "entrant2Id": 7458619,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7458211,
+            "loserId": 7458619,
+            "winnerName": "Umarth",
+            "loserName": "bobby big ballz",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1507595,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 37822992,
+            "entrant1Id": 7458211,
+            "entrant2Id": 7458495,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "NOOT",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7458211,
+            "loserId": 7458495,
+            "winnerName": "Umarth",
+            "loserName": "NOOT",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1507595,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 265808,
+                    "playerTag": "NOOT"
+                }
+            ]
+        },
+        {
+            "id": 37823287,
+            "entrant1Id": 7458211,
+            "entrant2Id": 7458509,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "winismine",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7458211,
+            "loserId": 7458509,
+            "winnerName": "Umarth",
+            "loserName": "winismine",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1507595,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 954582,
+                    "playerTag": "winismine"
+                }
+            ]
+        },
+        {
+            "id": 37821638,
+            "entrant1Id": 7458211,
+            "entrant2Id": 7458173,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "El Link",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7458211,
+            "loserId": 7458173,
+            "winnerName": "Umarth",
+            "loserName": "El Link",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1507595,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12023,
+                    "playerTag": "El Link"
+                }
+            ]
+        },
+        {
+            "id": 37820666,
+            "entrant1Id": 7458386,
+            "entrant2Id": 7458211,
+            "entrant1Name": "Help",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7458211,
+            "loserId": 7458386,
+            "winnerName": "Umarth",
+            "loserName": "Help",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1507595,
+            "entrant1Players": [
+                {
+                    "playerId": 13765,
+                    "playerTag": "Help"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 37821934,
+            "entrant1Id": 7458211,
+            "entrant2Id": 7458301,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "PYR",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7458211,
+            "loserId": 7458301,
+            "winnerName": "Umarth",
+            "loserName": "PYR",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1507595,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1171263,
+                    "playerTag": "PYR"
+                }
+            ]
+        },
+        {
+            "id": 37839705,
+            "entrant1Id": 7464619,
+            "entrant2Id": 7464625,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Typhoon",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7464625,
+            "loserId": 7464619,
+            "winnerName": "Typhoon",
+            "loserName": "Umarth",
+            "bracketName": "Main Bracket",
+            "bracketId": 1507593,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 221423,
+                    "playerTag": "Typhoon"
+                }
+            ]
+        },
+        {
+            "id": 37839638,
+            "entrant1Id": 7464121,
+            "entrant2Id": 7464619,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7464121,
+            "loserId": 7464619,
+            "winnerName": "bobby big ballz",
+            "loserName": "Umarth",
+            "bracketName": "Main Bracket",
+            "bracketId": 1507593,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 37839700,
+            "entrant1Id": 7464619,
+            "entrant2Id": 7464627,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "emy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7464619,
+            "loserId": 7464627,
+            "winnerName": "Umarth",
+            "loserName": "emy",
+            "bracketName": "Main Bracket",
+            "bracketId": 1507593,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 245152,
+                    "playerTag": "emy"
+                }
+            ]
+        },
+        {
+            "id": 35008566,
+            "entrant1Id": 6771709,
+            "entrant2Id": 6770090,
+            "entrant1Name": "ROFL",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6770090,
+            "loserId": 6771709,
+            "winnerName": "Umarth",
+            "loserName": "ROFL",
+            "bracketName": "Main Bracket Pools",
+            "bracketId": 1443234,
+            "entrant1Players": [
+                {
+                    "playerId": 22688,
+                    "playerTag": "ROFL"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 35008560,
+            "entrant1Id": 6770090,
+            "entrant2Id": 6769291,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "cockbread",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6770090,
+            "loserId": 6769291,
+            "winnerName": "Umarth",
+            "loserName": "cockbread",
+            "bracketName": "Main Bracket Pools",
+            "bracketId": 1443234,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 135795,
+                    "playerTag": "cockbread"
+                }
+            ]
+        },
+        {
+            "id": 35015169,
+            "entrant1Id": 6754977,
+            "entrant2Id": 6770090,
+            "entrant1Name": "S2J",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6754977,
+            "loserId": 6770090,
+            "winnerName": "S2J",
+            "loserName": "Umarth",
+            "bracketName": "Top 32",
+            "bracketId": 1445148,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 35015233,
+            "entrant1Id": 6770090,
+            "entrant2Id": 6754419,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "LFTG | Logos",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6754419,
+            "loserId": 6770090,
+            "winnerName": "LFTG | Logos",
+            "loserName": "Umarth",
+            "bracketName": "Top 32",
+            "bracketId": 1445148,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 18652,
+                    "playerTag": "Logos"
+                }
+            ]
+        },
+        {
+            "id": 36174875,
+            "entrant1Id": 7058962,
+            "entrant2Id": 7059270,
+            "entrant1Name": "Typhoon",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7059270,
+            "loserId": 7058962,
+            "winnerName": "Umarth",
+            "loserName": "Typhoon",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1469624,
+            "entrant1Players": [
+                {
+                    "playerId": 221423,
+                    "playerTag": "Typhoon"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 36174302,
+            "entrant1Id": 7057957,
+            "entrant2Id": 7059270,
+            "entrant1Name": "LanTurN",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7059270,
+            "loserId": 7057957,
+            "winnerName": "Umarth",
+            "loserName": "LanTurN",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1469624,
+            "entrant1Players": [
+                {
+                    "playerId": 329937,
+                    "playerTag": "LanTurN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 36174541,
+            "entrant1Id": 7059270,
+            "entrant2Id": 7057667,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Khoron | Oreo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7059270,
+            "loserId": 7057667,
+            "winnerName": "Umarth",
+            "loserName": "Khoron | Oreo",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1469624,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 378512,
+                    "playerTag": "Oreo"
+                }
+            ]
+        },
+        {
+            "id": 36174573,
+            "entrant1Id": 7059270,
+            "entrant2Id": 7058979,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "TBD",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7059270,
+            "loserId": 7058979,
+            "winnerName": "Umarth",
+            "loserName": "TBD",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1469624,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 29840,
+                    "playerTag": "Buckets"
+                }
+            ]
+        },
+        {
+            "id": 36174675,
+            "entrant1Id": 7059270,
+            "entrant2Id": 7059205,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Flow | Stark",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7059270,
+            "loserId": 7059205,
+            "winnerName": "Umarth",
+            "loserName": "Flow | Stark",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1469624,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10228,
+                    "playerTag": "Stark"
+                }
+            ]
+        },
+        {
+            "id": 36174858,
+            "entrant1Id": 7059270,
+            "entrant2Id": 7059054,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "G",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7059270,
+            "loserId": 7059054,
+            "winnerName": "Umarth",
+            "loserName": "G",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1469624,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10520,
+                    "playerTag": "G"
+                }
+            ]
+        },
+        {
+            "id": 36174898,
+            "entrant1Id": 7059270,
+            "entrant2Id": 7058629,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Anchovy",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7059270,
+            "loserId": 7058629,
+            "winnerName": "Umarth",
+            "loserName": "Anchovy",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1469624,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 41374,
+                    "playerTag": "Anchovy"
+                }
+            ]
+        },
+        {
+            "id": 36174794,
+            "entrant1Id": 7059270,
+            "entrant2Id": 7046369,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "U-Smash | Rocket",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7046369,
+            "loserId": 7059270,
+            "winnerName": "U-Smash | Rocket",
+            "loserName": "Umarth",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1469624,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1278457,
+                    "playerTag": "Rocket"
+                }
+            ]
+        },
+        {
+            "id": 36174278,
+            "entrant1Id": 7058523,
+            "entrant2Id": 7059270,
+            "entrant1Name": "RedX",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7059270,
+            "loserId": 7058523,
+            "winnerName": "Umarth",
+            "loserName": "RedX",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1469624,
+            "entrant1Players": [
+                {
+                    "playerId": 38643,
+                    "playerTag": "RedX"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 35509257,
+            "entrant1Id": 6895309,
+            "entrant2Id": 6895461,
+            "entrant1Name": "Archi",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6895461,
+            "loserId": 6895309,
+            "winnerName": "Umarth",
+            "loserName": "Archi",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1454600,
+            "entrant1Players": [
+                {
+                    "playerId": 179993,
+                    "playerTag": "Archi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 35510197,
+            "entrant1Id": 6895461,
+            "entrant2Id": 6894713,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "yingling",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6895461,
+            "loserId": 6894713,
+            "winnerName": "Umarth",
+            "loserName": "yingling",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1454600,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12137,
+                    "playerTag": "yingling"
+                }
+            ]
+        },
+        {
+            "id": 35510531,
+            "entrant1Id": 6895461,
+            "entrant2Id": 6895365,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Mo $",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6895461,
+            "loserId": 6895365,
+            "winnerName": "Umarth",
+            "loserName": "Mo $",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1454600,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 33655,
+                    "playerTag": "Mo $"
+                }
+            ]
+        },
+        {
+            "id": 35509237,
+            "entrant1Id": 6895461,
+            "entrant2Id": 6894988,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Ribboned Ace",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6895461,
+            "loserId": 6894988,
+            "winnerName": "Umarth",
+            "loserName": "Ribboned Ace",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1454600,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 233059,
+                    "playerTag": "Ribboned Ace"
+                }
+            ]
+        },
+        {
+            "id": 35509271,
+            "entrant1Id": 6895304,
+            "entrant2Id": 6895461,
+            "entrant1Name": "NOOT",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6895304,
+            "loserId": 6895461,
+            "winnerName": "NOOT",
+            "loserName": "Umarth",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1454600,
+            "entrant1Players": [
+                {
+                    "playerId": 265808,
+                    "playerTag": "NOOT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 35510507,
+            "entrant1Id": 6895461,
+            "entrant2Id": 6892115,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Jet",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6892115,
+            "loserId": 6895461,
+            "winnerName": "Jet",
+            "loserName": "Umarth",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1454600,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2140092,
+                    "playerTag": "Jet"
+                }
+            ]
+        },
+        {
+            "id": 35510558,
+            "entrant1Id": 6895461,
+            "entrant2Id": 6895054,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "CREW | G",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6895461,
+            "loserId": 6895054,
+            "winnerName": "Umarth",
+            "loserName": "CREW | G",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1454600,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10520,
+                    "playerTag": "G"
+                }
+            ]
+        },
+        {
+            "id": 35510425,
+            "entrant1Id": 6895461,
+            "entrant2Id": 6888424,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Dova",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6888424,
+            "loserId": 6895461,
+            "winnerName": "Dova",
+            "loserName": "Umarth",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1454600,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 531485,
+                    "playerTag": "Dova"
+                }
+            ]
+        },
+        {
+            "id": 35510440,
+            "entrant1Id": 6895461,
+            "entrant2Id": 6891979,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "PQ2 | CPU0",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6891979,
+            "loserId": 6895461,
+            "winnerName": "PQ2 | CPU0",
+            "loserName": "Umarth",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1454600,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 395730,
+                    "playerTag": "CPU0"
+                }
+            ]
+        },
+        {
+            "id": 35510521,
+            "entrant1Id": 6895811,
+            "entrant2Id": 6895461,
+            "entrant1Name": "BABA | Babo",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6895461,
+            "loserId": 6895811,
+            "winnerName": "Umarth",
+            "loserName": "BABA | Babo",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1454600,
+            "entrant1Players": [
+                {
+                    "playerId": 1682516,
+                    "playerTag": "Babo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 35509581,
+            "entrant1Id": 6895246,
+            "entrant2Id": 6895461,
+            "entrant1Name": "Flow | Stark",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6895461,
+            "loserId": 6895246,
+            "winnerName": "Umarth",
+            "loserName": "Flow | Stark",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1454600,
+            "entrant1Players": [
+                {
+                    "playerId": 10228,
+                    "playerTag": "Stark"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 35509791,
+            "entrant1Id": 6889930,
+            "entrant2Id": 6895461,
+            "entrant1Name": "LFG | Fist Mexico",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6895461,
+            "loserId": 6889930,
+            "winnerName": "Umarth",
+            "loserName": "LFG | Fist Mexico",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1454600,
+            "entrant1Players": [
+                {
+                    "playerId": 35258,
+                    "playerTag": "Fist Mexico"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 35510451,
+            "entrant1Id": 6895461,
+            "entrant2Id": 6893877,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Seraph",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6895461,
+            "loserId": 6893877,
+            "winnerName": "Umarth",
+            "loserName": "Seraph",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1454600,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 259856,
+                    "playerTag": "Seraph"
+                }
+            ]
+        },
+        {
+            "id": 43530517,
+            "entrant1Id": 9046730,
+            "entrant2Id": 9045560,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Astoo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 9046730,
+            "loserId": 9045560,
+            "winnerName": "Umarth",
+            "loserName": "Astoo",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1654365,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 135187,
+                    "playerTag": "Astoo"
+                }
+            ]
+        },
+        {
+            "id": 43530584,
+            "entrant1Id": 9046608,
+            "entrant2Id": 9046730,
+            "entrant1Name": "FreeHops",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 9046730,
+            "loserId": 9046608,
+            "winnerName": "Umarth",
+            "loserName": "FreeHops",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1654365,
+            "entrant1Players": [
+                {
+                    "playerId": 1077796,
+                    "playerTag": "FreeHops"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 43530504,
+            "entrant1Id": 9046730,
+            "entrant2Id": 9046409,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Kaffelon",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 9046730,
+            "loserId": 9046409,
+            "winnerName": "Umarth",
+            "loserName": "Kaffelon",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1654365,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 504372,
+                    "playerTag": "Kaffelon"
+                }
+            ]
+        },
+        {
+            "id": 43530837,
+            "entrant1Id": 9046429,
+            "entrant2Id": 9046730,
+            "entrant1Name": "DD",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 9046730,
+            "loserId": 9046429,
+            "winnerName": "Umarth",
+            "loserName": "DD",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1654365,
+            "entrant1Players": [
+                {
+                    "playerId": 10485,
+                    "playerTag": "DD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 43530069,
+            "entrant1Id": 9046291,
+            "entrant2Id": 9046730,
+            "entrant1Name": "SoulWorthSaving",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 9046730,
+            "loserId": 9046291,
+            "winnerName": "Umarth",
+            "loserName": "SoulWorthSaving",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1654365,
+            "entrant1Players": [
+                {
+                    "playerId": 2483366,
+                    "playerTag": "SoulWorthSaving"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 43532087,
+            "entrant1Id": 9047216,
+            "entrant2Id": 9047004,
+            "entrant1Name": "Medz",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 9047216,
+            "loserId": 9047004,
+            "winnerName": "Medz",
+            "loserName": "Umarth",
+            "bracketName": "Main Bracket",
+            "bracketId": 1654363,
+            "entrant1Players": [
+                {
+                    "playerId": 40476,
+                    "playerTag": "Medz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 43532151,
+            "entrant1Id": 9047004,
+            "entrant2Id": 9046994,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "haunter",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 9046994,
+            "loserId": 9047004,
+            "winnerName": "haunter",
+            "loserName": "Umarth",
+            "bracketName": "Main Bracket",
+            "bracketId": 1654363,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1862410,
+                    "playerTag": "haunter"
+                }
+            ]
+        },
+        {
+            "id": 43532084,
+            "entrant1Id": 9047004,
+            "entrant2Id": 9047158,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "LFG | PanterA",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 9047004,
+            "loserId": 9047158,
+            "winnerName": "Umarth",
+            "loserName": "LFG | PanterA",
+            "bracketName": "Main Bracket",
+            "bracketId": 1654363,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 135088,
+                    "playerTag": "PanterA"
+                }
+            ]
+        },
+        {
+            "id": 43532077,
+            "entrant1Id": 9047004,
+            "entrant2Id": 9047007,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Phorox",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 9047004,
+            "loserId": 9047007,
+            "winnerName": "Umarth",
+            "loserName": "Phorox",
+            "bracketName": "Main Bracket",
+            "bracketId": 1654363,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007304,
+                    "playerTag": "Phorox"
+                }
+            ]
+        },
+        {
+            "id": 40638598,
+            "entrant1Id": 8286814,
+            "entrant2Id": 8313175,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Rob jr | blargh257",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8286814,
+            "loserId": 8313175,
+            "winnerName": "Umarth",
+            "loserName": "Rob jr | blargh257",
+            "bracketName": "Bracket",
+            "bracketId": 1574773,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11126,
+                    "playerTag": "blargh257"
+                }
+            ]
+        },
+        {
+            "id": 40638588,
+            "entrant1Id": 8286814,
+            "entrant2Id": 8307153,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Easy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8286814,
+            "loserId": 8307153,
+            "winnerName": "Umarth",
+            "loserName": "Easy",
+            "bracketName": "Bracket",
+            "bracketId": 1574773,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154482,
+                    "playerTag": "Easy"
+                }
+            ]
+        },
+        {
+            "id": 40639447,
+            "entrant1Id": 8300747,
+            "entrant2Id": 8286814,
+            "entrant1Name": "CG | Smashdaddy",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8300747,
+            "loserId": 8286814,
+            "winnerName": "CG | Smashdaddy",
+            "loserName": "Umarth",
+            "bracketName": "Top 16",
+            "bracketId": 1574774,
+            "entrant1Players": [
+                {
+                    "playerId": 36403,
+                    "playerTag": "Smashdaddy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 40639478,
+            "entrant1Id": 8286814,
+            "entrant2Id": 8302175,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "CG | Peppi | Pappi",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8302175,
+            "loserId": 8286814,
+            "winnerName": "CG | Peppi | Pappi",
+            "loserName": "Umarth",
+            "bracketName": "Top 16",
+            "bracketId": 1574774,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61570,
+                    "playerTag": "Pappi"
+                }
+            ]
+        },
+        {
+            "id": 40639445,
+            "entrant1Id": 8286814,
+            "entrant2Id": 8312973,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Mekk",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8286814,
+            "loserId": 8312973,
+            "winnerName": "Umarth",
+            "loserName": "Mekk",
+            "bracketName": "Top 16",
+            "bracketId": 1574774,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ]
+        },
+        {
+            "id": 40638568,
+            "entrant1Id": 8286814,
+            "entrant2Id": 8298832,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Salrei's Hope",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8286814,
+            "loserId": 8298832,
+            "winnerName": "Umarth",
+            "loserName": "Salrei's Hope",
+            "bracketName": "Bracket",
+            "bracketId": 1574773,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2353908,
+                    "playerTag": "Salrei's Hope"
+                }
+            ]
+        },
+        {
+            "id": 42260838,
+            "entrant1Id": 8696993,
+            "entrant2Id": 8729942,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8696993,
+            "loserId": 8729942,
+            "winnerName": "Franz",
+            "loserName": "Umarth",
+            "bracketName": "Bracket",
+            "bracketId": 1617627,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 42260836,
+            "entrant1Id": 8696910,
+            "entrant2Id": 8729942,
+            "entrant1Name": "Xela",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8729942,
+            "loserId": 8696910,
+            "winnerName": "Umarth",
+            "loserName": "Xela",
+            "bracketName": "Bracket",
+            "bracketId": 1617627,
+            "entrant1Players": [
+                {
+                    "playerId": 71062,
+                    "playerTag": "Xela"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 42260772,
+            "entrant1Id": 8729942,
+            "entrant2Id": 8708337,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "AJ",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8708337,
+            "loserId": 8729942,
+            "winnerName": "AJ",
+            "loserName": "Umarth",
+            "bracketName": "Bracket",
+            "bracketId": 1617627,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 41562,
+                    "playerTag": "AJ"
+                }
+            ]
+        },
+        {
+            "id": 42260834,
+            "entrant1Id": 8729942,
+            "entrant2Id": 8712897,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "YET | Venelox",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8729942,
+            "loserId": 8712897,
+            "winnerName": "Umarth",
+            "loserName": "YET | Venelox",
+            "bracketName": "Bracket",
+            "bracketId": 1617627,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 39138,
+                    "playerTag": "Venelox"
+                }
+            ]
+        },
+        {
+            "id": 42260766,
+            "entrant1Id": 8729942,
+            "entrant2Id": 8734936,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "RB | Cum Fox",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8729942,
+            "loserId": 8734936,
+            "winnerName": "Umarth",
+            "loserName": "RB | Cum Fox",
+            "bracketName": "Bracket",
+            "bracketId": 1617627,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1196449,
+                    "playerTag": "Cum Fox"
+                }
+            ]
+        },
+        {
+            "id": 43469412,
+            "entrant1Id": 9014830,
+            "entrant2Id": 9025105,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "KB#795 | Kevbot",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 9014830,
+            "loserId": 9025105,
+            "winnerName": "Umarth",
+            "loserName": "KB#795 | Kevbot",
+            "bracketName": "Bracket",
+            "bracketId": 1650835,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12293,
+                    "playerTag": "Kevbot"
+                }
+            ]
+        },
+        {
+            "id": 43469411,
+            "entrant1Id": 9014830,
+            "entrant2Id": 9025105,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "KB#795 | Kevbot",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 9014830,
+            "loserId": 9025105,
+            "winnerName": "Umarth",
+            "loserName": "KB#795 | Kevbot",
+            "bracketName": "Bracket",
+            "bracketId": 1650835,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12293,
+                    "playerTag": "Kevbot"
+                }
+            ]
+        },
+        {
+            "id": 43469409,
+            "entrant1Id": 9014830,
+            "entrant2Id": 9024946,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "biscuito",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 9014830,
+            "loserId": 9024946,
+            "winnerName": "Umarth",
+            "loserName": "biscuito",
+            "bracketName": "Bracket",
+            "bracketId": 1650835,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 994409,
+                    "playerTag": "biscuito"
+                }
+            ]
+        },
+        {
+            "id": 43469405,
+            "entrant1Id": 9014830,
+            "entrant2Id": 9021193,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "SaltySam",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 9014830,
+            "loserId": 9021193,
+            "winnerName": "Umarth",
+            "loserName": "SaltySam",
+            "bracketName": "Bracket",
+            "bracketId": 1650835,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 220362,
+                    "playerTag": "SaltySam"
+                }
+            ]
+        },
+        {
+            "id": 43325393,
+            "entrant1Id": 8919199,
+            "entrant2Id": 8972837,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Darkatma",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8972837,
+            "loserId": 8919199,
+            "winnerName": "Darkatma",
+            "loserName": "Umarth",
+            "bracketName": "Bracket",
+            "bracketId": 1635252,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7162,
+                    "playerTag": "Darkatma"
+                }
+            ]
+        },
+        {
+            "id": 43325394,
+            "entrant1Id": 8972837,
+            "entrant2Id": 8919199,
+            "entrant1Name": "Darkatma",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8972837,
+            "loserId": 8919199,
+            "winnerName": "Darkatma",
+            "loserName": "Umarth",
+            "bracketName": "Bracket",
+            "bracketId": 1635252,
+            "entrant1Players": [
+                {
+                    "playerId": 7162,
+                    "playerTag": "Darkatma"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 43325392,
+            "entrant1Id": 8982165,
+            "entrant2Id": 8919199,
+            "entrant1Name": "Darrell",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8919199,
+            "loserId": 8982165,
+            "winnerName": "Umarth",
+            "loserName": "Darrell",
+            "bracketName": "Bracket",
+            "bracketId": 1635252,
+            "entrant1Players": [
+                {
+                    "playerId": 211440,
+                    "playerTag": "Darrell"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 43325391,
+            "entrant1Id": 8919199,
+            "entrant2Id": 8972837,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Darkatma",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8919199,
+            "loserId": 8972837,
+            "winnerName": "Umarth",
+            "loserName": "Darkatma",
+            "bracketName": "Bracket",
+            "bracketId": 1635252,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7162,
+                    "playerTag": "Darkatma"
+                }
+            ]
+        },
+        {
+            "id": 43325388,
+            "entrant1Id": 8919199,
+            "entrant2Id": 8976641,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Arcadia",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8919199,
+            "loserId": 8976641,
+            "winnerName": "Umarth",
+            "loserName": "Arcadia",
+            "bracketName": "Bracket",
+            "bracketId": 1635252,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3772,
+                    "playerTag": "Arcadia"
+                }
+            ]
+        },
+        {
+            "id": 43325382,
+            "entrant1Id": 8919199,
+            "entrant2Id": 8977662,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Zbert",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8919199,
+            "loserId": 8977662,
+            "winnerName": "Umarth",
+            "loserName": "Zbert",
+            "bracketName": "Bracket",
+            "bracketId": 1635252,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4132,
+                    "playerTag": "Zbert"
+                }
+            ]
+        },
+        {
+            "id": 43325370,
+            "entrant1Id": 8919199,
+            "entrant2Id": 8894865,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Shy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8919199,
+            "loserId": 8894865,
+            "winnerName": "Umarth",
+            "loserName": "Shy",
+            "bracketName": "Bracket",
+            "bracketId": 1635252,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 150888,
+                    "playerTag": "Shy"
+                }
+            ]
+        },
+        {
+            "id": 43325346,
+            "entrant1Id": 8919199,
+            "entrant2Id": 8894078,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "LanaAlways",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8919199,
+            "loserId": 8894078,
+            "winnerName": "Umarth",
+            "loserName": "LanaAlways",
+            "bracketName": "Bracket",
+            "bracketId": 1635252,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2096906,
+                    "playerTag": "LanaAlways"
+                }
+            ]
+        },
+        {
+            "id": 43032368,
+            "entrant1Id": 8917049,
+            "entrant2Id": 8919483,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "darkwizard123",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8917049,
+            "loserId": 8919483,
+            "winnerName": "Umarth",
+            "loserName": "darkwizard123",
+            "bracketName": "Bracket",
+            "bracketId": 1632639,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22848,
+                    "playerTag": "darkwizard123"
+                }
+            ]
+        },
+        {
+            "id": 43032367,
+            "entrant1Id": 8917049,
+            "entrant2Id": 8916916,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Rob jr | blargh257",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8917049,
+            "loserId": 8916916,
+            "winnerName": "Umarth",
+            "loserName": "Rob jr | blargh257",
+            "bracketName": "Bracket",
+            "bracketId": 1632639,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11126,
+                    "playerTag": "blargh257"
+                }
+            ]
+        },
+        {
+            "id": 43032365,
+            "entrant1Id": 8917049,
+            "entrant2Id": 8916989,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "C4D",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8917049,
+            "loserId": 8916989,
+            "winnerName": "Umarth",
+            "loserName": "C4D",
+            "bracketName": "Bracket",
+            "bracketId": 1632639,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 35632,
+                    "playerTag": "C4D"
+                }
+            ]
+        },
+        {
+            "id": 43032361,
+            "entrant1Id": 8917049,
+            "entrant2Id": 8919380,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "ArcadiaJr",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8917049,
+            "loserId": 8919380,
+            "winnerName": "Umarth",
+            "loserName": "ArcadiaJr",
+            "bracketName": "Bracket",
+            "bracketId": 1632639,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40381,
+                    "playerTag": "ArcadiaJr"
+                }
+            ]
+        },
+        {
+            "id": 42727356,
+            "entrant1Id": 8829739,
+            "entrant2Id": 8840622,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8829739,
+            "loserId": 8840622,
+            "winnerName": "Azel",
+            "loserName": "Umarth",
+            "bracketName": "Bracket",
+            "bracketId": 1615476,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 42727355,
+            "entrant1Id": 8814724,
+            "entrant2Id": 8840622,
+            "entrant1Name": "Ralph",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8840622,
+            "loserId": 8814724,
+            "winnerName": "Umarth",
+            "loserName": "Ralph",
+            "bracketName": "Bracket",
+            "bracketId": 1615476,
+            "entrant1Players": [
+                {
+                    "playerId": 4505,
+                    "playerTag": "Ralph"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 42727353,
+            "entrant1Id": 8836544,
+            "entrant2Id": 8840622,
+            "entrant1Name": "Darkatma",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8840622,
+            "loserId": 8836544,
+            "winnerName": "Umarth",
+            "loserName": "Darkatma",
+            "bracketName": "Bracket",
+            "bracketId": 1615476,
+            "entrant1Players": [
+                {
+                    "playerId": 7162,
+                    "playerTag": "Darkatma"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 42727224,
+            "entrant1Id": 8771510,
+            "entrant2Id": 8840622,
+            "entrant1Name": "KB#795 | Kevbot",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8771510,
+            "loserId": 8840622,
+            "winnerName": "KB#795 | Kevbot",
+            "loserName": "Umarth",
+            "bracketName": "Bracket",
+            "bracketId": 1615476,
+            "entrant1Players": [
+                {
+                    "playerId": 12293,
+                    "playerTag": "Kevbot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 42727351,
+            "entrant1Id": 8840622,
+            "entrant2Id": 8806968,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Jet",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8840622,
+            "loserId": 8806968,
+            "winnerName": "Umarth",
+            "loserName": "Jet",
+            "bracketName": "Bracket",
+            "bracketId": 1615476,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21857,
+                    "playerTag": "Jet"
+                }
+            ]
+        },
+        {
+            "id": 42727218,
+            "entrant1Id": 8840622,
+            "entrant2Id": 8829581,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "noChill",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8840622,
+            "loserId": 8829581,
+            "winnerName": "Umarth",
+            "loserName": "noChill",
+            "bracketName": "Bracket",
+            "bracketId": 1615476,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 217541,
+                    "playerTag": "noChill"
+                }
+            ]
+        },
+        {
+            "id": 42727205,
+            "entrant1Id": 8840622,
+            "entrant2Id": 8810782,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Quas",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8840622,
+            "loserId": 8810782,
+            "winnerName": "Umarth",
+            "loserName": "Quas",
+            "bracketName": "Bracket",
+            "bracketId": 1615476,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 340189,
+                    "playerTag": "Quas"
+                }
+            ]
+        },
+        {
+            "id": 42475607,
+            "entrant1Id": 8786000,
+            "entrant2Id": 8774207,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Rob jr | blargh257",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8786000,
+            "loserId": 8774207,
+            "winnerName": "Umarth",
+            "loserName": "Rob jr | blargh257",
+            "bracketName": "Bracket",
+            "bracketId": 1621779,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11126,
+                    "playerTag": "blargh257"
+                }
+            ]
+        },
+        {
+            "id": 42475606,
+            "entrant1Id": 8786000,
+            "entrant2Id": 8774207,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Rob jr | blargh257",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8786000,
+            "loserId": 8774207,
+            "winnerName": "Umarth",
+            "loserName": "Rob jr | blargh257",
+            "bracketName": "Bracket",
+            "bracketId": 1621779,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11126,
+                    "playerTag": "blargh257"
+                }
+            ]
+        },
+        {
+            "id": 42475604,
+            "entrant1Id": 8786000,
+            "entrant2Id": 8785816,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "biscuito",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8786000,
+            "loserId": 8785816,
+            "winnerName": "Umarth",
+            "loserName": "biscuito",
+            "bracketName": "Bracket",
+            "bracketId": 1621779,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 994409,
+                    "playerTag": "biscuito"
+                }
+            ]
+        },
+        {
+            "id": 42475600,
+            "entrant1Id": 8786000,
+            "entrant2Id": 8786255,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Brand",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8786000,
+            "loserId": 8786255,
+            "winnerName": "Umarth",
+            "loserName": "Brand",
+            "bracketName": "Bracket",
+            "bracketId": 1621779,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4118,
+                    "playerTag": "Brand"
+                }
+            ]
+        },
+        {
+            "id": 42475592,
+            "entrant1Id": 8786000,
+            "entrant2Id": 8782233,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "samsonites",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8786000,
+            "loserId": 8782233,
+            "winnerName": "Umarth",
+            "loserName": "samsonites",
+            "bracketName": "Bracket",
+            "bracketId": 1621779,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 24150,
+                    "playerTag": "samsonites"
+                }
+            ]
+        },
+        {
+            "id": 41589776,
+            "entrant1Id": 8560481,
+            "entrant2Id": 8566068,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Rob jr | blargh257",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8566068,
+            "loserId": 8560481,
+            "winnerName": "Rob jr | blargh257",
+            "loserName": "Umarth",
+            "bracketName": "Bracket",
+            "bracketId": 1602257,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11126,
+                    "playerTag": "blargh257"
+                }
+            ]
+        },
+        {
+            "id": 41589777,
+            "entrant1Id": 8566068,
+            "entrant2Id": 8560481,
+            "entrant1Name": "Rob jr | blargh257",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8560481,
+            "loserId": 8566068,
+            "winnerName": "Umarth",
+            "loserName": "Rob jr | blargh257",
+            "bracketName": "Bracket",
+            "bracketId": 1602257,
+            "entrant1Players": [
+                {
+                    "playerId": 11126,
+                    "playerTag": "blargh257"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 41589775,
+            "entrant1Id": 8560481,
+            "entrant2Id": 8566068,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Rob jr | blargh257",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8560481,
+            "loserId": 8566068,
+            "winnerName": "Umarth",
+            "loserName": "Rob jr | blargh257",
+            "bracketName": "Bracket",
+            "bracketId": 1602257,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11126,
+                    "playerTag": "blargh257"
+                }
+            ]
+        },
+        {
+            "id": 41589773,
+            "entrant1Id": 8560481,
+            "entrant2Id": 8570738,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "darkwizard123",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8560481,
+            "loserId": 8570738,
+            "winnerName": "Umarth",
+            "loserName": "darkwizard123",
+            "bracketName": "Bracket",
+            "bracketId": 1602257,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22848,
+                    "playerTag": "darkwizard123"
+                }
+            ]
+        },
+        {
+            "id": 41589769,
+            "entrant1Id": 8560481,
+            "entrant2Id": 8563332,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "bliutwo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8560481,
+            "loserId": 8563332,
+            "winnerName": "Umarth",
+            "loserName": "bliutwo",
+            "bracketName": "Bracket",
+            "bracketId": 1602257,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19951,
+                    "playerTag": "bliutwo"
+                }
+            ]
+        },
+        {
+            "id": 40673156,
+            "entrant1Id": 8241852,
+            "entrant2Id": 8316161,
+            "entrant1Name": "KB#795 | Kevbot",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8241852,
+            "loserId": 8316161,
+            "winnerName": "KB#795 | Kevbot",
+            "loserName": "Umarth",
+            "bracketName": "Bracket",
+            "bracketId": 1564844,
+            "entrant1Players": [
+                {
+                    "playerId": 12293,
+                    "playerTag": "Kevbot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 40673155,
+            "entrant1Id": 8241852,
+            "entrant2Id": 8316161,
+            "entrant1Name": "KB#795 | Kevbot",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8241852,
+            "loserId": 8316161,
+            "winnerName": "KB#795 | Kevbot",
+            "loserName": "Umarth",
+            "bracketName": "Bracket",
+            "bracketId": 1564844,
+            "entrant1Players": [
+                {
+                    "playerId": 12293,
+                    "playerTag": "Kevbot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 40673219,
+            "entrant1Id": 8316161,
+            "entrant2Id": 8316500,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Arcadia",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8316161,
+            "loserId": 8316500,
+            "winnerName": "Umarth",
+            "loserName": "Arcadia",
+            "bracketName": "Bracket",
+            "bracketId": 1564844,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3772,
+                    "playerTag": "Arcadia"
+                }
+            ]
+        },
+        {
+            "id": 40673154,
+            "entrant1Id": 8316161,
+            "entrant2Id": 8315013,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Nathan",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8316161,
+            "loserId": 8315013,
+            "winnerName": "Umarth",
+            "loserName": "Nathan",
+            "bracketName": "Bracket",
+            "bracketId": 1564844,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4176,
+                    "playerTag": "Nathan"
+                }
+            ]
+        },
+        {
+            "id": 40673151,
+            "entrant1Id": 8316161,
+            "entrant2Id": 8292061,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "TCM | MrG",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8316161,
+            "loserId": 8292061,
+            "winnerName": "Umarth",
+            "loserName": "TCM | MrG",
+            "bracketName": "Bracket",
+            "bracketId": 1564844,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1086597,
+                    "playerTag": "MrG"
+                }
+            ]
+        },
+        {
+            "id": 40673145,
+            "entrant1Id": 8316161,
+            "entrant2Id": 8319275,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "SquidTheCat",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8316161,
+            "loserId": 8319275,
+            "winnerName": "Umarth",
+            "loserName": "SquidTheCat",
+            "bracketName": "Bracket",
+            "bracketId": 1564844,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 269511,
+                    "playerTag": "SquidTheCat"
+                }
+            ]
+        },
+        {
+            "id": 40111957,
+            "entrant1Id": 8161393,
+            "entrant2Id": 8134389,
+            "entrant1Name": "Rocky",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8161393,
+            "loserId": 8134389,
+            "winnerName": "Rocky",
+            "loserName": "Umarth",
+            "bracketName": "Bracket",
+            "bracketId": 1551824,
+            "entrant1Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 40111956,
+            "entrant1Id": 8161393,
+            "entrant2Id": 8134389,
+            "entrant1Name": "Rocky",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8161393,
+            "loserId": 8134389,
+            "winnerName": "Rocky",
+            "loserName": "Umarth",
+            "bracketName": "Bracket",
+            "bracketId": 1551824,
+            "entrant1Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 40112084,
+            "entrant1Id": 8134389,
+            "entrant2Id": 8099212,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "blargh257",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8134389,
+            "loserId": 8099212,
+            "winnerName": "Umarth",
+            "loserName": "blargh257",
+            "bracketName": "Bracket",
+            "bracketId": 1551824,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11126,
+                    "playerTag": "blargh257"
+                }
+            ]
+        },
+        {
+            "id": 40111955,
+            "entrant1Id": 8134389,
+            "entrant2Id": 8167991,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Snap",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8134389,
+            "loserId": 8167991,
+            "winnerName": "Umarth",
+            "loserName": "Snap",
+            "bracketName": "Bracket",
+            "bracketId": 1551824,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3377,
+                    "playerTag": "Snap"
+                }
+            ]
+        },
+        {
+            "id": 40111952,
+            "entrant1Id": 8134389,
+            "entrant2Id": 8127033,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Theftz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8134389,
+            "loserId": 8127033,
+            "winnerName": "Umarth",
+            "loserName": "Theftz",
+            "bracketName": "Bracket",
+            "bracketId": 1551824,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4864,
+                    "playerTag": "Theftz"
+                }
+            ]
+        },
+        {
+            "id": 40111946,
+            "entrant1Id": 8134389,
+            "entrant2Id": 8169321,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "LanTurN",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8134389,
+            "loserId": 8169321,
+            "winnerName": "Umarth",
+            "loserName": "LanTurN",
+            "bracketName": "Bracket",
+            "bracketId": 1551824,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 329937,
+                    "playerTag": "LanTurN"
+                }
+            ]
+        },
+        {
+            "id": 40111934,
+            "entrant1Id": 8134389,
+            "entrant2Id": 8151670,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "SixFifty | Mare Branza",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8134389,
+            "loserId": 8151670,
+            "winnerName": "Umarth",
+            "loserName": "SixFifty | Mare Branza",
+            "bracketName": "Bracket",
+            "bracketId": 1551824,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2063879,
+                    "playerTag": "Mare Branza"
+                }
+            ]
+        },
+        {
+            "id": 38972276,
+            "entrant1Id": 7701903,
+            "entrant2Id": 7875374,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "KB#795 | Kevbot",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7875374,
+            "loserId": 7701903,
+            "winnerName": "KB#795 | Kevbot",
+            "loserName": "Umarth",
+            "bracketName": "Bracket",
+            "bracketId": 1518101,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12293,
+                    "playerTag": "Kevbot"
+                }
+            ]
+        },
+        {
+            "id": 38972277,
+            "entrant1Id": 7875374,
+            "entrant2Id": 7701903,
+            "entrant1Name": "KB#795 | Kevbot",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7875374,
+            "loserId": 7701903,
+            "winnerName": "KB#795 | Kevbot",
+            "loserName": "Umarth",
+            "bracketName": "Bracket",
+            "bracketId": 1518101,
+            "entrant1Players": [
+                {
+                    "playerId": 12293,
+                    "playerTag": "Kevbot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 38972275,
+            "entrant1Id": 7701903,
+            "entrant2Id": 7875374,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "KB#795 | Kevbot",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7701903,
+            "loserId": 7875374,
+            "winnerName": "Umarth",
+            "loserName": "KB#795 | Kevbot",
+            "bracketName": "Bracket",
+            "bracketId": 1518101,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12293,
+                    "playerTag": "Kevbot"
+                }
+            ]
+        },
+        {
+            "id": 38972273,
+            "entrant1Id": 7701903,
+            "entrant2Id": 7885003,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Depp",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7701903,
+            "loserId": 7885003,
+            "winnerName": "Umarth",
+            "loserName": "Depp",
+            "bracketName": "Bracket",
+            "bracketId": 1518101,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27284,
+                    "playerTag": "Depp"
+                }
+            ]
+        },
+        {
+            "id": 38972269,
+            "entrant1Id": 7701903,
+            "entrant2Id": 7561717,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "blargh257",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7701903,
+            "loserId": 7561717,
+            "winnerName": "Umarth",
+            "loserName": "blargh257",
+            "bracketName": "Bracket",
+            "bracketId": 1518101,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11126,
+                    "playerTag": "blargh257"
+                }
+            ]
+        },
+        {
+            "id": 38972261,
+            "entrant1Id": 7701903,
+            "entrant2Id": 7890097,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "UCD | YaoiMaster69",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7701903,
+            "loserId": 7890097,
+            "winnerName": "Umarth",
+            "loserName": "UCD | YaoiMaster69",
+            "bracketName": "Bracket",
+            "bracketId": 1518101,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4148,
+                    "playerTag": "YaoiMaster69"
+                }
+            ]
+        },
+        {
+            "id": 38972245,
+            "entrant1Id": 7701903,
+            "entrant2Id": 7860334,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "SLO | GrizzlyBair",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7701903,
+            "loserId": 7860334,
+            "winnerName": "Umarth",
+            "loserName": "SLO | GrizzlyBair",
+            "bracketName": "Bracket",
+            "bracketId": 1518101,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 858866,
+                    "playerTag": "GrizzlyBair"
+                }
+            ]
+        },
+        {
+            "id": 36220413,
+            "entrant1Id": 7075372,
+            "entrant2Id": 7075988,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "EP | Justus",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7075372,
+            "loserId": 7075988,
+            "winnerName": "Umarth",
+            "loserName": "EP | Justus",
+            "bracketName": "Bracket",
+            "bracketId": 1472334,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ]
+        },
+        {
+            "id": 36220412,
+            "entrant1Id": 7075372,
+            "entrant2Id": 7076252,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "PW | Vincessant",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7075372,
+            "loserId": 7076252,
+            "winnerName": "Umarth",
+            "loserName": "PW | Vincessant",
+            "bracketName": "Bracket",
+            "bracketId": 1472334,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12365,
+                    "playerTag": "Vincessant"
+                }
+            ]
+        },
+        {
+            "id": 36220410,
+            "entrant1Id": 7075372,
+            "entrant2Id": 7073470,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "LanTurN",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7075372,
+            "loserId": 7073470,
+            "winnerName": "Umarth",
+            "loserName": "LanTurN",
+            "bracketName": "Bracket",
+            "bracketId": 1472334,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 329937,
+                    "playerTag": "LanTurN"
+                }
+            ]
+        },
+        {
+            "id": 36220406,
+            "entrant1Id": 7075372,
+            "entrant2Id": 7071876,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "RSC | Omar",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7075372,
+            "loserId": 7071876,
+            "winnerName": "Umarth",
+            "loserName": "RSC | Omar",
+            "bracketName": "Bracket",
+            "bracketId": 1472334,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 272474,
+                    "playerTag": "Omar"
+                }
+            ]
+        },
+        {
+            "id": 36220398,
+            "entrant1Id": 7075372,
+            "entrant2Id": 7076114,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "CVSmashMods | Ripn",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7075372,
+            "loserId": 7076114,
+            "winnerName": "Umarth",
+            "loserName": "CVSmashMods | Ripn",
+            "bracketName": "Bracket",
+            "bracketId": 1472334,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 735376,
+                    "playerTag": "Ripn"
+                }
+            ]
+        },
+        {
+            "id": 36220382,
+            "entrant1Id": 7075372,
+            "entrant2Id": 7073570,
+            "entrant1Name": "Umarth",
+            "entrant2Name": "Trevor",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7075372,
+            "loserId": 7073570,
+            "winnerName": "Umarth",
+            "loserName": "Trevor",
+            "bracketName": "Bracket",
+            "bracketId": 1472334,
+            "entrant1Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1956110,
+                    "playerTag": "Trevor"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "justus",
+        "bobby big ballz",
+        "noot",
+        "typhoon",
+        "mekk",
+        "justus"
+    ],
+    "L": [
+        "lucky",
+        "eddy mexico",
+        "fizzwiggle",
+        "slug",
+        "hungrybox",
+        "blues clues",
+        "fatgoku",
+        "bbatts",
+        "typhoon",
+        "bobby big ballz",
+        "s2j",
+        "Logos",
+        "Rocket",
+        "noot",
+        "Jet",
+        "Dova",
+        "CPU0",
+        "medz",
+        "haunter",
+        "smashdaddy",
+        "pappi",
+        "franz",
+        "AJ",
+        "Darkatma",
+        "Darkatma",
+        "azel",
+        "Kevbot",
+        "blargh257",
+        "Kevbot",
+        "Kevbot",
+        "rocky",
+        "rocky",
+        "Kevbot",
+        "Kevbot"
+    ]
+}

@@ -1,0 +1,2685 @@
+{
+    "Events": [
+        "584741",
+        "567088",
+        "563500",
+        "563503",
+        "612958",
+        "607976",
+        "605865",
+        "647123",
+        "665553",
+        "659602",
+        "656853",
+        "654001",
+        "621470",
+        "609579",
+        "607067",
+        "589637",
+        "569713",
+        "556502"
+    ],
+    "Sets": [
+        {
+            "id": 42355471,
+            "entrant1Id": 8429534,
+            "entrant2Id": 8350585,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Tips",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8429534,
+            "loserId": 8350585,
+            "winnerName": "119 | Wevans",
+            "loserName": "Tips",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603580,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 156234,
+                    "playerTag": "Tips"
+                }
+            ]
+        },
+        {
+            "id": 42360301,
+            "entrant1Id": 8489728,
+            "entrant2Id": 8429534,
+            "entrant1Name": "Envy | Wizzrobe",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8489728,
+            "loserId": 8429534,
+            "winnerName": "Envy | Wizzrobe",
+            "loserName": "119 | Wevans",
+            "bracketName": "Round 2 Pools",
+            "bracketId": 1620258,
+            "entrant1Players": [
+                {
+                    "playerId": 1028,
+                    "playerTag": "Wizzrobe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 42360365,
+            "entrant1Id": 8429534,
+            "entrant2Id": 7576500,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Violence",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8429534,
+            "loserId": 7576500,
+            "winnerName": "119 | Wevans",
+            "loserName": "Violence",
+            "bracketName": "Round 2 Pools",
+            "bracketId": 1620258,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 18711,
+                    "playerTag": "Violence"
+                }
+            ]
+        },
+        {
+            "id": 42361095,
+            "entrant1Id": 8429534,
+            "entrant2Id": 7569301,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "SD | Android 0",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7569301,
+            "loserId": 8429534,
+            "winnerName": "SD | Android 0",
+            "loserName": "119 | Wevans",
+            "bracketName": "Top 64",
+            "bracketId": 1603576,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ]
+        },
+        {
+            "id": 36563146,
+            "entrant1Id": 7162241,
+            "entrant2Id": 7162778,
+            "entrant1Name": "Jamrun",
+            "entrant2Name": "Wevans",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7162241,
+            "loserId": 7162778,
+            "winnerName": "Jamrun",
+            "loserName": "Wevans",
+            "bracketName": "Bracket",
+            "bracketId": 1478117,
+            "entrant1Players": [
+                {
+                    "playerId": 5436,
+                    "playerTag": "Jamrun"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 36563144,
+            "entrant1Id": 7162778,
+            "entrant2Id": 7161483,
+            "entrant1Name": "Wevans",
+            "entrant2Name": "MvGG | C-bass",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7162778,
+            "loserId": 7161483,
+            "winnerName": "Wevans",
+            "loserName": "MvGG | C-bass",
+            "bracketName": "Bracket",
+            "bracketId": 1478117,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 698640,
+                    "playerTag": "C-bass"
+                }
+            ]
+        },
+        {
+            "id": 36563139,
+            "entrant1Id": 7162778,
+            "entrant2Id": 7162752,
+            "entrant1Name": "Wevans",
+            "entrant2Name": "Meyer",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7162778,
+            "loserId": 7162752,
+            "winnerName": "Wevans",
+            "loserName": "Meyer",
+            "bracketName": "Bracket",
+            "bracketId": 1478117,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1724840,
+                    "playerTag": "Meyer"
+                }
+            ]
+        },
+        {
+            "id": 36566043,
+            "entrant1Id": 7161334,
+            "entrant2Id": 7162778,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "Wevans",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7161334,
+            "loserId": 7162778,
+            "winnerName": "CG | Jflex",
+            "loserName": "Wevans",
+            "bracketName": "Top 24",
+            "bracketId": 1478121,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 36566039,
+            "entrant1Id": 7162778,
+            "entrant2Id": 7162325,
+            "entrant1Name": "Wevans",
+            "entrant2Name": "K8A",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7162778,
+            "loserId": 7162325,
+            "winnerName": "Wevans",
+            "loserName": "K8A",
+            "bracketName": "Top 24",
+            "bracketId": 1478121,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12048,
+                    "playerTag": "K8A"
+                }
+            ]
+        },
+        {
+            "id": 36566034,
+            "entrant1Id": 7162778,
+            "entrant2Id": 7159878,
+            "entrant1Name": "Wevans",
+            "entrant2Name": "Inky",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7162778,
+            "loserId": 7159878,
+            "winnerName": "Wevans",
+            "loserName": "Inky",
+            "bracketName": "Top 24",
+            "bracketId": 1478121,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151360,
+                    "playerTag": "Inky"
+                }
+            ]
+        },
+        {
+            "id": 36595122,
+            "entrant1Id": 7157318,
+            "entrant2Id": 7127896,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "Wevans",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7157318,
+            "loserId": 7127896,
+            "winnerName": "TG | Mot$",
+            "loserName": "Wevans",
+            "bracketName": "Bracket pools",
+            "bracketId": 1478708,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 36595190,
+            "entrant1Id": 7127896,
+            "entrant2Id": 7162135,
+            "entrant1Name": "Wevans",
+            "entrant2Name": "genji_g0d",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7127896,
+            "loserId": 7162135,
+            "winnerName": "Wevans",
+            "loserName": "genji_g0d",
+            "bracketName": "Bracket pools",
+            "bracketId": 1478708,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2215769,
+                    "playerTag": "genji_g0d"
+                }
+            ]
+        },
+        {
+            "id": 36595115,
+            "entrant1Id": 7127896,
+            "entrant2Id": 7164558,
+            "entrant1Name": "Wevans",
+            "entrant2Name": "McIntyre",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7127896,
+            "loserId": 7164558,
+            "winnerName": "Wevans",
+            "loserName": "McIntyre",
+            "bracketName": "Bracket pools",
+            "bracketId": 1478708,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1335864,
+                    "playerTag": "audrey"
+                }
+            ]
+        },
+        {
+            "id": 36603116,
+            "entrant1Id": 7168232,
+            "entrant2Id": 7168174,
+            "entrant1Name": "Wevans",
+            "entrant2Name": "Drephen",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7168174,
+            "loserId": 7168232,
+            "winnerName": "Drephen",
+            "loserName": "Wevans",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1471055,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6839,
+                    "playerTag": "Drephen"
+                }
+            ]
+        },
+        {
+            "id": 36603102,
+            "entrant1Id": 7168666,
+            "entrant2Id": 7168232,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Wevans",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7168232,
+            "loserId": 7168666,
+            "winnerName": "Wevans",
+            "loserName": "bobby big ballz",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1471055,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 36603086,
+            "entrant1Id": 7168544,
+            "entrant2Id": 7168232,
+            "entrant1Name": "Sparg0",
+            "entrant2Name": "Wevans",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7168232,
+            "loserId": 7168544,
+            "winnerName": "Wevans",
+            "loserName": "Sparg0",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1471055,
+            "entrant1Players": [
+                {
+                    "playerId": 158026,
+                    "playerTag": "Sparg0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 40013554,
+            "entrant1Id": 8161537,
+            "entrant2Id": 8161249,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "TPN",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8161537,
+            "loserId": 8161249,
+            "winnerName": "119 | Wevans",
+            "loserName": "TPN",
+            "bracketName": "Bracket",
+            "bracketId": 1561525,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 150123,
+                    "playerTag": "TPN"
+                }
+            ]
+        },
+        {
+            "id": 40013550,
+            "entrant1Id": 8161537,
+            "entrant2Id": 8160847,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Clint Stevens | BlueKnight",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8161537,
+            "loserId": 8160847,
+            "winnerName": "119 | Wevans",
+            "loserName": "Clint Stevens | BlueKnight",
+            "bracketName": "Bracket",
+            "bracketId": 1561525,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 126225,
+                    "playerTag": "BlueKnight"
+                }
+            ]
+        },
+        {
+            "id": 40013542,
+            "entrant1Id": 8161537,
+            "entrant2Id": 8161212,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "phillyhoops",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8161537,
+            "loserId": 8161212,
+            "winnerName": "119 | Wevans",
+            "loserName": "phillyhoops",
+            "bracketName": "Bracket",
+            "bracketId": 1561525,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1482652,
+                    "playerTag": "phillyhoops"
+                }
+            ]
+        },
+        {
+            "id": 40023881,
+            "entrant1Id": 8161537,
+            "entrant2Id": 8160704,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Grab",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8160704,
+            "loserId": 8161537,
+            "winnerName": "Grab",
+            "loserName": "119 | Wevans",
+            "bracketName": "Top 24",
+            "bracketId": 1561526,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 244116,
+                    "playerTag": "Grab"
+                }
+            ]
+        },
+        {
+            "id": 40023941,
+            "entrant1Id": 8161537,
+            "entrant2Id": 8161090,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Khryke",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8161090,
+            "loserId": 8161537,
+            "winnerName": "Khryke",
+            "loserName": "119 | Wevans",
+            "bracketName": "Top 24",
+            "bracketId": 1561526,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279107,
+                    "playerTag": "Khryke"
+                }
+            ]
+        },
+        {
+            "id": 39633689,
+            "entrant1Id": 8066306,
+            "entrant2Id": 8066774,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "PurpleZ",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8066306,
+            "loserId": 8066774,
+            "winnerName": "119 | Wevans",
+            "loserName": "PurpleZ",
+            "bracketName": "Bracket",
+            "bracketId": 1552922,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 657711,
+                    "playerTag": "Nanami (aka PurpleZ)"
+                }
+            ]
+        },
+        {
+            "id": 39633685,
+            "entrant1Id": 8066306,
+            "entrant2Id": 8066696,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "ericiscool.net",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8066306,
+            "loserId": 8066696,
+            "winnerName": "119 | Wevans",
+            "loserName": "ericiscool.net",
+            "bracketName": "Bracket",
+            "bracketId": 1552922,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 255496,
+                    "playerTag": "ericiscool.net"
+                }
+            ]
+        },
+        {
+            "id": 39641945,
+            "entrant1Id": 8064884,
+            "entrant2Id": 8066306,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8064884,
+            "loserId": 8066306,
+            "winnerName": "NoFluxes",
+            "loserName": "119 | Wevans",
+            "bracketName": "Top 24",
+            "bracketId": 1552925,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 39641944,
+            "entrant1Id": 8066306,
+            "entrant2Id": 8065968,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Pepis | Pokimanefan",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8066306,
+            "loserId": 8065968,
+            "winnerName": "119 | Wevans",
+            "loserName": "Pepis | Pokimanefan",
+            "bracketName": "Top 24",
+            "bracketId": 1552925,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 266332,
+                    "playerTag": "William"
+                }
+            ]
+        },
+        {
+            "id": 39633677,
+            "entrant1Id": 8066306,
+            "entrant2Id": 8067038,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "OGAUSTIN",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8066306,
+            "loserId": 8067038,
+            "winnerName": "119 | Wevans",
+            "loserName": "OGAUSTIN",
+            "bracketName": "Bracket",
+            "bracketId": 1552922,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2387427,
+                    "playerTag": "AJ Soprano"
+                }
+            ]
+        },
+        {
+            "id": 39641880,
+            "entrant1Id": 8066306,
+            "entrant2Id": 8064884,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8064884,
+            "loserId": 8066306,
+            "winnerName": "NoFluxes",
+            "loserName": "119 | Wevans",
+            "bracketName": "Top 24",
+            "bracketId": 1552925,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 39641942,
+            "entrant1Id": 8066306,
+            "entrant2Id": 8065069,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8066306,
+            "loserId": 8065069,
+            "winnerName": "119 | Wevans",
+            "loserName": "bobby big ballz",
+            "bracketName": "Top 24",
+            "bracketId": 1552925,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 39641877,
+            "entrant1Id": 8066306,
+            "entrant2Id": 8066830,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "RustyPan",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8066306,
+            "loserId": 8066830,
+            "winnerName": "119 | Wevans",
+            "loserName": "RustyPan",
+            "bracketName": "Top 24",
+            "bracketId": 1552925,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2129231,
+                    "playerTag": "RustyPan"
+                }
+            ]
+        },
+        {
+            "id": 39594878,
+            "entrant1Id": 8057419,
+            "entrant2Id": 8058569,
+            "entrant1Name": "Mekk",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8057419,
+            "loserId": 8058569,
+            "winnerName": "Mekk",
+            "loserName": "119 | Wevans",
+            "bracketName": "Bracket",
+            "bracketId": 1552805,
+            "entrant1Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 39594876,
+            "entrant1Id": 8058569,
+            "entrant2Id": 8058259,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Crow",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8058569,
+            "loserId": 8058259,
+            "winnerName": "119 | Wevans",
+            "loserName": "Crow",
+            "bracketName": "Bracket",
+            "bracketId": 1552805,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 32190,
+                    "playerTag": "Crow"
+                }
+            ]
+        },
+        {
+            "id": 39594871,
+            "entrant1Id": 8058569,
+            "entrant2Id": 8056845,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Blitzcread",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8058569,
+            "loserId": 8056845,
+            "winnerName": "119 | Wevans",
+            "loserName": "Blitzcread",
+            "bracketName": "Bracket",
+            "bracketId": 1552805,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2169990,
+                    "playerTag": "Blitzcread"
+                }
+            ]
+        },
+        {
+            "id": 39603720,
+            "entrant1Id": 8058569,
+            "entrant2Id": 8058338,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Epoodle",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8058338,
+            "loserId": 8058569,
+            "winnerName": "Epoodle",
+            "loserName": "119 | Wevans",
+            "bracketName": "Top 24",
+            "bracketId": 1549448,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1375808,
+                    "playerTag": "Epoodle"
+                }
+            ]
+        },
+        {
+            "id": 39603713,
+            "entrant1Id": 8058569,
+            "entrant2Id": 8058530,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Paige",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8058569,
+            "loserId": 8058530,
+            "winnerName": "119 | Wevans",
+            "loserName": "Paige",
+            "bracketName": "Top 24",
+            "bracketId": 1549448,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 25749,
+                    "playerTag": "Paige"
+                }
+            ]
+        },
+        {
+            "id": 42406689,
+            "entrant1Id": 8756337,
+            "entrant2Id": 8762522,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "CG | Smashdaddy",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8762522,
+            "loserId": 8756337,
+            "winnerName": "CG | Smashdaddy",
+            "loserName": "119 | Wevans",
+            "bracketName": "Bracket",
+            "bracketId": 1622145,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36403,
+                    "playerTag": "Smashdaddy"
+                }
+            ]
+        },
+        {
+            "id": 42406687,
+            "entrant1Id": 8763020,
+            "entrant2Id": 8756337,
+            "entrant1Name": "nut",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8756337,
+            "loserId": 8763020,
+            "winnerName": "119 | Wevans",
+            "loserName": "nut",
+            "bracketName": "Bracket",
+            "bracketId": 1622145,
+            "entrant1Players": [
+                {
+                    "playerId": 13499,
+                    "playerTag": "nut"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 42406685,
+            "entrant1Id": 8755674,
+            "entrant2Id": 8756337,
+            "entrant1Name": "Casper",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8756337,
+            "loserId": 8755674,
+            "winnerName": "119 | Wevans",
+            "loserName": "Casper",
+            "bracketName": "Bracket",
+            "bracketId": 1622145,
+            "entrant1Players": [
+                {
+                    "playerId": 144268,
+                    "playerTag": "Casper"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 42406559,
+            "entrant1Id": 8762388,
+            "entrant2Id": 8756337,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8762388,
+            "loserId": 8756337,
+            "winnerName": "CG | Jflex",
+            "loserName": "119 | Wevans",
+            "bracketName": "Bracket",
+            "bracketId": 1622145,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 42406682,
+            "entrant1Id": 8756337,
+            "entrant2Id": 8759705,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "LG | Rawk",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8756337,
+            "loserId": 8759705,
+            "winnerName": "119 | Wevans",
+            "loserName": "LG | Rawk",
+            "bracketName": "Bracket",
+            "bracketId": 1622145,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23260,
+                    "playerTag": "Rawk"
+                }
+            ]
+        },
+        {
+            "id": 42406555,
+            "entrant1Id": 8756337,
+            "entrant2Id": 8758846,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "maxi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8756337,
+            "loserId": 8758846,
+            "winnerName": "119 | Wevans",
+            "loserName": "maxi",
+            "bracketName": "Bracket",
+            "bracketId": 1622145,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 322324,
+                    "playerTag": "maxi"
+                }
+            ]
+        },
+        {
+            "id": 42406546,
+            "entrant1Id": 8756337,
+            "entrant2Id": 8763076,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "WhatsWithHumans",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8756337,
+            "loserId": 8763076,
+            "winnerName": "119 | Wevans",
+            "loserName": "WhatsWithHumans",
+            "bracketName": "Bracket",
+            "bracketId": 1622145,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 823087,
+                    "playerTag": "WhatsWithHumans"
+                }
+            ]
+        },
+        {
+            "id": 43524893,
+            "entrant1Id": 9040111,
+            "entrant2Id": 9044611,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Nojump",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 9044611,
+            "loserId": 9040111,
+            "winnerName": "Nojump",
+            "loserName": "119 | Wevans",
+            "bracketName": "Bracket",
+            "bracketId": 1654094,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21556,
+                    "playerTag": "Nojump"
+                }
+            ]
+        },
+        {
+            "id": 43524894,
+            "entrant1Id": 9044611,
+            "entrant2Id": 9040111,
+            "entrant1Name": "Nojump",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 9040111,
+            "loserId": 9044611,
+            "winnerName": "119 | Wevans",
+            "loserName": "Nojump",
+            "bracketName": "Bracket",
+            "bracketId": 1654094,
+            "entrant1Players": [
+                {
+                    "playerId": 21556,
+                    "playerTag": "Nojump"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 43524892,
+            "entrant1Id": 9040111,
+            "entrant2Id": 9044611,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Nojump",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 9040111,
+            "loserId": 9044611,
+            "winnerName": "119 | Wevans",
+            "loserName": "Nojump",
+            "bracketName": "Bracket",
+            "bracketId": 1654094,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21556,
+                    "playerTag": "Nojump"
+                }
+            ]
+        },
+        {
+            "id": 43524890,
+            "entrant1Id": 9040111,
+            "entrant2Id": 9042236,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "119 Kavakaze | Sy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 9040111,
+            "loserId": 9042236,
+            "winnerName": "119 | Wevans",
+            "loserName": "119 Kavakaze | Sy",
+            "bracketName": "Bracket",
+            "bracketId": 1654094,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 886893,
+                    "playerTag": "Sy"
+                }
+            ]
+        },
+        {
+            "id": 43524886,
+            "entrant1Id": 9040111,
+            "entrant2Id": 9045048,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Yes!",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 9040111,
+            "loserId": 9045048,
+            "winnerName": "119 | Wevans",
+            "loserName": "Yes!",
+            "bracketName": "Bracket",
+            "bracketId": 1654094,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15788,
+                    "playerTag": "Yes!"
+                }
+            ]
+        },
+        {
+            "id": 43164238,
+            "entrant1Id": 8948463,
+            "entrant2Id": 8944445,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "TNC | Stone",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8948463,
+            "loserId": 8944445,
+            "winnerName": "119 | Wevans",
+            "loserName": "TNC | Stone",
+            "bracketName": "Bracket",
+            "bracketId": 1644422,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54316,
+                    "playerTag": "Stone"
+                }
+            ]
+        },
+        {
+            "id": 43164237,
+            "entrant1Id": 8948463,
+            "entrant2Id": 8944445,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "TNC | Stone",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8948463,
+            "loserId": 8944445,
+            "winnerName": "119 | Wevans",
+            "loserName": "TNC | Stone",
+            "bracketName": "Bracket",
+            "bracketId": 1644422,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54316,
+                    "playerTag": "Stone"
+                }
+            ]
+        },
+        {
+            "id": 43164235,
+            "entrant1Id": 8948463,
+            "entrant2Id": 8945694,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Boalisk",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8948463,
+            "loserId": 8945694,
+            "winnerName": "119 | Wevans",
+            "loserName": "Boalisk",
+            "bracketName": "Bracket",
+            "bracketId": 1644422,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2139952,
+                    "playerTag": "Boalisk"
+                }
+            ]
+        },
+        {
+            "id": 43164231,
+            "entrant1Id": 8948463,
+            "entrant2Id": 8950005,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Destinite",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8948463,
+            "loserId": 8950005,
+            "winnerName": "119 | Wevans",
+            "loserName": "Destinite",
+            "bracketName": "Bracket",
+            "bracketId": 1644422,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54638,
+                    "playerTag": "Destinite"
+                }
+            ]
+        },
+        {
+            "id": 42982600,
+            "entrant1Id": 8903544,
+            "entrant2Id": 8899340,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "TNC | Stone",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8903544,
+            "loserId": 8899340,
+            "winnerName": "119 | Wevans",
+            "loserName": "TNC | Stone",
+            "bracketName": "Bracket",
+            "bracketId": 1639602,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54316,
+                    "playerTag": "Stone"
+                }
+            ]
+        },
+        {
+            "id": 42982599,
+            "entrant1Id": 8903544,
+            "entrant2Id": 8899340,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "TNC | Stone",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8903544,
+            "loserId": 8899340,
+            "winnerName": "119 | Wevans",
+            "loserName": "TNC | Stone",
+            "bracketName": "Bracket",
+            "bracketId": 1639602,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54316,
+                    "playerTag": "Stone"
+                }
+            ]
+        },
+        {
+            "id": 42982597,
+            "entrant1Id": 8903544,
+            "entrant2Id": 8899392,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Boalisk",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8903544,
+            "loserId": 8899392,
+            "winnerName": "119 | Wevans",
+            "loserName": "Boalisk",
+            "bracketName": "Bracket",
+            "bracketId": 1639602,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2139952,
+                    "playerTag": "Boalisk"
+                }
+            ]
+        },
+        {
+            "id": 42982593,
+            "entrant1Id": 8903544,
+            "entrant2Id": 8902673,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Yes!",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8903544,
+            "loserId": 8902673,
+            "winnerName": "119 | Wevans",
+            "loserName": "Yes!",
+            "bracketName": "Bracket",
+            "bracketId": 1639602,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15788,
+                    "playerTag": "Yes!"
+                }
+            ]
+        },
+        {
+            "id": 42779401,
+            "entrant1Id": 8855295,
+            "entrant2Id": 8851720,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "TNC | Stone",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8855295,
+            "loserId": 8851720,
+            "winnerName": "119 | Wevans",
+            "loserName": "TNC | Stone",
+            "bracketName": "Bracket",
+            "bracketId": 1634373,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54316,
+                    "playerTag": "Stone"
+                }
+            ]
+        },
+        {
+            "id": 42779400,
+            "entrant1Id": 8855295,
+            "entrant2Id": 8851720,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "TNC | Stone",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8855295,
+            "loserId": 8851720,
+            "winnerName": "119 | Wevans",
+            "loserName": "TNC | Stone",
+            "bracketName": "Bracket",
+            "bracketId": 1634373,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54316,
+                    "playerTag": "Stone"
+                }
+            ]
+        },
+        {
+            "id": 42779398,
+            "entrant1Id": 8855295,
+            "entrant2Id": 8857818,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "119 Kavakaze | Sy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8855295,
+            "loserId": 8857818,
+            "winnerName": "119 | Wevans",
+            "loserName": "119 Kavakaze | Sy",
+            "bracketName": "Bracket",
+            "bracketId": 1634373,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 886893,
+                    "playerTag": "Sy"
+                }
+            ]
+        },
+        {
+            "id": 42779394,
+            "entrant1Id": 8855295,
+            "entrant2Id": 8858151,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Devin1300",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8855295,
+            "loserId": 8858151,
+            "winnerName": "119 | Wevans",
+            "loserName": "Devin1300",
+            "bracketName": "Bracket",
+            "bracketId": 1634373,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2139949,
+                    "playerTag": "Devin1300"
+                }
+            ]
+        },
+        {
+            "id": 40695548,
+            "entrant1Id": 8333168,
+            "entrant2Id": 8335159,
+            "entrant1Name": "Hamburglar",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8335159,
+            "loserId": 8333168,
+            "winnerName": "119 | Wevans",
+            "loserName": "Hamburglar",
+            "bracketName": "Bracket",
+            "bracketId": 1577382,
+            "entrant1Players": [
+                {
+                    "playerId": 1501041,
+                    "playerTag": "Hamburglar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 40695579,
+            "entrant1Id": 8335161,
+            "entrant2Id": 8335159,
+            "entrant1Name": "Haq",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8335159,
+            "loserId": 8335161,
+            "winnerName": "119 | Wevans",
+            "loserName": "Haq",
+            "bracketName": "Bracket",
+            "bracketId": 1577382,
+            "entrant1Players": [
+                {
+                    "playerId": 2527269,
+                    "playerTag": "Haq"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 40695578,
+            "entrant1Id": 8286977,
+            "entrant2Id": 8335159,
+            "entrant1Name": "TNC | Stone",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8335159,
+            "loserId": 8286977,
+            "winnerName": "119 | Wevans",
+            "loserName": "TNC | Stone",
+            "bracketName": "Bracket",
+            "bracketId": 1577382,
+            "entrant1Players": [
+                {
+                    "playerId": 54316,
+                    "playerTag": "Stone"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 40695577,
+            "entrant1Id": 8334735,
+            "entrant2Id": 8335159,
+            "entrant1Name": "triple g",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8335159,
+            "loserId": 8334735,
+            "winnerName": "119 | Wevans",
+            "loserName": "triple g",
+            "bracketName": "Bracket",
+            "bracketId": 1577382,
+            "entrant1Players": [
+                {
+                    "playerId": 726842,
+                    "playerTag": "triple g"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 40695575,
+            "entrant1Id": 8334998,
+            "entrant2Id": 8335159,
+            "entrant1Name": "MickGCC | Chipotle+",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8335159,
+            "loserId": 8334998,
+            "winnerName": "119 | Wevans",
+            "loserName": "MickGCC | Chipotle+",
+            "bracketName": "Bracket",
+            "bracketId": 1577382,
+            "entrant1Players": [
+                {
+                    "playerId": 11716,
+                    "playerTag": "Chipotle+"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 40695541,
+            "entrant1Id": 8335159,
+            "entrant2Id": 8335161,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Haq",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8335161,
+            "loserId": 8335159,
+            "winnerName": "Haq",
+            "loserName": "119 | Wevans",
+            "bracketName": "Bracket",
+            "bracketId": 1577382,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2527269,
+                    "playerTag": "Haq"
+                }
+            ]
+        },
+        {
+            "id": 40386048,
+            "entrant1Id": 8104826,
+            "entrant2Id": 8237355,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Kero",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8104826,
+            "loserId": 8237355,
+            "winnerName": "119 | Wevans",
+            "loserName": "Kero",
+            "bracketName": "Bracket",
+            "bracketId": 1555691,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 240288,
+                    "playerTag": "Kero"
+                }
+            ]
+        },
+        {
+            "id": 40386047,
+            "entrant1Id": 8104826,
+            "entrant2Id": 8237355,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Kero",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8104826,
+            "loserId": 8237355,
+            "winnerName": "119 | Wevans",
+            "loserName": "Kero",
+            "bracketName": "Bracket",
+            "bracketId": 1555691,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 240288,
+                    "playerTag": "Kero"
+                }
+            ]
+        },
+        {
+            "id": 40386045,
+            "entrant1Id": 8104826,
+            "entrant2Id": 8239403,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Nojump",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8104826,
+            "loserId": 8239403,
+            "winnerName": "119 | Wevans",
+            "loserName": "Nojump",
+            "bracketName": "Bracket",
+            "bracketId": 1555691,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21556,
+                    "playerTag": "Nojump"
+                }
+            ]
+        },
+        {
+            "id": 40386041,
+            "entrant1Id": 8104826,
+            "entrant2Id": 8254006,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "119 Kavakaze | Sy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8104826,
+            "loserId": 8254006,
+            "winnerName": "119 | Wevans",
+            "loserName": "119 Kavakaze | Sy",
+            "bracketName": "Bracket",
+            "bracketId": 1555691,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 886893,
+                    "playerTag": "Sy"
+                }
+            ]
+        },
+        {
+            "id": 40386033,
+            "entrant1Id": 8104826,
+            "entrant2Id": 8199857,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "pigeon",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8104826,
+            "loserId": 8199857,
+            "winnerName": "119 | Wevans",
+            "loserName": "pigeon",
+            "bracketName": "Bracket",
+            "bracketId": 1555691,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1332190,
+                    "playerTag": "pigeon"
+                }
+            ]
+        },
+        {
+            "id": 39771014,
+            "entrant1Id": 8098360,
+            "entrant2Id": 8099724,
+            "entrant1Name": "Epoodle",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8099724,
+            "loserId": 8098360,
+            "winnerName": "119 | Wevans",
+            "loserName": "Epoodle",
+            "bracketName": "Bracket",
+            "bracketId": 1551449,
+            "entrant1Players": [
+                {
+                    "playerId": 1375808,
+                    "playerTag": "Epoodle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 39771010,
+            "entrant1Id": 8099686,
+            "entrant2Id": 8099724,
+            "entrant1Name": "Crow",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8099724,
+            "loserId": 8099686,
+            "winnerName": "119 | Wevans",
+            "loserName": "Crow",
+            "bracketName": "Bracket",
+            "bracketId": 1551449,
+            "entrant1Players": [
+                {
+                    "playerId": 32190,
+                    "playerTag": "Crow"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 39770882,
+            "entrant1Id": 8099724,
+            "entrant2Id": 8098772,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Becca",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8098772,
+            "loserId": 8099724,
+            "winnerName": "Becca",
+            "loserName": "119 | Wevans",
+            "bracketName": "Bracket",
+            "bracketId": 1551449,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2059100,
+                    "playerTag": "Becca"
+                }
+            ]
+        },
+        {
+            "id": 39771006,
+            "entrant1Id": 8099724,
+            "entrant2Id": 8098734,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "ponykisses2008",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8099724,
+            "loserId": 8098734,
+            "winnerName": "119 | Wevans",
+            "loserName": "ponykisses2008",
+            "bracketName": "Bracket",
+            "bracketId": 1551449,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2329215,
+                    "playerTag": "ponykisses2008"
+                }
+            ]
+        },
+        {
+            "id": 39770870,
+            "entrant1Id": 8099724,
+            "entrant2Id": 8099711,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Toasty",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8099724,
+            "loserId": 8099711,
+            "winnerName": "119 | Wevans",
+            "loserName": "Toasty",
+            "bracketName": "Bracket",
+            "bracketId": 1551449,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 156194,
+                    "playerTag": "Toasty"
+                }
+            ]
+        },
+        {
+            "id": 39776040,
+            "entrant1Id": 8099724,
+            "entrant2Id": 8098193,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "NoFluxes",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8098193,
+            "loserId": 8099724,
+            "winnerName": "NoFluxes",
+            "loserName": "119 | Wevans",
+            "bracketName": "Top 8",
+            "bracketId": 1551450,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ]
+        },
+        {
+            "id": 39776038,
+            "entrant1Id": 8098987,
+            "entrant2Id": 8099724,
+            "entrant1Name": "Mad Tyro",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8099724,
+            "loserId": 8098987,
+            "winnerName": "119 | Wevans",
+            "loserName": "Mad Tyro",
+            "bracketName": "Top 8",
+            "bracketId": 1551450,
+            "entrant1Players": [
+                {
+                    "playerId": 392549,
+                    "playerTag": "Mad Tyro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 39776036,
+            "entrant1Id": 8098631,
+            "entrant2Id": 8099724,
+            "entrant1Name": "Joe(y) Bats",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8099724,
+            "loserId": 8098631,
+            "winnerName": "119 | Wevans",
+            "loserName": "Joe(y) Bats",
+            "bracketName": "Top 8",
+            "bracketId": 1551450,
+            "entrant1Players": [
+                {
+                    "playerId": 5869,
+                    "playerTag": "Joe(y) Bats"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 38334796,
+            "entrant1Id": 7608953,
+            "entrant2Id": 7609200,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Milan",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7608953,
+            "loserId": 7609200,
+            "winnerName": "119 | Wevans",
+            "loserName": "Milan",
+            "bracketName": "Pool 1",
+            "bracketId": 1521960,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2139858,
+                    "playerTag": "Milan"
+                }
+            ]
+        },
+        {
+            "id": 38336319,
+            "entrant1Id": 7608520,
+            "entrant2Id": 7608953,
+            "entrant1Name": "MICKGCC | Chipotle+",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7608520,
+            "loserId": 7608953,
+            "winnerName": "MICKGCC | Chipotle+",
+            "loserName": "119 | Wevans",
+            "bracketName": "Top 8",
+            "bracketId": 1521961,
+            "entrant1Players": [
+                {
+                    "playerId": 11716,
+                    "playerTag": "Chipotle+"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 38336318,
+            "entrant1Id": 7607574,
+            "entrant2Id": 7608953,
+            "entrant1Name": "119 | Zab",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7608953,
+            "loserId": 7607574,
+            "winnerName": "119 | Wevans",
+            "loserName": "119 | Zab",
+            "bracketName": "Top 8",
+            "bracketId": 1521961,
+            "entrant1Players": [
+                {
+                    "playerId": 379419,
+                    "playerTag": "Zab"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 38336301,
+            "entrant1Id": 7608953,
+            "entrant2Id": 7608587,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "fukb0xx | Nojump",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7608587,
+            "loserId": 7608953,
+            "winnerName": "fukb0xx | Nojump",
+            "loserName": "119 | Wevans",
+            "bracketName": "Top 8",
+            "bracketId": 1521961,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21556,
+                    "playerTag": "Nojump"
+                }
+            ]
+        },
+        {
+            "id": 38336317,
+            "entrant1Id": 7608953,
+            "entrant2Id": 7609793,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Miranda",
+            "entrant1Score": 4,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7608953,
+            "loserId": 7609793,
+            "winnerName": "119 | Wevans",
+            "loserName": "Miranda",
+            "bracketName": "Top 8",
+            "bracketId": 1521961,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65566,
+                    "playerTag": "Miranda"
+                }
+            ]
+        },
+        {
+            "id": 36713004,
+            "entrant1Id": 7193955,
+            "entrant2Id": 7194965,
+            "entrant1Name": "Sodabro",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7194965,
+            "loserId": 7193955,
+            "winnerName": "119 | Wevans",
+            "loserName": "Sodabro",
+            "bracketName": "Top 8",
+            "bracketId": 1483418,
+            "entrant1Players": [
+                {
+                    "playerId": 637179,
+                    "playerTag": "Sodabro"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 36713005,
+            "entrant1Id": 7194965,
+            "entrant2Id": 7193955,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Sodabro",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7194965,
+            "loserId": 7193955,
+            "winnerName": "119 | Wevans",
+            "loserName": "Sodabro",
+            "bracketName": "Top 8",
+            "bracketId": 1483418,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 637179,
+                    "playerTag": "Sodabro"
+                }
+            ]
+        },
+        {
+            "id": 36713019,
+            "entrant1Id": 7194076,
+            "entrant2Id": 7194965,
+            "entrant1Name": "nope",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7194965,
+            "loserId": 7194076,
+            "winnerName": "119 | Wevans",
+            "loserName": "nope",
+            "bracketName": "Top 8",
+            "bracketId": 1483418,
+            "entrant1Players": [
+                {
+                    "playerId": 240288,
+                    "playerTag": "Kero"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 36713018,
+            "entrant1Id": 7195614,
+            "entrant2Id": 7194965,
+            "entrant1Name": "Chipotle+",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7194965,
+            "loserId": 7195614,
+            "winnerName": "119 | Wevans",
+            "loserName": "Chipotle+",
+            "bracketName": "Top 8",
+            "bracketId": 1483418,
+            "entrant1Players": [
+                {
+                    "playerId": 11716,
+                    "playerTag": "Chipotle+"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 36708931,
+            "entrant1Id": 7194965,
+            "entrant2Id": 7197113,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Rat",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7194965,
+            "loserId": 7197113,
+            "winnerName": "119 | Wevans",
+            "loserName": "Rat",
+            "bracketName": "Pool 1",
+            "bracketId": 1483417,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 53992,
+                    "playerTag": "Rat"
+                }
+            ]
+        },
+        {
+            "id": 36713017,
+            "entrant1Id": 7196781,
+            "entrant2Id": 7194965,
+            "entrant1Name": "Wajet",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7194965,
+            "loserId": 7196781,
+            "winnerName": "119 | Wevans",
+            "loserName": "Wajet",
+            "bracketName": "Top 8",
+            "bracketId": 1483418,
+            "entrant1Players": [
+                {
+                    "playerId": 56082,
+                    "playerTag": "Wajet"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 36713015,
+            "entrant1Id": 7196845,
+            "entrant2Id": 7194965,
+            "entrant1Name": "TNC | Stone",
+            "entrant2Name": "119 | Wevans",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7194965,
+            "loserId": 7196845,
+            "winnerName": "119 | Wevans",
+            "loserName": "TNC | Stone",
+            "bracketName": "Top 8",
+            "bracketId": 1483418,
+            "entrant1Players": [
+                {
+                    "playerId": 54316,
+                    "playerTag": "Stone"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ]
+        },
+        {
+            "id": 35561698,
+            "entrant1Id": 6908680,
+            "entrant2Id": 6906906,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "sinbad",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6908680,
+            "loserId": 6906906,
+            "winnerName": "119 | Wevans",
+            "loserName": "sinbad",
+            "bracketName": "Top 8",
+            "bracketId": 1457262,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13101,
+                    "playerTag": "sinbad"
+                }
+            ]
+        },
+        {
+            "id": 35558242,
+            "entrant1Id": 6908680,
+            "entrant2Id": 6912597,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Miranda",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6908680,
+            "loserId": 6912597,
+            "winnerName": "119 | Wevans",
+            "loserName": "Miranda",
+            "bracketName": "Bracket",
+            "bracketId": 1456368,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65566,
+                    "playerTag": "Miranda"
+                }
+            ]
+        },
+        {
+            "id": 35561697,
+            "entrant1Id": 6908680,
+            "entrant2Id": 6906906,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "sinbad",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6908680,
+            "loserId": 6906906,
+            "winnerName": "119 | Wevans",
+            "loserName": "sinbad",
+            "bracketName": "Top 8",
+            "bracketId": 1457262,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13101,
+                    "playerTag": "sinbad"
+                }
+            ]
+        },
+        {
+            "id": 35558234,
+            "entrant1Id": 6908680,
+            "entrant2Id": 6912773,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "Cookie Squad | Jackiehahah",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6908680,
+            "loserId": 6912773,
+            "winnerName": "119 | Wevans",
+            "loserName": "Cookie Squad | Jackiehahah",
+            "bracketName": "Bracket",
+            "bracketId": 1456368,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2187235,
+                    "playerTag": "Jackie_FL"
+                }
+            ]
+        },
+        {
+            "id": 35561695,
+            "entrant1Id": 6908680,
+            "entrant2Id": 6904337,
+            "entrant1Name": "119 | Wevans",
+            "entrant2Name": "JoyShtick | nope",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6908680,
+            "loserId": 6904337,
+            "winnerName": "119 | Wevans",
+            "loserName": "JoyShtick | nope",
+            "bracketName": "Top 8",
+            "bracketId": 1457262,
+            "entrant1Players": [
+                {
+                    "playerId": 175368,
+                    "playerTag": "Wevans"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 240288,
+                    "playerTag": "Kero"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "k8a",
+        "bobby big ballz",
+        "bobby big ballz",
+        "nut",
+        "casper"
+    ],
+    "L": [
+        "wizzrobe",
+        "android 0",
+        "Jamrun",
+        "jflex",
+        "mot$",
+        "drephen",
+        "grab",
+        "khryke",
+        "nofluxes",
+        "nofluxes",
+        "mekk",
+        "Epoodle",
+        "smashdaddy",
+        "jflex",
+        "Nojump",
+        "Haq",
+        "Becca",
+        "nofluxes",
+        "Chipotle+",
+        "Nojump"
+    ]
+}

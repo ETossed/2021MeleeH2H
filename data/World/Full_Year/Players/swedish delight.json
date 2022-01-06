@@ -1,0 +1,585 @@
+{
+    "Events": [
+        "544994",
+        "637259",
+        "595291"
+    ],
+    "Sets": [
+        {
+            "id": 35160781,
+            "entrant1Id": 6754417,
+            "entrant2Id": 6716331,
+            "entrant1Name": "NoFluxes",
+            "entrant2Name": "Swedish Delight",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6716331,
+            "loserId": 6754417,
+            "winnerName": "Swedish Delight",
+            "loserName": "NoFluxes",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1433865,
+            "entrant1Players": [
+                {
+                    "playerId": 154396,
+                    "playerTag": "NoFluxes"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1055,
+                    "playerTag": "Swedish Delight"
+                }
+            ]
+        },
+        {
+            "id": 35160772,
+            "entrant1Id": 6754137,
+            "entrant2Id": 6716331,
+            "entrant1Name": "WU | Kind",
+            "entrant2Name": "Swedish Delight",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6716331,
+            "loserId": 6754137,
+            "winnerName": "Swedish Delight",
+            "loserName": "WU | Kind",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1433865,
+            "entrant1Players": [
+                {
+                    "playerId": 1529906,
+                    "playerTag": "Kind"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1055,
+                    "playerTag": "Swedish Delight"
+                }
+            ]
+        },
+        {
+            "id": 35160768,
+            "entrant1Id": 6716331,
+            "entrant2Id": 6747830,
+            "entrant1Name": "Swedish Delight",
+            "entrant2Name": "Lotfy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6716331,
+            "loserId": 6747830,
+            "winnerName": "Swedish Delight",
+            "loserName": "Lotfy",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1433865,
+            "entrant1Players": [
+                {
+                    "playerId": 1055,
+                    "playerTag": "Swedish Delight"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 257406,
+                    "playerTag": "Lotfy"
+                }
+            ]
+        },
+        {
+            "id": 35172223,
+            "entrant1Id": 6768718,
+            "entrant2Id": 6716331,
+            "entrant1Name": "Kage",
+            "entrant2Name": "Swedish Delight",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6768718,
+            "loserId": 6716331,
+            "winnerName": "Kage",
+            "loserName": "Swedish Delight",
+            "bracketName": "Top 16",
+            "bracketId": 1433869,
+            "entrant1Players": [
+                {
+                    "playerId": 1044,
+                    "playerTag": "Kage"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1055,
+                    "playerTag": "Swedish Delight"
+                }
+            ]
+        },
+        {
+            "id": 35172221,
+            "entrant1Id": 6716331,
+            "entrant2Id": 6781263,
+            "entrant1Name": "Swedish Delight",
+            "entrant2Name": "Mekk",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6716331,
+            "loserId": 6781263,
+            "winnerName": "Swedish Delight",
+            "loserName": "Mekk",
+            "bracketName": "Top 16",
+            "bracketId": 1433869,
+            "entrant1Players": [
+                {
+                    "playerId": 1055,
+                    "playerTag": "Swedish Delight"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ]
+        },
+        {
+            "id": 35172188,
+            "entrant1Id": 6702537,
+            "entrant2Id": 6716331,
+            "entrant1Name": "Prometheus",
+            "entrant2Name": "Swedish Delight",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6702537,
+            "loserId": 6716331,
+            "winnerName": "Prometheus",
+            "loserName": "Swedish Delight",
+            "bracketName": "Top 16",
+            "bracketId": 1433869,
+            "entrant1Players": [
+                {
+                    "playerId": 680265,
+                    "playerTag": "Prometheus"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1055,
+                    "playerTag": "Swedish Delight"
+                }
+            ]
+        },
+        {
+            "id": 35172218,
+            "entrant1Id": 6716331,
+            "entrant2Id": 6692091,
+            "entrant1Name": "Swedish Delight",
+            "entrant2Name": "CowCowCowCowCow",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6716331,
+            "loserId": 6692091,
+            "winnerName": "Swedish Delight",
+            "loserName": "CowCowCowCowCow",
+            "bracketName": "Top 16",
+            "bracketId": 1433869,
+            "entrant1Players": [
+                {
+                    "playerId": 1055,
+                    "playerTag": "Swedish Delight"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 657464,
+                    "playerTag": "CowCowCowCowCow"
+                }
+            ]
+        },
+        {
+            "id": 42198937,
+            "entrant1Id": 8687227,
+            "entrant2Id": 8568312,
+            "entrant1Name": "Swedish Delight",
+            "entrant2Name": "Jflex",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8568312,
+            "loserId": 8687227,
+            "winnerName": "Jflex",
+            "loserName": "Swedish Delight",
+            "bracketName": "Singles",
+            "bracketId": 1604578,
+            "entrant1Players": [
+                {
+                    "playerId": 1055,
+                    "playerTag": "Swedish Delight"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 42198938,
+            "entrant1Id": 8568312,
+            "entrant2Id": 8687227,
+            "entrant1Name": "Jflex",
+            "entrant2Name": "Swedish Delight",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8687227,
+            "loserId": 8568312,
+            "winnerName": "Swedish Delight",
+            "loserName": "Jflex",
+            "bracketName": "Singles",
+            "bracketId": 1604578,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1055,
+                    "playerTag": "Swedish Delight"
+                }
+            ]
+        },
+        {
+            "id": 42198936,
+            "entrant1Id": 8687227,
+            "entrant2Id": 8568435,
+            "entrant1Name": "Swedish Delight",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8687227,
+            "loserId": 8568435,
+            "winnerName": "Swedish Delight",
+            "loserName": "Agency | Wally",
+            "bracketName": "Singles",
+            "bracketId": 1604578,
+            "entrant1Players": [
+                {
+                    "playerId": 1055,
+                    "playerTag": "Swedish Delight"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 42198934,
+            "entrant1Id": 8687227,
+            "entrant2Id": 8568127,
+            "entrant1Name": "Swedish Delight",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8687227,
+            "loserId": 8568127,
+            "winnerName": "Swedish Delight",
+            "loserName": "TG | Mot$",
+            "bracketName": "Singles",
+            "bracketId": 1604578,
+            "entrant1Players": [
+                {
+                    "playerId": 1055,
+                    "playerTag": "Swedish Delight"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 42198930,
+            "entrant1Id": 8687227,
+            "entrant2Id": 8568672,
+            "entrant1Name": "Swedish Delight",
+            "entrant2Name": "SIG | TheAsianOne",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8687227,
+            "loserId": 8568672,
+            "winnerName": "Swedish Delight",
+            "loserName": "SIG | TheAsianOne",
+            "bracketName": "Singles",
+            "bracketId": 1604578,
+            "entrant1Players": [
+                {
+                    "playerId": 1055,
+                    "playerTag": "Swedish Delight"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37380,
+                    "playerTag": "TheAsianOne"
+                }
+            ]
+        },
+        {
+            "id": 42198922,
+            "entrant1Id": 8687227,
+            "entrant2Id": 8712369,
+            "entrant1Name": "Swedish Delight",
+            "entrant2Name": "Tribe",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8687227,
+            "loserId": 8712369,
+            "winnerName": "Swedish Delight",
+            "loserName": "Tribe",
+            "bracketName": "Singles",
+            "bracketId": 1604578,
+            "entrant1Players": [
+                {
+                    "playerId": 1055,
+                    "playerTag": "Swedish Delight"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 253276,
+                    "playerTag": "Tribe"
+                }
+            ]
+        },
+        {
+            "id": 42198906,
+            "entrant1Id": 8687227,
+            "entrant2Id": 8575116,
+            "entrant1Name": "Swedish Delight",
+            "entrant2Name": "RU | Gomi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8687227,
+            "loserId": 8575116,
+            "winnerName": "Swedish Delight",
+            "loserName": "RU | Gomi",
+            "bracketName": "Singles",
+            "bracketId": 1604578,
+            "entrant1Players": [
+                {
+                    "playerId": 1055,
+                    "playerTag": "Swedish Delight"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 881842,
+                    "playerTag": "Gomi"
+                }
+            ]
+        },
+        {
+            "id": 38840234,
+            "entrant1Id": 7735387,
+            "entrant2Id": 7728830,
+            "entrant1Name": "Swedish Delight",
+            "entrant2Name": "CG | Jflex",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7735387,
+            "loserId": 7728830,
+            "winnerName": "Swedish Delight",
+            "loserName": "CG | Jflex",
+            "bracketName": "Bracket",
+            "bracketId": 1532098,
+            "entrant1Players": [
+                {
+                    "playerId": 1055,
+                    "playerTag": "Swedish Delight"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 38840233,
+            "entrant1Id": 7735387,
+            "entrant2Id": 7723750,
+            "entrant1Name": "Swedish Delight",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7735387,
+            "loserId": 7723750,
+            "winnerName": "Swedish Delight",
+            "loserName": "TG | Mot$",
+            "bracketName": "Bracket",
+            "bracketId": 1532098,
+            "entrant1Players": [
+                {
+                    "playerId": 1055,
+                    "playerTag": "Swedish Delight"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 38840231,
+            "entrant1Id": 7735387,
+            "entrant2Id": 7735043,
+            "entrant1Name": "Swedish Delight",
+            "entrant2Name": "TheSWOOPER",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7735387,
+            "loserId": 7735043,
+            "winnerName": "Swedish Delight",
+            "loserName": "TheSWOOPER",
+            "bracketName": "Bracket",
+            "bracketId": 1532098,
+            "entrant1Players": [
+                {
+                    "playerId": 1055,
+                    "playerTag": "Swedish Delight"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50606,
+                    "playerTag": "TheSWOOPER"
+                }
+            ]
+        },
+        {
+            "id": 38840227,
+            "entrant1Id": 7735387,
+            "entrant2Id": 7734032,
+            "entrant1Name": "Swedish Delight",
+            "entrant2Name": "JJM",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7735387,
+            "loserId": 7734032,
+            "winnerName": "Swedish Delight",
+            "loserName": "JJM",
+            "bracketName": "Bracket",
+            "bracketId": 1532098,
+            "entrant1Players": [
+                {
+                    "playerId": 1055,
+                    "playerTag": "Swedish Delight"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 170768,
+                    "playerTag": "JJM"
+                }
+            ]
+        },
+        {
+            "id": 38840219,
+            "entrant1Id": 7735387,
+            "entrant2Id": 7757529,
+            "entrant1Name": "Swedish Delight",
+            "entrant2Name": "NJ | Tommy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7735387,
+            "loserId": 7757529,
+            "winnerName": "Swedish Delight",
+            "loserName": "NJ | Tommy",
+            "bracketName": "Bracket",
+            "bracketId": 1532098,
+            "entrant1Players": [
+                {
+                    "playerId": 1055,
+                    "playerTag": "Swedish Delight"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 519779,
+                    "playerTag": "Tommy"
+                }
+            ]
+        },
+        {
+            "id": 38840203,
+            "entrant1Id": 7735387,
+            "entrant2Id": 7757537,
+            "entrant1Name": "Swedish Delight",
+            "entrant2Name": "Qask",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7735387,
+            "loserId": 7757537,
+            "winnerName": "Swedish Delight",
+            "loserName": "Qask",
+            "bracketName": "Bracket",
+            "bracketId": 1532098,
+            "entrant1Players": [
+                {
+                    "playerId": 1055,
+                    "playerTag": "Swedish Delight"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1998730,
+                    "playerTag": "Qask"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "nofluxes",
+        "lotfy",
+        "mekk",
+        "jflex",
+        "wally",
+        "mot$",
+        "jflex",
+        "mot$",
+        "theswooper"
+    ],
+    "L": [
+        "Kage",
+        "Prometheus",
+        "jflex"
+    ]
+}

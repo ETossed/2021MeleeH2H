@@ -1,0 +1,614 @@
+{
+    "Events": [
+        "601275",
+        "658947",
+        "607672",
+        "605729"
+    ],
+    "Sets": [
+        {
+            "id": 39208897,
+            "entrant1Id": 7927670,
+            "entrant2Id": 7927641,
+            "entrant1Name": "Leighton",
+            "entrant2Name": "Captain Smuckers",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7927641,
+            "loserId": 7927670,
+            "winnerName": "Captain Smuckers",
+            "loserName": "Leighton",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4824,
+                    "playerTag": "Captain Smuckers"
+                }
+            ]
+        },
+        {
+            "id": 39208773,
+            "entrant1Id": 7927652,
+            "entrant2Id": 7927670,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "Leighton",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7927652,
+            "loserId": 7927670,
+            "winnerName": "TG | Mot$",
+            "loserName": "Leighton",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ]
+        },
+        {
+            "id": 39208891,
+            "entrant1Id": 7927670,
+            "entrant2Id": 7929173,
+            "entrant1Name": "Leighton",
+            "entrant2Name": "NYU | Gambit",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7927670,
+            "loserId": 7929173,
+            "winnerName": "Leighton",
+            "loserName": "NYU | Gambit",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5351,
+                    "playerTag": "Gambit"
+                }
+            ]
+        },
+        {
+            "id": 39208765,
+            "entrant1Id": 7927670,
+            "entrant2Id": 7929160,
+            "entrant1Name": "Leighton",
+            "entrant2Name": "BG | JJ",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7927670,
+            "loserId": 7929160,
+            "winnerName": "Leighton",
+            "loserName": "BG | JJ",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5491,
+                    "playerTag": "JJ"
+                }
+            ]
+        },
+        {
+            "id": 43184720,
+            "entrant1Id": 8941771,
+            "entrant2Id": 8957214,
+            "entrant1Name": "Captain Smuckers",
+            "entrant2Name": "Leighton",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8941771,
+            "loserId": 8957214,
+            "winnerName": "Captain Smuckers",
+            "loserName": "Leighton",
+            "bracketName": "Bracket",
+            "bracketId": 1643455,
+            "entrant1Players": [
+                {
+                    "playerId": 4824,
+                    "playerTag": "Captain Smuckers"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ]
+        },
+        {
+            "id": 43184718,
+            "entrant1Id": 8957214,
+            "entrant2Id": 8936625,
+            "entrant1Name": "Leighton",
+            "entrant2Name": "KennikyStan | Duo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8957214,
+            "loserId": 8936625,
+            "winnerName": "Leighton",
+            "loserName": "KennikyStan | Duo",
+            "bracketName": "Bracket",
+            "bracketId": 1643455,
+            "entrant1Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 14660,
+                    "playerTag": "Duo"
+                }
+            ]
+        },
+        {
+            "id": 43184713,
+            "entrant1Id": 8957214,
+            "entrant2Id": 8939366,
+            "entrant1Name": "Leighton",
+            "entrant2Name": "NYU | holla",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8957214,
+            "loserId": 8939366,
+            "winnerName": "Leighton",
+            "loserName": "NYU | holla",
+            "bracketName": "Bracket",
+            "bracketId": 1643455,
+            "entrant1Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 689371,
+                    "playerTag": "holla"
+                }
+            ]
+        },
+        {
+            "id": 43184703,
+            "entrant1Id": 8957214,
+            "entrant2Id": 8956058,
+            "entrant1Name": "Leighton",
+            "entrant2Name": "Jask",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8957214,
+            "loserId": 8956058,
+            "winnerName": "Leighton",
+            "loserName": "Jask",
+            "bracketName": "Bracket",
+            "bracketId": 1643455,
+            "entrant1Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2555129,
+                    "playerTag": "Jask"
+                }
+            ]
+        },
+        {
+            "id": 39773321,
+            "entrant1Id": 8078388,
+            "entrant2Id": 8074770,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "Leighton",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8078388,
+            "loserId": 8074770,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "Leighton",
+            "bracketName": "Bracket",
+            "bracketId": 1552428,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ]
+        },
+        {
+            "id": 39773319,
+            "entrant1Id": 8074770,
+            "entrant2Id": 8077729,
+            "entrant1Name": "Leighton",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8074770,
+            "loserId": 8077729,
+            "winnerName": "Leighton",
+            "loserName": "TG | Mot$",
+            "bracketName": "Bracket",
+            "bracketId": 1552428,
+            "entrant1Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 39773192,
+            "entrant1Id": 8097749,
+            "entrant2Id": 8074770,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "Leighton",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8097749,
+            "loserId": 8074770,
+            "winnerName": "CG | Jflex",
+            "loserName": "Leighton",
+            "bracketName": "Bracket",
+            "bracketId": 1552428,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ]
+        },
+        {
+            "id": 39773315,
+            "entrant1Id": 8074770,
+            "entrant2Id": 8078500,
+            "entrant1Name": "Leighton",
+            "entrant2Name": "Nebulous | Jib",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8074770,
+            "loserId": 8078500,
+            "winnerName": "Leighton",
+            "loserName": "Nebulous | Jib",
+            "bracketName": "Bracket",
+            "bracketId": 1552428,
+            "entrant1Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22088,
+                    "playerTag": "Jib"
+                }
+            ]
+        },
+        {
+            "id": 39773187,
+            "entrant1Id": 8074770,
+            "entrant2Id": 8077726,
+            "entrant1Name": "Leighton",
+            "entrant2Name": "Captain Smuckers",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8074770,
+            "loserId": 8077726,
+            "winnerName": "Leighton",
+            "loserName": "Captain Smuckers",
+            "bracketName": "Bracket",
+            "bracketId": 1552428,
+            "entrant1Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4824,
+                    "playerTag": "Captain Smuckers"
+                }
+            ]
+        },
+        {
+            "id": 39773176,
+            "entrant1Id": 8074770,
+            "entrant2Id": 8075745,
+            "entrant1Name": "Leighton",
+            "entrant2Name": "a horse who can drive",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8074770,
+            "loserId": 8075745,
+            "winnerName": "Leighton",
+            "loserName": "a horse who can drive",
+            "bracketName": "Bracket",
+            "bracketId": 1552428,
+            "entrant1Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 60974,
+                    "playerTag": "a horse who can drive"
+                }
+            ]
+        },
+        {
+            "id": 39556345,
+            "entrant1Id": 8019964,
+            "entrant2Id": 8044916,
+            "entrant1Name": "Brotherhood | Aklo",
+            "entrant2Name": "Leighton",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8019964,
+            "loserId": 8044916,
+            "winnerName": "Brotherhood | Aklo",
+            "loserName": "Leighton",
+            "bracketName": "Bracket",
+            "bracketId": 1549214,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ]
+        },
+        {
+            "id": 39556344,
+            "entrant1Id": 8019964,
+            "entrant2Id": 8044916,
+            "entrant1Name": "Brotherhood | Aklo",
+            "entrant2Name": "Leighton",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8019964,
+            "loserId": 8044916,
+            "winnerName": "Brotherhood | Aklo",
+            "loserName": "Leighton",
+            "bracketName": "Bracket",
+            "bracketId": 1549214,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ]
+        },
+        {
+            "id": 39556472,
+            "entrant1Id": 8044916,
+            "entrant2Id": 8019968,
+            "entrant1Name": "Leighton",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8044916,
+            "loserId": 8019968,
+            "winnerName": "Leighton",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1549214,
+            "entrant1Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 39556343,
+            "entrant1Id": 8018562,
+            "entrant2Id": 8044916,
+            "entrant1Name": "CG | Zealot",
+            "entrant2Name": "Leighton",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8044916,
+            "loserId": 8018562,
+            "winnerName": "Leighton",
+            "loserName": "CG | Zealot",
+            "bracketName": "Bracket",
+            "bracketId": 1549214,
+            "entrant1Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ]
+        },
+        {
+            "id": 39556341,
+            "entrant1Id": 8019968,
+            "entrant2Id": 8044916,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Leighton",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8044916,
+            "loserId": 8019968,
+            "winnerName": "Leighton",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1549214,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ]
+        },
+        {
+            "id": 39556337,
+            "entrant1Id": 8044916,
+            "entrant2Id": 8018563,
+            "entrant1Name": "Leighton",
+            "entrant2Name": "Son2",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8044916,
+            "loserId": 8018563,
+            "winnerName": "Leighton",
+            "loserName": "Son2",
+            "bracketName": "Bracket",
+            "bracketId": 1549214,
+            "entrant1Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4309,
+                    "playerTag": "Son2"
+                }
+            ]
+        },
+        {
+            "id": 39556328,
+            "entrant1Id": 8044916,
+            "entrant2Id": 8020488,
+            "entrant1Name": "Leighton",
+            "entrant2Name": "jiango",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8044916,
+            "loserId": 8020488,
+            "winnerName": "Leighton",
+            "loserName": "jiango",
+            "bracketName": "Bracket",
+            "bracketId": 1549214,
+            "entrant1Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36872,
+                    "playerTag": "becoming"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "mot$",
+        "captain smuckers",
+        "just jason",
+        "zealot",
+        "just jason"
+    ],
+    "L": [
+        "captain smuckers",
+        "mot$",
+        "captain smuckers",
+        "warmmer",
+        "jflex",
+        "aklo",
+        "aklo"
+    ]
+}
