@@ -10,31 +10,45 @@ def results_2021_name(smash, players, events, output):
     # Initialization of Players
     # The players_lower is used now for more efficiency later
     players_lower = []
-    for p in players:
-        players_lower.append(p.lower())
-    player_dict = {}
-    for p in players_lower:
-        player_dict[p] = {'Events': [], 'Sets': [], 'W': [], 'L': []}
+
+    if (os.stat('temp.json').st_size != 0):
+        print('temp.json found, initializing from file')
+        with open('temp.json', 'r') as tempfile:
+            player_dict = json.load(tempfile)
+            for p in player_dict:
+                players_lower.append(p.lower())
+    else:
+        print("'temp.json' was not found, initailizing from empty dictionary")
+        for p in players:
+            players_lower.append(p.lower())
+        player_dict = {}
+        for p in players_lower:
+            player_dict[p] = {'Events': [], 'Sets': [], 'W': [], 'L': []}
 
     broke_tourneys = []
+    events_not_done = events.copy()
 
     # Main Loop
     event_num = 0
     for event in events:
         print("Current event: " + str(event))
         event_num += 1
-        i = 1
+        i = 0
         sets = ['dummy']
         while (sets != []):
             # Iterate through pages
+            i += 1
             try:
                 sets = smash.event_show_sets(event, i)
-            except TypeError:
+            except (TypeError, IndexError) as e:
                 broke_tourneys.append(event)
-                print("Broken")
+                print("Broken, Index Error or Type Error")
+                with open('errors.txt', 'a+') as errors:
+                    errors.write(event)
+                    errors.write('\n')
                 break
-            i += 1
-            if (i % 6 == 0):
+            
+            if (i % 7 == 0):
                 print("Sleeping")
                 time.sleep(10) # Might be able to remove, but idk, just not to time out API
             for set in sets:
@@ -102,6 +116,17 @@ def results_2021_name(smash, players, events, output):
             print("Error: Tournament didn't load")
             if (event not in broke_tourneys):
                 broke_tourneys.append(event)
+                with open('errors.txt', 'a+') as errors:
+                    errors.write(event)
+                    errors.write('\n')
+
+        # Failsafe Portion
+        with open('temp.json', 'w+') as outfile:
+            json.dump(player_dict, outfile, indent=4)
+
+        e_removed = events_not_done.pop(event, None)
+        with open('events_not_done.json', 'w+') as outfile:
+            json.dump(events_not_done, outfile, indent=4)
 
     # Complete file output 
     with open('errors.txt', 'w') as outfile:
@@ -111,7 +136,7 @@ def results_2021_name(smash, players, events, output):
     print(broke_tourneys)
 
     # Complete file output 
-    with open(output, 'w') as outfile:
+    with open(output, 'w+') as outfile:
         json.dump(player_dict, outfile, indent=4)
 
 def results_2021_ids(smash, pids, events, output):
@@ -133,9 +158,7 @@ def results_2021_ids(smash, pids, events, output):
             player_dict[p] = {'ID': id, 'Events': [], 'Sets': [], 'W': [], 'L': []}
     
     broke_tourneys = []
-
-    # with open('eu_events.json', 'r') as json_file:
-    #     events_not_done = json.load(json_file)
+    events_not_done = events.copy()
 
     # Main Loop
     event_num = 0
@@ -153,7 +176,7 @@ def results_2021_ids(smash, pids, events, output):
                 print("Error: Broken Tournament -- " + str(event))
                 if (event not in broke_tourneys):
                     broke_tourneys.append(event)
-                    with open('errors.txt', 'a') as errors:
+                    with open('errors.txt', 'a+') as errors:
                         errors.write(event)
                         errors.write('\n')
 
@@ -163,8 +186,6 @@ def results_2021_ids(smash, pids, events, output):
                 print("Sleeping")
                 time.sleep(10) # Might be able to remove, but idk, just not to time out API
             for set in sets:
-                # print(json.dumps(set, indent=4)) # For debugging purposes
-                # print("\n")
                 # Get entrants, gets rid of sponsor in case they have it in there for some reason
                 entrant1 = set['entrant1Players'][0]['playerTag'].split(' | ')[-1].strip()
                 entrant2 = set['entrant2Players'][0]['playerTag'].split(' | ')[-1].strip()
@@ -237,14 +258,14 @@ def results_2021_ids(smash, pids, events, output):
                     errors.write('\n')
 
         # Failsafe Portion
-        with open('temp.json', 'w') as outfile:
+        with open('temp.json', 'w+') as outfile:
             json.dump(player_dict, outfile, indent=4)
 
-        # e_removed = events_not_done.pop(event, None)
-        # with open('events_not_done.json', 'w') as outfile:
-        #     json.dump(events_not_done, outfile, indent=4)
+        e_removed = events_not_done.pop(event, None)
+        with open('events_not_done.json', 'w+') as outfile:
+            json.dump(events_not_done, outfile, indent=4)
         
-        # print("Removed event: " + str(e_removed))
+        print("Removed event: " + str(e_removed))
 
     print(broke_tourneys)
 
@@ -258,7 +279,7 @@ def add_to_results(smash, event):
 
 def to_csv_h2h_names(players, input, output='h2h.csv'):
     # Read json file
-    with open(input, 'r') as json_file:
+    with open(input, 'r', encoding='utf-8') as json_file:
         data = json.load(json_file)
 
     # The players_lower is used now for more efficiency later
@@ -267,7 +288,7 @@ def to_csv_h2h_names(players, input, output='h2h.csv'):
         players_lower.append(p.lower())
     
     i = 0
-    with open(output, 'w') as new_file:
+    with open(output, 'w', encoding='utf-8') as new_file:
         # Top left corner
         new_file.write('ETossed,')
 
@@ -308,7 +329,7 @@ def to_csv_h2h_names(players, input, output='h2h.csv'):
 
             # Split cell by '-' character and modify score
             temp_score = score.split('-')
-            temp_score[0] = str(int(score[0]) + 1)
+            temp_score[0] = str(int(score[2]) + 1)
             new_score = "-".join(temp_score)
             csv_lines[i+1][j+1] = new_score
 
@@ -323,7 +344,7 @@ def to_csv_h2h_names(players, input, output='h2h.csv'):
 
                 # Split cell by '-' character and modify score
                 temp_score = score.split('-')
-                temp_score[1] = str(int(score[2]) + 1)
+                temp_score[1] = str(int(temp_score[1]) + 1)
                 new_score = "-".join(temp_score)
                 csv_lines[i+1][j+1] = new_score
             else: # For non player list losses
@@ -332,8 +353,11 @@ def to_csv_h2h_names(players, input, output='h2h.csv'):
         if other_losses != []:
             csv_lines[i+1][len(players)+1] = ", ".join(other_losses)
 
+    for line in csv_lines:
+        print(line)
+
     # Write csv
-    writer = csv.writer(open(output,'w'))
+    writer = csv.writer(open(output, 'w+', encoding='utf-8', newline=''))
     writer.writerows(csv_lines)
 
 def to_csv_h2h_ids(players, input, output='h2h.csv'):
@@ -408,12 +432,16 @@ def to_csv_h2h_ids(players, input, output='h2h.csv'):
             csv_lines[i+1][len(players)+1] = ", ".join(other_losses)
 
     # Write csv
-    writer = csv.writer(open(output,'w',encoding='utf-8'))
+    writer = csv.writer(open(output,'w',encoding='utf-8',newline=''))
     writer.writerows(csv_lines)
 
 def to_csv_wl(players, input, output='win_loss.csv'):
     with open(input, 'r', encoding='utf-8') as json_file:
         data = json.load(json_file)
+
+    players_lower = []
+    for p in players:
+        players_lower.append(p.lower())
     
     with open(output, 'w', encoding='utf-8') as new_file:
         # Top left corner
@@ -428,18 +456,16 @@ def to_csv_wl(players, input, output='win_loss.csv'):
             losses = {}
 
             new_file.write(player + ',\"') # Initial quote
-            for op in data[player]['W']:
+            for op in data[player.lower()]['W']:
                 # In order to get capitalization
-                if op in players:
-                    x = players.index(op)
+                if op in players_lower:
+                    x = players_lower.index(op)
                     real_op = players[x]
                 else:
                     real_op = op
                 
                 if real_op in wins:
                     wins[real_op] += 1
-                # elif real_op == "kürv": #The umlaut causes it to print the wrong letter wtf
-                #     wins["Kurv"] = 1
                 else:
                     wins[real_op] = 1
             
@@ -453,10 +479,10 @@ def to_csv_wl(players, input, output='win_loss.csv'):
             # Closing quote and new quote
             new_file.write('\",\"')
 
-            for op in data[player]['L']:
+            for op in data[player.lower()]['L']:
                 # In order to get capitalization
-                if op in players:
-                    x = players.index(op)
+                if op in players_lower:
+                    x = players_lower.index(op)
                     real_op = players[x]
                 else:
                     real_op = op
@@ -493,11 +519,11 @@ def events_attended(smash, pids, output):
         i = 1
 
         while (not done):
-            if (tp % 10 == 0):
+            if (tp % 8 == 0):
                 time.sleep(15)
 
             print("Player: " + p + ", i: " + str(i))
-            tourneys = smash.player_show_tournaments_for_game(pids[p], p, 1, i)
+            tourneys = smash.player_show_tournaments_for_game(pids[p]['ID'], p, 1, i)
             for t in tourneys:
                 if (t['startTimestamp'] > 1609480800):
                     if any(x in t['eventName'].lower() for x in substrings):
@@ -511,13 +537,19 @@ def events_attended(smash, pids, output):
             
             i += 1
             tp += 1
+        
+        # Failsafe Portion
+        with open('temp_events.json', 'w+') as outfile:
+            json.dump(events, outfile, indent=4)
 
     e_array = []
     for e in events:
         e_array.append(e)
 
     if (len(e_array) == len(set(e_array))):
-        print("gamer moment")
+        print("Done, no repeat events")
+    else:
+        print("Error: Repeat event")
 
     # Complete file output 
     with open(output, 'w', encoding='utf-8') as outfile:
@@ -529,9 +561,62 @@ def results_to_players(input):
         for p in full_year:
             temp_name = str(p).split('/')[0].strip()
 
-            fname = 'players/' + str(temp_name) + '.json'
-            with open(fname, 'w') as outfile:
+            fname = str(temp_name) + '.json'
+            with open(fname, 'w+') as outfile:
                 json.dump(full_year[p], outfile, indent=4)
+
+def remove_fake_results(fname, pids, output):
+    with open(fname, 'r') as json_file: # Get results json
+        results = json.load(json_file)
+
+    lc_pids = {}
+    for pid in pids:
+        lc_pids[pid.lower()] = pids[pid]
+
+    for p in results:
+        print("Player: " + p)
+        correct_id = lc_pids[p]['ID']
+        set_indexes_remove = []
+
+        for i in range(len(results[p]['Sets'])):
+            cur_set = results[p]['Sets'][i]
+            if (p.lower() == cur_set['entrant1Players'][0]['playerTag'].lower()):
+                cur_id = cur_set['entrant1Players'][0]['playerId']
+                opp_name = cur_set['entrant2Players'][0]['playerTag']
+                if (cur_set['entrant1Score'] > cur_set['entrant2Score']):
+                    did_win = True
+                else:
+                    did_win = False
+            else:
+                cur_id = cur_set['entrant2Players'][0]['playerId']
+                opp_name = cur_set['entrant1Players'][0]['playerTag']
+                if (cur_set['entrant2Score'] > cur_set['entrant1Score']):
+                    did_win = True
+                else:
+                    did_win = False
+
+            if (correct_id != cur_id):
+                set_indexes_remove.insert(0, i)
+                if opp_name.lower() in lc_pids:
+                    opp_name = opp_name.lower()
+                else: 
+                    opp_name = opp_name.split('|')[-1].strip()
+                if (did_win and opp_name in lc_pids):
+                    print("Removing " + opp_name + " from Wins")
+                    results[p]['W'].remove(opp_name)
+                elif (did_win == False): # If didn't win
+                    print("Removing " + opp_name + " from Losses")
+                    results[p]['L'].remove(opp_name)
+
+        print(set_indexes_remove)
+        for index in set_indexes_remove:
+            del results[p]['Sets'][index]
+
+        with open('temp_results_fixing.json', 'w+') as temp_file: # In case of crashes
+            json.dump(results, temp_file, indent=4)
+                
+    with open(output, 'w') as outfile: # Actual output
+        json.dump(results, outfile, indent=4)
 
 def main():
     # Initialize pysmashgg
@@ -540,50 +625,17 @@ def main():
 
     smash = pysmashgg.SmashGG(key)
 
-    # EU Work
-    rcadia = 627868
-    swt_eu = 554625
-    myth = 457669
-    kamp_kone = 570804
-    poilson_col = 572809
-    bagarre = 550396
-    teaghlach = 545157
-    super_bou = 550373
-    fete = 549952
-    sauna = 549684
-    regen = 543662
-    phoenix_blue = 554988
-    upset = 550163
-    valhalla = 541113
-    # MISSION COMPLETE IS LIQUIPEDIA
-    hflan = 428582
-    endless = 627359
-    forever3 = 592222
-    hts7 = 607431
-    hts8 = 622655
-    # SMASHHOOD IS CHALLONGE
-    hivemas2 = 648241
-    
-    eu_events = [rcadia, swt_eu, myth, kamp_kone, poilson_col, bagarre, teaghlach, 
-                super_bou, fete, sauna, regen, phoenix_blue, upset, valhalla, hflan,
-                endless, forever3, hts7, hts8, hivemas2]
+    # with open('D:\git\\2021Melee\data\World\Full_Year\MPGR_FY.json', 'r') as json_file:
+    #     mpgr = json.load(json_file)
 
-    with open('EU.json', 'r') as json_file:
-        eu_pids = json.load(json_file)
+    # with open('Events_FY.json', 'r') as json_file:
+    #     events = json.load(json_file)
 
-    # results_2021_ids(smash, eu_pids, eu_events, 'eu_results.json')
+    # mpgr_arr = []
+    # for p in mpgr:
+    #     mpgr_arr.append(p)
 
-    with open('eu_results.json', 'r') as json_results:
-        eu_results = json.load(json_results)
-    eu_players = []
-    for p in eu_results:
-        eu_players.append(p)
-
-    # results_2021_name(smash, eu_players, eu_events, 'eu_results_2.json')
-
-    # to_csv_h2h_names(eu_players, 'eu_results.json', 'eu_h2h.csv')
-    to_csv_wl(eu_players, 'eu_results.json', 'eu_wl.csv')
-    
+    results_to_players('Results_FY.json')
 
 if __name__ == "__main__":
     main()
