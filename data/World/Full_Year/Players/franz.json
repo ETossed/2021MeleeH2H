@@ -1,0 +1,4232 @@
+{
+    "Events": [
+        "584741",
+        "625422",
+        "664637",
+        "652673",
+        "640768",
+        "648468",
+        "659125",
+        "592769",
+        "653830",
+        "658307",
+        "630834",
+        "621989",
+        "613056",
+        "661108",
+        "659254",
+        "657017",
+        "648112",
+        "653737",
+        "648588",
+        "644428",
+        "642082",
+        "642230",
+        "638825",
+        "638224",
+        "636876",
+        "636525",
+        "625132",
+        "559504",
+        "606828"
+    ],
+    "Sets": [
+        {
+            "id": 42356674,
+            "entrant1Id": 8561368,
+            "entrant2Id": 7570896,
+            "entrant1Name": "Franz",
+            "entrant2Name": "GGC | Gooms",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8561368,
+            "loserId": 7570896,
+            "winnerName": "Franz",
+            "loserName": "GGC | Gooms",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603581,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 18840,
+                    "playerTag": "Gooms"
+                }
+            ]
+        },
+        {
+            "id": 42356671,
+            "entrant1Id": 8561368,
+            "entrant2Id": 7879843,
+            "entrant1Name": "Franz",
+            "entrant2Name": "MrG",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8561368,
+            "loserId": 7879843,
+            "winnerName": "Franz",
+            "loserName": "MrG",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603581,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1086597,
+                    "playerTag": "MrG"
+                }
+            ]
+        },
+        {
+            "id": 42356665,
+            "entrant1Id": 8561368,
+            "entrant2Id": 8382989,
+            "entrant1Name": "Franz",
+            "entrant2Name": "FluffyFriendlySheep",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8561368,
+            "loserId": 8382989,
+            "winnerName": "Franz",
+            "loserName": "FluffyFriendlySheep",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603581,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 25986,
+                    "playerTag": "FluffyFriendlySheep"
+                }
+            ]
+        },
+        {
+            "id": 42361110,
+            "entrant1Id": 8561368,
+            "entrant2Id": 8156980,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Dacky",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8156980,
+            "loserId": 8561368,
+            "winnerName": "Dacky",
+            "loserName": "Franz",
+            "bracketName": "Top 64",
+            "bracketId": 1603576,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45951,
+                    "playerTag": "Dacky"
+                }
+            ]
+        },
+        {
+            "id": 42360305,
+            "entrant1Id": 7569273,
+            "entrant2Id": 8561368,
+            "entrant1Name": "Axe",
+            "entrant2Name": "Franz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7569273,
+            "loserId": 8561368,
+            "winnerName": "Axe",
+            "loserName": "Franz",
+            "bracketName": "Round 2 Pools",
+            "bracketId": 1620258,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 42360361,
+            "entrant1Id": 8561368,
+            "entrant2Id": 7569032,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Reno",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8561368,
+            "loserId": 7569032,
+            "winnerName": "Franz",
+            "loserName": "Reno",
+            "bracketName": "Round 2 Pools",
+            "bracketId": 1620258,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1076,
+                    "playerTag": "Reno"
+                }
+            ]
+        },
+        {
+            "id": 42361105,
+            "entrant1Id": 7903271,
+            "entrant2Id": 8561368,
+            "entrant1Name": "Casper",
+            "entrant2Name": "Franz",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8561368,
+            "loserId": 7903271,
+            "winnerName": "Franz",
+            "loserName": "Casper",
+            "bracketName": "Top 64",
+            "bracketId": 1603576,
+            "entrant1Players": [
+                {
+                    "playerId": 144268,
+                    "playerTag": "Casper"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 42361097,
+            "entrant1Id": 8561368,
+            "entrant2Id": 7961768,
+            "entrant1Name": "Franz",
+            "entrant2Name": "ARMY",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8561368,
+            "loserId": 7961768,
+            "winnerName": "Franz",
+            "loserName": "ARMY",
+            "bracketName": "Top 64",
+            "bracketId": 1603576,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23458,
+                    "playerTag": "ARMY"
+                }
+            ]
+        },
+        {
+            "id": 40908141,
+            "entrant1Id": 8376747,
+            "entrant2Id": 8373128,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "Franz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8376747,
+            "loserId": 8373128,
+            "winnerName": "bc | S2J",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1584234,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 40908268,
+            "entrant1Id": 8373128,
+            "entrant2Id": 8373117,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Casper",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8373117,
+            "loserId": 8373128,
+            "winnerName": "Casper",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1584234,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 144268,
+                    "playerTag": "Casper"
+                }
+            ]
+        },
+        {
+            "id": 40908139,
+            "entrant1Id": 8380828,
+            "entrant2Id": 8373128,
+            "entrant1Name": "ARMY",
+            "entrant2Name": "Franz",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8373128,
+            "loserId": 8380828,
+            "winnerName": "Franz",
+            "loserName": "ARMY",
+            "bracketName": "Bracket",
+            "bracketId": 1584234,
+            "entrant1Players": [
+                {
+                    "playerId": 23458,
+                    "playerTag": "ARMY"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 40908135,
+            "entrant1Id": 8373128,
+            "entrant2Id": 8360711,
+            "entrant1Name": "Franz",
+            "entrant2Name": "BDC | PhDeeznuts",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8373128,
+            "loserId": 8360711,
+            "winnerName": "Franz",
+            "loserName": "BDC | PhDeeznuts",
+            "bracketName": "Bracket",
+            "bracketId": 1584234,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15563,
+                    "playerTag": "PhDeeznuts"
+                }
+            ]
+        },
+        {
+            "id": 40908126,
+            "entrant1Id": 8373128,
+            "entrant2Id": 8360653,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Digiornos",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8373128,
+            "loserId": 8360653,
+            "winnerName": "Franz",
+            "loserName": "Digiornos",
+            "bracketName": "Bracket",
+            "bracketId": 1584234,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 312324,
+                    "playerTag": "Digiornos"
+                }
+            ]
+        },
+        {
+            "id": 43518626,
+            "entrant1Id": 9037672,
+            "entrant2Id": 9037785,
+            "entrant1Name": "Mango's Friend | null",
+            "entrant2Name": "Franz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 9037672,
+            "loserId": 9037785,
+            "winnerName": "Mango's Friend | null",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1652592,
+            "entrant1Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 43518688,
+            "entrant1Id": 9037785,
+            "entrant2Id": 9028198,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Westballz",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 9028198,
+            "loserId": 9037785,
+            "winnerName": "Westballz",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1652592,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1008,
+                    "playerTag": "Westballz"
+                }
+            ]
+        },
+        {
+            "id": 43518624,
+            "entrant1Id": 9037785,
+            "entrant2Id": 9029016,
+            "entrant1Name": "Franz",
+            "entrant2Name": "SD | Android 0",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 9037785,
+            "loserId": 9029016,
+            "winnerName": "Franz",
+            "loserName": "SD | Android 0",
+            "bracketName": "Bracket",
+            "bracketId": 1652592,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ]
+        },
+        {
+            "id": 43518619,
+            "entrant1Id": 9037785,
+            "entrant2Id": 9028875,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Aero",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 9037785,
+            "loserId": 9028875,
+            "winnerName": "Franz",
+            "loserName": "Aero",
+            "bracketName": "Bracket",
+            "bracketId": 1652592,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 754480,
+                    "playerTag": "Aero"
+                }
+            ]
+        },
+        {
+            "id": 42771766,
+            "entrant1Id": 8845350,
+            "entrant2Id": 8834813,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8834813,
+            "loserId": 8845350,
+            "winnerName": "Fiction",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1632070,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 42771767,
+            "entrant1Id": 8834813,
+            "entrant2Id": 8845350,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "Franz",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8845350,
+            "loserId": 8834813,
+            "winnerName": "Franz",
+            "loserName": "Fiction",
+            "bracketName": "Bracket",
+            "bracketId": 1632070,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 42771765,
+            "entrant1Id": 8834813,
+            "entrant2Id": 8845350,
+            "entrant1Name": "Fiction",
+            "entrant2Name": "Franz",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8845350,
+            "loserId": 8834813,
+            "winnerName": "Franz",
+            "loserName": "Fiction",
+            "bracketName": "Bracket",
+            "bracketId": 1632070,
+            "entrant1Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 42771764,
+            "entrant1Id": 8851946,
+            "entrant2Id": 8845350,
+            "entrant1Name": "MegaXmas",
+            "entrant2Name": "Franz",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8845350,
+            "loserId": 8851946,
+            "winnerName": "Franz",
+            "loserName": "MegaXmas",
+            "bracketName": "Bracket",
+            "bracketId": 1632070,
+            "entrant1Players": [
+                {
+                    "playerId": 4224,
+                    "playerTag": "MegaXmas"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 42771762,
+            "entrant1Id": 8834583,
+            "entrant2Id": 8845350,
+            "entrant1Name": "Top100_TJ",
+            "entrant2Name": "Franz",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8845350,
+            "loserId": 8834583,
+            "winnerName": "Franz",
+            "loserName": "Top100_TJ",
+            "bracketName": "Bracket",
+            "bracketId": 1632070,
+            "entrant1Players": [
+                {
+                    "playerId": 29900,
+                    "playerTag": "Top100_TJ"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 42771758,
+            "entrant1Id": 8845350,
+            "entrant2Id": 8852769,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Brand0",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8845350,
+            "loserId": 8852769,
+            "winnerName": "Franz",
+            "loserName": "Brand0",
+            "bracketName": "Bracket",
+            "bracketId": 1632070,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1117046,
+                    "playerTag": "Brand0"
+                }
+            ]
+        },
+        {
+            "id": 42771749,
+            "entrant1Id": 8845350,
+            "entrant2Id": 8853166,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Catface",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8845350,
+            "loserId": 8853166,
+            "winnerName": "Franz",
+            "loserName": "Catface",
+            "bracketName": "Bracket",
+            "bracketId": 1632070,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2553134,
+                    "playerTag": "Catface"
+                }
+            ]
+        },
+        {
+            "id": 41965092,
+            "entrant1Id": 8656090,
+            "entrant2Id": 8655960,
+            "entrant1Name": "Casper",
+            "entrant2Name": "Franz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8656090,
+            "loserId": 8655960,
+            "winnerName": "Casper",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1610894,
+            "entrant1Players": [
+                {
+                    "playerId": 144268,
+                    "playerTag": "Casper"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 41965091,
+            "entrant1Id": 8655914,
+            "entrant2Id": 8655960,
+            "entrant1Name": "MF | null",
+            "entrant2Name": "Franz",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8655960,
+            "loserId": 8655914,
+            "winnerName": "Franz",
+            "loserName": "MF | null",
+            "bracketName": "Bracket",
+            "bracketId": 1610894,
+            "entrant1Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 41965089,
+            "entrant1Id": 8653274,
+            "entrant2Id": 8655960,
+            "entrant1Name": "Ringler",
+            "entrant2Name": "Franz",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8655960,
+            "loserId": 8653274,
+            "winnerName": "Franz",
+            "loserName": "Ringler",
+            "bracketName": "Bracket",
+            "bracketId": 1610894,
+            "entrant1Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 41964960,
+            "entrant1Id": 8655960,
+            "entrant2Id": 8656090,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Casper",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8656090,
+            "loserId": 8655960,
+            "winnerName": "Casper",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1610894,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 144268,
+                    "playerTag": "Casper"
+                }
+            ]
+        },
+        {
+            "id": 41965087,
+            "entrant1Id": 8655960,
+            "entrant2Id": 8655247,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Xela",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8655960,
+            "loserId": 8655247,
+            "winnerName": "Franz",
+            "loserName": "Xela",
+            "bracketName": "Bracket",
+            "bracketId": 1610894,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 71062,
+                    "playerTag": "Xela"
+                }
+            ]
+        },
+        {
+            "id": 41964953,
+            "entrant1Id": 8655960,
+            "entrant2Id": 8651941,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Crim",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8655960,
+            "loserId": 8651941,
+            "winnerName": "Franz",
+            "loserName": "Crim",
+            "bracketName": "Bracket",
+            "bracketId": 1610894,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21197,
+                    "playerTag": "Crim"
+                }
+            ]
+        },
+        {
+            "id": 41964939,
+            "entrant1Id": 8655960,
+            "entrant2Id": 8654592,
+            "entrant1Name": "Franz",
+            "entrant2Name": "MrChuckles",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8655960,
+            "loserId": 8654592,
+            "winnerName": "Franz",
+            "loserName": "MrChuckles",
+            "bracketName": "Bracket",
+            "bracketId": 1610894,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1153021,
+                    "playerTag": "MrChuckles"
+                }
+            ]
+        },
+        {
+            "id": 42601321,
+            "entrant1Id": 8783335,
+            "entrant2Id": 8782980,
+            "entrant1Name": "Franz",
+            "entrant2Name": "SD | Android 0",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8782980,
+            "loserId": 8783335,
+            "winnerName": "SD | Android 0",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1624324,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ]
+        },
+        {
+            "id": 42601192,
+            "entrant1Id": 8800819,
+            "entrant2Id": 8783335,
+            "entrant1Name": "MF | KoDoRiN",
+            "entrant2Name": "Franz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8800819,
+            "loserId": 8783335,
+            "winnerName": "MF | KoDoRiN",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1624324,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 42601319,
+            "entrant1Id": 8783335,
+            "entrant2Id": 8803163,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Gulu",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8783335,
+            "loserId": 8803163,
+            "winnerName": "Franz",
+            "loserName": "Gulu",
+            "bracketName": "Bracket",
+            "bracketId": 1624324,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 34863,
+                    "playerTag": "Gulu"
+                }
+            ]
+        },
+        {
+            "id": 42601189,
+            "entrant1Id": 8783335,
+            "entrant2Id": 8783132,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Squid",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8783335,
+            "loserId": 8783132,
+            "winnerName": "Franz",
+            "loserName": "Squid",
+            "bracketName": "Bracket",
+            "bracketId": 1624324,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42601182,
+            "entrant1Id": 8783335,
+            "entrant2Id": 8801181,
+            "entrant1Name": "Franz",
+            "entrant2Name": "snake",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8783335,
+            "loserId": 8801181,
+            "winnerName": "Franz",
+            "loserName": "snake",
+            "bracketName": "Bracket",
+            "bracketId": 1624324,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 725320,
+                    "playerTag": "snake"
+                }
+            ]
+        },
+        {
+            "id": 42601168,
+            "entrant1Id": 8783335,
+            "entrant2Id": 8800782,
+            "entrant1Name": "Franz",
+            "entrant2Name": "LewdCelebs4Free",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8783335,
+            "loserId": 8800782,
+            "winnerName": "Franz",
+            "loserName": "LewdCelebs4Free",
+            "bracketName": "Bracket",
+            "bracketId": 1624324,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1966716,
+                    "playerTag": "LewdCelebs4Free"
+                }
+            ]
+        },
+        {
+            "id": 43324480,
+            "entrant1Id": 8958977,
+            "entrant2Id": 8981786,
+            "entrant1Name": "Franz",
+            "entrant2Name": "rom",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8981786,
+            "loserId": 8958977,
+            "winnerName": "rom",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1643698,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3899,
+                    "playerTag": "rom"
+                }
+            ]
+        },
+        {
+            "id": 43324481,
+            "entrant1Id": 8981786,
+            "entrant2Id": 8958977,
+            "entrant1Name": "rom",
+            "entrant2Name": "Franz",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8958977,
+            "loserId": 8981786,
+            "winnerName": "Franz",
+            "loserName": "rom",
+            "bracketName": "Bracket",
+            "bracketId": 1643698,
+            "entrant1Players": [
+                {
+                    "playerId": 3899,
+                    "playerTag": "rom"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 43324479,
+            "entrant1Id": 8978935,
+            "entrant2Id": 8958977,
+            "entrant1Name": "nut",
+            "entrant2Name": "Franz",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8958977,
+            "loserId": 8978935,
+            "winnerName": "Franz",
+            "loserName": "nut",
+            "bracketName": "Bracket",
+            "bracketId": 1643698,
+            "entrant1Players": [
+                {
+                    "playerId": 13499,
+                    "playerTag": "nut"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 43324478,
+            "entrant1Id": 8981786,
+            "entrant2Id": 8958977,
+            "entrant1Name": "rom",
+            "entrant2Name": "Franz",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8958977,
+            "loserId": 8981786,
+            "winnerName": "Franz",
+            "loserName": "rom",
+            "bracketName": "Bracket",
+            "bracketId": 1643698,
+            "entrant1Players": [
+                {
+                    "playerId": 3899,
+                    "playerTag": "rom"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 43324476,
+            "entrant1Id": 8958977,
+            "entrant2Id": 8980514,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Breakfast",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8958977,
+            "loserId": 8980514,
+            "winnerName": "Franz",
+            "loserName": "Breakfast",
+            "bracketName": "Bracket",
+            "bracketId": 1643698,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13778,
+                    "playerTag": "Breakfast"
+                }
+            ]
+        },
+        {
+            "id": 43324471,
+            "entrant1Id": 8958977,
+            "entrant2Id": 8978977,
+            "entrant1Name": "Franz",
+            "entrant2Name": "sicko",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8958977,
+            "loserId": 8978977,
+            "winnerName": "Franz",
+            "loserName": "sicko",
+            "bracketName": "Bracket",
+            "bracketId": 1643698,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 508569,
+                    "playerTag": "sicko"
+                }
+            ]
+        },
+        {
+            "id": 38783704,
+            "entrant1Id": 7676569,
+            "entrant2Id": 7693107,
+            "entrant1Name": "Android 0",
+            "entrant2Name": "Franz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7676569,
+            "loserId": 7693107,
+            "winnerName": "Android 0",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1527543,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 38783832,
+            "entrant1Id": 7693107,
+            "entrant2Id": 7701527,
+            "entrant1Name": "Franz",
+            "entrant2Name": "rom",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7701527,
+            "loserId": 7693107,
+            "winnerName": "rom",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1527543,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3899,
+                    "playerTag": "rom"
+                }
+            ]
+        },
+        {
+            "id": 38783703,
+            "entrant1Id": 7695277,
+            "entrant2Id": 7693107,
+            "entrant1Name": "MegaXmas",
+            "entrant2Name": "Franz",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7693107,
+            "loserId": 7695277,
+            "winnerName": "Franz",
+            "loserName": "MegaXmas",
+            "bracketName": "Bracket",
+            "bracketId": 1527543,
+            "entrant1Players": [
+                {
+                    "playerId": 4224,
+                    "playerTag": "MegaXmas"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 38783701,
+            "entrant1Id": 7707686,
+            "entrant2Id": 7693107,
+            "entrant1Name": "GUG | K\u00fcrv",
+            "entrant2Name": "Franz",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7693107,
+            "loserId": 7707686,
+            "winnerName": "Franz",
+            "loserName": "GUG | K\u00fcrv",
+            "bracketName": "Bracket",
+            "bracketId": 1527543,
+            "entrant1Players": [
+                {
+                    "playerId": 37116,
+                    "playerTag": "K\u00fcrv"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 38783697,
+            "entrant1Id": 7693107,
+            "entrant2Id": 7712263,
+            "entrant1Name": "Franz",
+            "entrant2Name": "SubTails",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7693107,
+            "loserId": 7712263,
+            "winnerName": "Franz",
+            "loserName": "SubTails",
+            "bracketName": "Bracket",
+            "bracketId": 1527543,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 135091,
+                    "playerTag": "SubTails"
+                }
+            ]
+        },
+        {
+            "id": 38783688,
+            "entrant1Id": 7693107,
+            "entrant2Id": 7713635,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Selstad",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7693107,
+            "loserId": 7713635,
+            "winnerName": "Franz",
+            "loserName": "Selstad",
+            "bracketName": "Bracket",
+            "bracketId": 1527543,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1032038,
+                    "playerTag": "Selstor"
+                }
+            ]
+        },
+        {
+            "id": 42959226,
+            "entrant1Id": 8870091,
+            "entrant2Id": 8871434,
+            "entrant1Name": "TS | Mist",
+            "entrant2Name": "Franz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8870091,
+            "loserId": 8871434,
+            "winnerName": "TS | Mist",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1634128,
+            "entrant1Players": [
+                {
+                    "playerId": 10158,
+                    "playerTag": "Mist"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 42959100,
+            "entrant1Id": 8871434,
+            "entrant2Id": 8886497,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Squid",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8886497,
+            "loserId": 8871434,
+            "winnerName": "Squid",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1634128,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4648,
+                    "playerTag": "Squid"
+                }
+            ]
+        },
+        {
+            "id": 42959223,
+            "entrant1Id": 8871434,
+            "entrant2Id": 8891587,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Caeg",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8871434,
+            "loserId": 8891587,
+            "winnerName": "Franz",
+            "loserName": "Caeg",
+            "bracketName": "Bracket",
+            "bracketId": 1634128,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 294343,
+                    "playerTag": "Caeg"
+                }
+            ]
+        },
+        {
+            "id": 42959095,
+            "entrant1Id": 8871434,
+            "entrant2Id": 8886393,
+            "entrant1Name": "Franz",
+            "entrant2Name": "DHB | IggyNieves",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8871434,
+            "loserId": 8886393,
+            "winnerName": "Franz",
+            "loserName": "DHB | IggyNieves",
+            "bracketName": "Bracket",
+            "bracketId": 1634128,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 53131,
+                    "playerTag": "IggyNieves"
+                }
+            ]
+        },
+        {
+            "id": 42959085,
+            "entrant1Id": 8871434,
+            "entrant2Id": 8893008,
+            "entrant1Name": "Franz",
+            "entrant2Name": "NoBear",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8871434,
+            "loserId": 8893008,
+            "winnerName": "Franz",
+            "loserName": "NoBear",
+            "bracketName": "Bracket",
+            "bracketId": 1634128,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38648,
+                    "playerTag": "NoBear"
+                }
+            ]
+        },
+        {
+            "id": 41301077,
+            "entrant1Id": 8456621,
+            "entrant2Id": 8476165,
+            "entrant1Name": "Khalid",
+            "entrant2Name": "Franz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8456621,
+            "loserId": 8476165,
+            "winnerName": "Khalid",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1593448,
+            "entrant1Players": [
+                {
+                    "playerId": 51035,
+                    "playerTag": "Khalid"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 41301045,
+            "entrant1Id": 8476265,
+            "entrant2Id": 8476165,
+            "entrant1Name": "Android 0",
+            "entrant2Name": "Franz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8476265,
+            "loserId": 8476165,
+            "winnerName": "Android 0",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1593448,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 41301076,
+            "entrant1Id": 8476165,
+            "entrant2Id": 8469166,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Steech",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8476165,
+            "loserId": 8469166,
+            "winnerName": "Franz",
+            "loserName": "Steech",
+            "bracketName": "Bracket",
+            "bracketId": 1593448,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 731487,
+                    "playerTag": "Steech"
+                }
+            ]
+        },
+        {
+            "id": 41301043,
+            "entrant1Id": 8476165,
+            "entrant2Id": 8451166,
+            "entrant1Name": "Franz",
+            "entrant2Name": "clich\u00e9",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8476165,
+            "loserId": 8451166,
+            "winnerName": "Franz",
+            "loserName": "clich\u00e9",
+            "bracketName": "Bracket",
+            "bracketId": 1593448,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 927948,
+                    "playerTag": "clich\u00e9"
+                }
+            ]
+        },
+        {
+            "id": 41301038,
+            "entrant1Id": 8476165,
+            "entrant2Id": 8474418,
+            "entrant1Name": "Franz",
+            "entrant2Name": "UCSD | RedBarchetta",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8476165,
+            "loserId": 8474418,
+            "winnerName": "Franz",
+            "loserName": "UCSD | RedBarchetta",
+            "bracketName": "Bracket",
+            "bracketId": 1593448,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1921838,
+                    "playerTag": "RedBarchetta"
+                }
+            ]
+        },
+        {
+            "id": 40670778,
+            "entrant1Id": 8316512,
+            "entrant2Id": 8319747,
+            "entrant1Name": "KoDoRiN",
+            "entrant2Name": "Franz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8316512,
+            "loserId": 8319747,
+            "winnerName": "KoDoRiN",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1578080,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 40670842,
+            "entrant1Id": 8319747,
+            "entrant2Id": 8294418,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Android 0",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8294418,
+            "loserId": 8319747,
+            "winnerName": "Android 0",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1578080,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ]
+        },
+        {
+            "id": 40670775,
+            "entrant1Id": 8319747,
+            "entrant2Id": 8316055,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Casper",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8319747,
+            "loserId": 8316055,
+            "winnerName": "Franz",
+            "loserName": "Casper",
+            "bracketName": "Bracket",
+            "bracketId": 1578080,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 144268,
+                    "playerTag": "Casper"
+                }
+            ]
+        },
+        {
+            "id": 40670768,
+            "entrant1Id": 8319747,
+            "entrant2Id": 8318877,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Kopaka",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8319747,
+            "loserId": 8318877,
+            "winnerName": "Franz",
+            "loserName": "Kopaka",
+            "bracketName": "Bracket",
+            "bracketId": 1578080,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13548,
+                    "playerTag": "Kopaka"
+                }
+            ]
+        },
+        {
+            "id": 40670754,
+            "entrant1Id": 8319747,
+            "entrant2Id": 8319958,
+            "entrant1Name": "Franz",
+            "entrant2Name": "mire",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8319747,
+            "loserId": 8319958,
+            "winnerName": "Franz",
+            "loserName": "mire",
+            "bracketName": "Bracket",
+            "bracketId": 1578080,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2334305,
+                    "playerTag": "mire"
+                }
+            ]
+        },
+        {
+            "id": 40291706,
+            "entrant1Id": 8176314,
+            "entrant2Id": 8217637,
+            "entrant1Name": "Android 0",
+            "entrant2Name": "Franz",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8176314,
+            "loserId": 8217637,
+            "winnerName": "Android 0",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1561763,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 40291704,
+            "entrant1Id": 8217637,
+            "entrant2Id": 8221827,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Frame1 | Greg Turbo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8217637,
+            "loserId": 8221827,
+            "winnerName": "Franz",
+            "loserName": "Frame1 | Greg Turbo",
+            "bracketName": "Bracket",
+            "bracketId": 1561763,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151318,
+                    "playerTag": "Greg Turbo"
+                }
+            ]
+        },
+        {
+            "id": 40291640,
+            "entrant1Id": 8217637,
+            "entrant2Id": 8195928,
+            "entrant1Name": "Franz",
+            "entrant2Name": "GUG | K\u00fcrv",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8195928,
+            "loserId": 8217637,
+            "winnerName": "GUG | K\u00fcrv",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1561763,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37116,
+                    "playerTag": "K\u00fcrv"
+                }
+            ]
+        },
+        {
+            "id": 40291700,
+            "entrant1Id": 8217637,
+            "entrant2Id": 8218934,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Kopaka",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8217637,
+            "loserId": 8218934,
+            "winnerName": "Franz",
+            "loserName": "Kopaka",
+            "bracketName": "Bracket",
+            "bracketId": 1561763,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13548,
+                    "playerTag": "Kopaka"
+                }
+            ]
+        },
+        {
+            "id": 40291633,
+            "entrant1Id": 8217637,
+            "entrant2Id": 8213625,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Kris",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8217637,
+            "loserId": 8213625,
+            "winnerName": "Franz",
+            "loserName": "Kris",
+            "bracketName": "Bracket",
+            "bracketId": 1561763,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37288,
+                    "playerTag": "Kris"
+                }
+            ]
+        },
+        {
+            "id": 43343460,
+            "entrant1Id": 8985088,
+            "entrant2Id": 8982526,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Mango's Friend | null",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8985088,
+            "loserId": 8982526,
+            "winnerName": "Franz",
+            "loserName": "Mango's Friend | null",
+            "bracketName": "Bracket",
+            "bracketId": 1647026,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ]
+        },
+        {
+            "id": 43343459,
+            "entrant1Id": 8985088,
+            "entrant2Id": 8985085,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Casper",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8985088,
+            "loserId": 8985085,
+            "winnerName": "Franz",
+            "loserName": "Casper",
+            "bracketName": "Bracket",
+            "bracketId": 1647026,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 144268,
+                    "playerTag": "Casper"
+                }
+            ]
+        },
+        {
+            "id": 43343457,
+            "entrant1Id": 8982526,
+            "entrant2Id": 8985088,
+            "entrant1Name": "Mango's Friend | null",
+            "entrant2Name": "Franz",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8985088,
+            "loserId": 8982526,
+            "winnerName": "Franz",
+            "loserName": "Mango's Friend | null",
+            "bracketName": "Bracket",
+            "bracketId": 1647026,
+            "entrant1Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 43343454,
+            "entrant1Id": 8985088,
+            "entrant2Id": 8976635,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Rasec",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8985088,
+            "loserId": 8976635,
+            "winnerName": "Franz",
+            "loserName": "Rasec",
+            "bracketName": "Bracket",
+            "bracketId": 1647026,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 358739,
+                    "playerTag": "Rasec"
+                }
+            ]
+        },
+        {
+            "id": 43343447,
+            "entrant1Id": 8985088,
+            "entrant2Id": 8987266,
+            "entrant1Name": "Franz",
+            "entrant2Name": "119 | Fire",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8985088,
+            "loserId": 8987266,
+            "winnerName": "Franz",
+            "loserName": "119 | Fire",
+            "bracketName": "Bracket",
+            "bracketId": 1647026,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21405,
+                    "playerTag": "Fire"
+                }
+            ]
+        },
+        {
+            "id": 43343433,
+            "entrant1Id": 8985088,
+            "entrant2Id": 8976648,
+            "entrant1Name": "Franz",
+            "entrant2Name": "BDC | Cream",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8985088,
+            "loserId": 8976648,
+            "winnerName": "Franz",
+            "loserName": "BDC | Cream",
+            "bracketName": "Bracket",
+            "bracketId": 1647026,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 454307,
+                    "playerTag": "Cream"
+                }
+            ]
+        },
+        {
+            "id": 43214214,
+            "entrant1Id": 8940485,
+            "entrant2Id": 8940404,
+            "entrant1Name": "Franz",
+            "entrant2Name": "AJ",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8940485,
+            "loserId": 8940404,
+            "winnerName": "Franz",
+            "loserName": "AJ",
+            "bracketName": "Bracket",
+            "bracketId": 1643873,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 41562,
+                    "playerTag": "AJ"
+                }
+            ]
+        },
+        {
+            "id": 43214213,
+            "entrant1Id": 8940485,
+            "entrant2Id": 8940404,
+            "entrant1Name": "Franz",
+            "entrant2Name": "AJ",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8940485,
+            "loserId": 8940404,
+            "winnerName": "Franz",
+            "loserName": "AJ",
+            "bracketName": "Bracket",
+            "bracketId": 1643873,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 41562,
+                    "playerTag": "AJ"
+                }
+            ]
+        },
+        {
+            "id": 43214211,
+            "entrant1Id": 8940485,
+            "entrant2Id": 8964494,
+            "entrant1Name": "Franz",
+            "entrant2Name": "clich\u00e9",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8940485,
+            "loserId": 8964494,
+            "winnerName": "Franz",
+            "loserName": "clich\u00e9",
+            "bracketName": "Bracket",
+            "bracketId": 1643873,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 927948,
+                    "playerTag": "clich\u00e9"
+                }
+            ]
+        },
+        {
+            "id": 43214207,
+            "entrant1Id": 8940485,
+            "entrant2Id": 8965019,
+            "entrant1Name": "Franz",
+            "entrant2Name": "callahan",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8940485,
+            "loserId": 8965019,
+            "winnerName": "Franz",
+            "loserName": "callahan",
+            "bracketName": "Bracket",
+            "bracketId": 1643873,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 14515,
+                    "playerTag": "callahan"
+                }
+            ]
+        },
+        {
+            "id": 43214199,
+            "entrant1Id": 8940485,
+            "entrant2Id": 8964777,
+            "entrant1Name": "Franz",
+            "entrant2Name": "TOMO",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8940485,
+            "loserId": 8964777,
+            "winnerName": "Franz",
+            "loserName": "TOMO",
+            "bracketName": "Bracket",
+            "bracketId": 1643873,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1076272,
+                    "playerTag": "TOMO"
+                }
+            ]
+        },
+        {
+            "id": 43032263,
+            "entrant1Id": 8917586,
+            "entrant2Id": 8906593,
+            "entrant1Name": "Franz",
+            "entrant2Name": "AJ",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8917586,
+            "loserId": 8906593,
+            "winnerName": "Franz",
+            "loserName": "AJ",
+            "bracketName": "Bracket",
+            "bracketId": 1639880,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 41562,
+                    "playerTag": "AJ"
+                }
+            ]
+        },
+        {
+            "id": 43032262,
+            "entrant1Id": 8917586,
+            "entrant2Id": 8906593,
+            "entrant1Name": "Franz",
+            "entrant2Name": "AJ",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8917586,
+            "loserId": 8906593,
+            "winnerName": "Franz",
+            "loserName": "AJ",
+            "bracketName": "Bracket",
+            "bracketId": 1639880,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 41562,
+                    "playerTag": "AJ"
+                }
+            ]
+        },
+        {
+            "id": 43032260,
+            "entrant1Id": 8917586,
+            "entrant2Id": 8913453,
+            "entrant1Name": "Franz",
+            "entrant2Name": "CrazyDude",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8917586,
+            "loserId": 8913453,
+            "winnerName": "Franz",
+            "loserName": "CrazyDude",
+            "bracketName": "Bracket",
+            "bracketId": 1639880,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13633,
+                    "playerTag": "CrazyDude"
+                }
+            ]
+        },
+        {
+            "id": 43032256,
+            "entrant1Id": 8917586,
+            "entrant2Id": 8914652,
+            "entrant1Name": "Franz",
+            "entrant2Name": "trfjosh",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8917586,
+            "loserId": 8914652,
+            "winnerName": "Franz",
+            "loserName": "trfjosh",
+            "bracketName": "Bracket",
+            "bracketId": 1639880,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2141037,
+                    "playerTag": "trfjosh"
+                }
+            ]
+        },
+        {
+            "id": 42752891,
+            "entrant1Id": 8770468,
+            "entrant2Id": 8783809,
+            "entrant1Name": "Xela",
+            "entrant2Name": "Franz",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8783809,
+            "loserId": 8770468,
+            "winnerName": "Franz",
+            "loserName": "Xela",
+            "bracketName": "Singles",
+            "bracketId": 1633325,
+            "entrant1Players": [
+                {
+                    "playerId": 71062,
+                    "playerTag": "Xela"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 42752892,
+            "entrant1Id": 8783809,
+            "entrant2Id": 8770468,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Xela",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8770468,
+            "loserId": 8783809,
+            "winnerName": "Xela",
+            "loserName": "Franz",
+            "bracketName": "Singles",
+            "bracketId": 1633325,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 71062,
+                    "playerTag": "Xela"
+                }
+            ]
+        },
+        {
+            "id": 42752890,
+            "entrant1Id": 8783809,
+            "entrant2Id": 8770468,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Xela",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8770468,
+            "loserId": 8783809,
+            "winnerName": "Xela",
+            "loserName": "Franz",
+            "bracketName": "Singles",
+            "bracketId": 1633325,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 71062,
+                    "playerTag": "Xela"
+                }
+            ]
+        },
+        {
+            "id": 42752922,
+            "entrant1Id": 8783809,
+            "entrant2Id": 8836362,
+            "entrant1Name": "Franz",
+            "entrant2Name": "CrazyDude",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8783809,
+            "loserId": 8836362,
+            "winnerName": "Franz",
+            "loserName": "CrazyDude",
+            "bracketName": "Singles",
+            "bracketId": 1633325,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13633,
+                    "playerTag": "CrazyDude"
+                }
+            ]
+        },
+        {
+            "id": 42752888,
+            "entrant1Id": 8783809,
+            "entrant2Id": 8836362,
+            "entrant1Name": "Franz",
+            "entrant2Name": "CrazyDude",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8783809,
+            "loserId": 8836362,
+            "winnerName": "Franz",
+            "loserName": "CrazyDude",
+            "bracketName": "Singles",
+            "bracketId": 1633325,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13633,
+                    "playerTag": "CrazyDude"
+                }
+            ]
+        },
+        {
+            "id": 42752884,
+            "entrant1Id": 8783809,
+            "entrant2Id": 8845905,
+            "entrant1Name": "Franz",
+            "entrant2Name": "kq",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8783809,
+            "loserId": 8845905,
+            "winnerName": "Franz",
+            "loserName": "kq",
+            "bracketName": "Singles",
+            "bracketId": 1633325,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016669,
+                    "playerTag": "kq"
+                }
+            ]
+        },
+        {
+            "id": 43136083,
+            "entrant1Id": 8934161,
+            "entrant2Id": 8934172,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Xela",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8934161,
+            "loserId": 8934172,
+            "winnerName": "Franz",
+            "loserName": "Xela",
+            "bracketName": "Bracket",
+            "bracketId": 1633926,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 71062,
+                    "playerTag": "Xela"
+                }
+            ]
+        },
+        {
+            "id": 43136082,
+            "entrant1Id": 8934182,
+            "entrant2Id": 8934161,
+            "entrant1Name": "Casper",
+            "entrant2Name": "Franz",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8934161,
+            "loserId": 8934182,
+            "winnerName": "Franz",
+            "loserName": "Casper",
+            "bracketName": "Bracket",
+            "bracketId": 1633926,
+            "entrant1Players": [
+                {
+                    "playerId": 144268,
+                    "playerTag": "Casper"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 43136081,
+            "entrant1Id": 8934161,
+            "entrant2Id": 8938423,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Khalid",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8934161,
+            "loserId": 8938423,
+            "winnerName": "Franz",
+            "loserName": "Khalid",
+            "bracketName": "Bracket",
+            "bracketId": 1633926,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51035,
+                    "playerTag": "Khalid"
+                }
+            ]
+        },
+        {
+            "id": 43136078,
+            "entrant1Id": 8934161,
+            "entrant2Id": 8934180,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Geruyop",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8934161,
+            "loserId": 8934180,
+            "winnerName": "Franz",
+            "loserName": "Geruyop",
+            "bracketName": "Bracket",
+            "bracketId": 1633926,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30365,
+                    "playerTag": "Geruyop"
+                }
+            ]
+        },
+        {
+            "id": 42474951,
+            "entrant1Id": 8783309,
+            "entrant2Id": 8779441,
+            "entrant1Name": "Franz",
+            "entrant2Name": "AJ",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8783309,
+            "loserId": 8779441,
+            "winnerName": "Franz",
+            "loserName": "AJ",
+            "bracketName": "Bracket",
+            "bracketId": 1624495,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 41562,
+                    "playerTag": "AJ"
+                }
+            ]
+        },
+        {
+            "id": 42474950,
+            "entrant1Id": 8783309,
+            "entrant2Id": 8779441,
+            "entrant1Name": "Franz",
+            "entrant2Name": "AJ",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8783309,
+            "loserId": 8779441,
+            "winnerName": "Franz",
+            "loserName": "AJ",
+            "bracketName": "Bracket",
+            "bracketId": 1624495,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 41562,
+                    "playerTag": "AJ"
+                }
+            ]
+        },
+        {
+            "id": 42474948,
+            "entrant1Id": 8783309,
+            "entrant2Id": 8785829,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Tourist",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8783309,
+            "loserId": 8785829,
+            "winnerName": "Franz",
+            "loserName": "Tourist",
+            "bracketName": "Bracket",
+            "bracketId": 1624495,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 25789,
+                    "playerTag": "Tourist"
+                }
+            ]
+        },
+        {
+            "id": 42474944,
+            "entrant1Id": 8783309,
+            "entrant2Id": 8785238,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Agx_11",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8783309,
+            "loserId": 8785238,
+            "winnerName": "Franz",
+            "loserName": "Agx_11",
+            "bracketName": "Bracket",
+            "bracketId": 1624495,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 133929,
+                    "playerTag": "Agx_11"
+                }
+            ]
+        },
+        {
+            "id": 42474936,
+            "entrant1Id": 8783309,
+            "entrant2Id": 8778731,
+            "entrant1Name": "Franz",
+            "entrant2Name": "CrazyDude",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8783309,
+            "loserId": 8778731,
+            "winnerName": "Franz",
+            "loserName": "CrazyDude",
+            "bracketName": "Bracket",
+            "bracketId": 1624495,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13633,
+                    "playerTag": "CrazyDude"
+                }
+            ]
+        },
+        {
+            "id": 42260777,
+            "entrant1Id": 8727292,
+            "entrant2Id": 8696993,
+            "entrant1Name": "Casper",
+            "entrant2Name": "Franz",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8727292,
+            "loserId": 8696993,
+            "winnerName": "Casper",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1617627,
+            "entrant1Players": [
+                {
+                    "playerId": 144268,
+                    "playerTag": "Casper"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 42260840,
+            "entrant1Id": 8731379,
+            "entrant2Id": 8696993,
+            "entrant1Name": "KB#795 | Kevbot",
+            "entrant2Name": "Franz",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8696993,
+            "loserId": 8731379,
+            "winnerName": "Franz",
+            "loserName": "KB#795 | Kevbot",
+            "bracketName": "Bracket",
+            "bracketId": 1617627,
+            "entrant1Players": [
+                {
+                    "playerId": 12293,
+                    "playerTag": "Kevbot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 42260839,
+            "entrant1Id": 8724320,
+            "entrant2Id": 8696993,
+            "entrant1Name": "PEPIS | Noire",
+            "entrant2Name": "Franz",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8696993,
+            "loserId": 8724320,
+            "winnerName": "Franz",
+            "loserName": "PEPIS | Noire",
+            "bracketName": "Bracket",
+            "bracketId": 1617627,
+            "entrant1Players": [
+                {
+                    "playerId": 70458,
+                    "playerTag": "Noire"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 42260774,
+            "entrant1Id": 8696993,
+            "entrant2Id": 8731379,
+            "entrant1Name": "Franz",
+            "entrant2Name": "KB#795 | Kevbot",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8731379,
+            "loserId": 8696993,
+            "winnerName": "KB#795 | Kevbot",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1617627,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12293,
+                    "playerTag": "Kevbot"
+                }
+            ]
+        },
+        {
+            "id": 42260838,
+            "entrant1Id": 8696993,
+            "entrant2Id": 8729942,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8696993,
+            "loserId": 8729942,
+            "winnerName": "Franz",
+            "loserName": "Umarth",
+            "bracketName": "Bracket",
+            "bracketId": 1617627,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 42260770,
+            "entrant1Id": 8696993,
+            "entrant2Id": 8724320,
+            "entrant1Name": "Franz",
+            "entrant2Name": "PEPIS | Noire",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8696993,
+            "loserId": 8724320,
+            "winnerName": "Franz",
+            "loserName": "PEPIS | Noire",
+            "bracketName": "Bracket",
+            "bracketId": 1617627,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 70458,
+                    "playerTag": "Noire"
+                }
+            ]
+        },
+        {
+            "id": 42260762,
+            "entrant1Id": 8696993,
+            "entrant2Id": 8734435,
+            "entrant1Name": "Franz",
+            "entrant2Name": "hugsfan69",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8696993,
+            "loserId": 8734435,
+            "winnerName": "Franz",
+            "loserName": "hugsfan69",
+            "bracketName": "Bracket",
+            "bracketId": 1617627,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 577173,
+                    "playerTag": "hugsfan69"
+                }
+            ]
+        },
+        {
+            "id": 42166499,
+            "entrant1Id": 8671973,
+            "entrant2Id": 8699419,
+            "entrant1Name": "Franz",
+            "entrant2Name": "rom",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8699419,
+            "loserId": 8671973,
+            "winnerName": "rom",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1613117,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3899,
+                    "playerTag": "rom"
+                }
+            ]
+        },
+        {
+            "id": 42166563,
+            "entrant1Id": 8671973,
+            "entrant2Id": 8702166,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Casper",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8702166,
+            "loserId": 8671973,
+            "winnerName": "Casper",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1613117,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 144268,
+                    "playerTag": "Casper"
+                }
+            ]
+        },
+        {
+            "id": 42166497,
+            "entrant1Id": 8671556,
+            "entrant2Id": 8671973,
+            "entrant1Name": "Android 0",
+            "entrant2Name": "Franz",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8671973,
+            "loserId": 8671556,
+            "winnerName": "Franz",
+            "loserName": "Android 0",
+            "bracketName": "Bracket",
+            "bracketId": 1613117,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 42166494,
+            "entrant1Id": 8671973,
+            "entrant2Id": 8701726,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Blassy",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8671973,
+            "loserId": 8701726,
+            "winnerName": "Franz",
+            "loserName": "Blassy",
+            "bracketName": "Bracket",
+            "bracketId": 1613117,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 173937,
+                    "playerTag": "Blassy"
+                }
+            ]
+        },
+        {
+            "id": 42166487,
+            "entrant1Id": 8671973,
+            "entrant2Id": 8702467,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Tino",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8671973,
+            "loserId": 8702467,
+            "winnerName": "Franz",
+            "loserName": "Tino",
+            "bracketName": "Bracket",
+            "bracketId": 1613117,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10479,
+                    "playerTag": "Tino"
+                }
+            ]
+        },
+        {
+            "id": 42166473,
+            "entrant1Id": 8671973,
+            "entrant2Id": 8703893,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Hoov",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8671973,
+            "loserId": 8703893,
+            "winnerName": "Franz",
+            "loserName": "Hoov",
+            "bracketName": "Bracket",
+            "bracketId": 1613117,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 610754,
+                    "playerTag": "Hoov"
+                }
+            ]
+        },
+        {
+            "id": 42035639,
+            "entrant1Id": 8674190,
+            "entrant2Id": 8659726,
+            "entrant1Name": "Franz",
+            "entrant2Name": "AJ",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8674190,
+            "loserId": 8659726,
+            "winnerName": "Franz",
+            "loserName": "AJ",
+            "bracketName": "Bracket",
+            "bracketId": 1613318,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 41562,
+                    "playerTag": "AJ"
+                }
+            ]
+        },
+        {
+            "id": 42035638,
+            "entrant1Id": 8674190,
+            "entrant2Id": 8659726,
+            "entrant1Name": "Franz",
+            "entrant2Name": "AJ",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8674190,
+            "loserId": 8659726,
+            "winnerName": "Franz",
+            "loserName": "AJ",
+            "bracketName": "Bracket",
+            "bracketId": 1613318,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 41562,
+                    "playerTag": "AJ"
+                }
+            ]
+        },
+        {
+            "id": 42035636,
+            "entrant1Id": 8674190,
+            "entrant2Id": 8673820,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Raikin",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8674190,
+            "loserId": 8673820,
+            "winnerName": "Franz",
+            "loserName": "Raikin",
+            "bracketName": "Bracket",
+            "bracketId": 1613318,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 269186,
+                    "playerTag": "Raikin"
+                }
+            ]
+        },
+        {
+            "id": 42035632,
+            "entrant1Id": 8674190,
+            "entrant2Id": 8655804,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Gassy-Patcho",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8674190,
+            "loserId": 8655804,
+            "winnerName": "Franz",
+            "loserName": "Gassy-Patcho",
+            "bracketName": "Bracket",
+            "bracketId": 1613318,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2315685,
+                    "playerTag": "Gassy-Patcho"
+                }
+            ]
+        },
+        {
+            "id": 42035624,
+            "entrant1Id": 8674190,
+            "entrant2Id": 8656610,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Pochita",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8674190,
+            "loserId": 8656610,
+            "winnerName": "Franz",
+            "loserName": "Pochita",
+            "bracketName": "Bracket",
+            "bracketId": 1613318,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2514503,
+                    "playerTag": "Pochita"
+                }
+            ]
+        },
+        {
+            "id": 41896285,
+            "entrant1Id": 8619328,
+            "entrant2Id": 8619326,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Xela",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8619328,
+            "loserId": 8619326,
+            "winnerName": "Franz",
+            "loserName": "Xela",
+            "bracketName": "Bracket",
+            "bracketId": 1607715,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 71062,
+                    "playerTag": "Xela"
+                }
+            ]
+        },
+        {
+            "id": 41896284,
+            "entrant1Id": 8619328,
+            "entrant2Id": 8619587,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Casper",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8619328,
+            "loserId": 8619587,
+            "winnerName": "Franz",
+            "loserName": "Casper",
+            "bracketName": "Bracket",
+            "bracketId": 1607715,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 144268,
+                    "playerTag": "Casper"
+                }
+            ]
+        },
+        {
+            "id": 41896282,
+            "entrant1Id": 8619328,
+            "entrant2Id": 8639631,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Steech",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8619328,
+            "loserId": 8639631,
+            "winnerName": "Franz",
+            "loserName": "Steech",
+            "bracketName": "Bracket",
+            "bracketId": 1607715,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 731487,
+                    "playerTag": "Steech"
+                }
+            ]
+        },
+        {
+            "id": 41896278,
+            "entrant1Id": 8619328,
+            "entrant2Id": 8639755,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Alyssian Rei",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8619328,
+            "loserId": 8639755,
+            "winnerName": "Franz",
+            "loserName": "Alyssian Rei",
+            "bracketName": "Bracket",
+            "bracketId": 1607715,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 416732,
+                    "playerTag": "Alyssian Rei"
+                }
+            ]
+        },
+        {
+            "id": 41896270,
+            "entrant1Id": 8619328,
+            "entrant2Id": 8635441,
+            "entrant1Name": "Franz",
+            "entrant2Name": "MimZ",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8619328,
+            "loserId": 8635441,
+            "winnerName": "Franz",
+            "loserName": "MimZ",
+            "bracketName": "Bracket",
+            "bracketId": 1607715,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1668462,
+                    "playerTag": "MimZ"
+                }
+            ]
+        },
+        {
+            "id": 41814227,
+            "entrant1Id": 8619578,
+            "entrant2Id": 8621342,
+            "entrant1Name": "Franz",
+            "entrant2Name": "AJ",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8621342,
+            "loserId": 8619578,
+            "winnerName": "AJ",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1606742,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 41562,
+                    "playerTag": "AJ"
+                }
+            ]
+        },
+        {
+            "id": 41814228,
+            "entrant1Id": 8621342,
+            "entrant2Id": 8619578,
+            "entrant1Name": "AJ",
+            "entrant2Name": "Franz",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8619578,
+            "loserId": 8621342,
+            "winnerName": "Franz",
+            "loserName": "AJ",
+            "bracketName": "Bracket",
+            "bracketId": 1606742,
+            "entrant1Players": [
+                {
+                    "playerId": 41562,
+                    "playerTag": "AJ"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 41814226,
+            "entrant1Id": 8619578,
+            "entrant2Id": 8621342,
+            "entrant1Name": "Franz",
+            "entrant2Name": "AJ",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8619578,
+            "loserId": 8621342,
+            "winnerName": "Franz",
+            "loserName": "AJ",
+            "bracketName": "Bracket",
+            "bracketId": 1606742,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 41562,
+                    "playerTag": "AJ"
+                }
+            ]
+        },
+        {
+            "id": 41814224,
+            "entrant1Id": 8619578,
+            "entrant2Id": 8626778,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Streetlamp",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8619578,
+            "loserId": 8626778,
+            "winnerName": "Franz",
+            "loserName": "Streetlamp",
+            "bracketName": "Bracket",
+            "bracketId": 1606742,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10419,
+                    "playerTag": "Streetlamp"
+                }
+            ]
+        },
+        {
+            "id": 41814220,
+            "entrant1Id": 8619578,
+            "entrant2Id": 8626792,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Tripp",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8619578,
+            "loserId": 8626792,
+            "winnerName": "Franz",
+            "loserName": "Tripp",
+            "bracketName": "Bracket",
+            "bracketId": 1606742,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1240568,
+                    "playerTag": "Tripp"
+                }
+            ]
+        },
+        {
+            "id": 41727988,
+            "entrant1Id": 8573071,
+            "entrant2Id": 8595329,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Khalid",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8573071,
+            "loserId": 8595329,
+            "winnerName": "Franz",
+            "loserName": "Khalid",
+            "bracketName": "Bracket",
+            "bracketId": 1603985,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51035,
+                    "playerTag": "Khalid"
+                }
+            ]
+        },
+        {
+            "id": 41727987,
+            "entrant1Id": 8573071,
+            "entrant2Id": 8595329,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Khalid",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8573071,
+            "loserId": 8595329,
+            "winnerName": "Franz",
+            "loserName": "Khalid",
+            "bracketName": "Bracket",
+            "bracketId": 1603985,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51035,
+                    "playerTag": "Khalid"
+                }
+            ]
+        },
+        {
+            "id": 41727985,
+            "entrant1Id": 8573071,
+            "entrant2Id": 8592445,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Xela",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8573071,
+            "loserId": 8592445,
+            "winnerName": "Franz",
+            "loserName": "Xela",
+            "bracketName": "Bracket",
+            "bracketId": 1603985,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 71062,
+                    "playerTag": "Xela"
+                }
+            ]
+        },
+        {
+            "id": 41727981,
+            "entrant1Id": 8573071,
+            "entrant2Id": 8573999,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Breakfast",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8573071,
+            "loserId": 8573999,
+            "winnerName": "Franz",
+            "loserName": "Breakfast",
+            "bracketName": "Bracket",
+            "bracketId": 1603985,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13778,
+                    "playerTag": "Breakfast"
+                }
+            ]
+        },
+        {
+            "id": 41727973,
+            "entrant1Id": 8573071,
+            "entrant2Id": 8586644,
+            "entrant1Name": "Franz",
+            "entrant2Name": "oyasumi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8573071,
+            "loserId": 8586644,
+            "winnerName": "Franz",
+            "loserName": "oyasumi",
+            "bracketName": "Bracket",
+            "bracketId": 1603985,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2174681,
+                    "playerTag": "oyasumi"
+                }
+            ]
+        },
+        {
+            "id": 41589940,
+            "entrant1Id": 8558141,
+            "entrant2Id": 8567235,
+            "entrant1Name": "SD | Android 0",
+            "entrant2Name": "Franz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8558141,
+            "loserId": 8567235,
+            "winnerName": "SD | Android 0",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1603304,
+            "entrant1Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 41589971,
+            "entrant1Id": 8558764,
+            "entrant2Id": 8567235,
+            "entrant1Name": "Xela",
+            "entrant2Name": "Franz",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8567235,
+            "loserId": 8558764,
+            "winnerName": "Franz",
+            "loserName": "Xela",
+            "bracketName": "Bracket",
+            "bracketId": 1603304,
+            "entrant1Players": [
+                {
+                    "playerId": 71062,
+                    "playerTag": "Xela"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 41589970,
+            "entrant1Id": 8566073,
+            "entrant2Id": 8567235,
+            "entrant1Name": "AJ",
+            "entrant2Name": "Franz",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8567235,
+            "loserId": 8566073,
+            "winnerName": "Franz",
+            "loserName": "AJ",
+            "bracketName": "Bracket",
+            "bracketId": 1603304,
+            "entrant1Players": [
+                {
+                    "playerId": 41562,
+                    "playerTag": "AJ"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 41589938,
+            "entrant1Id": 8567235,
+            "entrant2Id": 8558764,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Xela",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8558764,
+            "loserId": 8567235,
+            "winnerName": "Xela",
+            "loserName": "Franz",
+            "bracketName": "Bracket",
+            "bracketId": 1603304,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 71062,
+                    "playerTag": "Xela"
+                }
+            ]
+        },
+        {
+            "id": 41589969,
+            "entrant1Id": 8567235,
+            "entrant2Id": 8559574,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Tourist",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8567235,
+            "loserId": 8559574,
+            "winnerName": "Franz",
+            "loserName": "Tourist",
+            "bracketName": "Bracket",
+            "bracketId": 1603304,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 25789,
+                    "playerTag": "Tourist"
+                }
+            ]
+        },
+        {
+            "id": 41589935,
+            "entrant1Id": 8567235,
+            "entrant2Id": 8558923,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Fortnite",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8567235,
+            "loserId": 8558923,
+            "winnerName": "Franz",
+            "loserName": "Fortnite",
+            "bracketName": "Bracket",
+            "bracketId": 1603304,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 67516,
+                    "playerTag": "Fortnite"
+                }
+            ]
+        },
+        {
+            "id": 41180560,
+            "entrant1Id": 8440142,
+            "entrant2Id": 8460239,
+            "entrant1Name": "Franz",
+            "entrant2Name": "HLGUCR | airon1423",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8440142,
+            "loserId": 8460239,
+            "winnerName": "Franz",
+            "loserName": "HLGUCR | airon1423",
+            "bracketName": "Bracket",
+            "bracketId": 1583747,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1934132,
+                    "playerTag": "airon1423"
+                }
+            ]
+        },
+        {
+            "id": 41180659,
+            "entrant1Id": 8448710,
+            "entrant2Id": 8440142,
+            "entrant1Name": "AJ",
+            "entrant2Name": "Franz",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8440142,
+            "loserId": 8448710,
+            "winnerName": "Franz",
+            "loserName": "AJ",
+            "bracketName": "Top 4",
+            "bracketId": 1594302,
+            "entrant1Players": [
+                {
+                    "playerId": 41562,
+                    "playerTag": "AJ"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 41180559,
+            "entrant1Id": 8440142,
+            "entrant2Id": 8460209,
+            "entrant1Name": "Franz",
+            "entrant2Name": "WeebSmoker",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8440142,
+            "loserId": 8460209,
+            "winnerName": "Franz",
+            "loserName": "WeebSmoker",
+            "bracketName": "Bracket",
+            "bracketId": 1583747,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 44948,
+                    "playerTag": "WeebSmoker"
+                }
+            ]
+        },
+        {
+            "id": 41180658,
+            "entrant1Id": 8448293,
+            "entrant2Id": 8440142,
+            "entrant1Name": "Xela",
+            "entrant2Name": "Franz",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8440142,
+            "loserId": 8448293,
+            "winnerName": "Franz",
+            "loserName": "Xela",
+            "bracketName": "Top 4",
+            "bracketId": 1594302,
+            "entrant1Players": [
+                {
+                    "playerId": 71062,
+                    "playerTag": "Xela"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 41180656,
+            "entrant1Id": 8440142,
+            "entrant2Id": 8437632,
+            "entrant1Name": "Franz",
+            "entrant2Name": "Tourist",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8440142,
+            "loserId": 8437632,
+            "winnerName": "Franz",
+            "loserName": "Tourist",
+            "bracketName": "Top 4",
+            "bracketId": 1594302,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 25789,
+                    "playerTag": "Tourist"
+                }
+            ]
+        },
+        {
+            "id": 36129048,
+            "entrant1Id": 6969119,
+            "entrant2Id": 6968855,
+            "entrant1Name": "Franz",
+            "entrant2Name": "UConn | Palika",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6969119,
+            "loserId": 6968855,
+            "winnerName": "Franz",
+            "loserName": "UConn | Palika",
+            "bracketName": "Double Elimination",
+            "bracketId": 1462305,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50205,
+                    "playerTag": "Palika"
+                }
+            ]
+        },
+        {
+            "id": 36129047,
+            "entrant1Id": 6968855,
+            "entrant2Id": 6969119,
+            "entrant1Name": "UConn | Palika",
+            "entrant2Name": "Franz",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6969119,
+            "loserId": 6968855,
+            "winnerName": "Franz",
+            "loserName": "UConn | Palika",
+            "bracketName": "Double Elimination",
+            "bracketId": 1462305,
+            "entrant1Players": [
+                {
+                    "playerId": 50205,
+                    "playerTag": "Palika"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 36129046,
+            "entrant1Id": 7047567,
+            "entrant2Id": 6969119,
+            "entrant1Name": "Phorox",
+            "entrant2Name": "Franz",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6969119,
+            "loserId": 7047567,
+            "winnerName": "Franz",
+            "loserName": "Phorox",
+            "bracketName": "Double Elimination",
+            "bracketId": 1462305,
+            "entrant1Players": [
+                {
+                    "playerId": 1007304,
+                    "playerTag": "Phorox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ]
+        },
+        {
+            "id": 36129044,
+            "entrant1Id": 6969119,
+            "entrant2Id": 7036129,
+            "entrant1Name": "Franz",
+            "entrant2Name": "cliche gaming | beachbum709",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6969119,
+            "loserId": 7036129,
+            "winnerName": "Franz",
+            "loserName": "cliche gaming | beachbum709",
+            "bracketName": "Double Elimination",
+            "bracketId": 1462305,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 228606,
+                    "playerTag": "Avery"
+                }
+            ]
+        },
+        {
+            "id": 36129039,
+            "entrant1Id": 6969119,
+            "entrant2Id": 6969429,
+            "entrant1Name": "Franz",
+            "entrant2Name": "SmashMouthEgg",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6969119,
+            "loserId": 6969429,
+            "winnerName": "Franz",
+            "loserName": "SmashMouthEgg",
+            "bracketName": "Double Elimination",
+            "bracketId": 1462305,
+            "entrant1Players": [
+                {
+                    "playerId": 152578,
+                    "playerTag": "Franz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 581230,
+                    "playerTag": "SmashMouthEgg"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "casper",
+        "army",
+        "army",
+        "android 0",
+        "fiction",
+        "fiction",
+        "null",
+        "ringler",
+        "squid",
+        "nut",
+        "casper",
+        "null",
+        "casper",
+        "null",
+        "casper",
+        "umarth",
+        "android 0",
+        "casper"
+    ],
+    "L": [
+        "dacky",
+        "axe",
+        "s2j",
+        "casper",
+        "null",
+        "westballz",
+        "fiction",
+        "casper",
+        "casper",
+        "android 0",
+        "kodorin",
+        "rom",
+        "android 0",
+        "rom",
+        "Mist",
+        "squid",
+        "Khalid",
+        "android 0",
+        "kodorin",
+        "android 0",
+        "android 0",
+        "K\u00fcrv",
+        "Xela",
+        "Xela",
+        "casper",
+        "Kevbot",
+        "rom",
+        "casper",
+        "AJ",
+        "android 0",
+        "Xela"
+    ]
+}

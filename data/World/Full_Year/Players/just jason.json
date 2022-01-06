@@ -1,0 +1,2992 @@
+{
+    "Events": [
+        "569339",
+        "570761",
+        "562163",
+        "601275",
+        "573321",
+        "623950",
+        "569987",
+        "563383",
+        "632096",
+        "620019",
+        "607672",
+        "605729",
+        "606813",
+        "543757",
+        "603700",
+        "599269",
+        "610918"
+    ],
+    "Sets": [
+        {
+            "id": 37450985,
+            "entrant1Id": 7339539,
+            "entrant2Id": 7357938,
+            "entrant1Name": "TheRealThing",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7339539,
+            "loserId": 7357938,
+            "winnerName": "TheRealThing",
+            "loserName": "Just Jason",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1482730,
+            "entrant1Players": [
+                {
+                    "playerId": 8043,
+                    "playerTag": "TheRealThing"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 37451414,
+            "entrant1Id": 7357938,
+            "entrant2Id": 7364384,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Stom",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7357938,
+            "loserId": 7364384,
+            "winnerName": "Just Jason",
+            "loserName": "Stom",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1482730,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12518,
+                    "playerTag": "Stom"
+                }
+            ]
+        },
+        {
+            "id": 37450971,
+            "entrant1Id": 7357938,
+            "entrant2Id": 7344136,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Drio",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7357938,
+            "loserId": 7344136,
+            "winnerName": "Just Jason",
+            "loserName": "Drio",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1482730,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2133183,
+                    "playerTag": "Drio"
+                }
+            ]
+        },
+        {
+            "id": 37450936,
+            "entrant1Id": 7357938,
+            "entrant2Id": 7332741,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "dinkles | SUMTINS HINKY !!",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7357938,
+            "loserId": 7332741,
+            "winnerName": "Just Jason",
+            "loserName": "dinkles | SUMTINS HINKY !!",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1482730,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40614,
+                    "playerTag": "SUMTINS HINKY !!"
+                }
+            ]
+        },
+        {
+            "id": 36923491,
+            "entrant1Id": 7247531,
+            "entrant2Id": 7238429,
+            "entrant1Name": "ZOOK | Suezo",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7247531,
+            "loserId": 7238429,
+            "winnerName": "ZOOK | Suezo",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1485540,
+            "entrant1Players": [
+                {
+                    "playerId": 14592,
+                    "playerTag": "Suezo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 36923605,
+            "entrant1Id": 7238429,
+            "entrant2Id": 7245629,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Bojack",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7238429,
+            "loserId": 7245629,
+            "winnerName": "Just Jason",
+            "loserName": "Bojack",
+            "bracketName": "Bracket",
+            "bracketId": 1485540,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6617,
+                    "playerTag": "Bojack"
+                }
+            ]
+        },
+        {
+            "id": 36926252,
+            "entrant1Id": 7243497,
+            "entrant2Id": 7238429,
+            "entrant1Name": "htwa",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7243497,
+            "loserId": 7238429,
+            "winnerName": "htwa",
+            "loserName": "Just Jason",
+            "bracketName": "Top 32",
+            "bracketId": 1488018,
+            "entrant1Players": [
+                {
+                    "playerId": 11781,
+                    "playerTag": "htwa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 36926248,
+            "entrant1Id": 7242612,
+            "entrant2Id": 7238429,
+            "entrant1Name": "MT",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7238429,
+            "loserId": 7242612,
+            "winnerName": "Just Jason",
+            "loserName": "MT",
+            "bracketName": "Top 32",
+            "bracketId": 1488018,
+            "entrant1Players": [
+                {
+                    "playerId": 7634,
+                    "playerTag": "MT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 36926241,
+            "entrant1Id": 7247155,
+            "entrant2Id": 7238429,
+            "entrant1Name": "Porkaye",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7238429,
+            "loserId": 7247155,
+            "winnerName": "Just Jason",
+            "loserName": "Porkaye",
+            "bracketName": "Top 32",
+            "bracketId": 1488018,
+            "entrant1Players": [
+                {
+                    "playerId": 619715,
+                    "playerTag": "Porkaye"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 36926233,
+            "entrant1Id": 7238429,
+            "entrant2Id": 7245319,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Zanya",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7238429,
+            "loserId": 7245319,
+            "winnerName": "Just Jason",
+            "loserName": "Zanya",
+            "bracketName": "Top 32",
+            "bracketId": 1488018,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 266892,
+                    "playerTag": "Zanya"
+                }
+            ]
+        },
+        {
+            "id": 36080141,
+            "entrant1Id": 7040366,
+            "entrant2Id": 7041174,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7041174,
+            "loserId": 7040366,
+            "winnerName": "Just Jason",
+            "loserName": "IMP | Ben",
+            "bracketName": "Bracket",
+            "bracketId": 1468187,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 36080139,
+            "entrant1Id": 7041174,
+            "entrant2Id": 7041424,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "OtES",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7041174,
+            "loserId": 7041424,
+            "winnerName": "Just Jason",
+            "loserName": "OtES",
+            "bracketName": "Bracket",
+            "bracketId": 1468187,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45356,
+                    "playerTag": "OtES"
+                }
+            ]
+        },
+        {
+            "id": 36080134,
+            "entrant1Id": 7041174,
+            "entrant2Id": 7027926,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Stiffff",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7041174,
+            "loserId": 7027926,
+            "winnerName": "Just Jason",
+            "loserName": "Stiffff",
+            "bracketName": "Bracket",
+            "bracketId": 1468187,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 871615,
+                    "playerTag": "Stiffff"
+                }
+            ]
+        },
+        {
+            "id": 36084686,
+            "entrant1Id": 7041174,
+            "entrant2Id": 7041313,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7041313,
+            "loserId": 7041174,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Just Jason",
+            "bracketName": "Top 24",
+            "bracketId": 1468189,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 36084623,
+            "entrant1Id": 7040747,
+            "entrant2Id": 7041174,
+            "entrant1Name": "Younger",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7040747,
+            "loserId": 7041174,
+            "winnerName": "Younger",
+            "loserName": "Just Jason",
+            "bracketName": "Top 24",
+            "bracketId": 1468189,
+            "entrant1Players": [
+                {
+                    "playerId": 3665,
+                    "playerTag": "Younger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 36084683,
+            "entrant1Id": 7041174,
+            "entrant2Id": 7041641,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "EP | Justus",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7041174,
+            "loserId": 7041641,
+            "winnerName": "Just Jason",
+            "loserName": "EP | Justus",
+            "bracketName": "Top 24",
+            "bracketId": 1468189,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 279722,
+                    "playerTag": "Justus"
+                }
+            ]
+        },
+        {
+            "id": 39208781,
+            "entrant1Id": 7927633,
+            "entrant2Id": 7927666,
+            "entrant1Name": "Brotherhood | Aklo",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7927633,
+            "loserId": 7927666,
+            "winnerName": "Brotherhood | Aklo",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 39208908,
+            "entrant1Id": 7927620,
+            "entrant2Id": 7927666,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7927666,
+            "loserId": 7927620,
+            "winnerName": "Just Jason",
+            "loserName": "Panda | iBDW",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 39208907,
+            "entrant1Id": 7928049,
+            "entrant2Id": 7927666,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7927666,
+            "loserId": 7928049,
+            "winnerName": "Just Jason",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 39208906,
+            "entrant1Id": 7927629,
+            "entrant2Id": 7927666,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7927666,
+            "loserId": 7927629,
+            "winnerName": "Just Jason",
+            "loserName": "2saint",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 39208904,
+            "entrant1Id": 7927666,
+            "entrant2Id": 7927650,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "TheSWOOPER",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7927666,
+            "loserId": 7927650,
+            "winnerName": "Just Jason",
+            "loserName": "TheSWOOPER",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50606,
+                    "playerTag": "TheSWOOPER"
+                }
+            ]
+        },
+        {
+            "id": 39208774,
+            "entrant1Id": 7927620,
+            "entrant2Id": 7927666,
+            "entrant1Name": "Panda | iBDW",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7927620,
+            "loserId": 7927666,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 39208901,
+            "entrant1Id": 7927666,
+            "entrant2Id": 7927641,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Captain Smuckers",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7927666,
+            "loserId": 7927641,
+            "winnerName": "Just Jason",
+            "loserName": "Captain Smuckers",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4824,
+                    "playerTag": "Captain Smuckers"
+                }
+            ]
+        },
+        {
+            "id": 39208767,
+            "entrant1Id": 7927666,
+            "entrant2Id": 7928715,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Error",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7927666,
+            "loserId": 7928715,
+            "winnerName": "Just Jason",
+            "loserName": "Error",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 173824,
+                    "playerTag": "Error"
+                }
+            ]
+        },
+        {
+            "id": 39208752,
+            "entrant1Id": 7927666,
+            "entrant2Id": 7929091,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Bladeshard",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7927666,
+            "loserId": 7929091,
+            "winnerName": "Just Jason",
+            "loserName": "Bladeshard",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2338601,
+                    "playerTag": "Bladeshard"
+                }
+            ]
+        },
+        {
+            "id": 37167751,
+            "entrant1Id": 7300048,
+            "entrant2Id": 7299377,
+            "entrant1Name": "Revenge | Gahtzu",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7300048,
+            "loserId": 7299377,
+            "winnerName": "Revenge | Gahtzu",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1490281,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 37167815,
+            "entrant1Id": 7299377,
+            "entrant2Id": 7298146,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "htwa",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7298146,
+            "loserId": 7299377,
+            "winnerName": "htwa",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1490281,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11781,
+                    "playerTag": "htwa"
+                }
+            ]
+        },
+        {
+            "id": 37167750,
+            "entrant1Id": 7299377,
+            "entrant2Id": 7300035,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "MT",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7299377,
+            "loserId": 7300035,
+            "winnerName": "Just Jason",
+            "loserName": "MT",
+            "bracketName": "Bracket",
+            "bracketId": 1490281,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7634,
+                    "playerTag": "MT"
+                }
+            ]
+        },
+        {
+            "id": 37167747,
+            "entrant1Id": 7299880,
+            "entrant2Id": 7299377,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7299377,
+            "loserId": 7299880,
+            "winnerName": "Just Jason",
+            "loserName": "bobby big ballz",
+            "bracketName": "Bracket",
+            "bracketId": 1490281,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 37167742,
+            "entrant1Id": 7300250,
+            "entrant2Id": 7299377,
+            "entrant1Name": "SANS | Blues Clues",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7299377,
+            "loserId": 7300250,
+            "winnerName": "Just Jason",
+            "loserName": "SANS | Blues Clues",
+            "bracketName": "Bracket",
+            "bracketId": 1490281,
+            "entrant1Players": [
+                {
+                    "playerId": 64692,
+                    "playerTag": "Blues Clues"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 41255676,
+            "entrant1Id": 8330727,
+            "entrant2Id": 8349805,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "LG | Brad",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8330727,
+            "loserId": 8349805,
+            "winnerName": "Just Jason",
+            "loserName": "LG | Brad",
+            "bracketName": "Pools",
+            "bracketId": 1594256,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1156811,
+                    "playerTag": "Brad"
+                }
+            ]
+        },
+        {
+            "id": 41255672,
+            "entrant1Id": 8330727,
+            "entrant2Id": 8343591,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Phast",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8330727,
+            "loserId": 8343591,
+            "winnerName": "Just Jason",
+            "loserName": "Phast",
+            "bracketName": "Pools",
+            "bracketId": 1594256,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 471415,
+                    "playerTag": "Phast"
+                }
+            ]
+        },
+        {
+            "id": 41262226,
+            "entrant1Id": 8330716,
+            "entrant2Id": 8330727,
+            "entrant1Name": "Brotherhood | Aklo",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8330716,
+            "loserId": 8330727,
+            "winnerName": "Brotherhood | Aklo",
+            "loserName": "Just Jason",
+            "bracketName": "Top 32",
+            "bracketId": 1594247,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 41262288,
+            "entrant1Id": 8330727,
+            "entrant2Id": 8330762,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8330762,
+            "loserId": 8330727,
+            "winnerName": "BLE | SluG",
+            "loserName": "Just Jason",
+            "bracketName": "Top 32",
+            "bracketId": 1594247,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 41255664,
+            "entrant1Id": 8330727,
+            "entrant2Id": 8471442,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "GSG",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8330727,
+            "loserId": 8471442,
+            "winnerName": "Just Jason",
+            "loserName": "GSG",
+            "bracketName": "Pools",
+            "bracketId": 1594256,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 776417,
+                    "playerTag": "GSG"
+                }
+            ]
+        },
+        {
+            "id": 41262219,
+            "entrant1Id": 8330727,
+            "entrant2Id": 8330757,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "PUP | Dimension",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8330727,
+            "loserId": 8330757,
+            "winnerName": "Just Jason",
+            "loserName": "PUP | Dimension",
+            "bracketName": "Top 32",
+            "bracketId": 1594247,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 587072,
+                    "playerTag": "Dimension"
+                }
+            ]
+        },
+        {
+            "id": 38103598,
+            "entrant1Id": 7526524,
+            "entrant2Id": 7523609,
+            "entrant1Name": "Dawson",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7526524,
+            "loserId": 7523609,
+            "winnerName": "Dawson",
+            "loserName": "Just Jason",
+            "bracketName": "Top 32",
+            "bracketId": 1484041,
+            "entrant1Players": [
+                {
+                    "playerId": 147811,
+                    "playerTag": "Dawson"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 38103658,
+            "entrant1Id": 7523609,
+            "entrant2Id": 7498755,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "SubTails",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7523609,
+            "loserId": 7498755,
+            "winnerName": "Just Jason",
+            "loserName": "SubTails",
+            "bracketName": "Top 32",
+            "bracketId": 1484041,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 135091,
+                    "playerTag": "SubTails"
+                }
+            ]
+        },
+        {
+            "id": 38103592,
+            "entrant1Id": 7523609,
+            "entrant2Id": 7224108,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "twitch.tv | emu50",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7523609,
+            "loserId": 7224108,
+            "winnerName": "Just Jason",
+            "loserName": "twitch.tv | emu50",
+            "bracketName": "Top 32",
+            "bracketId": 1484041,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 212497,
+                    "playerTag": "tiebex"
+                }
+            ]
+        },
+        {
+            "id": 38107856,
+            "entrant1Id": 7494619,
+            "entrant2Id": 7523609,
+            "entrant1Name": "NOOT",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7494619,
+            "loserId": 7523609,
+            "winnerName": "NOOT",
+            "loserName": "Just Jason",
+            "bracketName": "Top 8",
+            "bracketId": 1484042,
+            "entrant1Players": [
+                {
+                    "playerId": 265808,
+                    "playerTag": "NOOT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 38107854,
+            "entrant1Id": 7524920,
+            "entrant2Id": 7523609,
+            "entrant1Name": "Melo",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7523609,
+            "loserId": 7524920,
+            "winnerName": "Just Jason",
+            "loserName": "Melo",
+            "bracketName": "Top 8",
+            "bracketId": 1484042,
+            "entrant1Players": [
+                {
+                    "playerId": 466221,
+                    "playerTag": "Melo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 36215042,
+            "entrant1Id": 7073779,
+            "entrant2Id": 7074905,
+            "entrant1Name": "UGS | Michael",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7073779,
+            "loserId": 7074905,
+            "winnerName": "UGS | Michael",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1470841,
+            "entrant1Players": [
+                {
+                    "playerId": 26605,
+                    "playerTag": "Michael"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 36215040,
+            "entrant1Id": 7074222,
+            "entrant2Id": 7074905,
+            "entrant1Name": "Neologism",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7074905,
+            "loserId": 7074222,
+            "winnerName": "Just Jason",
+            "loserName": "Neologism",
+            "bracketName": "Bracket",
+            "bracketId": 1470841,
+            "entrant1Players": [
+                {
+                    "playerId": 127639,
+                    "playerTag": "Neologism"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 36215036,
+            "entrant1Id": 7074905,
+            "entrant2Id": 7074620,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Ke-Lai",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7074905,
+            "loserId": 7074620,
+            "winnerName": "Just Jason",
+            "loserName": "Ke-Lai",
+            "bracketName": "Bracket",
+            "bracketId": 1470841,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 157286,
+                    "playerTag": "Ke-Lai"
+                }
+            ]
+        },
+        {
+            "id": 36214909,
+            "entrant1Id": 7074905,
+            "entrant2Id": 7073966,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Peachy Keen",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7073966,
+            "loserId": 7074905,
+            "winnerName": "Peachy Keen",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1470841,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 24713,
+                    "playerTag": "Peachy Keen"
+                }
+            ]
+        },
+        {
+            "id": 36215031,
+            "entrant1Id": 7074905,
+            "entrant2Id": 7073712,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Maelstrom",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7074905,
+            "loserId": 7073712,
+            "winnerName": "Just Jason",
+            "loserName": "Maelstrom",
+            "bracketName": "Bracket",
+            "bracketId": 1470841,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 533918,
+                    "playerTag": "Maelstrom"
+                }
+            ]
+        },
+        {
+            "id": 36214898,
+            "entrant1Id": 7074905,
+            "entrant2Id": 7074539,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "okay ggz | Phoenix",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7074905,
+            "loserId": 7074539,
+            "winnerName": "Just Jason",
+            "loserName": "okay ggz | Phoenix",
+            "bracketName": "Bracket",
+            "bracketId": 1470841,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 35869,
+                    "playerTag": "Phoenix"
+                }
+            ]
+        },
+        {
+            "id": 41350534,
+            "entrant1Id": 8492164,
+            "entrant2Id": 8503153,
+            "entrant1Name": "Whiskers",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8492164,
+            "loserId": 8503153,
+            "winnerName": "Whiskers",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1595772,
+            "entrant1Players": [
+                {
+                    "playerId": 4370,
+                    "playerTag": "Whiskers"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 41350533,
+            "entrant1Id": 8503153,
+            "entrant2Id": 8492164,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Whiskers",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8492164,
+            "loserId": 8503153,
+            "winnerName": "Whiskers",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1595772,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4370,
+                    "playerTag": "Whiskers"
+                }
+            ]
+        },
+        {
+            "id": 41350661,
+            "entrant1Id": 8503153,
+            "entrant2Id": 8503382,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Ad",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8503153,
+            "loserId": 8503382,
+            "winnerName": "Just Jason",
+            "loserName": "Ad",
+            "bracketName": "Bracket",
+            "bracketId": 1595772,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2021128,
+                    "playerTag": "Ad"
+                }
+            ]
+        },
+        {
+            "id": 41350531,
+            "entrant1Id": 8503153,
+            "entrant2Id": 8493708,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "K8A",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8503153,
+            "loserId": 8493708,
+            "winnerName": "Just Jason",
+            "loserName": "K8A",
+            "bracketName": "Bracket",
+            "bracketId": 1595772,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12048,
+                    "playerTag": "K8A"
+                }
+            ]
+        },
+        {
+            "id": 41350527,
+            "entrant1Id": 8503153,
+            "entrant2Id": 8484030,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "jubby",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8503153,
+            "loserId": 8484030,
+            "winnerName": "Just Jason",
+            "loserName": "jubby",
+            "bracketName": "Bracket",
+            "bracketId": 1595772,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36325,
+                    "playerTag": "jubby"
+                }
+            ]
+        },
+        {
+            "id": 41350519,
+            "entrant1Id": 8503153,
+            "entrant2Id": 8478790,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Drew6",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8503153,
+            "loserId": 8478790,
+            "winnerName": "Just Jason",
+            "loserName": "Drew6",
+            "bracketName": "Bracket",
+            "bracketId": 1595772,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2132205,
+                    "playerTag": "Drew6"
+                }
+            ]
+        },
+        {
+            "id": 41350503,
+            "entrant1Id": 8503153,
+            "entrant2Id": 8485064,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Toki | 3cats",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8503153,
+            "loserId": 8485064,
+            "winnerName": "Just Jason",
+            "loserName": "Toki | 3cats",
+            "bracketName": "Bracket",
+            "bracketId": 1595772,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1676663,
+                    "playerTag": "3cats"
+                }
+            ]
+        },
+        {
+            "id": 40528064,
+            "entrant1Id": 8267566,
+            "entrant2Id": 8267562,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8267566,
+            "loserId": 8267562,
+            "winnerName": "CG | Jflex",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1574574,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 40528192,
+            "entrant1Id": 8267562,
+            "entrant2Id": 8267548,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8267548,
+            "loserId": 8267562,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1574574,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 40528063,
+            "entrant1Id": 8267562,
+            "entrant2Id": 8267548,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8267562,
+            "loserId": 8267548,
+            "winnerName": "Just Jason",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1574574,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 40528060,
+            "entrant1Id": 8267562,
+            "entrant2Id": 8267647,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "YokaiNels",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8267562,
+            "loserId": 8267647,
+            "winnerName": "Just Jason",
+            "loserName": "YokaiNels",
+            "bracketName": "Bracket",
+            "bracketId": 1574574,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 810425,
+                    "playerTag": "YokaiNels"
+                }
+            ]
+        },
+        {
+            "id": 40528054,
+            "entrant1Id": 8267562,
+            "entrant2Id": 8269592,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Maelstrom",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8267562,
+            "loserId": 8269592,
+            "winnerName": "Just Jason",
+            "loserName": "Maelstrom",
+            "bracketName": "Bracket",
+            "bracketId": 1574574,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 533918,
+                    "playerTag": "Maelstrom"
+                }
+            ]
+        },
+        {
+            "id": 40528042,
+            "entrant1Id": 8267562,
+            "entrant2Id": 8269088,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "BMOHC",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8267562,
+            "loserId": 8269088,
+            "winnerName": "Just Jason",
+            "loserName": "BMOHC",
+            "bracketName": "Bracket",
+            "bracketId": 1574574,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1262501,
+                    "playerTag": "BMOHC"
+                }
+            ]
+        },
+        {
+            "id": 39773324,
+            "entrant1Id": 8074777,
+            "entrant2Id": 8074771,
+            "entrant1Name": "Brotherhood | Aklo",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8074777,
+            "loserId": 8074771,
+            "winnerName": "Brotherhood | Aklo",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1552428,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 39773323,
+            "entrant1Id": 8078388,
+            "entrant2Id": 8074771,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8074771,
+            "loserId": 8078388,
+            "winnerName": "Just Jason",
+            "loserName": "HoG | Warmmer",
+            "bracketName": "Bracket",
+            "bracketId": 1552428,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 39773195,
+            "entrant1Id": 8097749,
+            "entrant2Id": 8074771,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8097749,
+            "loserId": 8074771,
+            "winnerName": "CG | Jflex",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1552428,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 39773322,
+            "entrant1Id": 8074771,
+            "entrant2Id": 8074759,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "CG | Zealot",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8074771,
+            "loserId": 8074759,
+            "winnerName": "Just Jason",
+            "loserName": "CG | Zealot",
+            "bracketName": "Bracket",
+            "bracketId": 1552428,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ]
+        },
+        {
+            "id": 39773193,
+            "entrant1Id": 8074771,
+            "entrant2Id": 8077729,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8074771,
+            "loserId": 8077729,
+            "winnerName": "Just Jason",
+            "loserName": "TG | Mot$",
+            "bracketName": "Bracket",
+            "bracketId": 1552428,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 39773188,
+            "entrant1Id": 8074771,
+            "entrant2Id": 8097621,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "jubby",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8074771,
+            "loserId": 8097621,
+            "winnerName": "Just Jason",
+            "loserName": "jubby",
+            "bracketName": "Bracket",
+            "bracketId": 1552428,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36325,
+                    "playerTag": "jubby"
+                }
+            ]
+        },
+        {
+            "id": 39773178,
+            "entrant1Id": 8074771,
+            "entrant2Id": 8078469,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Jah",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8074771,
+            "loserId": 8078469,
+            "winnerName": "Just Jason",
+            "loserName": "Jah",
+            "bracketName": "Bracket",
+            "bracketId": 1552428,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1856778,
+                    "playerTag": "Jah"
+                }
+            ]
+        },
+        {
+            "id": 39556472,
+            "entrant1Id": 8044916,
+            "entrant2Id": 8019968,
+            "entrant1Name": "Leighton",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8044916,
+            "loserId": 8019968,
+            "winnerName": "Leighton",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1549214,
+            "entrant1Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 39556471,
+            "entrant1Id": 8019968,
+            "entrant2Id": 8018562,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "CG | Zealot",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8019968,
+            "loserId": 8018562,
+            "winnerName": "Just Jason",
+            "loserName": "CG | Zealot",
+            "bracketName": "Bracket",
+            "bracketId": 1549214,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ]
+        },
+        {
+            "id": 39556469,
+            "entrant1Id": 8044843,
+            "entrant2Id": 8019968,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8019968,
+            "loserId": 8044843,
+            "winnerName": "Just Jason",
+            "loserName": "TG | Mot$",
+            "bracketName": "Bracket",
+            "bracketId": 1549214,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 39556467,
+            "entrant1Id": 8019572,
+            "entrant2Id": 8019968,
+            "entrant1Name": "Willy P",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8019968,
+            "loserId": 8019572,
+            "winnerName": "Just Jason",
+            "loserName": "Willy P",
+            "bracketName": "Bracket",
+            "bracketId": 1549214,
+            "entrant1Players": [
+                {
+                    "playerId": 819230,
+                    "playerTag": "Willy P"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 39556341,
+            "entrant1Id": 8019968,
+            "entrant2Id": 8044916,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Leighton",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8044916,
+            "loserId": 8019968,
+            "winnerName": "Leighton",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1549214,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 33915,
+                    "playerTag": "Leighton"
+                }
+            ]
+        },
+        {
+            "id": 39556464,
+            "entrant1Id": 8019968,
+            "entrant2Id": 8044884,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "The Golden Goose",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8019968,
+            "loserId": 8044884,
+            "winnerName": "Just Jason",
+            "loserName": "The Golden Goose",
+            "bracketName": "Bracket",
+            "bracketId": 1549214,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2369741,
+                    "playerTag": "AGeese'sniecenamedDenise"
+                }
+            ]
+        },
+        {
+            "id": 39556336,
+            "entrant1Id": 8019968,
+            "entrant2Id": 8020728,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "NYU | Gambit",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8019968,
+            "loserId": 8020728,
+            "winnerName": "Just Jason",
+            "loserName": "NYU | Gambit",
+            "bracketName": "Bracket",
+            "bracketId": 1549214,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5351,
+                    "playerTag": "Gambit"
+                }
+            ]
+        },
+        {
+            "id": 39556326,
+            "entrant1Id": 8019968,
+            "entrant2Id": 8020512,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "JazzerThighs",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8019968,
+            "loserId": 8020512,
+            "winnerName": "Just Jason",
+            "loserName": "JazzerThighs",
+            "bracketName": "Bracket",
+            "bracketId": 1549214,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 677867,
+                    "playerTag": "JazzerThighs"
+                }
+            ]
+        },
+        {
+            "id": 40006996,
+            "entrant1Id": 8037011,
+            "entrant2Id": 8058249,
+            "entrant1Name": "CG | Goosekhan",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8037011,
+            "loserId": 8058249,
+            "winnerName": "CG | Goosekhan",
+            "loserName": "Just Jason",
+            "bracketName": "Seeding",
+            "bracketId": 1551070,
+            "entrant1Players": [
+                {
+                    "playerId": 508967,
+                    "playerTag": "Goosekhan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 40006995,
+            "entrant1Id": 8142265,
+            "entrant2Id": 8058249,
+            "entrant1Name": "Pelipper",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8058249,
+            "loserId": 8142265,
+            "winnerName": "Just Jason",
+            "loserName": "Pelipper",
+            "bracketName": "Seeding",
+            "bracketId": 1551070,
+            "entrant1Players": [
+                {
+                    "playerId": 173550,
+                    "playerTag": "Pelipper"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 40006991,
+            "entrant1Id": 8058249,
+            "entrant2Id": 8148318,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Mono",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8058249,
+            "loserId": 8148318,
+            "winnerName": "Just Jason",
+            "loserName": "Mono",
+            "bracketName": "Seeding",
+            "bracketId": 1551070,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158003,
+                    "playerTag": "Mono"
+                }
+            ]
+        },
+        {
+            "id": 40018995,
+            "entrant1Id": 8058249,
+            "entrant2Id": 8036995,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "CG | Jflex",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8036995,
+            "loserId": 8058249,
+            "winnerName": "CG | Jflex",
+            "loserName": "Just Jason",
+            "bracketName": "Pools",
+            "bracketId": 1551076,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 40018932,
+            "entrant1Id": 8132403,
+            "entrant2Id": 8058249,
+            "entrant1Name": "Dawson",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8132403,
+            "loserId": 8058249,
+            "winnerName": "Dawson",
+            "loserName": "Just Jason",
+            "bracketName": "Pools",
+            "bracketId": 1551076,
+            "entrant1Players": [
+                {
+                    "playerId": 147811,
+                    "playerTag": "Dawson"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 40006988,
+            "entrant1Id": 8058249,
+            "entrant2Id": 8127713,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "BloodCitrus",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8058249,
+            "loserId": 8127713,
+            "winnerName": "Just Jason",
+            "loserName": "BloodCitrus",
+            "bracketName": "Seeding",
+            "bracketId": 1551070,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2199853,
+                    "playerTag": "LimeSurge"
+                }
+            ]
+        },
+        {
+            "id": 40018992,
+            "entrant1Id": 8058249,
+            "entrant2Id": 8037026,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Epoodle",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8058249,
+            "loserId": 8037026,
+            "winnerName": "Just Jason",
+            "loserName": "Epoodle",
+            "bracketName": "Pools",
+            "bracketId": 1551076,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1375808,
+                    "playerTag": "Epoodle"
+                }
+            ]
+        },
+        {
+            "id": 34669523,
+            "entrant1Id": 6684739,
+            "entrant2Id": 6674857,
+            "entrant1Name": "akir",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6684739,
+            "loserId": 6674857,
+            "winnerName": "akir",
+            "loserName": "Just Jason",
+            "bracketName": "The Nest",
+            "bracketId": 1431510,
+            "entrant1Players": [
+                {
+                    "playerId": 144798,
+                    "playerTag": "Akir"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 34669509,
+            "entrant1Id": 6674857,
+            "entrant2Id": 6679022,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Rebel Scum",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6674857,
+            "loserId": 6679022,
+            "winnerName": "Just Jason",
+            "loserName": "Rebel Scum",
+            "bracketName": "The Nest",
+            "bracketId": 1431510,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 276691,
+                    "playerTag": "Rebel Scum"
+                }
+            ]
+        },
+        {
+            "id": 39364871,
+            "entrant1Id": 7978045,
+            "entrant2Id": 7978033,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "CG | Jflex",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7978033,
+            "loserId": 7978045,
+            "winnerName": "CG | Jflex",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1545817,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 39364742,
+            "entrant1Id": 7978994,
+            "entrant2Id": 7978045,
+            "entrant1Name": "Brotherhood | Aklo",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7978994,
+            "loserId": 7978045,
+            "winnerName": "Brotherhood | Aklo",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1545817,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 39364869,
+            "entrant1Id": 7978045,
+            "entrant2Id": 7978451,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Captain Smuckers",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7978045,
+            "loserId": 7978451,
+            "winnerName": "Just Jason",
+            "loserName": "Captain Smuckers",
+            "bracketName": "Bracket",
+            "bracketId": 1545817,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4824,
+                    "playerTag": "Captain Smuckers"
+                }
+            ]
+        },
+        {
+            "id": 39364739,
+            "entrant1Id": 7978045,
+            "entrant2Id": 8000500,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Willy P",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7978045,
+            "loserId": 8000500,
+            "winnerName": "Just Jason",
+            "loserName": "Willy P",
+            "bracketName": "Bracket",
+            "bracketId": 1545817,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 819230,
+                    "playerTag": "Willy P"
+                }
+            ]
+        },
+        {
+            "id": 39364732,
+            "entrant1Id": 7978045,
+            "entrant2Id": 7979349,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "bonn",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7978045,
+            "loserId": 7979349,
+            "winnerName": "Just Jason",
+            "loserName": "bonn",
+            "bracketName": "Bracket",
+            "bracketId": 1545817,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1083900,
+                    "playerTag": "bonn"
+                }
+            ]
+        },
+        {
+            "id": 39364718,
+            "entrant1Id": 7978045,
+            "entrant2Id": 8001266,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Faiz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7978045,
+            "loserId": 8001266,
+            "winnerName": "Just Jason",
+            "loserName": "Faiz",
+            "bracketName": "Bracket",
+            "bracketId": 1545817,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2142137,
+                    "playerTag": "Faiz"
+                }
+            ]
+        },
+        {
+            "id": 39022009,
+            "entrant1Id": 7886872,
+            "entrant2Id": 7888055,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7888055,
+            "loserId": 7886872,
+            "winnerName": "Agency | Wally",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1538686,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 39021945,
+            "entrant1Id": 7900491,
+            "entrant2Id": 7886872,
+            "entrant1Name": "HOBORG",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7900491,
+            "loserId": 7886872,
+            "winnerName": "HOBORG",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1538686,
+            "entrant1Players": [
+                {
+                    "playerId": 159216,
+                    "playerTag": "HOBORG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 39022007,
+            "entrant1Id": 7886872,
+            "entrant2Id": 7908140,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "bofa | soap",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7886872,
+            "loserId": 7908140,
+            "winnerName": "Just Jason",
+            "loserName": "bofa | soap",
+            "bracketName": "Bracket",
+            "bracketId": 1538686,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10316,
+                    "playerTag": "soap"
+                }
+            ]
+        },
+        {
+            "id": 39021943,
+            "entrant1Id": 7891003,
+            "entrant2Id": 7886872,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7886872,
+            "loserId": 7891003,
+            "winnerName": "Just Jason",
+            "loserName": "TG | Mot$",
+            "bracketName": "Bracket",
+            "bracketId": 1538686,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 39021939,
+            "entrant1Id": 7886872,
+            "entrant2Id": 7886519,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Son2",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7886872,
+            "loserId": 7886519,
+            "winnerName": "Just Jason",
+            "loserName": "Son2",
+            "bracketName": "Bracket",
+            "bracketId": 1538686,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4309,
+                    "playerTag": "Son2"
+                }
+            ]
+        },
+        {
+            "id": 39021930,
+            "entrant1Id": 7886872,
+            "entrant2Id": 7887616,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "MTR | Teemoniac",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7886872,
+            "loserId": 7887616,
+            "winnerName": "Just Jason",
+            "loserName": "MTR | Teemoniac",
+            "bracketName": "Bracket",
+            "bracketId": 1538686,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1853057,
+                    "playerTag": "Teemoniac"
+                }
+            ]
+        },
+        {
+            "id": 39960956,
+            "entrant1Id": 8126143,
+            "entrant2Id": 8126049,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8126143,
+            "loserId": 8126049,
+            "winnerName": "CG | Jflex",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1558063,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 39960955,
+            "entrant1Id": 8126049,
+            "entrant2Id": 8125686,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "7 | Error",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8126049,
+            "loserId": 8125686,
+            "winnerName": "Just Jason",
+            "loserName": "7 | Error",
+            "bracketName": "Bracket",
+            "bracketId": 1558063,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 173824,
+                    "playerTag": "Error"
+                }
+            ]
+        },
+        {
+            "id": 39960699,
+            "entrant1Id": 8126143,
+            "entrant2Id": 8126049,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8126143,
+            "loserId": 8126049,
+            "winnerName": "CG | Jflex",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1558063,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 39960953,
+            "entrant1Id": 8126049,
+            "entrant2Id": 8125666,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Captain Smuckers",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8126049,
+            "loserId": 8125666,
+            "winnerName": "Just Jason",
+            "loserName": "Captain Smuckers",
+            "bracketName": "Bracket",
+            "bracketId": 1558063,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4824,
+                    "playerTag": "Captain Smuckers"
+                }
+            ]
+        },
+        {
+            "id": 39960697,
+            "entrant1Id": 8126049,
+            "entrant2Id": 8125686,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "7 | Error",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8126049,
+            "loserId": 8125686,
+            "winnerName": "Just Jason",
+            "loserName": "7 | Error",
+            "bracketName": "Bracket",
+            "bracketId": 1558063,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 173824,
+                    "playerTag": "Error"
+                }
+            ]
+        },
+        {
+            "id": 39960692,
+            "entrant1Id": 8126049,
+            "entrant2Id": 8145432,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "KOOPA | Kev",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8126049,
+            "loserId": 8145432,
+            "winnerName": "Just Jason",
+            "loserName": "KOOPA | Kev",
+            "bracketName": "Bracket",
+            "bracketId": 1558063,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21645,
+                    "playerTag": "KoopaKev"
+                }
+            ]
+        },
+        {
+            "id": 39960682,
+            "entrant1Id": 8126049,
+            "entrant2Id": 8126890,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "555 | Faiz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8126049,
+            "loserId": 8126890,
+            "winnerName": "Just Jason",
+            "loserName": "555 | Faiz",
+            "bracketName": "Bracket",
+            "bracketId": 1558063,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2142137,
+                    "playerTag": "Faiz"
+                }
+            ]
+        },
+        {
+            "id": 39960662,
+            "entrant1Id": 8126049,
+            "entrant2Id": 8148642,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "Jamn",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8126049,
+            "loserId": 8148642,
+            "winnerName": "Just Jason",
+            "loserName": "Jamn",
+            "bracketName": "Bracket",
+            "bracketId": 1558063,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1143942,
+                    "playerTag": "Jamn"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "ben",
+        "justus",
+        "ibdw",
+        "jojo",
+        "2saint",
+        "theswooper",
+        "captain smuckers",
+        "bobby big ballz",
+        "blues clues",
+        "neologism",
+        "k8a",
+        "jojo",
+        "warmmer",
+        "zealot",
+        "mot$",
+        "zealot",
+        "mot$",
+        "captain smuckers",
+        "mot$",
+        "captain smuckers"
+    ],
+    "L": [
+        "therealthing",
+        "suezo",
+        "htwa",
+        "jojo",
+        "Younger",
+        "aklo",
+        "ibdw",
+        "gahtzu",
+        "htwa",
+        "aklo",
+        "slug",
+        "dawson",
+        "noot",
+        "michael",
+        "Peachy Keen",
+        "whiskers",
+        "whiskers",
+        "jflex",
+        "jojo",
+        "aklo",
+        "jflex",
+        "leighton",
+        "leighton",
+        "Goosekhan",
+        "jflex",
+        "dawson",
+        "akir",
+        "jflex",
+        "aklo",
+        "wally",
+        "HOBORG",
+        "jflex",
+        "jflex"
+    ]
+}

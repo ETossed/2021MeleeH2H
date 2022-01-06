@@ -1,0 +1,1425 @@
+{
+    "Events": [
+        "644621",
+        "584741",
+        "570199",
+        "570200",
+        "657283",
+        "563502",
+        "563503",
+        "554629",
+        "648468"
+    ],
+    "Sets": [
+        {
+            "id": 43224433,
+            "entrant1Id": 8712496,
+            "entrant2Id": 8701092,
+            "entrant1Name": "Trif",
+            "entrant2Name": "Faceroll",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8712496,
+            "loserId": 8701092,
+            "winnerName": "Trif",
+            "loserName": "Faceroll",
+            "bracketName": "Group Stage",
+            "bracketId": 1635975,
+            "entrant1Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 43224432,
+            "entrant1Id": 8955030,
+            "entrant2Id": 8701092,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "Faceroll",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8701092,
+            "loserId": 8955030,
+            "winnerName": "Faceroll",
+            "loserName": "IMP | Ben",
+            "bracketName": "Group Stage",
+            "bracketId": 1635975,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 43224428,
+            "entrant1Id": 8701092,
+            "entrant2Id": 8774880,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "Sora/Joshman",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8701092,
+            "loserId": 8774880,
+            "winnerName": "Faceroll",
+            "loserName": "Sora/Joshman",
+            "bracketName": "Group Stage",
+            "bracketId": 1635975,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 72157,
+                    "playerTag": "Sora/Joshman"
+                }
+            ]
+        },
+        {
+            "id": 43289121,
+            "entrant1Id": 8701092,
+            "entrant2Id": 8712496,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "Trif",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8712496,
+            "loserId": 8701092,
+            "winnerName": "Trif",
+            "loserName": "Faceroll",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22900,
+                    "playerTag": "Trif"
+                }
+            ]
+        },
+        {
+            "id": 43224425,
+            "entrant1Id": 8701092,
+            "entrant2Id": 8892143,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "Axe",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8892143,
+            "loserId": 8701092,
+            "winnerName": "Axe",
+            "loserName": "Faceroll",
+            "bracketName": "Group Stage",
+            "bracketId": 1635975,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ]
+        },
+        {
+            "id": 43289117,
+            "entrant1Id": 8892146,
+            "entrant2Id": 8701092,
+            "entrant1Name": "Magi",
+            "entrant2Name": "Faceroll",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8701092,
+            "loserId": 8892146,
+            "winnerName": "Faceroll",
+            "loserName": "Magi",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 6544,
+                    "playerTag": "Magi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 43289113,
+            "entrant1Id": 8701092,
+            "entrant2Id": 8712518,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "Fly | KoDoRiN",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8701092,
+            "loserId": 8712518,
+            "winnerName": "Faceroll",
+            "loserName": "Fly | KoDoRiN",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 43289105,
+            "entrant1Id": 8712524,
+            "entrant2Id": 8701092,
+            "entrant1Name": "Kalamazhu",
+            "entrant2Name": "Faceroll",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8701092,
+            "loserId": 8712524,
+            "winnerName": "Faceroll",
+            "loserName": "Kalamazhu",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1640142,
+            "entrant1Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 42357391,
+            "entrant1Id": 8380595,
+            "entrant2Id": 7891043,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "Rocket",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8380595,
+            "loserId": 7891043,
+            "winnerName": "Faceroll",
+            "loserName": "Rocket",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603588,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1278457,
+                    "playerTag": "Rocket"
+                }
+            ]
+        },
+        {
+            "id": 42357387,
+            "entrant1Id": 8380595,
+            "entrant2Id": 7639032,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "Steven Hawk",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8380595,
+            "loserId": 7639032,
+            "winnerName": "Faceroll",
+            "loserName": "Steven Hawk",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603588,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 322370,
+                    "playerTag": "Steven Hawk"
+                }
+            ]
+        },
+        {
+            "id": 42357379,
+            "entrant1Id": 8380595,
+            "entrant2Id": 8643454,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "UCSD | RedBarchetta",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8380595,
+            "loserId": 8643454,
+            "winnerName": "Faceroll",
+            "loserName": "UCSD | RedBarchetta",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603588,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1921838,
+                    "playerTag": "RedBarchetta"
+                }
+            ]
+        },
+        {
+            "id": 42361053,
+            "entrant1Id": 7569273,
+            "entrant2Id": 8380595,
+            "entrant1Name": "Axe",
+            "entrant2Name": "Faceroll",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7569273,
+            "loserId": 8380595,
+            "winnerName": "Axe",
+            "loserName": "Faceroll",
+            "bracketName": "Top 64",
+            "bracketId": 1603576,
+            "entrant1Players": [
+                {
+                    "playerId": 16342,
+                    "playerTag": "Axe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 42361113,
+            "entrant1Id": 8380595,
+            "entrant2Id": 8651100,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "CG | Jflex",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8380595,
+            "loserId": 8651100,
+            "winnerName": "Faceroll",
+            "loserName": "CG | Jflex",
+            "bracketName": "Top 64",
+            "bracketId": 1603576,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 42360307,
+            "entrant1Id": 8380595,
+            "entrant2Id": 8373175,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8380595,
+            "loserId": 8373175,
+            "winnerName": "Faceroll",
+            "loserName": "TG | Mot$",
+            "bracketName": "Round 2 Pools",
+            "bracketId": 1620258,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 42361049,
+            "entrant1Id": 8380595,
+            "entrant2Id": 8602569,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "KJH",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8380595,
+            "loserId": 8602569,
+            "winnerName": "Faceroll",
+            "loserName": "KJH",
+            "bracketName": "Top 64",
+            "bracketId": 1603576,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3560,
+                    "playerTag": "KJH"
+                }
+            ]
+        },
+        {
+            "id": 42373111,
+            "entrant1Id": 7896515,
+            "entrant2Id": 8380595,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "Faceroll",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7896515,
+            "loserId": 8380595,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "Faceroll",
+            "bracketName": "Top 16",
+            "bracketId": 1603577,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 37108185,
+            "entrant1Id": 7274584,
+            "entrant2Id": 7282739,
+            "entrant1Name": "Captain Faceroll",
+            "entrant2Name": "JustJoshin",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7274584,
+            "loserId": 7282739,
+            "winnerName": "Captain Faceroll",
+            "loserName": "JustJoshin",
+            "bracketName": "Bracket pools",
+            "bracketId": 1491555,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 301566,
+                    "playerTag": "JustJoshin"
+                }
+            ]
+        },
+        {
+            "id": 37108171,
+            "entrant1Id": 7274584,
+            "entrant2Id": 7286200,
+            "entrant1Name": "Captain Faceroll",
+            "entrant2Name": "TDawg",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7274584,
+            "loserId": 7286200,
+            "winnerName": "Captain Faceroll",
+            "loserName": "TDawg",
+            "bracketName": "Bracket pools",
+            "bracketId": 1491555,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 131518,
+                    "playerTag": "TDawg"
+                }
+            ]
+        },
+        {
+            "id": 37115813,
+            "entrant1Id": 7289523,
+            "entrant2Id": 7289551,
+            "entrant1Name": "Brotherhood | Aklo",
+            "entrant2Name": "Captain Faceroll",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7289523,
+            "loserId": 7289551,
+            "winnerName": "Brotherhood | Aklo",
+            "loserName": "Captain Faceroll",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1484477,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 37115805,
+            "entrant1Id": 7289544,
+            "entrant2Id": 7289551,
+            "entrant1Name": "Peppi | | Pappi",
+            "entrant2Name": "Captain Faceroll",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7289551,
+            "loserId": 7289544,
+            "winnerName": "Captain Faceroll",
+            "loserName": "Peppi | | Pappi",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1484477,
+            "entrant1Players": [
+                {
+                    "playerId": 61570,
+                    "playerTag": "Pappi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 37115672,
+            "entrant1Id": 7289551,
+            "entrant2Id": 7289525,
+            "entrant1Name": "Captain Faceroll",
+            "entrant2Name": "null",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7289525,
+            "loserId": 7289551,
+            "winnerName": "null",
+            "loserName": "Captain Faceroll",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1484477,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ]
+        },
+        {
+            "id": 37115796,
+            "entrant1Id": 7289551,
+            "entrant2Id": 7289618,
+            "entrant1Name": "Captain Faceroll",
+            "entrant2Name": "Polo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7289551,
+            "loserId": 7289618,
+            "winnerName": "Captain Faceroll",
+            "loserName": "Polo",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1484477,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61873,
+                    "playerTag": "Polo"
+                }
+            ]
+        },
+        {
+            "id": 43050268,
+            "entrant1Id": 8919590,
+            "entrant2Id": 8919696,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "Spark",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8919696,
+            "loserId": 8919590,
+            "winnerName": "Spark",
+            "loserName": "Faceroll",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3357,
+                    "playerTag": "Spark"
+                }
+            ]
+        },
+        {
+            "id": 43050396,
+            "entrant1Id": 8919590,
+            "entrant2Id": 8922349,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "Mango's Friend | Lucky",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8922349,
+            "loserId": 8919590,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "Faceroll",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ]
+        },
+        {
+            "id": 43050266,
+            "entrant1Id": 8919590,
+            "entrant2Id": 8919705,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "Albert",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8919590,
+            "loserId": 8919705,
+            "winnerName": "Faceroll",
+            "loserName": "Albert",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ]
+        },
+        {
+            "id": 43050262,
+            "entrant1Id": 8919590,
+            "entrant2Id": 8922801,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "Nintendude",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8919590,
+            "loserId": 8922801,
+            "winnerName": "Faceroll",
+            "loserName": "Nintendude",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1023,
+                    "playerTag": "Nintendude"
+                }
+            ]
+        },
+        {
+            "id": 43050238,
+            "entrant1Id": 8919590,
+            "entrant2Id": 8919569,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "Sprite | Jiffy",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8919590,
+            "loserId": 8919569,
+            "winnerName": "Faceroll",
+            "loserName": "Sprite | Jiffy",
+            "bracketName": "Bracket",
+            "bracketId": 1640408,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 293245,
+                    "playerTag": "Jiffy"
+                }
+            ]
+        },
+        {
+            "id": 36595901,
+            "entrant1Id": 7059418,
+            "entrant2Id": 7130685,
+            "entrant1Name": "Captain Faceroll",
+            "entrant2Name": "DMT",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7059418,
+            "loserId": 7130685,
+            "winnerName": "Captain Faceroll",
+            "loserName": "DMT",
+            "bracketName": "Bracket pools",
+            "bracketId": 1471052,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 231685,
+                    "playerTag": "DMT"
+                }
+            ]
+        },
+        {
+            "id": 36595893,
+            "entrant1Id": 7059418,
+            "entrant2Id": 7163249,
+            "entrant1Name": "Captain Faceroll",
+            "entrant2Name": "piss yoshi",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7059418,
+            "loserId": 7163249,
+            "winnerName": "Captain Faceroll",
+            "loserName": "piss yoshi",
+            "bracketName": "Bracket pools",
+            "bracketId": 1471052,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2140012,
+                    "playerTag": "lucky_dude_1"
+                }
+            ]
+        },
+        {
+            "id": 36603011,
+            "entrant1Id": 7168455,
+            "entrant2Id": 7168214,
+            "entrant1Name": "Captain Faceroll",
+            "entrant2Name": "Neologism",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7168455,
+            "loserId": 7168214,
+            "winnerName": "Captain Faceroll",
+            "loserName": "Neologism",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1471055,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 127639,
+                    "playerTag": "Neologism"
+                }
+            ]
+        },
+        {
+            "id": 36603005,
+            "entrant1Id": 7168455,
+            "entrant2Id": 7168202,
+            "entrant1Name": "Captain Faceroll",
+            "entrant2Name": "BOIKO | Stango",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7168455,
+            "loserId": 7168202,
+            "winnerName": "Captain Faceroll",
+            "loserName": "BOIKO | Stango",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1471055,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13740,
+                    "playerTag": "Stango"
+                }
+            ]
+        },
+        {
+            "id": 36615601,
+            "entrant1Id": 7168455,
+            "entrant2Id": 7168488,
+            "entrant1Name": "Captain Faceroll",
+            "entrant2Name": "Mango's Friend | Lucky",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7168488,
+            "loserId": 7168455,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "Captain Faceroll",
+            "bracketName": "Bracket top 8",
+            "bracketId": 1478695,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ]
+        },
+        {
+            "id": 36602993,
+            "entrant1Id": 7168455,
+            "entrant2Id": 7168461,
+            "entrant1Name": "Captain Faceroll",
+            "entrant2Name": "Galen The Wise",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7168455,
+            "loserId": 7168461,
+            "winnerName": "Captain Faceroll",
+            "loserName": "Galen The Wise",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1471055,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21305,
+                    "playerTag": "Galen The Wise"
+                }
+            ]
+        },
+        {
+            "id": 36615615,
+            "entrant1Id": 7168455,
+            "entrant2Id": 7168168,
+            "entrant1Name": "Captain Faceroll",
+            "entrant2Name": "Revenge | Gahtzu",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7168168,
+            "loserId": 7168455,
+            "winnerName": "Revenge | Gahtzu",
+            "loserName": "Captain Faceroll",
+            "bracketName": "Bracket top 8",
+            "bracketId": 1478695,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 41680476,
+            "entrant1Id": 8552184,
+            "entrant2Id": 8552216,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "Captain Faceroll",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8552184,
+            "loserId": 8552216,
+            "winnerName": "Panda | Plup",
+            "loserName": "Captain Faceroll",
+            "bracketName": "Group Stage",
+            "bracketId": 1452632,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 41711580,
+            "entrant1Id": 8552184,
+            "entrant2Id": 8552216,
+            "entrant1Name": "Panda | Plup",
+            "entrant2Name": "Captain Faceroll",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552184,
+            "loserId": 8552216,
+            "winnerName": "Panda | Plup",
+            "loserName": "Captain Faceroll",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 15990,
+                    "playerTag": "Plup"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 41711579,
+            "entrant1Id": 8552216,
+            "entrant2Id": 8552213,
+            "entrant1Name": "Captain Faceroll",
+            "entrant2Name": "Fiction",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8552216,
+            "loserId": 8552213,
+            "winnerName": "Captain Faceroll",
+            "loserName": "Fiction",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1016,
+                    "playerTag": "Fiction"
+                }
+            ]
+        },
+        {
+            "id": 41680475,
+            "entrant1Id": 8552235,
+            "entrant2Id": 8552216,
+            "entrant1Name": "billybopeep",
+            "entrant2Name": "Captain Faceroll",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552216,
+            "loserId": 8552235,
+            "winnerName": "Captain Faceroll",
+            "loserName": "billybopeep",
+            "bracketName": "Group Stage",
+            "bracketId": 1452632,
+            "entrant1Players": [
+                {
+                    "playerId": 135157,
+                    "playerTag": "billybopeep"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 41711577,
+            "entrant1Id": 8552204,
+            "entrant2Id": 8552216,
+            "entrant1Name": "MF | KoDoRiN",
+            "entrant2Name": "Captain Faceroll",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552216,
+            "loserId": 8552204,
+            "winnerName": "Captain Faceroll",
+            "loserName": "MF | KoDoRiN",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 41711575,
+            "entrant1Id": 8552205,
+            "entrant2Id": 8552216,
+            "entrant1Name": "Kalamazhu",
+            "entrant2Name": "Captain Faceroll",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8552216,
+            "loserId": 8552205,
+            "winnerName": "Captain Faceroll",
+            "loserName": "Kalamazhu",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 41711544,
+            "entrant1Id": 8552191,
+            "entrant2Id": 8552216,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "Captain Faceroll",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552191,
+            "loserId": 8552216,
+            "winnerName": "CLG | SFAT",
+            "loserName": "Captain Faceroll",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 41680473,
+            "entrant1Id": 8552216,
+            "entrant2Id": 8552220,
+            "entrant1Name": "Captain Faceroll",
+            "entrant2Name": "Medz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552216,
+            "loserId": 8552220,
+            "winnerName": "Captain Faceroll",
+            "loserName": "Medz",
+            "bracketName": "Group Stage",
+            "bracketId": 1452632,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40476,
+                    "playerTag": "Medz"
+                }
+            ]
+        },
+        {
+            "id": 41711572,
+            "entrant1Id": 8552216,
+            "entrant2Id": 8552210,
+            "entrant1Name": "Captain Faceroll",
+            "entrant2Name": "Albert",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8552216,
+            "loserId": 8552210,
+            "winnerName": "Captain Faceroll",
+            "loserName": "Albert",
+            "bracketName": "Championship Bracket",
+            "bracketId": 1603217,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12796,
+                    "playerTag": "Albert"
+                }
+            ]
+        },
+        {
+            "id": 42601195,
+            "entrant1Id": 8783251,
+            "entrant2Id": 8800819,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "MF | KoDoRiN",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8783251,
+            "loserId": 8800819,
+            "winnerName": "Faceroll",
+            "loserName": "MF | KoDoRiN",
+            "bracketName": "Bracket",
+            "bracketId": 1624324,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 42601194,
+            "entrant1Id": 8800819,
+            "entrant2Id": 8783251,
+            "entrant1Name": "MF | KoDoRiN",
+            "entrant2Name": "Faceroll",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8783251,
+            "loserId": 8800819,
+            "winnerName": "Faceroll",
+            "loserName": "MF | KoDoRiN",
+            "bracketName": "Bracket",
+            "bracketId": 1624324,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ]
+        },
+        {
+            "id": 42601193,
+            "entrant1Id": 8783251,
+            "entrant2Id": 8782980,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "SD | Android 0",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8783251,
+            "loserId": 8782980,
+            "winnerName": "Faceroll",
+            "loserName": "SD | Android 0",
+            "bracketName": "Bracket",
+            "bracketId": 1624324,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38567,
+                    "playerTag": "Android 0"
+                }
+            ]
+        },
+        {
+            "id": 42601190,
+            "entrant1Id": 8783251,
+            "entrant2Id": 8804694,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "Frame1 | Greg Turbo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8783251,
+            "loserId": 8804694,
+            "winnerName": "Faceroll",
+            "loserName": "Frame1 | Greg Turbo",
+            "bracketName": "Bracket",
+            "bracketId": 1624324,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 151318,
+                    "playerTag": "Greg Turbo"
+                }
+            ]
+        },
+        {
+            "id": 42601184,
+            "entrant1Id": 8783251,
+            "entrant2Id": 8804783,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "Tristan's Rule",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8783251,
+            "loserId": 8804783,
+            "winnerName": "Faceroll",
+            "loserName": "Tristan's Rule",
+            "bracketName": "Bracket",
+            "bracketId": 1624324,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 38979,
+                    "playerTag": "Tristan's Rule"
+                }
+            ]
+        },
+        {
+            "id": 42601172,
+            "entrant1Id": 8783251,
+            "entrant2Id": 8801202,
+            "entrant1Name": "Faceroll",
+            "entrant2Name": "Shnibl",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8783251,
+            "loserId": 8801202,
+            "winnerName": "Faceroll",
+            "loserName": "Shnibl",
+            "bracketName": "Bracket",
+            "bracketId": 1624324,
+            "entrant1Players": [
+                {
+                    "playerId": 3359,
+                    "playerTag": "Faceroll"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1372760,
+                    "playerTag": "Shnibl"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "ben",
+        "sora/joshman",
+        "magi",
+        "kodorin",
+        "kalamazhu",
+        "jflex",
+        "mot$",
+        "kjh",
+        "pappi",
+        "albert",
+        "neologism",
+        "fiction",
+        "billybopeep",
+        "kodorin",
+        "kalamazhu",
+        "medz",
+        "albert",
+        "kodorin",
+        "kodorin",
+        "android 0"
+    ],
+    "L": [
+        "trif",
+        "trif",
+        "axe",
+        "axe",
+        "lucky",
+        "aklo",
+        "null",
+        "spark",
+        "lucky",
+        "lucky",
+        "gahtzu",
+        "plup",
+        "plup",
+        "sfat"
+    ]
+}

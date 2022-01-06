@@ -1,0 +1,497 @@
+{
+    "Events": [
+        "570197",
+        "570200",
+        "544994",
+        "550771"
+    ],
+    "Sets": [
+        {
+            "id": 37106910,
+            "entrant1Id": 7270642,
+            "entrant2Id": 7281328,
+            "entrant1Name": "TL | ChuDat",
+            "entrant2Name": "Akir",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7270642,
+            "loserId": 7281328,
+            "winnerName": "TL | ChuDat",
+            "loserName": "Akir",
+            "bracketName": "Bracket pools",
+            "bracketId": 1484466,
+            "entrant1Players": [
+                {
+                    "playerId": 15179,
+                    "playerTag": "ChuDat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 144798,
+                    "playerTag": "Akir"
+                }
+            ]
+        },
+        {
+            "id": 37106900,
+            "entrant1Id": 7270642,
+            "entrant2Id": 7237349,
+            "entrant1Name": "TL | ChuDat",
+            "entrant2Name": "TM | Mattchu",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7270642,
+            "loserId": 7237349,
+            "winnerName": "TL | ChuDat",
+            "loserName": "TM | Mattchu",
+            "bracketName": "Bracket pools",
+            "bracketId": 1484466,
+            "entrant1Players": [
+                {
+                    "playerId": 15179,
+                    "playerTag": "ChuDat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 242828,
+                    "playerTag": "Mattchu"
+                }
+            ]
+        },
+        {
+            "id": 37115697,
+            "entrant1Id": 7289538,
+            "entrant2Id": 7289527,
+            "entrant1Name": "TL | ChuDat",
+            "entrant2Name": "Mango's Friend | Lucky",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7289527,
+            "loserId": 7289538,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "TL | ChuDat",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1484477,
+            "entrant1Players": [
+                {
+                    "playerId": 15179,
+                    "playerTag": "ChuDat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ]
+        },
+        {
+            "id": 37115820,
+            "entrant1Id": 7289538,
+            "entrant2Id": 7289525,
+            "entrant1Name": "TL | ChuDat",
+            "entrant2Name": "null",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7289525,
+            "loserId": 7289538,
+            "winnerName": "null",
+            "loserName": "TL | ChuDat",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1484477,
+            "entrant1Players": [
+                {
+                    "playerId": 15179,
+                    "playerTag": "ChuDat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13748,
+                    "playerTag": "null"
+                }
+            ]
+        },
+        {
+            "id": 37115692,
+            "entrant1Id": 7289491,
+            "entrant2Id": 7289538,
+            "entrant1Name": "Pepis | Elliot",
+            "entrant2Name": "TL | ChuDat",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7289538,
+            "loserId": 7289491,
+            "winnerName": "TL | ChuDat",
+            "loserName": "Pepis | Elliot",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1484477,
+            "entrant1Players": [
+                {
+                    "playerId": 7612,
+                    "playerTag": "Elliot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15179,
+                    "playerTag": "ChuDat"
+                }
+            ]
+        },
+        {
+            "id": 37115683,
+            "entrant1Id": 7289484,
+            "entrant2Id": 7289538,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "TL | ChuDat",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7289538,
+            "loserId": 7289484,
+            "winnerName": "TL | ChuDat",
+            "loserName": "BLE | SluG",
+            "bracketName": "Bracket top 64",
+            "bracketId": 1484477,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15179,
+                    "playerTag": "ChuDat"
+                }
+            ]
+        },
+        {
+            "id": 35160944,
+            "entrant1Id": 6692506,
+            "entrant2Id": 6755228,
+            "entrant1Name": "Trail",
+            "entrant2Name": "TL | ChuDat",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6692506,
+            "loserId": 6755228,
+            "winnerName": "Trail",
+            "loserName": "TL | ChuDat",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1433867,
+            "entrant1Players": [
+                {
+                    "playerId": 7149,
+                    "playerTag": "Trail"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15179,
+                    "playerTag": "ChuDat"
+                }
+            ]
+        },
+        {
+            "id": 35160935,
+            "entrant1Id": 6800877,
+            "entrant2Id": 6755228,
+            "entrant1Name": "Winter Warlock",
+            "entrant2Name": "TL | ChuDat",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6755228,
+            "loserId": 6800877,
+            "winnerName": "TL | ChuDat",
+            "loserName": "Winter Warlock",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1433867,
+            "entrant1Players": [
+                {
+                    "playerId": 453919,
+                    "playerTag": "Winter Warlock"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15179,
+                    "playerTag": "ChuDat"
+                }
+            ]
+        },
+        {
+            "id": 35160931,
+            "entrant1Id": 6726273,
+            "entrant2Id": 6755228,
+            "entrant1Name": "Junebug",
+            "entrant2Name": "TL | ChuDat",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6726273,
+            "loserId": 6755228,
+            "winnerName": "Junebug",
+            "loserName": "TL | ChuDat",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1433867,
+            "entrant1Players": [
+                {
+                    "playerId": 5620,
+                    "playerTag": "Junebug"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15179,
+                    "playerTag": "ChuDat"
+                }
+            ]
+        },
+        {
+            "id": 35160927,
+            "entrant1Id": 6755228,
+            "entrant2Id": 6780743,
+            "entrant1Name": "TL | ChuDat",
+            "entrant2Name": "BiggPappa",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6755228,
+            "loserId": 6780743,
+            "winnerName": "TL | ChuDat",
+            "loserName": "BiggPappa",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1433867,
+            "entrant1Players": [
+                {
+                    "playerId": 15179,
+                    "playerTag": "ChuDat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15767,
+                    "playerTag": "BiggPappa"
+                }
+            ]
+        },
+        {
+            "id": 35160922,
+            "entrant1Id": 6755228,
+            "entrant2Id": 6780984,
+            "entrant1Name": "TL | ChuDat",
+            "entrant2Name": "SHwang",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6755228,
+            "loserId": 6780984,
+            "winnerName": "TL | ChuDat",
+            "loserName": "SHwang",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1433867,
+            "entrant1Players": [
+                {
+                    "playerId": 15179,
+                    "playerTag": "ChuDat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30913,
+                    "playerTag": "SHwang"
+                }
+            ]
+        },
+        {
+            "id": 35160917,
+            "entrant1Id": 6755228,
+            "entrant2Id": 6711690,
+            "entrant1Name": "TL | ChuDat",
+            "entrant2Name": "FriggenCake",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6755228,
+            "loserId": 6711690,
+            "winnerName": "TL | ChuDat",
+            "loserName": "FriggenCake",
+            "bracketName": "Round Robin Pools",
+            "bracketId": 1433867,
+            "entrant1Players": [
+                {
+                    "playerId": 15179,
+                    "playerTag": "ChuDat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1920927,
+                    "playerTag": "FriggenCake"
+                }
+            ]
+        },
+        {
+            "id": 35031373,
+            "entrant1Id": 6779152,
+            "entrant2Id": 6776712,
+            "entrant1Name": "TL | ChuDat",
+            "entrant2Name": "Mekk",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6779152,
+            "loserId": 6776712,
+            "winnerName": "TL | ChuDat",
+            "loserName": "Mekk",
+            "bracketName": "Bracket",
+            "bracketId": 1445395,
+            "entrant1Players": [
+                {
+                    "playerId": 15179,
+                    "playerTag": "ChuDat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ]
+        },
+        {
+            "id": 35031372,
+            "entrant1Id": 6779152,
+            "entrant2Id": 6778558,
+            "entrant1Name": "TL | ChuDat",
+            "entrant2Name": "DD",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6779152,
+            "loserId": 6778558,
+            "winnerName": "TL | ChuDat",
+            "loserName": "DD",
+            "bracketName": "Bracket",
+            "bracketId": 1445395,
+            "entrant1Players": [
+                {
+                    "playerId": 15179,
+                    "playerTag": "ChuDat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10485,
+                    "playerTag": "DD"
+                }
+            ]
+        },
+        {
+            "id": 35031370,
+            "entrant1Id": 6779152,
+            "entrant2Id": 6773919,
+            "entrant1Name": "TL | ChuDat",
+            "entrant2Name": "Bigbuffalo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6779152,
+            "loserId": 6773919,
+            "winnerName": "TL | ChuDat",
+            "loserName": "Bigbuffalo",
+            "bracketName": "Bracket",
+            "bracketId": 1445395,
+            "entrant1Players": [
+                {
+                    "playerId": 15179,
+                    "playerTag": "ChuDat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 55304,
+                    "playerTag": "Bigbuffalo"
+                }
+            ]
+        },
+        {
+            "id": 35031366,
+            "entrant1Id": 6779152,
+            "entrant2Id": 6777955,
+            "entrant1Name": "TL | ChuDat",
+            "entrant2Name": "shitter",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6779152,
+            "loserId": 6777955,
+            "winnerName": "TL | ChuDat",
+            "loserName": "shitter",
+            "bracketName": "Bracket",
+            "bracketId": 1445395,
+            "entrant1Players": [
+                {
+                    "playerId": 15179,
+                    "playerTag": "ChuDat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 921013,
+                    "playerTag": "shitter"
+                }
+            ]
+        },
+        {
+            "id": 35031358,
+            "entrant1Id": 6779152,
+            "entrant2Id": 6777926,
+            "entrant1Name": "TL | ChuDat",
+            "entrant2Name": "FourSquare",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6779152,
+            "loserId": 6777926,
+            "winnerName": "TL | ChuDat",
+            "loserName": "FourSquare",
+            "bracketName": "Bracket",
+            "bracketId": 1445395,
+            "entrant1Players": [
+                {
+                    "playerId": 15179,
+                    "playerTag": "ChuDat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50279,
+                    "playerTag": "FourSquare"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "akir",
+        "slug",
+        "mekk"
+    ],
+    "L": [
+        "lucky",
+        "null",
+        "trail",
+        "Junebug"
+    ]
+}

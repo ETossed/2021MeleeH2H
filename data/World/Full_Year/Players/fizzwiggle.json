@@ -1,0 +1,2058 @@
+{
+    "Events": [
+        "584741",
+        "585641",
+        "661303",
+        "658128",
+        "645979",
+        "643682",
+        "623931",
+        "618276",
+        "606571",
+        "604809",
+        "582684"
+    ],
+    "Sets": [
+        {
+            "id": 42332568,
+            "entrant1Id": 7705954,
+            "entrant2Id": 7882711,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7705954,
+            "loserId": 7882711,
+            "winnerName": "Fizz",
+            "loserName": "Umarth",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603583,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 42332565,
+            "entrant1Id": 7705954,
+            "entrant2Id": 8387012,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "s-f",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7705954,
+            "loserId": 8387012,
+            "winnerName": "Fizz",
+            "loserName": "s-f",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603583,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1622860,
+                    "playerTag": "s-f"
+                }
+            ]
+        },
+        {
+            "id": 42332559,
+            "entrant1Id": 7705954,
+            "entrant2Id": 8388896,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Franzia | Trip Sucks",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7705954,
+            "loserId": 8388896,
+            "winnerName": "Fizz",
+            "loserName": "Franzia | Trip Sucks",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603583,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 534282,
+                    "playerTag": "Trip Sucks"
+                }
+            ]
+        },
+        {
+            "id": 42334695,
+            "entrant1Id": 8055318,
+            "entrant2Id": 7705954,
+            "entrant1Name": "S2J",
+            "entrant2Name": "Fizz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8055318,
+            "loserId": 7705954,
+            "winnerName": "S2J",
+            "loserName": "Fizz",
+            "bracketName": "Round 2 Pools",
+            "bracketId": 1620255,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ]
+        },
+        {
+            "id": 42357590,
+            "entrant1Id": 7609383,
+            "entrant2Id": 7705954,
+            "entrant1Name": "Far!",
+            "entrant2Name": "Fizz",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7609383,
+            "loserId": 7705954,
+            "winnerName": "Far!",
+            "loserName": "Fizz",
+            "bracketName": "Top 64",
+            "bracketId": 1619224,
+            "entrant1Players": [
+                {
+                    "playerId": 132537,
+                    "playerTag": "Far!"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ]
+        },
+        {
+            "id": 42334751,
+            "entrant1Id": 7705954,
+            "entrant2Id": 7735303,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Napkins",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7705954,
+            "loserId": 7735303,
+            "winnerName": "Fizz",
+            "loserName": "Napkins",
+            "bracketName": "Round 2 Pools",
+            "bracketId": 1620255,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 285266,
+                    "playerTag": "Napkins"
+                }
+            ]
+        },
+        {
+            "id": 42357582,
+            "entrant1Id": 7705954,
+            "entrant2Id": 7628639,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Tai",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7705954,
+            "loserId": 7628639,
+            "winnerName": "Fizz",
+            "loserName": "Tai",
+            "bracketName": "Top 64",
+            "bracketId": 1619224,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1084,
+                    "playerTag": "Tai"
+                }
+            ]
+        },
+        {
+            "id": 41041387,
+            "entrant1Id": 8313151,
+            "entrant2Id": 8205756,
+            "entrant1Name": "MegaXmas",
+            "entrant2Name": "Fizz",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8313151,
+            "loserId": 8205756,
+            "winnerName": "MegaXmas",
+            "loserName": "Fizz",
+            "bracketName": "Pools",
+            "bracketId": 1583004,
+            "entrant1Players": [
+                {
+                    "playerId": 4224,
+                    "playerTag": "MegaXmas"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ]
+        },
+        {
+            "id": 41041449,
+            "entrant1Id": 8205756,
+            "entrant2Id": 8309690,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "ATX | Noops",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8205756,
+            "loserId": 8309690,
+            "winnerName": "Fizz",
+            "loserName": "ATX | Noops",
+            "bracketName": "Pools",
+            "bracketId": 1583004,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 35271,
+                    "playerTag": "Noops"
+                }
+            ]
+        },
+        {
+            "id": 41041385,
+            "entrant1Id": 8205756,
+            "entrant2Id": 7601110,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "YC | Yuse",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8205756,
+            "loserId": 7601110,
+            "winnerName": "Fizz",
+            "loserName": "YC | Yuse",
+            "bracketName": "Pools",
+            "bracketId": 1583004,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 138744,
+                    "playerTag": "Yuse"
+                }
+            ]
+        },
+        {
+            "id": 41041380,
+            "entrant1Id": 8205756,
+            "entrant2Id": 7906508,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Flub",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8205756,
+            "loserId": 7906508,
+            "winnerName": "Fizz",
+            "loserName": "Flub",
+            "bracketName": "Pools",
+            "bracketId": 1583004,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1964627,
+                    "playerTag": "Flub"
+                }
+            ]
+        },
+        {
+            "id": 41043086,
+            "entrant1Id": 8205756,
+            "entrant2Id": 8304265,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Mekk",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8304265,
+            "loserId": 8205756,
+            "winnerName": "Mekk",
+            "loserName": "Fizz",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ]
+        },
+        {
+            "id": 41043072,
+            "entrant1Id": 7960383,
+            "entrant2Id": 8205756,
+            "entrant1Name": "Me | Fury",
+            "entrant2Name": "Fizz",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8205756,
+            "loserId": 7960383,
+            "winnerName": "Fizz",
+            "loserName": "Me | Fury",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 309358,
+                    "playerTag": "Fury"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ]
+        },
+        {
+            "id": 41043056,
+            "entrant1Id": 8205756,
+            "entrant2Id": 7601299,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "SadSack",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8205756,
+            "loserId": 7601299,
+            "winnerName": "Fizz",
+            "loserName": "SadSack",
+            "bracketName": "Top 64",
+            "bracketId": 1582999,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 328736,
+                    "playerTag": "SadSack"
+                }
+            ]
+        },
+        {
+            "id": 43342737,
+            "entrant1Id": 8981501,
+            "entrant2Id": 8985680,
+            "entrant1Name": "CG | Zealot",
+            "entrant2Name": "Fizzwiggle",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8981501,
+            "loserId": 8985680,
+            "winnerName": "CG | Zealot",
+            "loserName": "Fizzwiggle",
+            "bracketName": "Bracket",
+            "bracketId": 1647396,
+            "entrant1Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ]
+        },
+        {
+            "id": 43342736,
+            "entrant1Id": 8981501,
+            "entrant2Id": 8985680,
+            "entrant1Name": "CG | Zealot",
+            "entrant2Name": "Fizzwiggle",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8981501,
+            "loserId": 8985680,
+            "winnerName": "CG | Zealot",
+            "loserName": "Fizzwiggle",
+            "bracketName": "Bracket",
+            "bracketId": 1647396,
+            "entrant1Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ]
+        },
+        {
+            "id": 43342800,
+            "entrant1Id": 8985680,
+            "entrant2Id": 8982211,
+            "entrant1Name": "Fizzwiggle",
+            "entrant2Name": "Elders React | Third Strongest",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8985680,
+            "loserId": 8982211,
+            "winnerName": "Fizzwiggle",
+            "loserName": "Elders React | Third Strongest",
+            "bracketName": "Bracket",
+            "bracketId": 1647396,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40399,
+                    "playerTag": "Third Strongest"
+                }
+            ]
+        },
+        {
+            "id": 43342735,
+            "entrant1Id": 8985680,
+            "entrant2Id": 8986775,
+            "entrant1Name": "Fizzwiggle",
+            "entrant2Name": "Kurt | polear",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8985680,
+            "loserId": 8986775,
+            "winnerName": "Fizzwiggle",
+            "loserName": "Kurt | polear",
+            "bracketName": "Bracket",
+            "bracketId": 1647396,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 153142,
+                    "playerTag": "polear"
+                }
+            ]
+        },
+        {
+            "id": 43342732,
+            "entrant1Id": 8985680,
+            "entrant2Id": 8987190,
+            "entrant1Name": "Fizzwiggle",
+            "entrant2Name": "Michael \"Kiefer\" Kiefer",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8985680,
+            "loserId": 8987190,
+            "winnerName": "Fizzwiggle",
+            "loserName": "Michael \"Kiefer\" Kiefer",
+            "bracketName": "Bracket",
+            "bracketId": 1647396,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45382,
+                    "playerTag": "Michael \"Kiefer\" Kiefer"
+                }
+            ]
+        },
+        {
+            "id": 43342726,
+            "entrant1Id": 8985680,
+            "entrant2Id": 8982019,
+            "entrant1Name": "Fizzwiggle",
+            "entrant2Name": "TSP | Jim Jam Flim Flam",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8985680,
+            "loserId": 8982019,
+            "winnerName": "Fizzwiggle",
+            "loserName": "TSP | Jim Jam Flim Flam",
+            "bracketName": "Bracket",
+            "bracketId": 1647396,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11906,
+                    "playerTag": "Jim Jam Flim Flam"
+                }
+            ]
+        },
+        {
+            "id": 43191966,
+            "entrant1Id": 8954566,
+            "entrant2Id": 8955123,
+            "entrant1Name": "CG | Zealot",
+            "entrant2Name": "Fizzwiggle",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8954566,
+            "loserId": 8955123,
+            "winnerName": "CG | Zealot",
+            "loserName": "Fizzwiggle",
+            "bracketName": "Bracket",
+            "bracketId": 1641948,
+            "entrant1Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ]
+        },
+        {
+            "id": 43191965,
+            "entrant1Id": 8954566,
+            "entrant2Id": 8955123,
+            "entrant1Name": "CG | Zealot",
+            "entrant2Name": "Fizzwiggle",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8954566,
+            "loserId": 8955123,
+            "winnerName": "CG | Zealot",
+            "loserName": "Fizzwiggle",
+            "bracketName": "Bracket",
+            "bracketId": 1641948,
+            "entrant1Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ]
+        },
+        {
+            "id": 43192029,
+            "entrant1Id": 8955123,
+            "entrant2Id": 8954600,
+            "entrant1Name": "Fizzwiggle",
+            "entrant2Name": "WizP",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8955123,
+            "loserId": 8954600,
+            "winnerName": "Fizzwiggle",
+            "loserName": "WizP",
+            "bracketName": "Bracket",
+            "bracketId": 1641948,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 147409,
+                    "playerTag": "WizP"
+                }
+            ]
+        },
+        {
+            "id": 43191964,
+            "entrant1Id": 8955123,
+            "entrant2Id": 8957625,
+            "entrant1Name": "Fizzwiggle",
+            "entrant2Name": "303 | w0mp",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8955123,
+            "loserId": 8957625,
+            "winnerName": "Fizzwiggle",
+            "loserName": "303 | w0mp",
+            "bracketName": "Bracket",
+            "bracketId": 1641948,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61899,
+                    "playerTag": "w0mp"
+                }
+            ]
+        },
+        {
+            "id": 43191961,
+            "entrant1Id": 8955123,
+            "entrant2Id": 8957313,
+            "entrant1Name": "Fizzwiggle",
+            "entrant2Name": "James Jr",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8955123,
+            "loserId": 8957313,
+            "winnerName": "Fizzwiggle",
+            "loserName": "James Jr",
+            "bracketName": "Bracket",
+            "bracketId": 1641948,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 280011,
+                    "playerTag": "James Jr"
+                }
+            ]
+        },
+        {
+            "id": 43191955,
+            "entrant1Id": 8955123,
+            "entrant2Id": 8955456,
+            "entrant1Name": "Fizzwiggle",
+            "entrant2Name": "Hobbes",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8955123,
+            "loserId": 8955456,
+            "winnerName": "Fizzwiggle",
+            "loserName": "Hobbes",
+            "bracketName": "Bracket",
+            "bracketId": 1641948,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 364747,
+                    "playerTag": "Hobbes"
+                }
+            ]
+        },
+        {
+            "id": 42725074,
+            "entrant1Id": 8736076,
+            "entrant2Id": 8837975,
+            "entrant1Name": "Kurt | polear",
+            "entrant2Name": "Fizzwiggle",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8837975,
+            "loserId": 8736076,
+            "winnerName": "Fizzwiggle",
+            "loserName": "Kurt | polear",
+            "bracketName": "Bracket",
+            "bracketId": 1620251,
+            "entrant1Players": [
+                {
+                    "playerId": 153142,
+                    "playerTag": "polear"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ]
+        },
+        {
+            "id": 42725075,
+            "entrant1Id": 8837975,
+            "entrant2Id": 8736076,
+            "entrant1Name": "Fizzwiggle",
+            "entrant2Name": "Kurt | polear",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8837975,
+            "loserId": 8736076,
+            "winnerName": "Fizzwiggle",
+            "loserName": "Kurt | polear",
+            "bracketName": "Bracket",
+            "bracketId": 1620251,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 153142,
+                    "playerTag": "polear"
+                }
+            ]
+        },
+        {
+            "id": 42725073,
+            "entrant1Id": 8837975,
+            "entrant2Id": 8736076,
+            "entrant1Name": "Fizzwiggle",
+            "entrant2Name": "Kurt | polear",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8736076,
+            "loserId": 8837975,
+            "winnerName": "Kurt | polear",
+            "loserName": "Fizzwiggle",
+            "bracketName": "Bracket",
+            "bracketId": 1620251,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 153142,
+                    "playerTag": "polear"
+                }
+            ]
+        },
+        {
+            "id": 42725137,
+            "entrant1Id": 8837975,
+            "entrant2Id": 8718854,
+            "entrant1Name": "Fizzwiggle",
+            "entrant2Name": "WizP",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8837975,
+            "loserId": 8718854,
+            "winnerName": "Fizzwiggle",
+            "loserName": "WizP",
+            "bracketName": "Bracket",
+            "bracketId": 1620251,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 147409,
+                    "playerTag": "WizP"
+                }
+            ]
+        },
+        {
+            "id": 42725071,
+            "entrant1Id": 8837975,
+            "entrant2Id": 8840793,
+            "entrant1Name": "Fizzwiggle",
+            "entrant2Name": "boozi",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8837975,
+            "loserId": 8840793,
+            "winnerName": "Fizzwiggle",
+            "loserName": "boozi",
+            "bracketName": "Bracket",
+            "bracketId": 1620251,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2550397,
+                    "playerTag": "boozi"
+                }
+            ]
+        },
+        {
+            "id": 42725067,
+            "entrant1Id": 8837975,
+            "entrant2Id": 8719115,
+            "entrant1Name": "Fizzwiggle",
+            "entrant2Name": "Ace?",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8837975,
+            "loserId": 8719115,
+            "winnerName": "Fizzwiggle",
+            "loserName": "Ace?",
+            "bracketName": "Bracket",
+            "bracketId": 1620251,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 336273,
+                    "playerTag": "Ace?"
+                }
+            ]
+        },
+        {
+            "id": 42725059,
+            "entrant1Id": 8837975,
+            "entrant2Id": 8823177,
+            "entrant1Name": "Fizzwiggle",
+            "entrant2Name": "Chancey",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8837975,
+            "loserId": 8823177,
+            "winnerName": "Fizzwiggle",
+            "loserName": "Chancey",
+            "bracketName": "Bracket",
+            "bracketId": 1620251,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 513074,
+                    "playerTag": "Chancey"
+                }
+            ]
+        },
+        {
+            "id": 42227186,
+            "entrant1Id": 8723931,
+            "entrant2Id": 8724163,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "DD",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8723931,
+            "loserId": 8724163,
+            "winnerName": "Fizz",
+            "loserName": "DD",
+            "bracketName": "Bracket",
+            "bracketId": 1615920,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10485,
+                    "playerTag": "DD"
+                }
+            ]
+        },
+        {
+            "id": 42227185,
+            "entrant1Id": 8723931,
+            "entrant2Id": 8724163,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "DD",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8723931,
+            "loserId": 8724163,
+            "winnerName": "Fizz",
+            "loserName": "DD",
+            "bracketName": "Bracket",
+            "bracketId": 1615920,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10485,
+                    "playerTag": "DD"
+                }
+            ]
+        },
+        {
+            "id": 42227183,
+            "entrant1Id": 8723931,
+            "entrant2Id": 8721057,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "WizP",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8723931,
+            "loserId": 8721057,
+            "winnerName": "Fizz",
+            "loserName": "WizP",
+            "bracketName": "Bracket",
+            "bracketId": 1615920,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 147409,
+                    "playerTag": "WizP"
+                }
+            ]
+        },
+        {
+            "id": 42227179,
+            "entrant1Id": 8723931,
+            "entrant2Id": 8726057,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Double",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8723931,
+            "loserId": 8726057,
+            "winnerName": "Fizz",
+            "loserName": "Double",
+            "bracketName": "Bracket",
+            "bracketId": 1615920,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 975609,
+                    "playerTag": "Double"
+                }
+            ]
+        },
+        {
+            "id": 42227171,
+            "entrant1Id": 8723931,
+            "entrant2Id": 8725978,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Gentle Kicks",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8723931,
+            "loserId": 8725978,
+            "winnerName": "Fizz",
+            "loserName": "Gentle Kicks",
+            "bracketName": "Bracket",
+            "bracketId": 1615920,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 67076,
+                    "playerTag": "Gentle Kicks"
+                }
+            ]
+        },
+        {
+            "id": 41468087,
+            "entrant1Id": 8365714,
+            "entrant2Id": 8527668,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Secrets",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8527668,
+            "loserId": 8365714,
+            "winnerName": "Secrets",
+            "loserName": "Fizz",
+            "bracketName": "Bracket",
+            "bracketId": 1581662,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 28720,
+                    "playerTag": "Secrets"
+                }
+            ]
+        },
+        {
+            "id": 41468088,
+            "entrant1Id": 8527668,
+            "entrant2Id": 8365714,
+            "entrant1Name": "Secrets",
+            "entrant2Name": "Fizz",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8527668,
+            "loserId": 8365714,
+            "winnerName": "Secrets",
+            "loserName": "Fizz",
+            "bracketName": "Bracket",
+            "bracketId": 1581662,
+            "entrant1Players": [
+                {
+                    "playerId": 28720,
+                    "playerTag": "Secrets"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ]
+        },
+        {
+            "id": 41468086,
+            "entrant1Id": 8527668,
+            "entrant2Id": 8365714,
+            "entrant1Name": "Secrets",
+            "entrant2Name": "Fizz",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8365714,
+            "loserId": 8527668,
+            "winnerName": "Fizz",
+            "loserName": "Secrets",
+            "bracketName": "Bracket",
+            "bracketId": 1581662,
+            "entrant1Players": [
+                {
+                    "playerId": 28720,
+                    "playerTag": "Secrets"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ]
+        },
+        {
+            "id": 41468085,
+            "entrant1Id": 8365714,
+            "entrant2Id": 8371900,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "DD",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8365714,
+            "loserId": 8371900,
+            "winnerName": "Fizz",
+            "loserName": "DD",
+            "bracketName": "Bracket",
+            "bracketId": 1581662,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10485,
+                    "playerTag": "DD"
+                }
+            ]
+        },
+        {
+            "id": 41468082,
+            "entrant1Id": 8365714,
+            "entrant2Id": 8526574,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Cheunk",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8365714,
+            "loserId": 8526574,
+            "winnerName": "Fizz",
+            "loserName": "Cheunk",
+            "bracketName": "Bracket",
+            "bracketId": 1581662,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 129821,
+                    "playerTag": "Cheunk"
+                }
+            ]
+        },
+        {
+            "id": 41468076,
+            "entrant1Id": 8365714,
+            "entrant2Id": 8435947,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Gumi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8365714,
+            "loserId": 8435947,
+            "winnerName": "Fizz",
+            "loserName": "Gumi",
+            "bracketName": "Bracket",
+            "bracketId": 1581662,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2183103,
+                    "playerTag": "Gumi"
+                }
+            ]
+        },
+        {
+            "id": 40833460,
+            "entrant1Id": 8261866,
+            "entrant2Id": 8251443,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Russell",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8251443,
+            "loserId": 8261866,
+            "winnerName": "Russell",
+            "loserName": "Fizz",
+            "bracketName": "Bracket",
+            "bracketId": 1571388,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3631,
+                    "playerTag": "Russell"
+                }
+            ]
+        },
+        {
+            "id": 40833524,
+            "entrant1Id": 8261866,
+            "entrant2Id": 8332928,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "UZI-HELL | Uzi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8261866,
+            "loserId": 8332928,
+            "winnerName": "Fizz",
+            "loserName": "UZI-HELL | Uzi",
+            "bracketName": "Bracket",
+            "bracketId": 1571388,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 570787,
+                    "playerTag": "Uzi"
+                }
+            ]
+        },
+        {
+            "id": 40833456,
+            "entrant1Id": 8261866,
+            "entrant2Id": 8348081,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "303 | w0mp",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8261866,
+            "loserId": 8348081,
+            "winnerName": "Fizz",
+            "loserName": "303 | w0mp",
+            "bracketName": "Bracket",
+            "bracketId": 1571388,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61899,
+                    "playerTag": "w0mp"
+                }
+            ]
+        },
+        {
+            "id": 40833448,
+            "entrant1Id": 8261866,
+            "entrant2Id": 8321635,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Vballers | All Burp",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8261866,
+            "loserId": 8321635,
+            "winnerName": "Fizz",
+            "loserName": "Vballers | All Burp",
+            "bracketName": "Bracket",
+            "bracketId": 1571388,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2340472,
+                    "playerTag": "All Burp"
+                }
+            ]
+        },
+        {
+            "id": 40851405,
+            "entrant1Id": 8251443,
+            "entrant2Id": 8261866,
+            "entrant1Name": "Russell",
+            "entrant2Name": "Fizz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8251443,
+            "loserId": 8261866,
+            "winnerName": "Russell",
+            "loserName": "Fizz",
+            "bracketName": "Top 8",
+            "bracketId": 1581553,
+            "entrant1Players": [
+                {
+                    "playerId": 3631,
+                    "playerTag": "Russell"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ]
+        },
+        {
+            "id": 40851404,
+            "entrant1Id": 8261866,
+            "entrant2Id": 8274867,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Fishbait",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8261866,
+            "loserId": 8274867,
+            "winnerName": "Fizz",
+            "loserName": "Fishbait",
+            "bracketName": "Top 8",
+            "bracketId": 1581553,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223183,
+                    "playerTag": "Fishbait"
+                }
+            ]
+        },
+        {
+            "id": 40833432,
+            "entrant1Id": 8261866,
+            "entrant2Id": 8290171,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Janke",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8261866,
+            "loserId": 8290171,
+            "winnerName": "Fizz",
+            "loserName": "Janke",
+            "bracketName": "Bracket",
+            "bracketId": 1571388,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2144291,
+                    "playerTag": "Janke"
+                }
+            ]
+        },
+        {
+            "id": 40851402,
+            "entrant1Id": 8246964,
+            "entrant2Id": 8261866,
+            "entrant1Name": "Conman",
+            "entrant2Name": "Fizz",
+            "entrant1Score": 1,
+            "entrant2Score": 4,
+            "completed": true,
+            "winnerId": 8261866,
+            "loserId": 8246964,
+            "winnerName": "Fizz",
+            "loserName": "Conman",
+            "bracketName": "Top 8",
+            "bracketId": 1581553,
+            "entrant1Players": [
+                {
+                    "playerId": 178901,
+                    "playerTag": "Conman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ]
+        },
+        {
+            "id": 40851400,
+            "entrant1Id": 8261866,
+            "entrant2Id": 8333830,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "squible",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8261866,
+            "loserId": 8333830,
+            "winnerName": "Fizz",
+            "loserName": "squible",
+            "bracketName": "Top 8",
+            "bracketId": 1581553,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3461,
+                    "playerTag": "squible"
+                }
+            ]
+        },
+        {
+            "id": 39525364,
+            "entrant1Id": 8033359,
+            "entrant2Id": 8033374,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "BATTS",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8033359,
+            "loserId": 8033374,
+            "winnerName": "Fizz",
+            "loserName": "BATTS",
+            "bracketName": "Ladder",
+            "bracketId": 1550673,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 287613,
+                    "playerTag": "BATTS"
+                }
+            ]
+        },
+        {
+            "id": 39519147,
+            "entrant1Id": 8031114,
+            "entrant2Id": 8029917,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Goomy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8031114,
+            "loserId": 8029917,
+            "winnerName": "Fizz",
+            "loserName": "Goomy",
+            "bracketName": "Bracket",
+            "bracketId": 1547755,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22466,
+                    "playerTag": "Goomy"
+                }
+            ]
+        },
+        {
+            "id": 39519139,
+            "entrant1Id": 8031114,
+            "entrant2Id": 8012568,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Critius",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8031114,
+            "loserId": 8012568,
+            "winnerName": "Fizz",
+            "loserName": "Critius",
+            "bracketName": "Bracket",
+            "bracketId": 1547755,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6909,
+                    "playerTag": "Critius"
+                }
+            ]
+        },
+        {
+            "id": 39527040,
+            "entrant1Id": 8012000,
+            "entrant2Id": 8031114,
+            "entrant1Name": "Conman",
+            "entrant2Name": "Fizz",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8031114,
+            "loserId": 8012000,
+            "winnerName": "Fizz",
+            "loserName": "Conman",
+            "bracketName": "Top 8",
+            "bracketId": 1547759,
+            "entrant1Players": [
+                {
+                    "playerId": 178901,
+                    "playerTag": "Conman"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ]
+        },
+        {
+            "id": 39527041,
+            "entrant1Id": 8031114,
+            "entrant2Id": 8012000,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Conman",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8031114,
+            "loserId": 8012000,
+            "winnerName": "Fizz",
+            "loserName": "Conman",
+            "bracketName": "Top 8",
+            "bracketId": 1547759,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 178901,
+                    "playerTag": "Conman"
+                }
+            ]
+        },
+        {
+            "id": 39527039,
+            "entrant1Id": 8031114,
+            "entrant2Id": 8012000,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Conman",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8012000,
+            "loserId": 8031114,
+            "winnerName": "Conman",
+            "loserName": "Fizz",
+            "bracketName": "Top 8",
+            "bracketId": 1547759,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 178901,
+                    "playerTag": "Conman"
+                }
+            ]
+        },
+        {
+            "id": 39519123,
+            "entrant1Id": 8031114,
+            "entrant2Id": 7999519,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "treyknows",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8031114,
+            "loserId": 7999519,
+            "winnerName": "Fizz",
+            "loserName": "treyknows",
+            "bracketName": "Bracket",
+            "bracketId": 1547755,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1468913,
+                    "playerTag": "treyknows"
+                }
+            ]
+        },
+        {
+            "id": 39527055,
+            "entrant1Id": 8031114,
+            "entrant2Id": 8023397,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "squible",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8031114,
+            "loserId": 8023397,
+            "winnerName": "Fizz",
+            "loserName": "squible",
+            "bracketName": "Top 8",
+            "bracketId": 1547759,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3461,
+                    "playerTag": "squible"
+                }
+            ]
+        },
+        {
+            "id": 39527037,
+            "entrant1Id": 8031114,
+            "entrant2Id": 8011995,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Fishbait",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8031114,
+            "loserId": 8011995,
+            "winnerName": "Fizz",
+            "loserName": "Fishbait",
+            "bracketName": "Top 8",
+            "bracketId": 1547759,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 223183,
+                    "playerTag": "Fishbait"
+                }
+            ]
+        },
+        {
+            "id": 38926103,
+            "entrant1Id": 7555615,
+            "entrant2Id": 7551707,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Elders React | Third Strongest",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7555615,
+            "loserId": 7551707,
+            "winnerName": "Fizz",
+            "loserName": "Elders React | Third Strongest",
+            "bracketName": "Bracket",
+            "bracketId": 1526601,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 40399,
+                    "playerTag": "Third Strongest"
+                }
+            ]
+        },
+        {
+            "id": 38944758,
+            "entrant1Id": 7603053,
+            "entrant2Id": 7555615,
+            "entrant1Name": "CG | Zealot",
+            "entrant2Name": "Fizz",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7555615,
+            "loserId": 7603053,
+            "winnerName": "Fizz",
+            "loserName": "CG | Zealot",
+            "bracketName": "Top 16",
+            "bracketId": 1526604,
+            "entrant1Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ]
+        },
+        {
+            "id": 38944759,
+            "entrant1Id": 7555615,
+            "entrant2Id": 7603053,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "CG | Zealot",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7603053,
+            "loserId": 7555615,
+            "winnerName": "CG | Zealot",
+            "loserName": "Fizz",
+            "bracketName": "Top 16",
+            "bracketId": 1526604,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ]
+        },
+        {
+            "id": 38944757,
+            "entrant1Id": 7603053,
+            "entrant2Id": 7555615,
+            "entrant1Name": "CG | Zealot",
+            "entrant2Name": "Fizz",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7603053,
+            "loserId": 7555615,
+            "winnerName": "CG | Zealot",
+            "loserName": "Fizz",
+            "bracketName": "Top 16",
+            "bracketId": 1526604,
+            "entrant1Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ]
+        },
+        {
+            "id": 38926099,
+            "entrant1Id": 7555615,
+            "entrant2Id": 7688941,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Crow",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7555615,
+            "loserId": 7688941,
+            "winnerName": "Fizz",
+            "loserName": "Crow",
+            "bracketName": "Bracket",
+            "bracketId": 1526601,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 32190,
+                    "playerTag": "Crow"
+                }
+            ]
+        },
+        {
+            "id": 38944789,
+            "entrant1Id": 7555615,
+            "entrant2Id": 7551745,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "NB! | Secrets",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7555615,
+            "loserId": 7551745,
+            "winnerName": "Fizz",
+            "loserName": "NB! | Secrets",
+            "bracketName": "Top 16",
+            "bracketId": 1526604,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 28720,
+                    "playerTag": "Secrets"
+                }
+            ]
+        },
+        {
+            "id": 38944756,
+            "entrant1Id": 7555615,
+            "entrant2Id": 7553648,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Conman",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7555615,
+            "loserId": 7553648,
+            "winnerName": "Fizz",
+            "loserName": "Conman",
+            "bracketName": "Top 16",
+            "bracketId": 1526604,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 178901,
+                    "playerTag": "Conman"
+                }
+            ]
+        },
+        {
+            "id": 38926091,
+            "entrant1Id": 7555615,
+            "entrant2Id": 7650390,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Vballers | All Burp",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7555615,
+            "loserId": 7650390,
+            "winnerName": "Fizz",
+            "loserName": "Vballers | All Burp",
+            "bracketName": "Bracket",
+            "bracketId": 1526601,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2340472,
+                    "playerTag": "All Burp"
+                }
+            ]
+        },
+        {
+            "id": 38926075,
+            "entrant1Id": 7555615,
+            "entrant2Id": 7722970,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "J23",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7555615,
+            "loserId": 7722970,
+            "winnerName": "Fizz",
+            "loserName": "J23",
+            "bracketName": "Bracket",
+            "bracketId": 1526601,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2353949,
+                    "playerTag": "J23"
+                }
+            ]
+        },
+        {
+            "id": 38944753,
+            "entrant1Id": 7555615,
+            "entrant2Id": 7575674,
+            "entrant1Name": "Fizz",
+            "entrant2Name": "Kurt | polear",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7555615,
+            "loserId": 7575674,
+            "winnerName": "Fizz",
+            "loserName": "Kurt | polear",
+            "bracketName": "Top 16",
+            "bracketId": 1526604,
+            "entrant1Players": [
+                {
+                    "playerId": 250581,
+                    "playerTag": "Fizzwiggle"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 153142,
+                    "playerTag": "polear"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "umarth",
+        "tai",
+        "secrets",
+        "zealot",
+        "secrets"
+    ],
+    "L": [
+        "s2j",
+        "far!",
+        "MegaXmas",
+        "mekk",
+        "zealot",
+        "zealot",
+        "zealot",
+        "zealot",
+        "polear",
+        "secrets",
+        "secrets",
+        "Russell",
+        "Russell",
+        "Conman",
+        "zealot",
+        "zealot"
+    ]
+}

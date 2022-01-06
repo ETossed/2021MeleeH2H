@@ -1,0 +1,4626 @@
+{
+    "Events": [
+        "655775",
+        "647468",
+        "584741",
+        "575529",
+        "575531",
+        "577287",
+        "569339",
+        "562378",
+        "555934",
+        "555557",
+        "580662",
+        "574666",
+        "576084",
+        "594527",
+        "579962",
+        "578049",
+        "578047",
+        "576185",
+        "576183",
+        "623403",
+        "643458",
+        "636037"
+    ],
+    "Sets": [
+        {
+            "id": 42926452,
+            "entrant1Id": 8887400,
+            "entrant2Id": 8885473,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "Azel",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8887400,
+            "loserId": 8885473,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "Azel",
+            "bracketName": "Bracket",
+            "bracketId": 1637901,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 42932200,
+            "entrant1Id": 8885473,
+            "entrant2Id": 8887808,
+            "entrant1Name": "Azel",
+            "entrant2Name": "TNC | Stone",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8885473,
+            "loserId": 8887808,
+            "winnerName": "Azel",
+            "loserName": "TNC | Stone",
+            "bracketName": "Bracket",
+            "bracketId": 1637901,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54316,
+                    "playerTag": "Stone"
+                }
+            ]
+        },
+        {
+            "id": 42930781,
+            "entrant1Id": 8885473,
+            "entrant2Id": 8887400,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Mango's Friend | Lucky",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8885473,
+            "loserId": 8887400,
+            "winnerName": "Azel",
+            "loserName": "Mango's Friend | Lucky",
+            "bracketName": "Bracket",
+            "bracketId": 1637901,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ]
+        },
+        {
+            "id": 42949358,
+            "entrant1Id": 8885473,
+            "entrant2Id": 8887606,
+            "entrant1Name": "Azel",
+            "entrant2Name": "PALPA 4 SUMMIT YA BISH",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8885473,
+            "loserId": 8887606,
+            "winnerName": "Azel",
+            "loserName": "PALPA 4 SUMMIT YA BISH",
+            "bracketName": "Bracket",
+            "bracketId": 1637901,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 973002,
+                    "playerTag": "Umbr"
+                }
+            ]
+        },
+        {
+            "id": 42952361,
+            "entrant1Id": 8887400,
+            "entrant2Id": 8885473,
+            "entrant1Name": "Mango's Friend | Lucky",
+            "entrant2Name": "Azel",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8887400,
+            "loserId": 8885473,
+            "winnerName": "Mango's Friend | Lucky",
+            "loserName": "Azel",
+            "bracketName": "Bracket",
+            "bracketId": 1637901,
+            "entrant1Players": [
+                {
+                    "playerId": 13932,
+                    "playerTag": "Lucky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 42923410,
+            "entrant1Id": 8887606,
+            "entrant2Id": 8885473,
+            "entrant1Name": "PALPA 4 SUMMIT YA BISH",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8885473,
+            "loserId": 8887606,
+            "winnerName": "Azel",
+            "loserName": "PALPA 4 SUMMIT YA BISH",
+            "bracketName": "Bracket",
+            "bracketId": 1637901,
+            "entrant1Players": [
+                {
+                    "playerId": 973002,
+                    "playerTag": "Umbr"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 42950662,
+            "entrant1Id": 8887606,
+            "entrant2Id": 8885473,
+            "entrant1Name": "PALPA 4 SUMMIT YA BISH",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8885473,
+            "loserId": 8887606,
+            "winnerName": "Azel",
+            "loserName": "PALPA 4 SUMMIT YA BISH",
+            "bracketName": "Bracket",
+            "bracketId": 1637901,
+            "entrant1Players": [
+                {
+                    "playerId": 973002,
+                    "playerTag": "Umbr"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 42951855,
+            "entrant1Id": 8887606,
+            "entrant2Id": 8885473,
+            "entrant1Name": "PALPA 4 SUMMIT YA BISH",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8885473,
+            "loserId": 8887606,
+            "winnerName": "Azel",
+            "loserName": "PALPA 4 SUMMIT YA BISH",
+            "bracketName": "Bracket",
+            "bracketId": 1637901,
+            "entrant1Players": [
+                {
+                    "playerId": 973002,
+                    "playerTag": "Umbr"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 42903475,
+            "entrant1Id": 8885171,
+            "entrant2Id": 8885473,
+            "entrant1Name": "CID",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8885473,
+            "loserId": 8885171,
+            "winnerName": "Azel",
+            "loserName": "CID",
+            "bracketName": "Bracket",
+            "bracketId": 1637901,
+            "entrant1Players": [
+                {
+                    "playerId": 229256,
+                    "playerTag": "CID"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 42909810,
+            "entrant1Id": 8885473,
+            "entrant2Id": 8885171,
+            "entrant1Name": "Azel",
+            "entrant2Name": "CID",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8885473,
+            "loserId": 8885171,
+            "winnerName": "Azel",
+            "loserName": "CID",
+            "bracketName": "Bracket",
+            "bracketId": 1637901,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 229256,
+                    "playerTag": "CID"
+                }
+            ]
+        },
+        {
+            "id": 42913925,
+            "entrant1Id": 8859060,
+            "entrant2Id": 8859323,
+            "entrant1Name": "Soonsay",
+            "entrant2Name": "Azel",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8859060,
+            "loserId": 8859323,
+            "winnerName": "Soonsay",
+            "loserName": "Azel",
+            "bracketName": "WC Pools",
+            "bracketId": 1622774,
+            "entrant1Players": [
+                {
+                    "playerId": 324561,
+                    "playerTag": "Soonsay"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 42914052,
+            "entrant1Id": 8859323,
+            "entrant2Id": 8877949,
+            "entrant1Name": "Azel",
+            "entrant2Name": "CG HSTV YC | Salt",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8877949,
+            "loserId": 8859323,
+            "winnerName": "CG HSTV YC | Salt",
+            "loserName": "Azel",
+            "bracketName": "WC Pools",
+            "bracketId": 1622774,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 133666,
+                    "playerTag": "Salt"
+                }
+            ]
+        },
+        {
+            "id": 42913923,
+            "entrant1Id": 8870165,
+            "entrant2Id": 8859323,
+            "entrant1Name": "CG | LFG | Eddy Mexico",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8859323,
+            "loserId": 8870165,
+            "winnerName": "Azel",
+            "loserName": "CG | LFG | Eddy Mexico",
+            "bracketName": "WC Pools",
+            "bracketId": 1622774,
+            "entrant1Players": [
+                {
+                    "playerId": 1030,
+                    "playerTag": "Eddy Mexico"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 42913919,
+            "entrant1Id": 8859323,
+            "entrant2Id": 8858651,
+            "entrant1Name": "Azel",
+            "entrant2Name": "PW | Vincessant",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8859323,
+            "loserId": 8858651,
+            "winnerName": "Azel",
+            "loserName": "PW | Vincessant",
+            "bracketName": "WC Pools",
+            "bracketId": 1622774,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12365,
+                    "playerTag": "Vincessant"
+                }
+            ]
+        },
+        {
+            "id": 42913910,
+            "entrant1Id": 8859323,
+            "entrant2Id": 8773830,
+            "entrant1Name": "Azel",
+            "entrant2Name": "yield",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8859323,
+            "loserId": 8773830,
+            "winnerName": "Azel",
+            "loserName": "yield",
+            "bracketName": "WC Pools",
+            "bracketId": 1622774,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15254,
+                    "playerTag": "yield"
+                }
+            ]
+        },
+        {
+            "id": 42350373,
+            "entrant1Id": 8562791,
+            "entrant2Id": 7569176,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Ringler",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8562791,
+            "loserId": 7569176,
+            "winnerName": "Azel",
+            "loserName": "Ringler",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603590,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 53365,
+                    "playerTag": "Ringler"
+                }
+            ]
+        },
+        {
+            "id": 42350370,
+            "entrant1Id": 8562791,
+            "entrant2Id": 7895428,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Smilotron",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8562791,
+            "loserId": 7895428,
+            "winnerName": "Azel",
+            "loserName": "Smilotron",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603590,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4489,
+                    "playerTag": "Smilotron"
+                }
+            ]
+        },
+        {
+            "id": 42350364,
+            "entrant1Id": 8562791,
+            "entrant2Id": 8435412,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Sofa-",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8562791,
+            "loserId": 8435412,
+            "winnerName": "Azel",
+            "loserName": "Sofa-",
+            "bracketName": "Round 1 Pools",
+            "bracketId": 1603590,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 138410,
+                    "playerTag": "Sofa-"
+                }
+            ]
+        },
+        {
+            "id": 42350125,
+            "entrant1Id": 8687553,
+            "entrant2Id": 8562791,
+            "entrant1Name": "Medz",
+            "entrant2Name": "Azel",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8687553,
+            "loserId": 8562791,
+            "winnerName": "Medz",
+            "loserName": "Azel",
+            "bracketName": "Round 2 Pools",
+            "bracketId": 1620257,
+            "entrant1Players": [
+                {
+                    "playerId": 40476,
+                    "playerTag": "Medz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 42350185,
+            "entrant1Id": 8562791,
+            "entrant2Id": 7591515,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Rob jr | blargh257",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8562791,
+            "loserId": 7591515,
+            "winnerName": "Azel",
+            "loserName": "Rob jr | blargh257",
+            "bracketName": "Round 2 Pools",
+            "bracketId": 1620257,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11126,
+                    "playerTag": "blargh257"
+                }
+            ]
+        },
+        {
+            "id": 42357585,
+            "entrant1Id": 8562791,
+            "entrant2Id": 7890605,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Aspero | Logan",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7890605,
+            "loserId": 8562791,
+            "winnerName": "Aspero | Logan",
+            "loserName": "Azel",
+            "bracketName": "Top 64",
+            "bracketId": 1619224,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 39098775,
+            "entrant1Id": 7733453,
+            "entrant2Id": 7720654,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Cobalt_95",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7733453,
+            "loserId": 7720654,
+            "winnerName": "Azel",
+            "loserName": "Cobalt_95",
+            "bracketName": "WC Pools",
+            "bracketId": 1494816,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45603,
+                    "playerTag": "Cobalt_95"
+                }
+            ]
+        },
+        {
+            "id": 39098767,
+            "entrant1Id": 7733453,
+            "entrant2Id": 7678930,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Dot",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7733453,
+            "loserId": 7678930,
+            "winnerName": "Azel",
+            "loserName": "Dot",
+            "bracketName": "WC Pools",
+            "bracketId": 1494816,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 132875,
+                    "playerTag": "Dot"
+                }
+            ]
+        },
+        {
+            "id": 39110814,
+            "entrant1Id": 7890042,
+            "entrant2Id": 7733453,
+            "entrant1Name": "Blues Clues",
+            "entrant2Name": "Azel",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7890042,
+            "loserId": 7733453,
+            "winnerName": "Blues Clues",
+            "loserName": "Azel",
+            "bracketName": "WC Top 32",
+            "bracketId": 1541346,
+            "entrant1Players": [
+                {
+                    "playerId": 64692,
+                    "playerTag": "Blues Clues"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 39110810,
+            "entrant1Id": 7740293,
+            "entrant2Id": 7733453,
+            "entrant1Name": "Pappi",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7733453,
+            "loserId": 7740293,
+            "winnerName": "Azel",
+            "loserName": "Pappi",
+            "bracketName": "WC Top 32",
+            "bracketId": 1541346,
+            "entrant1Players": [
+                {
+                    "playerId": 61570,
+                    "playerTag": "Pappi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 39110745,
+            "entrant1Id": 7733453,
+            "entrant2Id": 7890138,
+            "entrant1Name": "Azel",
+            "entrant2Name": "aCID",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7890138,
+            "loserId": 7733453,
+            "winnerName": "aCID",
+            "loserName": "Azel",
+            "bracketName": "WC Top 32",
+            "bracketId": 1541346,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2078335,
+                    "playerTag": "aCID"
+                }
+            ]
+        },
+        {
+            "id": 39110805,
+            "entrant1Id": 7733453,
+            "entrant2Id": 7914802,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Ribboned Ace",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7733453,
+            "loserId": 7914802,
+            "winnerName": "Azel",
+            "loserName": "Ribboned Ace",
+            "bracketName": "WC Top 32",
+            "bracketId": 1541346,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 233059,
+                    "playerTag": "Ribboned Ace"
+                }
+            ]
+        },
+        {
+            "id": 39119873,
+            "entrant1Id": 7921160,
+            "entrant2Id": 7934368,
+            "entrant1Name": "akot",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7934368,
+            "loserId": 7921160,
+            "winnerName": "Azel",
+            "loserName": "akot",
+            "bracketName": "Bracket",
+            "bracketId": 1494826,
+            "entrant1Players": [
+                {
+                    "playerId": 1338084,
+                    "playerTag": "akot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 39121455,
+            "entrant1Id": 7913991,
+            "entrant2Id": 7934368,
+            "entrant1Name": "Nathan",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7934368,
+            "loserId": 7913991,
+            "winnerName": "Azel",
+            "loserName": "Nathan",
+            "bracketName": "Bracket",
+            "bracketId": 1494826,
+            "entrant1Players": [
+                {
+                    "playerId": 4176,
+                    "playerTag": "Nathan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 39122574,
+            "entrant1Id": 7913991,
+            "entrant2Id": 7934368,
+            "entrant1Name": "Nathan",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7934368,
+            "loserId": 7913991,
+            "winnerName": "Azel",
+            "loserName": "Nathan",
+            "bracketName": "Bracket",
+            "bracketId": 1494826,
+            "entrant1Players": [
+                {
+                    "playerId": 4176,
+                    "playerTag": "Nathan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 39124501,
+            "entrant1Id": 7934368,
+            "entrant2Id": 7933347,
+            "entrant1Name": "Azel",
+            "entrant2Name": "sofabear",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7934368,
+            "loserId": 7933347,
+            "winnerName": "Azel",
+            "loserName": "sofabear",
+            "bracketName": "Bracket",
+            "bracketId": 1494826,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 281081,
+                    "playerTag": "sofabear"
+                }
+            ]
+        },
+        {
+            "id": 39120304,
+            "entrant1Id": 7934368,
+            "entrant2Id": 7921160,
+            "entrant1Name": "Azel",
+            "entrant2Name": "akot",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7934368,
+            "loserId": 7921160,
+            "winnerName": "Azel",
+            "loserName": "akot",
+            "bracketName": "Bracket",
+            "bracketId": 1494826,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1338084,
+                    "playerTag": "akot"
+                }
+            ]
+        },
+        {
+            "id": 39124538,
+            "entrant1Id": 7933347,
+            "entrant2Id": 7934368,
+            "entrant1Name": "sofabear",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7934368,
+            "loserId": 7933347,
+            "winnerName": "Azel",
+            "loserName": "sofabear",
+            "bracketName": "Bracket",
+            "bracketId": 1494826,
+            "entrant1Players": [
+                {
+                    "playerId": 281081,
+                    "playerTag": "sofabear"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 39147891,
+            "entrant1Id": 7933347,
+            "entrant2Id": 7934368,
+            "entrant1Name": "sofabear",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7934368,
+            "loserId": 7933347,
+            "winnerName": "Azel",
+            "loserName": "sofabear",
+            "bracketName": "Bracket",
+            "bracketId": 1494826,
+            "entrant1Players": [
+                {
+                    "playerId": 281081,
+                    "playerTag": "sofabear"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 39122284,
+            "entrant1Id": 7934368,
+            "entrant2Id": 7913991,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Nathan",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7913991,
+            "loserId": 7934368,
+            "winnerName": "Nathan",
+            "loserName": "Azel",
+            "bracketName": "Bracket",
+            "bracketId": 1494826,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4176,
+                    "playerTag": "Nathan"
+                }
+            ]
+        },
+        {
+            "id": 39122424,
+            "entrant1Id": 7921160,
+            "entrant2Id": 7934368,
+            "entrant1Name": "akot",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7934368,
+            "loserId": 7921160,
+            "winnerName": "Azel",
+            "loserName": "akot",
+            "bracketName": "Bracket",
+            "bracketId": 1494826,
+            "entrant1Players": [
+                {
+                    "playerId": 1338084,
+                    "playerTag": "akot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 39123391,
+            "entrant1Id": 7934368,
+            "entrant2Id": 7913991,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Nathan",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7934368,
+            "loserId": 7913991,
+            "winnerName": "Azel",
+            "loserName": "Nathan",
+            "bracketName": "Bracket",
+            "bracketId": 1494826,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4176,
+                    "playerTag": "Nathan"
+                }
+            ]
+        },
+        {
+            "id": 39121150,
+            "entrant1Id": 7934368,
+            "entrant2Id": 7913991,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Nathan",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7934368,
+            "loserId": 7913991,
+            "winnerName": "Azel",
+            "loserName": "Nathan",
+            "bracketName": "Bracket",
+            "bracketId": 1494826,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4176,
+                    "playerTag": "Nathan"
+                }
+            ]
+        },
+        {
+            "id": 39123584,
+            "entrant1Id": 7934368,
+            "entrant2Id": 7933347,
+            "entrant1Name": "Azel",
+            "entrant2Name": "sofabear",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7934368,
+            "loserId": 7933347,
+            "winnerName": "Azel",
+            "loserName": "sofabear",
+            "bracketName": "Bracket",
+            "bracketId": 1494826,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 281081,
+                    "playerTag": "sofabear"
+                }
+            ]
+        },
+        {
+            "id": 39125148,
+            "entrant1Id": 7934368,
+            "entrant2Id": 7933347,
+            "entrant1Name": "Azel",
+            "entrant2Name": "sofabear",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7934368,
+            "loserId": 7933347,
+            "winnerName": "Azel",
+            "loserName": "sofabear",
+            "bracketName": "Bracket",
+            "bracketId": 1494826,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 281081,
+                    "playerTag": "sofabear"
+                }
+            ]
+        },
+        {
+            "id": 39123689,
+            "entrant1Id": 7913991,
+            "entrant2Id": 7934368,
+            "entrant1Name": "Nathan",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7934368,
+            "loserId": 7913991,
+            "winnerName": "Azel",
+            "loserName": "Nathan",
+            "bracketName": "Bracket",
+            "bracketId": 1494826,
+            "entrant1Players": [
+                {
+                    "playerId": 4176,
+                    "playerTag": "Nathan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 39123753,
+            "entrant1Id": 7933347,
+            "entrant2Id": 7934368,
+            "entrant1Name": "sofabear",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7934368,
+            "loserId": 7933347,
+            "winnerName": "Azel",
+            "loserName": "sofabear",
+            "bracketName": "Bracket",
+            "bracketId": 1494826,
+            "entrant1Players": [
+                {
+                    "playerId": 281081,
+                    "playerTag": "sofabear"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 39124256,
+            "entrant1Id": 7934368,
+            "entrant2Id": 7933347,
+            "entrant1Name": "Azel",
+            "entrant2Name": "sofabear",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7934368,
+            "loserId": 7933347,
+            "winnerName": "Azel",
+            "loserName": "sofabear",
+            "bracketName": "Bracket",
+            "bracketId": 1494826,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 281081,
+                    "playerTag": "sofabear"
+                }
+            ]
+        },
+        {
+            "id": 37543810,
+            "entrant1Id": 7390395,
+            "entrant2Id": 7399183,
+            "entrant1Name": "Azel",
+            "entrant2Name": "DD",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7390395,
+            "loserId": 7399183,
+            "winnerName": "Azel",
+            "loserName": "DD",
+            "bracketName": "Melee Singles - NA WEST",
+            "bracketId": 1502561,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10485,
+                    "playerTag": "DD"
+                }
+            ]
+        },
+        {
+            "id": 37543803,
+            "entrant1Id": 7390395,
+            "entrant2Id": 7381390,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Yamasaki",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7390395,
+            "loserId": 7381390,
+            "winnerName": "Azel",
+            "loserName": "Yamasaki",
+            "bracketName": "Melee Singles - NA WEST",
+            "bracketId": 1502561,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 183677,
+                    "playerTag": "Yamasaki"
+                }
+            ]
+        },
+        {
+            "id": 37543791,
+            "entrant1Id": 7390395,
+            "entrant2Id": 7377741,
+            "entrant1Name": "Azel",
+            "entrant2Name": "shed ninja",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7390395,
+            "loserId": 7377741,
+            "winnerName": "Azel",
+            "loserName": "shed ninja",
+            "bracketName": "Melee Singles - NA WEST",
+            "bracketId": 1502561,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 241507,
+                    "playerTag": "shed ninja"
+                }
+            ]
+        },
+        {
+            "id": 37550330,
+            "entrant1Id": 7390395,
+            "entrant2Id": 7377062,
+            "entrant1Name": "Azel",
+            "entrant2Name": "RJN | Casper",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7377062,
+            "loserId": 7390395,
+            "winnerName": "RJN | Casper",
+            "loserName": "Azel",
+            "bracketName": "TOP 32",
+            "bracketId": 1498668,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 144268,
+                    "playerTag": "Casper"
+                }
+            ]
+        },
+        {
+            "id": 37550272,
+            "entrant1Id": 7390395,
+            "entrant2Id": 7400010,
+            "entrant1Name": "Azel",
+            "entrant2Name": "GG | n0ne",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7400010,
+            "loserId": 7390395,
+            "winnerName": "GG | n0ne",
+            "loserName": "Azel",
+            "bracketName": "TOP 32",
+            "bracketId": 1498668,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4107,
+                    "playerTag": "n0ne/ Bond / wizzyfan109"
+                }
+            ]
+        },
+        {
+            "id": 37550322,
+            "entrant1Id": 7390395,
+            "entrant2Id": 7394560,
+            "entrant1Name": "Azel",
+            "entrant2Name": "CG | Jflex",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7390395,
+            "loserId": 7394560,
+            "winnerName": "Azel",
+            "loserName": "CG | Jflex",
+            "bracketName": "TOP 32",
+            "bracketId": 1498668,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 37452875,
+            "entrant1Id": 7344325,
+            "entrant2Id": 7344667,
+            "entrant1Name": "Azel",
+            "entrant2Name": "ManRay",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7344325,
+            "loserId": 7344667,
+            "winnerName": "Azel",
+            "loserName": "ManRay",
+            "bracketName": "West Coast Pools",
+            "bracketId": 1482721,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 418740,
+                    "playerTag": "ManRay"
+                }
+            ]
+        },
+        {
+            "id": 37458031,
+            "entrant1Id": 7344325,
+            "entrant2Id": 7249860,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Skerzo",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7249860,
+            "loserId": 7344325,
+            "winnerName": "Skerzo",
+            "loserName": "Azel",
+            "bracketName": "Top 64",
+            "bracketId": 1482733,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ]
+        },
+        {
+            "id": 37458023,
+            "entrant1Id": 7309082,
+            "entrant2Id": 7344325,
+            "entrant1Name": "Dawson",
+            "entrant2Name": "Azel",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7344325,
+            "loserId": 7309082,
+            "winnerName": "Azel",
+            "loserName": "Dawson",
+            "bracketName": "Top 64",
+            "bracketId": 1482733,
+            "entrant1Players": [
+                {
+                    "playerId": 147811,
+                    "playerTag": "Dawson"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 37458015,
+            "entrant1Id": 7344325,
+            "entrant2Id": 7249599,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Ober",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7344325,
+            "loserId": 7249599,
+            "winnerName": "Azel",
+            "loserName": "Ober",
+            "bracketName": "Top 64",
+            "bracketId": 1482733,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 30197,
+                    "playerTag": "Ober"
+                }
+            ]
+        },
+        {
+            "id": 37457901,
+            "entrant1Id": 7255419,
+            "entrant2Id": 7344325,
+            "entrant1Name": "Joey Donuts",
+            "entrant2Name": "Azel",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7255419,
+            "loserId": 7344325,
+            "winnerName": "Joey Donuts",
+            "loserName": "Azel",
+            "bracketName": "Top 64",
+            "bracketId": 1482733,
+            "entrant1Players": [
+                {
+                    "playerId": 184637,
+                    "playerTag": "Joey Donuts"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 37457999,
+            "entrant1Id": 7344325,
+            "entrant2Id": 7365392,
+            "entrant1Name": "Azel",
+            "entrant2Name": "BestfriendJohn",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7344325,
+            "loserId": 7365392,
+            "winnerName": "Azel",
+            "loserName": "BestfriendJohn",
+            "bracketName": "Top 64",
+            "bracketId": 1482733,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26844,
+                    "playerTag": "BestfriendJohn"
+                }
+            ]
+        },
+        {
+            "id": 36155258,
+            "entrant1Id": 7052257,
+            "entrant2Id": 7053542,
+            "entrant1Name": "SDJ",
+            "entrant2Name": "Azel",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7052257,
+            "loserId": 7053542,
+            "winnerName": "SDJ",
+            "loserName": "Azel",
+            "bracketName": "Bracket",
+            "bracketId": 1468608,
+            "entrant1Players": [
+                {
+                    "playerId": 325974,
+                    "playerTag": "SDJ"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 36157099,
+            "entrant1Id": 7038698,
+            "entrant2Id": 7053542,
+            "entrant1Name": "Yamasaki",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7053542,
+            "loserId": 7038698,
+            "winnerName": "Azel",
+            "loserName": "Yamasaki",
+            "bracketName": "Bracket",
+            "bracketId": 1468608,
+            "entrant1Players": [
+                {
+                    "playerId": 183677,
+                    "playerTag": "Yamasaki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 36154857,
+            "entrant1Id": 7053542,
+            "entrant2Id": 7053440,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Snap",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7053542,
+            "loserId": 7053440,
+            "winnerName": "Azel",
+            "loserName": "Snap",
+            "bracketName": "Bracket",
+            "bracketId": 1468608,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3377,
+                    "playerTag": "Snap"
+                }
+            ]
+        },
+        {
+            "id": 36157491,
+            "entrant1Id": 7052257,
+            "entrant2Id": 7053542,
+            "entrant1Name": "SDJ",
+            "entrant2Name": "Azel",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7052257,
+            "loserId": 7053542,
+            "winnerName": "SDJ",
+            "loserName": "Azel",
+            "bracketName": "Bracket",
+            "bracketId": 1468608,
+            "entrant1Players": [
+                {
+                    "playerId": 325974,
+                    "playerTag": "SDJ"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 36158385,
+            "entrant1Id": 7038698,
+            "entrant2Id": 7053542,
+            "entrant1Name": "Yamasaki",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7053542,
+            "loserId": 7038698,
+            "winnerName": "Azel",
+            "loserName": "Yamasaki",
+            "bracketName": "Bracket",
+            "bracketId": 1468608,
+            "entrant1Players": [
+                {
+                    "playerId": 183677,
+                    "playerTag": "Yamasaki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 36156212,
+            "entrant1Id": 7053542,
+            "entrant2Id": 7053272,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Darksilence",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7053542,
+            "loserId": 7053272,
+            "winnerName": "Azel",
+            "loserName": "Darksilence",
+            "bracketName": "Bracket",
+            "bracketId": 1468608,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3626,
+                    "playerTag": "Darksilence"
+                }
+            ]
+        },
+        {
+            "id": 36156514,
+            "entrant1Id": 7052257,
+            "entrant2Id": 7053542,
+            "entrant1Name": "SDJ",
+            "entrant2Name": "Azel",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7052257,
+            "loserId": 7053542,
+            "winnerName": "SDJ",
+            "loserName": "Azel",
+            "bracketName": "Bracket",
+            "bracketId": 1468608,
+            "entrant1Players": [
+                {
+                    "playerId": 325974,
+                    "playerTag": "SDJ"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 36157421,
+            "entrant1Id": 7053542,
+            "entrant2Id": 7053750,
+            "entrant1Name": "Azel",
+            "entrant2Name": "KoDoRiN",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7053750,
+            "loserId": 7053542,
+            "winnerName": "KoDoRiN",
+            "loserName": "Azel",
+            "bracketName": "Bracket",
+            "bracketId": 1468608,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ]
+        },
+        {
+            "id": 36158474,
+            "entrant1Id": 7053542,
+            "entrant2Id": 7053272,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Darksilence",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7053542,
+            "loserId": 7053272,
+            "winnerName": "Azel",
+            "loserName": "Darksilence",
+            "bracketName": "Bracket",
+            "bracketId": 1468608,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3626,
+                    "playerTag": "Darksilence"
+                }
+            ]
+        },
+        {
+            "id": 36155754,
+            "entrant1Id": 7038698,
+            "entrant2Id": 7053542,
+            "entrant1Name": "Yamasaki",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7053542,
+            "loserId": 7038698,
+            "winnerName": "Azel",
+            "loserName": "Yamasaki",
+            "bracketName": "Bracket",
+            "bracketId": 1468608,
+            "entrant1Players": [
+                {
+                    "playerId": 183677,
+                    "playerTag": "Yamasaki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 36158638,
+            "entrant1Id": 7053750,
+            "entrant2Id": 7053542,
+            "entrant1Name": "KoDoRiN",
+            "entrant2Name": "Azel",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7053750,
+            "loserId": 7053542,
+            "winnerName": "KoDoRiN",
+            "loserName": "Azel",
+            "bracketName": "Bracket",
+            "bracketId": 1468608,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 36158831,
+            "entrant1Id": 7038698,
+            "entrant2Id": 7053542,
+            "entrant1Name": "Yamasaki",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7053542,
+            "loserId": 7038698,
+            "winnerName": "Azel",
+            "loserName": "Yamasaki",
+            "bracketName": "Bracket",
+            "bracketId": 1468608,
+            "entrant1Players": [
+                {
+                    "playerId": 183677,
+                    "playerTag": "Yamasaki"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 36125836,
+            "entrant1Id": 7025534,
+            "entrant2Id": 7024183,
+            "entrant1Name": "Azel",
+            "entrant2Name": "yingling",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7025534,
+            "loserId": 7024183,
+            "winnerName": "Azel",
+            "loserName": "yingling",
+            "bracketName": "WC Pools",
+            "bracketId": 1455374,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12137,
+                    "playerTag": "yingling"
+                }
+            ]
+        },
+        {
+            "id": 36125832,
+            "entrant1Id": 7025534,
+            "entrant2Id": 6925194,
+            "entrant1Name": "Azel",
+            "entrant2Name": "DMT",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7025534,
+            "loserId": 6925194,
+            "winnerName": "Azel",
+            "loserName": "DMT",
+            "bracketName": "WC Pools",
+            "bracketId": 1455374,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 231685,
+                    "playerTag": "DMT"
+                }
+            ]
+        },
+        {
+            "id": 36145440,
+            "entrant1Id": 7025534,
+            "entrant2Id": 6894734,
+            "entrant1Name": "Azel",
+            "entrant2Name": "ycz6",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6894734,
+            "loserId": 7025534,
+            "winnerName": "ycz6",
+            "loserName": "Azel",
+            "bracketName": "WC Top 32",
+            "bracketId": 1455376,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2088,
+                    "playerTag": "ycz6"
+                }
+            ]
+        },
+        {
+            "id": 36145379,
+            "entrant1Id": 7025534,
+            "entrant2Id": 7020645,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Aura",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7020645,
+            "loserId": 7025534,
+            "winnerName": "Aura",
+            "loserName": "Azel",
+            "bracketName": "WC Top 32",
+            "bracketId": 1455376,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 46349,
+                    "playerTag": "Aura"
+                }
+            ]
+        },
+        {
+            "id": 36145433,
+            "entrant1Id": 7025534,
+            "entrant2Id": 7012335,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Snap",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7025534,
+            "loserId": 7012335,
+            "winnerName": "Azel",
+            "loserName": "Snap",
+            "bracketName": "WC Top 32",
+            "bracketId": 1455376,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3377,
+                    "playerTag": "Snap"
+                }
+            ]
+        },
+        {
+            "id": 35784341,
+            "entrant1Id": 6935058,
+            "entrant2Id": 6945615,
+            "entrant1Name": "Azel",
+            "entrant2Name": "TNC | n3zModGod",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6945615,
+            "loserId": 6935058,
+            "winnerName": "TNC | n3zModGod",
+            "loserName": "Azel",
+            "bracketName": "West Coast Pools",
+            "bracketId": 1460698,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 63720,
+                    "playerTag": "n3zModGod"
+                }
+            ]
+        },
+        {
+            "id": 35784464,
+            "entrant1Id": 6935058,
+            "entrant2Id": 6926007,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Paul The Monster",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6935058,
+            "loserId": 6926007,
+            "winnerName": "Azel",
+            "loserName": "Paul The Monster",
+            "bracketName": "West Coast Pools",
+            "bracketId": 1460698,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 25805,
+                    "playerTag": "Pol Sadguy"
+                }
+            ]
+        },
+        {
+            "id": 35784336,
+            "entrant1Id": 6935058,
+            "entrant2Id": 6876985,
+            "entrant1Name": "Azel",
+            "entrant2Name": "PLEB | Capy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6935058,
+            "loserId": 6876985,
+            "winnerName": "Azel",
+            "loserName": "PLEB | Capy",
+            "bracketName": "West Coast Pools",
+            "bracketId": 1460698,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10268,
+                    "playerTag": "Capy"
+                }
+            ]
+        },
+        {
+            "id": 35784326,
+            "entrant1Id": 6935058,
+            "entrant2Id": 6950984,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Xad",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6935058,
+            "loserId": 6950984,
+            "winnerName": "Azel",
+            "loserName": "Xad",
+            "bracketName": "West Coast Pools",
+            "bracketId": 1460698,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1623681,
+                    "playerTag": "Xad"
+                }
+            ]
+        },
+        {
+            "id": 35797081,
+            "entrant1Id": 6932728,
+            "entrant2Id": 6935058,
+            "entrant1Name": "rocky",
+            "entrant2Name": "Azel",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6932728,
+            "loserId": 6935058,
+            "winnerName": "rocky",
+            "loserName": "Azel",
+            "bracketName": "Top 64 West",
+            "bracketId": 1460697,
+            "entrant1Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 35797075,
+            "entrant1Id": 6960900,
+            "entrant2Id": 6935058,
+            "entrant1Name": "Quaff",
+            "entrant2Name": "Azel",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6935058,
+            "loserId": 6960900,
+            "winnerName": "Azel",
+            "loserName": "Quaff",
+            "bracketName": "Top 64 West",
+            "bracketId": 1460697,
+            "entrant1Players": [
+                {
+                    "playerId": 44671,
+                    "playerTag": "Quaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 35797067,
+            "entrant1Id": 6955574,
+            "entrant2Id": 6935058,
+            "entrant1Name": "SuperCuak",
+            "entrant2Name": "Azel",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6935058,
+            "loserId": 6955574,
+            "winnerName": "Azel",
+            "loserName": "SuperCuak",
+            "bracketName": "Top 64 West",
+            "bracketId": 1460697,
+            "entrant1Players": [
+                {
+                    "playerId": 62626,
+                    "playerTag": "SuperCuak"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 38393377,
+            "entrant1Id": 7552178,
+            "entrant2Id": 7591931,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Dream",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7552178,
+            "loserId": 7591931,
+            "winnerName": "Azel",
+            "loserName": "Dream",
+            "bracketName": "West Pools",
+            "bracketId": 1520719,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 39235,
+                    "playerTag": "Dream"
+                }
+            ]
+        },
+        {
+            "id": 38393370,
+            "entrant1Id": 7552178,
+            "entrant2Id": 7559203,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Megaman",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7552178,
+            "loserId": 7559203,
+            "winnerName": "Azel",
+            "loserName": "Megaman",
+            "bracketName": "West Pools",
+            "bracketId": 1520719,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27527,
+                    "playerTag": "Megaman"
+                }
+            ]
+        },
+        {
+            "id": 38393356,
+            "entrant1Id": 7552178,
+            "entrant2Id": 7437424,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Trailhead | Tricolour",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7552178,
+            "loserId": 7437424,
+            "winnerName": "Azel",
+            "loserName": "Trailhead | Tricolour",
+            "bracketName": "West Pools",
+            "bracketId": 1520719,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 344269,
+                    "playerTag": "Tricolour"
+                }
+            ]
+        },
+        {
+            "id": 38411085,
+            "entrant1Id": 7591180,
+            "entrant2Id": 7552178,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "Azel",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7591180,
+            "loserId": 7552178,
+            "winnerName": "20GX | Gahtzu",
+            "loserName": "Azel",
+            "bracketName": "Top 64",
+            "bracketId": 1520734,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 38411077,
+            "entrant1Id": 7552178,
+            "entrant2Id": 7599645,
+            "entrant1Name": "Azel",
+            "entrant2Name": "htwa",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7552178,
+            "loserId": 7599645,
+            "winnerName": "Azel",
+            "loserName": "htwa",
+            "bracketName": "Top 64",
+            "bracketId": 1520734,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11781,
+                    "playerTag": "htwa"
+                }
+            ]
+        },
+        {
+            "id": 38410942,
+            "entrant1Id": 7552178,
+            "entrant2Id": 7585890,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Panda | iBDW",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7585890,
+            "loserId": 7552178,
+            "winnerName": "Panda | iBDW",
+            "loserName": "Azel",
+            "bracketName": "Top 64",
+            "bracketId": 1520734,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19554,
+                    "playerTag": "iBDW"
+                }
+            ]
+        },
+        {
+            "id": 38411068,
+            "entrant1Id": 7552178,
+            "entrant2Id": 7564973,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Crumbling",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7552178,
+            "loserId": 7564973,
+            "winnerName": "Azel",
+            "loserName": "Crumbling",
+            "bracketName": "Top 64",
+            "bracketId": 1520734,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 362252,
+                    "playerTag": "Crumbling"
+                }
+            ]
+        },
+        {
+            "id": 38223375,
+            "entrant1Id": 7552167,
+            "entrant2Id": 7485938,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Ari",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7552167,
+            "loserId": 7485938,
+            "winnerName": "Azel",
+            "loserName": "Ari",
+            "bracketName": "WC Pools",
+            "bracketId": 1493018,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22491,
+                    "playerTag": "Ari"
+                }
+            ]
+        },
+        {
+            "id": 38223346,
+            "entrant1Id": 7552167,
+            "entrant2Id": 7550394,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Danimal",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7552167,
+            "loserId": 7550394,
+            "winnerName": "Azel",
+            "loserName": "Danimal",
+            "bracketName": "WC Pools",
+            "bracketId": 1493018,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1492480,
+                    "playerTag": "Danimal"
+                }
+            ]
+        },
+        {
+            "id": 38234759,
+            "entrant1Id": 7557963,
+            "entrant2Id": 7552167,
+            "entrant1Name": "YungWaff",
+            "entrant2Name": "Azel",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7552167,
+            "loserId": 7557963,
+            "winnerName": "Azel",
+            "loserName": "YungWaff",
+            "bracketName": "WC Top 32",
+            "bracketId": 1517942,
+            "entrant1Players": [
+                {
+                    "playerId": 3954,
+                    "playerTag": "YungWaff"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 38234755,
+            "entrant1Id": 7552167,
+            "entrant2Id": 7544260,
+            "entrant1Name": "Azel",
+            "entrant2Name": "aCID",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7552167,
+            "loserId": 7544260,
+            "winnerName": "Azel",
+            "loserName": "aCID",
+            "bracketName": "WC Top 32",
+            "bracketId": 1517942,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2078335,
+                    "playerTag": "aCID"
+                }
+            ]
+        },
+        {
+            "id": 38234688,
+            "entrant1Id": 7552167,
+            "entrant2Id": 7541255,
+            "entrant1Name": "Azel",
+            "entrant2Name": "CG | Peppi | Pappi",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7541255,
+            "loserId": 7552167,
+            "winnerName": "CG | Peppi | Pappi",
+            "loserName": "Azel",
+            "bracketName": "WC Top 32",
+            "bracketId": 1517942,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61570,
+                    "playerTag": "Pappi"
+                }
+            ]
+        },
+        {
+            "id": 38234750,
+            "entrant1Id": 7552167,
+            "entrant2Id": 7549803,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Iron",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7552167,
+            "loserId": 7549803,
+            "winnerName": "Azel",
+            "loserName": "Iron",
+            "bracketName": "WC Top 32",
+            "bracketId": 1517942,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 897692,
+                    "playerTag": "Iron"
+                }
+            ]
+        },
+        {
+            "id": 38256168,
+            "entrant1Id": 7552167,
+            "entrant2Id": 7528365,
+            "entrant1Name": "Azel",
+            "entrant2Name": "MoG",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7528365,
+            "loserId": 7552167,
+            "winnerName": "MoG",
+            "loserName": "Azel",
+            "bracketName": "Top 16",
+            "bracketId": 1493027,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 21772,
+                    "playerTag": "mvlvchi"
+                }
+            ]
+        },
+        {
+            "id": 38714391,
+            "entrant1Id": 7621049,
+            "entrant2Id": 7646739,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Entropy | Luigi Ka-Master",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7621049,
+            "loserId": 7646739,
+            "winnerName": "Azel",
+            "loserName": "Entropy | Luigi Ka-Master",
+            "bracketName": "Bracket",
+            "bracketId": 1530850,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27353,
+                    "playerTag": "Luigi Ka-Master"
+                }
+            ]
+        },
+        {
+            "id": 38714388,
+            "entrant1Id": 7621049,
+            "entrant2Id": 7471902,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Yamasaki",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7621049,
+            "loserId": 7471902,
+            "winnerName": "Azel",
+            "loserName": "Yamasaki",
+            "bracketName": "Bracket",
+            "bracketId": 1530850,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 183677,
+                    "playerTag": "Yamasaki"
+                }
+            ]
+        },
+        {
+            "id": 38714382,
+            "entrant1Id": 7621049,
+            "entrant2Id": 7632172,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Absinthe",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7621049,
+            "loserId": 7632172,
+            "winnerName": "Azel",
+            "loserName": "Absinthe",
+            "bracketName": "Bracket",
+            "bracketId": 1530850,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7747,
+                    "playerTag": "Absinthe"
+                }
+            ]
+        },
+        {
+            "id": 38714370,
+            "entrant1Id": 7621049,
+            "entrant2Id": 7529749,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Kay",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7621049,
+            "loserId": 7529749,
+            "winnerName": "Azel",
+            "loserName": "Kay",
+            "bracketName": "Bracket",
+            "bracketId": 1530850,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2235077,
+                    "playerTag": "Kay"
+                }
+            ]
+        },
+        {
+            "id": 38743693,
+            "entrant1Id": 7717167,
+            "entrant2Id": 7717229,
+            "entrant1Name": "bc | S2J",
+            "entrant2Name": "Azel",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7717167,
+            "loserId": 7717229,
+            "winnerName": "bc | S2J",
+            "loserName": "Azel",
+            "bracketName": "Bracket",
+            "bracketId": 1530770,
+            "entrant1Players": [
+                {
+                    "playerId": 1017,
+                    "playerTag": "S2J"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 38743816,
+            "entrant1Id": 7717229,
+            "entrant2Id": 7717309,
+            "entrant1Name": "Azel",
+            "entrant2Name": "GHQ | PEP | Zamu",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7717309,
+            "loserId": 7717229,
+            "winnerName": "GHQ | PEP | Zamu",
+            "loserName": "Azel",
+            "bracketName": "Bracket",
+            "bracketId": 1530770,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23920,
+                    "playerTag": "Zamu"
+                }
+            ]
+        },
+        {
+            "id": 38743688,
+            "entrant1Id": 7717229,
+            "entrant2Id": 7717316,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Jflex",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7717229,
+            "loserId": 7717316,
+            "winnerName": "Azel",
+            "loserName": "Jflex",
+            "bracketName": "Bracket",
+            "bracketId": 1530770,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 38743677,
+            "entrant1Id": 7717284,
+            "entrant2Id": 7717229,
+            "entrant1Name": "20GX | Gahtzu",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7717229,
+            "loserId": 7717284,
+            "winnerName": "Azel",
+            "loserName": "20GX | Gahtzu",
+            "bracketName": "Bracket",
+            "bracketId": 1530770,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 37655317,
+            "entrant1Id": 7418910,
+            "entrant2Id": 7418949,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Melo",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7418910,
+            "loserId": 7418949,
+            "winnerName": "Azel",
+            "loserName": "Melo",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1503942,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 466221,
+                    "playerTag": "Melo"
+                }
+            ]
+        },
+        {
+            "id": 37653961,
+            "entrant1Id": 7418910,
+            "entrant2Id": 7414970,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Zellpree",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7418910,
+            "loserId": 7414970,
+            "winnerName": "Azel",
+            "loserName": "Zellpree",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1503942,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37975,
+                    "playerTag": "Zellpree"
+                }
+            ]
+        },
+        {
+            "id": 37654195,
+            "entrant1Id": 7418963,
+            "entrant2Id": 7418910,
+            "entrant1Name": "Notorious",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7418910,
+            "loserId": 7418963,
+            "winnerName": "Azel",
+            "loserName": "Notorious",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1503942,
+            "entrant1Players": [
+                {
+                    "playerId": 4614,
+                    "playerTag": "Notorious"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 37653725,
+            "entrant1Id": 7418067,
+            "entrant2Id": 7418910,
+            "entrant1Name": "RedX",
+            "entrant2Name": "Azel",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7418910,
+            "loserId": 7418067,
+            "winnerName": "Azel",
+            "loserName": "RedX",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1503942,
+            "entrant1Players": [
+                {
+                    "playerId": 38643,
+                    "playerTag": "RedX"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 37653620,
+            "entrant1Id": 7418910,
+            "entrant2Id": 7418937,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Soltrain",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7418910,
+            "loserId": 7418937,
+            "winnerName": "Azel",
+            "loserName": "Soltrain",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1503942,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 130672,
+                    "playerTag": "Soltrain"
+                }
+            ]
+        },
+        {
+            "id": 37653675,
+            "entrant1Id": 7418910,
+            "entrant2Id": 7418972,
+            "entrant1Name": "Azel",
+            "entrant2Name": "H0LL0W",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7418910,
+            "loserId": 7418972,
+            "winnerName": "Azel",
+            "loserName": "H0LL0W",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1503942,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1237306,
+                    "playerTag": "H0LL0W"
+                }
+            ]
+        },
+        {
+            "id": 37654566,
+            "entrant1Id": 7418661,
+            "entrant2Id": 7418910,
+            "entrant1Name": "OkayP.",
+            "entrant2Name": "Azel",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7418910,
+            "loserId": 7418661,
+            "winnerName": "Azel",
+            "loserName": "OkayP.",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1503942,
+            "entrant1Players": [
+                {
+                    "playerId": 393258,
+                    "playerTag": "OkayP."
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 37654566,
+            "entrant1Id": 7418661,
+            "entrant2Id": 7418910,
+            "entrant1Name": "OkayP.",
+            "entrant2Name": "Azel",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7418910,
+            "loserId": 7418661,
+            "winnerName": "Azel",
+            "loserName": "OkayP.",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1503942,
+            "entrant1Players": [
+                {
+                    "playerId": 393258,
+                    "playerTag": "OkayP."
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 37654968,
+            "entrant1Id": 7418910,
+            "entrant2Id": 7416981,
+            "entrant1Name": "Azel",
+            "entrant2Name": "NAM",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7418910,
+            "loserId": 7416981,
+            "winnerName": "Azel",
+            "loserName": "NAM",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1503942,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 487623,
+                    "playerTag": "NAM"
+                }
+            ]
+        },
+        {
+            "id": 37482475,
+            "entrant1Id": 7377249,
+            "entrant2Id": 7377560,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Musashi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7377249,
+            "loserId": 7377560,
+            "winnerName": "Azel",
+            "loserName": "Musashi",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1500055,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27862,
+                    "playerTag": "Musashi"
+                }
+            ]
+        },
+        {
+            "id": 37482525,
+            "entrant1Id": 7377249,
+            "entrant2Id": 7377442,
+            "entrant1Name": "Azel",
+            "entrant2Name": "404 YC | Salt",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7377249,
+            "loserId": 7377442,
+            "winnerName": "Azel",
+            "loserName": "404 YC | Salt",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1500055,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 133666,
+                    "playerTag": "Salt"
+                }
+            ]
+        },
+        {
+            "id": 37480872,
+            "entrant1Id": 7377249,
+            "entrant2Id": 7377442,
+            "entrant1Name": "Azel",
+            "entrant2Name": "404 YC | Salt",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7377249,
+            "loserId": 7377442,
+            "winnerName": "Azel",
+            "loserName": "404 YC | Salt",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1500055,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 133666,
+                    "playerTag": "Salt"
+                }
+            ]
+        },
+        {
+            "id": 37480325,
+            "entrant1Id": 7377622,
+            "entrant2Id": 7377249,
+            "entrant1Name": "Notorious",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7377249,
+            "loserId": 7377622,
+            "winnerName": "Azel",
+            "loserName": "Notorious",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1500055,
+            "entrant1Players": [
+                {
+                    "playerId": 4614,
+                    "playerTag": "Notorious"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 37481230,
+            "entrant1Id": 7377249,
+            "entrant2Id": 7377210,
+            "entrant1Name": "Azel",
+            "entrant2Name": "SquidTheCat",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7377249,
+            "loserId": 7377210,
+            "winnerName": "Azel",
+            "loserName": "SquidTheCat",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1500055,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 269511,
+                    "playerTag": "SquidTheCat"
+                }
+            ]
+        },
+        {
+            "id": 37481404,
+            "entrant1Id": 7377249,
+            "entrant2Id": 7377279,
+            "entrant1Name": "Azel",
+            "entrant2Name": "NathanSandwich",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7377249,
+            "loserId": 7377279,
+            "winnerName": "Azel",
+            "loserName": "NathanSandwich",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1500055,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4176,
+                    "playerTag": "Nathan"
+                }
+            ]
+        },
+        {
+            "id": 37481404,
+            "entrant1Id": 7377249,
+            "entrant2Id": 7377279,
+            "entrant1Name": "Azel",
+            "entrant2Name": "NathanSandwich",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7377249,
+            "loserId": 7377279,
+            "winnerName": "Azel",
+            "loserName": "NathanSandwich",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1500055,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4176,
+                    "playerTag": "Nathan"
+                }
+            ]
+        },
+        {
+            "id": 37480151,
+            "entrant1Id": 7377249,
+            "entrant2Id": 7375963,
+            "entrant1Name": "Azel",
+            "entrant2Name": "BoffTarget",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7377249,
+            "loserId": 7375963,
+            "winnerName": "Azel",
+            "loserName": "BoffTarget",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1500055,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 492755,
+                    "playerTag": "BoffTarget"
+                }
+            ]
+        },
+        {
+            "id": 37481715,
+            "entrant1Id": 7377249,
+            "entrant2Id": 7377762,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Ding Hing",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7377249,
+            "loserId": 7377762,
+            "winnerName": "Azel",
+            "loserName": "Ding Hing",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1500055,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 146978,
+                    "playerTag": "Ding Hing"
+                }
+            ]
+        },
+        {
+            "id": 37482328,
+            "entrant1Id": 7376911,
+            "entrant2Id": 7377249,
+            "entrant1Name": "ArcaneFox",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7377249,
+            "loserId": 7376911,
+            "winnerName": "Azel",
+            "loserName": "ArcaneFox",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1500055,
+            "entrant1Players": [
+                {
+                    "playerId": 428826,
+                    "playerTag": "ArcaneFox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 37495060,
+            "entrant1Id": 7383731,
+            "entrant2Id": 7379061,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "Azel",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7383731,
+            "loserId": 7379061,
+            "winnerName": "IMP | Ben",
+            "loserName": "Azel",
+            "bracketName": "Main Bracket",
+            "bracketId": 1500053,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 37495056,
+            "entrant1Id": 7379061,
+            "entrant2Id": 7379134,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Musashi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7379061,
+            "loserId": 7379134,
+            "winnerName": "Azel",
+            "loserName": "Musashi",
+            "bracketName": "Main Bracket",
+            "bracketId": 1500053,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27862,
+                    "playerTag": "Musashi"
+                }
+            ]
+        },
+        {
+            "id": 37494989,
+            "entrant1Id": 7379061,
+            "entrant2Id": 7379067,
+            "entrant1Name": "Azel",
+            "entrant2Name": "GUG | K\u00fcrv",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7379067,
+            "loserId": 7379061,
+            "winnerName": "GUG | K\u00fcrv",
+            "loserName": "Azel",
+            "bracketName": "Main Bracket",
+            "bracketId": 1500053,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 37116,
+                    "playerTag": "K\u00fcrv"
+                }
+            ]
+        },
+        {
+            "id": 37495051,
+            "entrant1Id": 7379061,
+            "entrant2Id": 7379052,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Ahmad",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7379061,
+            "loserId": 7379052,
+            "winnerName": "Azel",
+            "loserName": "Ahmad",
+            "bracketName": "Main Bracket",
+            "bracketId": 1500053,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 539984,
+                    "playerTag": "Ahmad"
+                }
+            ]
+        },
+        {
+            "id": 37317661,
+            "entrant1Id": 7338347,
+            "entrant2Id": 7336826,
+            "entrant1Name": "CV Aceflight",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7336826,
+            "loserId": 7338347,
+            "winnerName": "Azel",
+            "loserName": "CV Aceflight",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1496449,
+            "entrant1Players": [
+                {
+                    "playerId": 16468,
+                    "playerTag": "Aceflight"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 37318080,
+            "entrant1Id": 7336826,
+            "entrant2Id": 7337035,
+            "entrant1Name": "Azel",
+            "entrant2Name": "veil",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7336826,
+            "loserId": 7337035,
+            "winnerName": "Azel",
+            "loserName": "veil",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1496449,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 23207,
+                    "playerTag": "veil"
+                }
+            ]
+        },
+        {
+            "id": 37316941,
+            "entrant1Id": 7336826,
+            "entrant2Id": 7338358,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Blues Clues",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7338358,
+            "loserId": 7336826,
+            "winnerName": "Blues Clues",
+            "loserName": "Azel",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1496449,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 64692,
+                    "playerTag": "Blues Clues"
+                }
+            ]
+        },
+        {
+            "id": 37317344,
+            "entrant1Id": 7336826,
+            "entrant2Id": 7337760,
+            "entrant1Name": "Azel",
+            "entrant2Name": "BuenasRetas | Cobs",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7336826,
+            "loserId": 7337760,
+            "winnerName": "Azel",
+            "loserName": "BuenasRetas | Cobs",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1496449,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 34399,
+                    "playerTag": "Cobs"
+                }
+            ]
+        },
+        {
+            "id": 37318012,
+            "entrant1Id": 7336826,
+            "entrant2Id": 7338015,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Melo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7336826,
+            "loserId": 7338015,
+            "winnerName": "Azel",
+            "loserName": "Melo",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1496449,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 466221,
+                    "playerTag": "Melo"
+                }
+            ]
+        },
+        {
+            "id": 37317585,
+            "entrant1Id": 7336826,
+            "entrant2Id": 7336771,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Keo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7336826,
+            "loserId": 7336771,
+            "winnerName": "Azel",
+            "loserName": "Keo",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1496449,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 710975,
+                    "playerTag": "Keo"
+                }
+            ]
+        },
+        {
+            "id": 37318381,
+            "entrant1Id": 7336826,
+            "entrant2Id": 7336206,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Wassabi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7336826,
+            "loserId": 7336206,
+            "winnerName": "Azel",
+            "loserName": "Wassabi",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1496449,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5724,
+                    "playerTag": "Wassabi"
+                }
+            ]
+        },
+        {
+            "id": 37317760,
+            "entrant1Id": 7337967,
+            "entrant2Id": 7336826,
+            "entrant1Name": "AB | Anjo",
+            "entrant2Name": "Azel",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7336826,
+            "loserId": 7337967,
+            "winnerName": "Azel",
+            "loserName": "AB | Anjo",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1496449,
+            "entrant1Players": [
+                {
+                    "playerId": 15586,
+                    "playerTag": "Anjo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 37318426,
+            "entrant1Id": 7336826,
+            "entrant2Id": 7336444,
+            "entrant1Name": "Azel",
+            "entrant2Name": "PEPIS | Noire",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7336826,
+            "loserId": 7336444,
+            "winnerName": "Azel",
+            "loserName": "PEPIS | Noire",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1496449,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 70458,
+                    "playerTag": "Noire"
+                }
+            ]
+        },
+        {
+            "id": 37316465,
+            "entrant1Id": 7336287,
+            "entrant2Id": 7336826,
+            "entrant1Name": "Jbun",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7336826,
+            "loserId": 7336287,
+            "winnerName": "Azel",
+            "loserName": "Jbun",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1496449,
+            "entrant1Players": [
+                {
+                    "playerId": 2258693,
+                    "playerTag": "Jbun"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 37316643,
+            "entrant1Id": 7336321,
+            "entrant2Id": 7336826,
+            "entrant1Name": "Chompy",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7336826,
+            "loserId": 7336321,
+            "winnerName": "Azel",
+            "loserName": "Chompy",
+            "bracketName": "West Coast Ladder",
+            "bracketId": 1496449,
+            "entrant1Players": [
+                {
+                    "playerId": 213297,
+                    "playerTag": "Chompy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 37331365,
+            "entrant1Id": 7343069,
+            "entrant2Id": 7342931,
+            "entrant1Name": "Bbatts",
+            "entrant2Name": "Azel",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7343069,
+            "loserId": 7342931,
+            "winnerName": "Bbatts",
+            "loserName": "Azel",
+            "bracketName": "Main Bracket",
+            "bracketId": 1496447,
+            "entrant1Players": [
+                {
+                    "playerId": 542693,
+                    "playerTag": "Bbatts"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 37331361,
+            "entrant1Id": 7342931,
+            "entrant2Id": 7343732,
+            "entrant1Name": "Azel",
+            "entrant2Name": "GGS",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7342931,
+            "loserId": 7343732,
+            "winnerName": "Azel",
+            "loserName": "GGS",
+            "bracketName": "Main Bracket",
+            "bracketId": 1496447,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2269490,
+                    "playerTag": "GGS"
+                }
+            ]
+        },
+        {
+            "id": 37331294,
+            "entrant1Id": 7341951,
+            "entrant2Id": 7342931,
+            "entrant1Name": "Blues Clues",
+            "entrant2Name": "Azel",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7341951,
+            "loserId": 7342931,
+            "winnerName": "Blues Clues",
+            "loserName": "Azel",
+            "bracketName": "Main Bracket",
+            "bracketId": 1496447,
+            "entrant1Players": [
+                {
+                    "playerId": 64692,
+                    "playerTag": "Blues Clues"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 37331356,
+            "entrant1Id": 7342931,
+            "entrant2Id": 7342942,
+            "entrant1Name": "Azel",
+            "entrant2Name": "AB | Anjo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7342931,
+            "loserId": 7342942,
+            "winnerName": "Azel",
+            "loserName": "AB | Anjo",
+            "bracketName": "Main Bracket",
+            "bracketId": 1496447,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15586,
+                    "playerTag": "Anjo"
+                }
+            ]
+        },
+        {
+            "id": 37331280,
+            "entrant1Id": 7342931,
+            "entrant2Id": 7343480,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Aura",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7342931,
+            "loserId": 7343480,
+            "winnerName": "Azel",
+            "loserName": "Aura",
+            "bracketName": "Main Bracket",
+            "bracketId": 1496447,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22595,
+                    "playerTag": "Aura"
+                }
+            ]
+        },
+        {
+            "id": 41256337,
+            "entrant1Id": 8383084,
+            "entrant2Id": 8457420,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Arcadia",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8383084,
+            "loserId": 8457420,
+            "winnerName": "Azel",
+            "loserName": "Arcadia",
+            "bracketName": "West Pools",
+            "bracketId": 1582392,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3772,
+                    "playerTag": "Arcadia"
+                }
+            ]
+        },
+        {
+            "id": 41256333,
+            "entrant1Id": 8383084,
+            "entrant2Id": 8436443,
+            "entrant1Name": "Azel",
+            "entrant2Name": "esjam",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8383084,
+            "loserId": 8436443,
+            "winnerName": "Azel",
+            "loserName": "esjam",
+            "bracketName": "West Pools",
+            "bracketId": 1582392,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 67062,
+                    "playerTag": "esjam"
+                }
+            ]
+        },
+        {
+            "id": 41264299,
+            "entrant1Id": 8383084,
+            "entrant2Id": 8460488,
+            "entrant1Name": "Azel",
+            "entrant2Name": "CG | Peppi | Pappi",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8460488,
+            "loserId": 8383084,
+            "winnerName": "CG | Peppi | Pappi",
+            "loserName": "Azel",
+            "bracketName": "Top 32",
+            "bracketId": 1580688,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61570,
+                    "playerTag": "Pappi"
+                }
+            ]
+        },
+        {
+            "id": 41264359,
+            "entrant1Id": 8383084,
+            "entrant2Id": 8440667,
+            "entrant1Name": "Azel",
+            "entrant2Name": "KoopaTroopa895",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8383084,
+            "loserId": 8440667,
+            "winnerName": "Azel",
+            "loserName": "KoopaTroopa895",
+            "bracketName": "Top 32",
+            "bracketId": 1580688,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4005,
+                    "playerTag": "KoopaTroopa895"
+                }
+            ]
+        },
+        {
+            "id": 41264294,
+            "entrant1Id": 8383084,
+            "entrant2Id": 8350064,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Pulse | Joey Donuts",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8383084,
+            "loserId": 8350064,
+            "winnerName": "Azel",
+            "loserName": "Pulse | Joey Donuts",
+            "bracketName": "Top 32",
+            "bracketId": 1580688,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 184637,
+                    "playerTag": "Joey Donuts"
+                }
+            ]
+        },
+        {
+            "id": 41300787,
+            "entrant1Id": 8454169,
+            "entrant2Id": 8383084,
+            "entrant1Name": "CG | Zealot",
+            "entrant2Name": "Azel",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8454169,
+            "loserId": 8383084,
+            "winnerName": "CG | Zealot",
+            "loserName": "Azel",
+            "bracketName": "Top 8",
+            "bracketId": 1582376,
+            "entrant1Players": [
+                {
+                    "playerId": 266848,
+                    "playerTag": "Zealot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 42727230,
+            "entrant1Id": 8840324,
+            "entrant2Id": 8829739,
+            "entrant1Name": "Rocky",
+            "entrant2Name": "Azel",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8840324,
+            "loserId": 8829739,
+            "winnerName": "Rocky",
+            "loserName": "Azel",
+            "bracketName": "Bracket",
+            "bracketId": 1615476,
+            "entrant1Players": [
+                {
+                    "playerId": 4215,
+                    "playerTag": "Rocky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 42727357,
+            "entrant1Id": 8791869,
+            "entrant2Id": 8829739,
+            "entrant1Name": "Rob jr | blargh257",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8829739,
+            "loserId": 8791869,
+            "winnerName": "Azel",
+            "loserName": "Rob jr | blargh257",
+            "bracketName": "Bracket",
+            "bracketId": 1615476,
+            "entrant1Players": [
+                {
+                    "playerId": 11126,
+                    "playerTag": "blargh257"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 42727356,
+            "entrant1Id": 8829739,
+            "entrant2Id": 8840622,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Umarth",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8829739,
+            "loserId": 8840622,
+            "winnerName": "Azel",
+            "loserName": "Umarth",
+            "bracketName": "Bracket",
+            "bracketId": 1615476,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15504,
+                    "playerTag": "Umarth"
+                }
+            ]
+        },
+        {
+            "id": 42727354,
+            "entrant1Id": 8771510,
+            "entrant2Id": 8829739,
+            "entrant1Name": "KB#795 | Kevbot",
+            "entrant2Name": "Azel",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8829739,
+            "loserId": 8771510,
+            "winnerName": "Azel",
+            "loserName": "KB#795 | Kevbot",
+            "bracketName": "Bracket",
+            "bracketId": 1615476,
+            "entrant1Players": [
+                {
+                    "playerId": 12293,
+                    "playerTag": "Kevbot"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 42727352,
+            "entrant1Id": 8829739,
+            "entrant2Id": 8840288,
+            "entrant1Name": "Azel",
+            "entrant2Name": "JAMEPS",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8829739,
+            "loserId": 8840288,
+            "winnerName": "Azel",
+            "loserName": "JAMEPS",
+            "bracketName": "Bracket",
+            "bracketId": 1615476,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 41719,
+                    "playerTag": "JAMEPS"
+                }
+            ]
+        },
+        {
+            "id": 42727225,
+            "entrant1Id": 8829739,
+            "entrant2Id": 8791869,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Rob jr | blargh257",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8791869,
+            "loserId": 8829739,
+            "winnerName": "Rob jr | blargh257",
+            "loserName": "Azel",
+            "bracketName": "Bracket",
+            "bracketId": 1615476,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11126,
+                    "playerTag": "blargh257"
+                }
+            ]
+        },
+        {
+            "id": 42727348,
+            "entrant1Id": 8829739,
+            "entrant2Id": 8840170,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Smilotron",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8829739,
+            "loserId": 8840170,
+            "winnerName": "Azel",
+            "loserName": "Smilotron",
+            "bracketName": "Bracket",
+            "bracketId": 1615476,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4489,
+                    "playerTag": "Smilotron"
+                }
+            ]
+        },
+        {
+            "id": 42727219,
+            "entrant1Id": 8829739,
+            "entrant2Id": 8809156,
+            "entrant1Name": "Azel",
+            "entrant2Name": "SquidTheCat",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8829739,
+            "loserId": 8809156,
+            "winnerName": "Azel",
+            "loserName": "SquidTheCat",
+            "bracketName": "Bracket",
+            "bracketId": 1615476,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 269511,
+                    "playerTag": "SquidTheCat"
+                }
+            ]
+        },
+        {
+            "id": 42727207,
+            "entrant1Id": 8829739,
+            "entrant2Id": 8771153,
+            "entrant1Name": "Azel",
+            "entrant2Name": "FudgyWaffles",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8829739,
+            "loserId": 8771153,
+            "winnerName": "Azel",
+            "loserName": "FudgyWaffles",
+            "bracketName": "Bracket",
+            "bracketId": 1615476,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1037901,
+                    "playerTag": "FudgyWaffles"
+                }
+            ]
+        },
+        {
+            "id": 41691553,
+            "entrant1Id": 8588793,
+            "entrant2Id": 8588245,
+            "entrant1Name": "Peppi YC | Salt",
+            "entrant2Name": "Azel",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8588245,
+            "loserId": 8588793,
+            "winnerName": "Azel",
+            "loserName": "Peppi YC | Salt",
+            "bracketName": "Top 8",
+            "bracketId": 1602372,
+            "entrant1Players": [
+                {
+                    "playerId": 133666,
+                    "playerTag": "Salt"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ]
+        },
+        {
+            "id": 41691554,
+            "entrant1Id": 8588245,
+            "entrant2Id": 8588793,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Peppi YC | Salt",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8588245,
+            "loserId": 8588793,
+            "winnerName": "Azel",
+            "loserName": "Peppi YC | Salt",
+            "bracketName": "Top 8",
+            "bracketId": 1602372,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 133666,
+                    "playerTag": "Salt"
+                }
+            ]
+        },
+        {
+            "id": 41690032,
+            "entrant1Id": 8588245,
+            "entrant2Id": 8586198,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Iron",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8588245,
+            "loserId": 8586198,
+            "winnerName": "Azel",
+            "loserName": "Iron",
+            "bracketName": "Bracket",
+            "bracketId": 1602371,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 897692,
+                    "playerTag": "Iron"
+                }
+            ]
+        },
+        {
+            "id": 41691552,
+            "entrant1Id": 8588245,
+            "entrant2Id": 8588793,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Peppi YC | Salt",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8588793,
+            "loserId": 8588245,
+            "winnerName": "Peppi YC | Salt",
+            "loserName": "Azel",
+            "bracketName": "Top 8",
+            "bracketId": 1602372,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 133666,
+                    "playerTag": "Salt"
+                }
+            ]
+        },
+        {
+            "id": 41690024,
+            "entrant1Id": 8588245,
+            "entrant2Id": 8587894,
+            "entrant1Name": "Azel",
+            "entrant2Name": "Askromas",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8588245,
+            "loserId": 8587894,
+            "winnerName": "Azel",
+            "loserName": "Askromas",
+            "bracketName": "Bracket",
+            "bracketId": 1602371,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 67108,
+                    "playerTag": "Askromas"
+                }
+            ]
+        },
+        {
+            "id": 41691568,
+            "entrant1Id": 8588245,
+            "entrant2Id": 8588682,
+            "entrant1Name": "Azel",
+            "entrant2Name": "U-Smash | Rocket",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8588245,
+            "loserId": 8588682,
+            "winnerName": "Azel",
+            "loserName": "U-Smash | Rocket",
+            "bracketName": "Top 8",
+            "bracketId": 1602372,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1278457,
+                    "playerTag": "Rocket"
+                }
+            ]
+        },
+        {
+            "id": 41691550,
+            "entrant1Id": 8588245,
+            "entrant2Id": 8588682,
+            "entrant1Name": "Azel",
+            "entrant2Name": "U-Smash | Rocket",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8588245,
+            "loserId": 8588682,
+            "winnerName": "Azel",
+            "loserName": "U-Smash | Rocket",
+            "bracketName": "Top 8",
+            "bracketId": 1602372,
+            "entrant1Players": [
+                {
+                    "playerId": 68261,
+                    "playerTag": "Azel"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1278457,
+                    "playerTag": "Rocket"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "lucky",
+        "eddy mexico",
+        "ringler",
+        "pappi",
+        "jflex",
+        "dawson",
+        "ober",
+        "quaff",
+        "htwa",
+        "luigi ka-master",
+        "jflex",
+        "gahtzu",
+        "okayp.",
+        "okayp.",
+        "salt",
+        "salt",
+        "aura",
+        "umarth",
+        "salt",
+        "salt"
+    ],
+    "L": [
+        "lucky",
+        "lucky",
+        "soonsay",
+        "salt",
+        "medz",
+        "logan",
+        "blues clues",
+        "aCID",
+        "Nathan",
+        "casper",
+        "n0ne/ bond / wizzyfan109",
+        "skerzo",
+        "Joey Donuts",
+        "sdj",
+        "sdj",
+        "sdj",
+        "kodorin",
+        "kodorin",
+        "ycz6",
+        "aura",
+        "n3zModGod",
+        "rocky",
+        "gahtzu",
+        "ibdw",
+        "pappi",
+        "mvlvchi",
+        "s2j",
+        "zamu",
+        "ben",
+        "K\u00fcrv",
+        "blues clues",
+        "bbatts",
+        "blues clues",
+        "pappi",
+        "zealot",
+        "rocky",
+        "blargh257",
+        "salt"
+    ]
+}

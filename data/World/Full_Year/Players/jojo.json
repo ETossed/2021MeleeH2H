@@ -1,0 +1,5110 @@
+{
+    "Events": [
+        "571141",
+        "562163",
+        "562304",
+        "601275",
+        "562796",
+        "557861",
+        "557860",
+        "565948",
+        "575113",
+        "623950",
+        "543491",
+        "562835",
+        "580148",
+        "593246",
+        "661754",
+        "556015",
+        "634950",
+        "653277",
+        "650391",
+        "638383",
+        "629049",
+        "625973",
+        "623200",
+        "620019",
+        "570971",
+        "542236",
+        "540734",
+        "599813",
+        "591030",
+        "601554",
+        "593021",
+        "644686",
+        "613712",
+        "610918",
+        "557663",
+        "636625"
+    ],
+    "Sets": [
+        {
+            "id": 36902776,
+            "entrant1Id": 7243410,
+            "entrant2Id": 7227438,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Fankriss",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7227438,
+            "loserId": 7243410,
+            "winnerName": "Fankriss",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1486333,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1942273,
+                    "playerTag": "Fank"
+                }
+            ]
+        },
+        {
+            "id": 36902772,
+            "entrant1Id": 7243080,
+            "entrant2Id": 7243410,
+            "entrant1Name": "BUG | Busy Boi",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7243410,
+            "loserId": 7243080,
+            "winnerName": "FISA | JoJo",
+            "loserName": "BUG | Busy Boi",
+            "bracketName": "Bracket",
+            "bracketId": 1486333,
+            "entrant1Players": [
+                {
+                    "playerId": 7610,
+                    "playerTag": "Busy Boi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 36902768,
+            "entrant1Id": 7243410,
+            "entrant2Id": 7242790,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Chipotle+",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7243410,
+            "loserId": 7242790,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Chipotle+",
+            "bracketName": "Bracket",
+            "bracketId": 1486333,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11716,
+                    "playerTag": "Chipotle+"
+                }
+            ]
+        },
+        {
+            "id": 36902642,
+            "entrant1Id": 7243410,
+            "entrant2Id": 7243186,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Thumbs",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7243186,
+            "loserId": 7243410,
+            "winnerName": "Thumbs",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1486333,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 34914,
+                    "playerTag": "Thumbs"
+                }
+            ]
+        },
+        {
+            "id": 36902760,
+            "entrant1Id": 7243410,
+            "entrant2Id": 7240285,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Vest",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7243410,
+            "loserId": 7240285,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Vest",
+            "bracketName": "Bracket",
+            "bracketId": 1486333,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2100099,
+                    "playerTag": "Vest"
+                }
+            ]
+        },
+        {
+            "id": 36902629,
+            "entrant1Id": 7243410,
+            "entrant2Id": 7241944,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "BEEJ | Mojo8675309",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7243410,
+            "loserId": 7241944,
+            "winnerName": "FISA | JoJo",
+            "loserName": "BEEJ | Mojo8675309",
+            "bracketName": "Bracket",
+            "bracketId": 1486333,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 53135,
+                    "playerTag": "Mojo8675309"
+                }
+            ]
+        },
+        {
+            "id": 36080235,
+            "entrant1Id": 7039716,
+            "entrant2Id": 7041313,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7039716,
+            "loserId": 7041313,
+            "winnerName": "bobby big ballz",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1468188,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 36080232,
+            "entrant1Id": 7041313,
+            "entrant2Id": 7040546,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "fLc | Jank",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7041313,
+            "loserId": 7040546,
+            "winnerName": "FISA | JoJo",
+            "loserName": "fLc | Jank",
+            "bracketName": "Bracket",
+            "bracketId": 1468188,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 14579,
+                    "playerTag": "Jank"
+                }
+            ]
+        },
+        {
+            "id": 36080225,
+            "entrant1Id": 7041313,
+            "entrant2Id": 7039545,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Emanon",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7041313,
+            "loserId": 7039545,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Emanon",
+            "bracketName": "Bracket",
+            "bracketId": 1468188,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5547,
+                    "playerTag": "Emanon"
+                }
+            ]
+        },
+        {
+            "id": 36084688,
+            "entrant1Id": 7039716,
+            "entrant2Id": 7041313,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7039716,
+            "loserId": 7041313,
+            "winnerName": "bobby big ballz",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Top 24",
+            "bracketId": 1468189,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 36084686,
+            "entrant1Id": 7041174,
+            "entrant2Id": 7041313,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7041313,
+            "loserId": 7041174,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Just Jason",
+            "bracketName": "Top 24",
+            "bracketId": 1468189,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 36084684,
+            "entrant1Id": 7040144,
+            "entrant2Id": 7041313,
+            "entrant1Name": "GFU | Ceja",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7041313,
+            "loserId": 7040144,
+            "winnerName": "FISA | JoJo",
+            "loserName": "GFU | Ceja",
+            "bracketName": "Top 24",
+            "bracketId": 1468189,
+            "entrant1Players": [
+                {
+                    "playerId": 156251,
+                    "playerTag": "Ceja"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 36084680,
+            "entrant1Id": 7041336,
+            "entrant2Id": 7041313,
+            "entrant1Name": "Hunybear",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7041313,
+            "loserId": 7041336,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Hunybear",
+            "bracketName": "Top 24",
+            "bracketId": 1468189,
+            "entrant1Players": [
+                {
+                    "playerId": 465131,
+                    "playerTag": "Hunybear"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 36084676,
+            "entrant1Id": 7041313,
+            "entrant2Id": 7041321,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Vigilance",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7041313,
+            "loserId": 7041321,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Vigilance",
+            "bracketName": "Top 24",
+            "bracketId": 1468189,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 28391,
+                    "playerTag": "Vigilance"
+                }
+            ]
+        },
+        {
+            "id": 36466994,
+            "entrant1Id": 7093469,
+            "entrant2Id": 7112331,
+            "entrant1Name": "Bones",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7093469,
+            "loserId": 7112331,
+            "winnerName": "Bones",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Pools",
+            "bracketId": 1468476,
+            "entrant1Players": [
+                {
+                    "playerId": 5457,
+                    "playerTag": "Bones"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 36466990,
+            "entrant1Id": 7088113,
+            "entrant2Id": 7112331,
+            "entrant1Name": "htwa",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7112331,
+            "loserId": 7088113,
+            "winnerName": "FISA | JoJo",
+            "loserName": "htwa",
+            "bracketName": "Pools",
+            "bracketId": 1468476,
+            "entrant1Players": [
+                {
+                    "playerId": 11781,
+                    "playerTag": "htwa"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 36466982,
+            "entrant1Id": 7112331,
+            "entrant2Id": 7106270,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Nights Fire",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7112331,
+            "loserId": 7106270,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Nights Fire",
+            "bracketName": "Pools",
+            "bracketId": 1468476,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 665590,
+                    "playerTag": "Nights Fire"
+                }
+            ]
+        },
+        {
+            "id": 39208907,
+            "entrant1Id": 7928049,
+            "entrant2Id": 7927666,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Just Jason",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7927666,
+            "loserId": 7928049,
+            "winnerName": "Just Jason",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ]
+        },
+        {
+            "id": 39208905,
+            "entrant1Id": 7955529,
+            "entrant2Id": 7928049,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7928049,
+            "loserId": 7955529,
+            "winnerName": "FISA | JoJo",
+            "loserName": "HoG | Warmmer",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 39208903,
+            "entrant1Id": 7928049,
+            "entrant2Id": 7928715,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Error",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7928049,
+            "loserId": 7928715,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Error",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 173824,
+                    "playerTag": "Error"
+                }
+            ]
+        },
+        {
+            "id": 39208899,
+            "entrant1Id": 7927655,
+            "entrant2Id": 7928049,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7928049,
+            "loserId": 7927655,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Agency | Wally",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 39208895,
+            "entrant1Id": 7927674,
+            "entrant2Id": 7928049,
+            "entrant1Name": "K8A",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7928049,
+            "loserId": 7927674,
+            "winnerName": "FISA | JoJo",
+            "loserName": "K8A",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 12048,
+                    "playerTag": "K8A"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 39208768,
+            "entrant1Id": 7927650,
+            "entrant2Id": 7928049,
+            "entrant1Name": "TheSWOOPER",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7927650,
+            "loserId": 7928049,
+            "winnerName": "TheSWOOPER",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 50606,
+                    "playerTag": "TheSWOOPER"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 39208888,
+            "entrant1Id": 7928049,
+            "entrant2Id": 7959166,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "g00p | Dr. Doink",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7928049,
+            "loserId": 7959166,
+            "winnerName": "FISA | JoJo",
+            "loserName": "g00p | Dr. Doink",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 424553,
+                    "playerTag": "Dr. Doink"
+                }
+            ]
+        },
+        {
+            "id": 39208755,
+            "entrant1Id": 7928049,
+            "entrant2Id": 7927700,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Just Nate",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7928049,
+            "loserId": 7927700,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Just Nate",
+            "bracketName": "Bracket",
+            "bracketId": 1541646,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 893866,
+                    "playerTag": "Just Nate"
+                }
+            ]
+        },
+        {
+            "id": 36164497,
+            "entrant1Id": 7058087,
+            "entrant2Id": 7058153,
+            "entrant1Name": "Winx Club | Siddward",
+            "entrant2Name": "JoJo",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7058153,
+            "loserId": 7058087,
+            "winnerName": "JoJo",
+            "loserName": "Winx Club | Siddward",
+            "bracketName": "East Coast Ladder",
+            "bracketId": 1469623,
+            "entrant1Players": [
+                {
+                    "playerId": 31487,
+                    "playerTag": "Siddward"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 35680732,
+            "entrant1Id": 6936501,
+            "entrant2Id": 6936540,
+            "entrant1Name": "blazerboy",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6936540,
+            "loserId": 6936501,
+            "winnerName": "FISA | JoJo",
+            "loserName": "blazerboy",
+            "bracketName": "East Coast Ladder",
+            "bracketId": 1458896,
+            "entrant1Players": [
+                {
+                    "playerId": 145075,
+                    "playerTag": "TSM Joe"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 35683555,
+            "entrant1Id": 6936540,
+            "entrant2Id": 6936768,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "akir",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6936540,
+            "loserId": 6936768,
+            "winnerName": "FISA | JoJo",
+            "loserName": "akir",
+            "bracketName": "East Coast Ladder",
+            "bracketId": 1458896,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 144798,
+                    "playerTag": "Akir"
+                }
+            ]
+        },
+        {
+            "id": 35683692,
+            "entrant1Id": 6936540,
+            "entrant2Id": 6936817,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "CRACKSHACK | Quiggles",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6936540,
+            "loserId": 6936817,
+            "winnerName": "FISA | JoJo",
+            "loserName": "CRACKSHACK | Quiggles",
+            "bracketName": "East Coast Ladder",
+            "bracketId": 1458896,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5618,
+                    "playerTag": "Mike Quiggles"
+                }
+            ]
+        },
+        {
+            "id": 35681952,
+            "entrant1Id": 6936403,
+            "entrant2Id": 6936540,
+            "entrant1Name": "GST | Ryobeat",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6936540,
+            "loserId": 6936403,
+            "winnerName": "FISA | JoJo",
+            "loserName": "GST | Ryobeat",
+            "bracketName": "East Coast Ladder",
+            "bracketId": 1458896,
+            "entrant1Players": [
+                {
+                    "playerId": 4748,
+                    "playerTag": "Ryobeat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 35684200,
+            "entrant1Id": 6937267,
+            "entrant2Id": 6936540,
+            "entrant1Name": "MIT | Fro116",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6936540,
+            "loserId": 6937267,
+            "winnerName": "FISA | JoJo",
+            "loserName": "MIT | Fro116",
+            "bracketName": "East Coast Ladder",
+            "bracketId": 1458896,
+            "entrant1Players": [
+                {
+                    "playerId": 50933,
+                    "playerTag": "Fro116"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 35688259,
+            "entrant1Id": 6936415,
+            "entrant2Id": 6936540,
+            "entrant1Name": "Drephen",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6936415,
+            "loserId": 6936540,
+            "winnerName": "Drephen",
+            "loserName": "FISA | JoJo",
+            "bracketName": "East Coast Ladder",
+            "bracketId": 1458896,
+            "entrant1Players": [
+                {
+                    "playerId": 6839,
+                    "playerTag": "Drephen"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 35682984,
+            "entrant1Id": 6934688,
+            "entrant2Id": 6936540,
+            "entrant1Name": "NJ | Tommy",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6936540,
+            "loserId": 6934688,
+            "winnerName": "FISA | JoJo",
+            "loserName": "NJ | Tommy",
+            "bracketName": "East Coast Ladder",
+            "bracketId": 1458896,
+            "entrant1Players": [
+                {
+                    "playerId": 519779,
+                    "playerTag": "Tommy"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 35682197,
+            "entrant1Id": 6936540,
+            "entrant2Id": 6936720,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "MDF | Amor",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6936720,
+            "loserId": 6936540,
+            "winnerName": "MDF | Amor",
+            "loserName": "FISA | JoJo",
+            "bracketName": "East Coast Ladder",
+            "bracketId": 1458896,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 283648,
+                    "playerTag": "i still love you"
+                }
+            ]
+        },
+        {
+            "id": 35682388,
+            "entrant1Id": 6936540,
+            "entrant2Id": 6936047,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "DannyPhantom",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6936540,
+            "loserId": 6936047,
+            "winnerName": "FISA | JoJo",
+            "loserName": "DannyPhantom",
+            "bracketName": "East Coast Ladder",
+            "bracketId": 1458896,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 491552,
+                    "playerTag": "DannyPhantom"
+                }
+            ]
+        },
+        {
+            "id": 35681122,
+            "entrant1Id": 6936540,
+            "entrant2Id": 6935882,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Captain Pretzel",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6936540,
+            "loserId": 6935882,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Captain Pretzel",
+            "bracketName": "East Coast Ladder",
+            "bracketId": 1458896,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 253767,
+                    "playerTag": "Captain Pretzel"
+                }
+            ]
+        },
+        {
+            "id": 35680530,
+            "entrant1Id": 6935734,
+            "entrant2Id": 6936540,
+            "entrant1Name": "Joey Bats",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6936540,
+            "loserId": 6935734,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Joey Bats",
+            "bracketName": "East Coast Ladder",
+            "bracketId": 1458896,
+            "entrant1Players": [
+                {
+                    "playerId": 5869,
+                    "playerTag": "Joe(y) Bats"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 35701360,
+            "entrant1Id": 6942686,
+            "entrant2Id": 6942682,
+            "entrant1Name": "GST | Ryobeat",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6942686,
+            "loserId": 6942682,
+            "winnerName": "GST | Ryobeat",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Main Bracket",
+            "bracketId": 1458895,
+            "entrant1Players": [
+                {
+                    "playerId": 4748,
+                    "playerTag": "Ryobeat"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 35701422,
+            "entrant1Id": 6942682,
+            "entrant2Id": 6942687,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Zeeker",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6942687,
+            "loserId": 6942682,
+            "winnerName": "Zeeker",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Main Bracket",
+            "bracketId": 1458895,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 221136,
+                    "playerTag": "Zeeker"
+                }
+            ]
+        },
+        {
+            "id": 36520722,
+            "entrant1Id": 7142161,
+            "entrant2Id": 7147892,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7147892,
+            "loserId": 7142161,
+            "winnerName": "FISA | JoJo",
+            "loserName": "CG | Jflex",
+            "bracketName": "Bracket",
+            "bracketId": 1475745,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 36520719,
+            "entrant1Id": 7147892,
+            "entrant2Id": 7145808,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "ight",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7147892,
+            "loserId": 7145808,
+            "winnerName": "FISA | JoJo",
+            "loserName": "ight",
+            "bracketName": "Bracket",
+            "bracketId": 1475745,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 157615,
+                    "playerTag": "ight"
+                }
+            ]
+        },
+        {
+            "id": 36522300,
+            "entrant1Id": 7147047,
+            "entrant2Id": 7147892,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7147047,
+            "loserId": 7147892,
+            "winnerName": "bobby big ballz",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Singles Top 32",
+            "bracketId": 1475746,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 36522296,
+            "entrant1Id": 7147892,
+            "entrant2Id": 7147064,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Younger",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7147892,
+            "loserId": 7147064,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Younger",
+            "bracketName": "Singles Top 32",
+            "bracketId": 1475746,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3665,
+                    "playerTag": "Younger"
+                }
+            ]
+        },
+        {
+            "id": 36520712,
+            "entrant1Id": 7147892,
+            "entrant2Id": 7147168,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "SwaggerBee",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7147892,
+            "loserId": 7147168,
+            "winnerName": "FISA | JoJo",
+            "loserName": "SwaggerBee",
+            "bracketName": "Bracket",
+            "bracketId": 1475745,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1687384,
+                    "playerTag": "swaggerbee"
+                }
+            ]
+        },
+        {
+            "id": 36522229,
+            "entrant1Id": 7147892,
+            "entrant2Id": 7132036,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "SKER#358 | Skerzo",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7132036,
+            "loserId": 7147892,
+            "winnerName": "SKER#358 | Skerzo",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Singles Top 32",
+            "bracketId": 1475746,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 217174,
+                    "playerTag": "Skerzo"
+                }
+            ]
+        },
+        {
+            "id": 36522291,
+            "entrant1Id": 7147892,
+            "entrant2Id": 7131945,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Fankriss",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7147892,
+            "loserId": 7131945,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Fankriss",
+            "bracketName": "Singles Top 32",
+            "bracketId": 1475746,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1942273,
+                    "playerTag": "Fank"
+                }
+            ]
+        },
+        {
+            "id": 41254361,
+            "entrant1Id": 8330725,
+            "entrant2Id": 8343557,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "RSK | Tommy",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8330725,
+            "loserId": 8343557,
+            "winnerName": "FISA | JoJo",
+            "loserName": "RSK | Tommy",
+            "bracketName": "Pools",
+            "bracketId": 1594255,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 519779,
+                    "playerTag": "Tommy"
+                }
+            ]
+        },
+        {
+            "id": 41254357,
+            "entrant1Id": 8330725,
+            "entrant2Id": 8346412,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "angst",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8330725,
+            "loserId": 8346412,
+            "winnerName": "FISA | JoJo",
+            "loserName": "angst",
+            "bracketName": "Pools",
+            "bracketId": 1594255,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26837,
+                    "playerTag": "angst"
+                }
+            ]
+        },
+        {
+            "id": 41262228,
+            "entrant1Id": 8330724,
+            "entrant2Id": 8330725,
+            "entrant1Name": "Bbatts",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8330725,
+            "loserId": 8330724,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Bbatts",
+            "bracketName": "Top 32",
+            "bracketId": 1594247,
+            "entrant1Players": [
+                {
+                    "playerId": 542693,
+                    "playerTag": "Bbatts"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 41268175,
+            "entrant1Id": 8330725,
+            "entrant2Id": 8383702,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Rishi",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8383702,
+            "loserId": 8330725,
+            "winnerName": "Rishi",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Top 8",
+            "bracketId": 1594248,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13306,
+                    "playerTag": "Rishi"
+                }
+            ]
+        },
+        {
+            "id": 41262223,
+            "entrant1Id": 8330725,
+            "entrant2Id": 8369920,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "SloX",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8330725,
+            "loserId": 8369920,
+            "winnerName": "FISA | JoJo",
+            "loserName": "SloX",
+            "bracketName": "Top 32",
+            "bracketId": 1594247,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1061,
+                    "playerTag": "SloX"
+                }
+            ]
+        },
+        {
+            "id": 41268189,
+            "entrant1Id": 8330725,
+            "entrant2Id": 8330762,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8330762,
+            "loserId": 8330725,
+            "winnerName": "BLE | SluG",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Top 8",
+            "bracketId": 1594248,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 36196417,
+            "entrant1Id": 7067990,
+            "entrant2Id": 7067339,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "JHTL",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7067990,
+            "loserId": 7067339,
+            "winnerName": "FISA | JoJo",
+            "loserName": "JHTL",
+            "bracketName": "Bracket",
+            "bracketId": 1469757,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 62209,
+                    "playerTag": "JHTL"
+                }
+            ]
+        },
+        {
+            "id": 36198132,
+            "entrant1Id": 7067450,
+            "entrant2Id": 7067990,
+            "entrant1Name": "404 | MOF",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7067990,
+            "loserId": 7067450,
+            "winnerName": "FISA | JoJo",
+            "loserName": "404 | MOF",
+            "bracketName": "Singles Top 32",
+            "bracketId": 1469759,
+            "entrant1Players": [
+                {
+                    "playerId": 631158,
+                    "playerTag": "MOF"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 36198128,
+            "entrant1Id": 7067990,
+            "entrant2Id": 7068119,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "g-regulate",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7067990,
+            "loserId": 7068119,
+            "winnerName": "FISA | JoJo",
+            "loserName": "g-regulate",
+            "bracketName": "Singles Top 32",
+            "bracketId": 1469759,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 448089,
+                    "playerTag": "g-regulate"
+                }
+            ]
+        },
+        {
+            "id": 36198067,
+            "entrant1Id": 7067990,
+            "entrant2Id": 7056262,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Lotfy",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7056262,
+            "loserId": 7067990,
+            "winnerName": "Lotfy",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Singles Top 32",
+            "bracketId": 1469759,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 257406,
+                    "playerTag": "Lotfy"
+                }
+            ]
+        },
+        {
+            "id": 36198121,
+            "entrant1Id": 7067990,
+            "entrant2Id": 7067381,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Mad Tyro",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7067990,
+            "loserId": 7067381,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Mad Tyro",
+            "bracketName": "Singles Top 32",
+            "bracketId": 1469759,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 392549,
+                    "playerTag": "Mad Tyro"
+                }
+            ]
+        },
+        {
+            "id": 36203424,
+            "entrant1Id": 7067990,
+            "entrant2Id": 7067188,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Dawson",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7067188,
+            "loserId": 7067990,
+            "winnerName": "Dawson",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Top 8",
+            "bracketId": 1469760,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 147811,
+                    "playerTag": "Dawson"
+                }
+            ]
+        },
+        {
+            "id": 39482745,
+            "entrant1Id": 7722064,
+            "entrant2Id": 7713848,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "MG /NHPR | Golden",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7722064,
+            "loserId": 7713848,
+            "winnerName": "FISA | JoJo",
+            "loserName": "MG /NHPR | Golden",
+            "bracketName": "Pools",
+            "bracketId": 1528576,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 34908,
+                    "playerTag": "Golden"
+                }
+            ]
+        },
+        {
+            "id": 39482742,
+            "entrant1Id": 7722064,
+            "entrant2Id": 7719753,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "dudutsai",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7722064,
+            "loserId": 7719753,
+            "winnerName": "FISA | JoJo",
+            "loserName": "dudutsai",
+            "bracketName": "Pools",
+            "bracketId": 1528576,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15685,
+                    "playerTag": "dudutsai"
+                }
+            ]
+        },
+        {
+            "id": 39491873,
+            "entrant1Id": 7722064,
+            "entrant2Id": 7713533,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "HoG | Warmmer",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7713533,
+            "loserId": 7722064,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Top 24",
+            "bracketId": 1528580,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ]
+        },
+        {
+            "id": 39482736,
+            "entrant1Id": 7722064,
+            "entrant2Id": 7719550,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "MMOM | BlueEco",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7722064,
+            "loserId": 7719550,
+            "winnerName": "FISA | JoJo",
+            "loserName": "MMOM | BlueEco",
+            "bracketName": "Pools",
+            "bracketId": 1528576,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 19912,
+                    "playerTag": "BlueEco"
+                }
+            ]
+        },
+        {
+            "id": 39491937,
+            "entrant1Id": 7722064,
+            "entrant2Id": 7749050,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "YAMI",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7749050,
+            "loserId": 7722064,
+            "winnerName": "YAMI",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Top 24",
+            "bracketId": 1528580,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65928,
+                    "playerTag": "YAMI"
+                }
+            ]
+        },
+        {
+            "id": 39491869,
+            "entrant1Id": 7715387,
+            "entrant2Id": 7722064,
+            "entrant1Name": "ASC | Kalvar",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7722064,
+            "loserId": 7715387,
+            "winnerName": "FISA | JoJo",
+            "loserName": "ASC | Kalvar",
+            "bracketName": "Top 24",
+            "bracketId": 1528580,
+            "entrant1Players": [
+                {
+                    "playerId": 3990,
+                    "playerTag": "Kalvar"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 43446465,
+            "entrant1Id": 9008888,
+            "entrant2Id": 8990310,
+            "entrant1Name": "Krudo",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 9008888,
+            "loserId": 8990310,
+            "winnerName": "Krudo",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Pools",
+            "bracketId": 1651599,
+            "entrant1Players": [
+                {
+                    "playerId": 147424,
+                    "playerTag": "Krudo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 43446527,
+            "entrant1Id": 8990310,
+            "entrant2Id": 9014001,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Cob",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8990310,
+            "loserId": 9014001,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Cob",
+            "bracketName": "Pools",
+            "bracketId": 1651599,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 26350,
+                    "playerTag": "Cob"
+                }
+            ]
+        },
+        {
+            "id": 43446463,
+            "entrant1Id": 8990310,
+            "entrant2Id": 9019021,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Younger",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8990310,
+            "loserId": 9019021,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Younger",
+            "bracketName": "Pools",
+            "bracketId": 1651599,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3665,
+                    "playerTag": "Younger"
+                }
+            ]
+        },
+        {
+            "id": 43446458,
+            "entrant1Id": 8990310,
+            "entrant2Id": 9018495,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Stringbean",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8990310,
+            "loserId": 9018495,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Stringbean",
+            "bracketName": "Pools",
+            "bracketId": 1651599,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 259306,
+                    "playerTag": "Stringbean"
+                }
+            ]
+        },
+        {
+            "id": 43450472,
+            "entrant1Id": 9007522,
+            "entrant2Id": 8990310,
+            "entrant1Name": "CG | TheSWOOPER",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 9007522,
+            "loserId": 8990310,
+            "winnerName": "CG | TheSWOOPER",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Top 16",
+            "bracketId": 1648051,
+            "entrant1Players": [
+                {
+                    "playerId": 50606,
+                    "playerTag": "TheSWOOPER"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 43450469,
+            "entrant1Id": 9008317,
+            "entrant2Id": 8990310,
+            "entrant1Name": "RC | Slowking",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8990310,
+            "loserId": 9008317,
+            "winnerName": "FISA | JoJo",
+            "loserName": "RC | Slowking",
+            "bracketName": "Top 16",
+            "bracketId": 1648051,
+            "entrant1Players": [
+                {
+                    "playerId": 26187,
+                    "playerTag": "Slowking"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 43450465,
+            "entrant1Id": 8990310,
+            "entrant2Id": 9018485,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Faust",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8990310,
+            "loserId": 9018485,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Faust",
+            "bracketName": "Top 16",
+            "bracketId": 1648051,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45726,
+                    "playerTag": "Faust"
+                }
+            ]
+        },
+        {
+            "id": 35519522,
+            "entrant1Id": 6900827,
+            "entrant2Id": 6900542,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Joey Donuts",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6900542,
+            "loserId": 6900827,
+            "winnerName": "Joey Donuts",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1455518,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 184637,
+                    "playerTag": "Joey Donuts"
+                }
+            ]
+        },
+        {
+            "id": 35519519,
+            "entrant1Id": 6900827,
+            "entrant2Id": 6900700,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "cockbread",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6900827,
+            "loserId": 6900700,
+            "winnerName": "FISA | JoJo",
+            "loserName": "cockbread",
+            "bracketName": "Bracket",
+            "bracketId": 1455518,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 135795,
+                    "playerTag": "cockbread"
+                }
+            ]
+        },
+        {
+            "id": 35519513,
+            "entrant1Id": 6900827,
+            "entrant2Id": 6899598,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Enemy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6900827,
+            "loserId": 6899598,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Enemy",
+            "bracketName": "Bracket",
+            "bracketId": 1455518,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10968,
+                    "playerTag": "Enemy"
+                }
+            ]
+        },
+        {
+            "id": 35523452,
+            "entrant1Id": 6900748,
+            "entrant2Id": 6900827,
+            "entrant1Name": "Dawson",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6900748,
+            "loserId": 6900827,
+            "winnerName": "Dawson",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Top 24",
+            "bracketId": 1455520,
+            "entrant1Players": [
+                {
+                    "playerId": 147811,
+                    "playerTag": "Dawson"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 35523448,
+            "entrant1Id": 6900827,
+            "entrant2Id": 6899999,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Bigbuffalo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6900827,
+            "loserId": 6899999,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Bigbuffalo",
+            "bracketName": "Top 24",
+            "bracketId": 1455520,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 55304,
+                    "playerTag": "Bigbuffalo"
+                }
+            ]
+        },
+        {
+            "id": 35523440,
+            "entrant1Id": 6900827,
+            "entrant2Id": 6899965,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Zuraco",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6900827,
+            "loserId": 6899965,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Zuraco",
+            "bracketName": "Top 24",
+            "bracketId": 1455520,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2166940,
+                    "playerTag": "Zuraco"
+                }
+            ]
+        },
+        {
+            "id": 41552618,
+            "entrant1Id": 8531299,
+            "entrant2Id": 8531323,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "HoG | Warmmer",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8531323,
+            "loserId": 8531299,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1600884,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ]
+        },
+        {
+            "id": 41552488,
+            "entrant1Id": 8531297,
+            "entrant2Id": 8531299,
+            "entrant1Name": "MF | KoDoRiN",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8531297,
+            "loserId": 8531299,
+            "winnerName": "MF | KoDoRiN",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1600884,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 41552615,
+            "entrant1Id": 8531299,
+            "entrant2Id": 8531298,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Bbatts",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8531299,
+            "loserId": 8531298,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Bbatts",
+            "bracketName": "Bracket",
+            "bracketId": 1600884,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 542693,
+                    "playerTag": "Bbatts"
+                }
+            ]
+        },
+        {
+            "id": 41552481,
+            "entrant1Id": 8531312,
+            "entrant2Id": 8531299,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8531299,
+            "loserId": 8531312,
+            "winnerName": "FISA | JoJo",
+            "loserName": "TG | Mot$",
+            "bracketName": "Bracket",
+            "bracketId": 1600884,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 41552467,
+            "entrant1Id": 8531299,
+            "entrant2Id": 8531306,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "TAP | bambi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8531299,
+            "loserId": 8531306,
+            "winnerName": "FISA | JoJo",
+            "loserName": "TAP | bambi",
+            "bracketName": "Bracket",
+            "bracketId": 1600884,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 8152,
+                    "playerTag": "bambi"
+                }
+            ]
+        },
+        {
+            "id": 42800707,
+            "entrant1Id": 8865093,
+            "entrant2Id": 8848691,
+            "entrant1Name": "Whiskers",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8865093,
+            "loserId": 8848691,
+            "winnerName": "Whiskers",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1633198,
+            "entrant1Players": [
+                {
+                    "playerId": 4370,
+                    "playerTag": "Whiskers"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 42800706,
+            "entrant1Id": 8848691,
+            "entrant2Id": 8845861,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Heartstrings",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8848691,
+            "loserId": 8845861,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Heartstrings",
+            "bracketName": "Bracket",
+            "bracketId": 1633198,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3412,
+                    "playerTag": "Heartstrings"
+                }
+            ]
+        },
+        {
+            "id": 42800577,
+            "entrant1Id": 8865093,
+            "entrant2Id": 8848691,
+            "entrant1Name": "Whiskers",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8865093,
+            "loserId": 8848691,
+            "winnerName": "Whiskers",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1633198,
+            "entrant1Players": [
+                {
+                    "playerId": 4370,
+                    "playerTag": "Whiskers"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 42800704,
+            "entrant1Id": 8848691,
+            "entrant2Id": 8845762,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "CS | Travioli",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8848691,
+            "loserId": 8845762,
+            "winnerName": "FISA | JoJo",
+            "loserName": "CS | Travioli",
+            "bracketName": "Bracket",
+            "bracketId": 1633198,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 215584,
+                    "playerTag": "Travioli"
+                }
+            ]
+        },
+        {
+            "id": 42800574,
+            "entrant1Id": 8848691,
+            "entrant2Id": 8848710,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Bbatts",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8848691,
+            "loserId": 8848710,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Bbatts",
+            "bracketName": "Bracket",
+            "bracketId": 1633198,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2560920,
+                    "playerTag": "Bbatts"
+                }
+            ]
+        },
+        {
+            "id": 42800567,
+            "entrant1Id": 8848691,
+            "entrant2Id": 8860767,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "NYU | Gambit",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8848691,
+            "loserId": 8860767,
+            "winnerName": "FISA | JoJo",
+            "loserName": "NYU | Gambit",
+            "bracketName": "Bracket",
+            "bracketId": 1633198,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5351,
+                    "playerTag": "Gambit"
+                }
+            ]
+        },
+        {
+            "id": 42800553,
+            "entrant1Id": 8848691,
+            "entrant2Id": 8861600,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "MKGUnknown",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8848691,
+            "loserId": 8861600,
+            "winnerName": "FISA | JoJo",
+            "loserName": "MKGUnknown",
+            "bracketName": "Bracket",
+            "bracketId": 1633198,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2048930,
+                    "playerTag": "MKGUnknown"
+                }
+            ]
+        },
+        {
+            "id": 42646906,
+            "entrant1Id": 8799335,
+            "entrant2Id": 8799548,
+            "entrant1Name": "Whiskers",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8799335,
+            "loserId": 8799548,
+            "winnerName": "Whiskers",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1627838,
+            "entrant1Players": [
+                {
+                    "playerId": 4370,
+                    "playerTag": "Whiskers"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 42646904,
+            "entrant1Id": 8799548,
+            "entrant2Id": 8804383,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Bonn Esports | Question",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8799548,
+            "loserId": 8804383,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Bonn Esports | Question",
+            "bracketName": "Bracket",
+            "bracketId": 1627838,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54390,
+                    "playerTag": "Question"
+                }
+            ]
+        },
+        {
+            "id": 42646777,
+            "entrant1Id": 8799216,
+            "entrant2Id": 8799548,
+            "entrant1Name": "Pulse | Tyler Swift",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8799216,
+            "loserId": 8799548,
+            "winnerName": "Pulse | Tyler Swift",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1627838,
+            "entrant1Players": [
+                {
+                    "playerId": 49131,
+                    "playerTag": "Swift"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 42646900,
+            "entrant1Id": 8799548,
+            "entrant2Id": 8799234,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Nebulous | Jib",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8799548,
+            "loserId": 8799234,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Nebulous | Jib",
+            "bracketName": "Bracket",
+            "bracketId": 1627838,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22088,
+                    "playerTag": "Jib"
+                }
+            ]
+        },
+        {
+            "id": 42646772,
+            "entrant1Id": 8799548,
+            "entrant2Id": 8822079,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Kikoho",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8799548,
+            "loserId": 8822079,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Kikoho",
+            "bracketName": "Bracket",
+            "bracketId": 1627838,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 288009,
+                    "playerTag": "Kikoho"
+                }
+            ]
+        },
+        {
+            "id": 42646761,
+            "entrant1Id": 8799548,
+            "entrant2Id": 8804806,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "a horse who can drive",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8799548,
+            "loserId": 8804806,
+            "winnerName": "FISA | JoJo",
+            "loserName": "a horse who can drive",
+            "bracketName": "Bracket",
+            "bracketId": 1627838,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 60974,
+                    "playerTag": "a horse who can drive"
+                }
+            ]
+        },
+        {
+            "id": 42646739,
+            "entrant1Id": 8799548,
+            "entrant2Id": 8824734,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "bobbynutsack",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8799548,
+            "loserId": 8824734,
+            "winnerName": "FISA | JoJo",
+            "loserName": "bobbynutsack",
+            "bracketName": "Bracket",
+            "bracketId": 1627838,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2546930,
+                    "playerTag": "bobbynutsack"
+                }
+            ]
+        },
+        {
+            "id": 41776932,
+            "entrant1Id": 8593073,
+            "entrant2Id": 8616983,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8593073,
+            "loserId": 8616983,
+            "winnerName": "Agency | Wally",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1607042,
+            "entrant1Players": [
+                {
+                    "playerId": 2451533,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 41776931,
+            "entrant1Id": 8616983,
+            "entrant2Id": 8593065,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Captain Smuckers",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8616983,
+            "loserId": 8593065,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Captain Smuckers",
+            "bracketName": "Bracket",
+            "bracketId": 1607042,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4824,
+                    "playerTag": "Captain Smuckers"
+                }
+            ]
+        },
+        {
+            "id": 41776867,
+            "entrant1Id": 8593073,
+            "entrant2Id": 8616983,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8593073,
+            "loserId": 8616983,
+            "winnerName": "Agency | Wally",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1607042,
+            "entrant1Players": [
+                {
+                    "playerId": 2451533,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 41776929,
+            "entrant1Id": 8616983,
+            "entrant2Id": 8593116,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Whiskers",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8616983,
+            "loserId": 8593116,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Whiskers",
+            "bracketName": "Bracket",
+            "bracketId": 1607042,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4370,
+                    "playerTag": "Whiskers"
+                }
+            ]
+        },
+        {
+            "id": 41776865,
+            "entrant1Id": 8616983,
+            "entrant2Id": 8593159,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Jah",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8616983,
+            "loserId": 8593159,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Jah",
+            "bracketName": "Bracket",
+            "bracketId": 1607042,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1856778,
+                    "playerTag": "Jah"
+                }
+            ]
+        },
+        {
+            "id": 41776860,
+            "entrant1Id": 8616983,
+            "entrant2Id": 8601754,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Insightful",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8616983,
+            "loserId": 8601754,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Insightful",
+            "bracketName": "Bracket",
+            "bracketId": 1607042,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 9608,
+                    "playerTag": "Insightful"
+                }
+            ]
+        },
+        {
+            "id": 41776850,
+            "entrant1Id": 8616983,
+            "entrant2Id": 8606023,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Scoober",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8616983,
+            "loserId": 8606023,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Scoober",
+            "bracketName": "Bracket",
+            "bracketId": 1607042,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2340684,
+                    "playerTag": "Scoober"
+                }
+            ]
+        },
+        {
+            "id": 41143967,
+            "entrant1Id": 8423491,
+            "entrant2Id": 8423486,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8423491,
+            "loserId": 8423486,
+            "winnerName": "CG | Jflex",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1590629,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 41143966,
+            "entrant1Id": 8423482,
+            "entrant2Id": 8423486,
+            "entrant1Name": "Captain Smuckers",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8423486,
+            "loserId": 8423482,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Captain Smuckers",
+            "bracketName": "Bracket",
+            "bracketId": 1590629,
+            "entrant1Players": [
+                {
+                    "playerId": 4824,
+                    "playerTag": "Captain Smuckers"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 41143838,
+            "entrant1Id": 8423486,
+            "entrant2Id": 8423577,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "HoG | Warmmer",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8423577,
+            "loserId": 8423486,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1590629,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ]
+        },
+        {
+            "id": 41143965,
+            "entrant1Id": 8423486,
+            "entrant2Id": 8423553,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "K8A",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8423486,
+            "loserId": 8423553,
+            "winnerName": "FISA | JoJo",
+            "loserName": "K8A",
+            "bracketName": "Bracket",
+            "bracketId": 1590629,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12048,
+                    "playerTag": "K8A"
+                }
+            ]
+        },
+        {
+            "id": 41143835,
+            "entrant1Id": 8423486,
+            "entrant2Id": 8423620,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "TAP | bambi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8423486,
+            "loserId": 8423620,
+            "winnerName": "FISA | JoJo",
+            "loserName": "TAP | bambi",
+            "bracketName": "Bracket",
+            "bracketId": 1590629,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 8152,
+                    "playerTag": "bambi"
+                }
+            ]
+        },
+        {
+            "id": 41143829,
+            "entrant1Id": 8423486,
+            "entrant2Id": 8428404,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "NYU | Gambit",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8423486,
+            "loserId": 8428404,
+            "winnerName": "FISA | JoJo",
+            "loserName": "NYU | Gambit",
+            "bracketName": "Bracket",
+            "bracketId": 1590629,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5351,
+                    "playerTag": "Gambit"
+                }
+            ]
+        },
+        {
+            "id": 41143817,
+            "entrant1Id": 8423486,
+            "entrant2Id": 8430020,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "BUG <3 | Vaio",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8423486,
+            "loserId": 8430020,
+            "winnerName": "FISA | JoJo",
+            "loserName": "BUG <3 | Vaio",
+            "bracketName": "Bracket",
+            "bracketId": 1590629,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 313899,
+                    "playerTag": "Vei"
+                }
+            ]
+        },
+        {
+            "id": 40938591,
+            "entrant1Id": 8371154,
+            "entrant2Id": 8371138,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "CG | Jflex",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8371138,
+            "loserId": 8371154,
+            "winnerName": "CG | Jflex",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1585430,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 40938592,
+            "entrant1Id": 8371138,
+            "entrant2Id": 8371154,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8371138,
+            "loserId": 8371154,
+            "winnerName": "CG | Jflex",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1585430,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 40938590,
+            "entrant1Id": 8371138,
+            "entrant2Id": 8371154,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8371154,
+            "loserId": 8371138,
+            "winnerName": "FISA | JoJo",
+            "loserName": "CG | Jflex",
+            "bracketName": "Bracket",
+            "bracketId": 1585430,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 40938589,
+            "entrant1Id": 8371391,
+            "entrant2Id": 8371154,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8371154,
+            "loserId": 8371391,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Agency | Wally",
+            "bracketName": "Bracket",
+            "bracketId": 1585430,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 40938587,
+            "entrant1Id": 8371154,
+            "entrant2Id": 8395218,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "TheSWOOPER",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8371154,
+            "loserId": 8395218,
+            "winnerName": "FISA | JoJo",
+            "loserName": "TheSWOOPER",
+            "bracketName": "Bracket",
+            "bracketId": 1585430,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50606,
+                    "playerTag": "TheSWOOPER"
+                }
+            ]
+        },
+        {
+            "id": 40938582,
+            "entrant1Id": 8371154,
+            "entrant2Id": 8371350,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "jubby",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8371154,
+            "loserId": 8371350,
+            "winnerName": "FISA | JoJo",
+            "loserName": "jubby",
+            "bracketName": "Bracket",
+            "bracketId": 1585430,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 36325,
+                    "playerTag": "jubby"
+                }
+            ]
+        },
+        {
+            "id": 40938572,
+            "entrant1Id": 8371154,
+            "entrant2Id": 8374137,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "ushi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8371154,
+            "loserId": 8374137,
+            "winnerName": "FISA | JoJo",
+            "loserName": "ushi",
+            "bracketName": "Bracket",
+            "bracketId": 1585430,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1263692,
+                    "playerTag": "ushi"
+                }
+            ]
+        },
+        {
+            "id": 40721873,
+            "entrant1Id": 8341550,
+            "entrant2Id": 8318787,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8318787,
+            "loserId": 8341550,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Agency | Wally",
+            "bracketName": "Bracket",
+            "bracketId": 1580403,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 40721874,
+            "entrant1Id": 8318787,
+            "entrant2Id": 8341550,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Agency | Wally",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8318787,
+            "loserId": 8341550,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Agency | Wally",
+            "bracketName": "Bracket",
+            "bracketId": 1580403,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ]
+        },
+        {
+            "id": 40721872,
+            "entrant1Id": 8341550,
+            "entrant2Id": 8318787,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8341550,
+            "loserId": 8318787,
+            "winnerName": "Agency | Wally",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1580403,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 40722000,
+            "entrant1Id": 8318787,
+            "entrant2Id": 8318809,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8318787,
+            "loserId": 8318809,
+            "winnerName": "FISA | JoJo",
+            "loserName": "TG | Mot$",
+            "bracketName": "Bracket",
+            "bracketId": 1580403,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 40721871,
+            "entrant1Id": 8338133,
+            "entrant2Id": 8318787,
+            "entrant1Name": "404Cray",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8318787,
+            "loserId": 8338133,
+            "winnerName": "FISA | JoJo",
+            "loserName": "404Cray",
+            "bracketName": "Bracket",
+            "bracketId": 1580403,
+            "entrant1Players": [
+                {
+                    "playerId": 63995,
+                    "playerTag": "404Cray"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 40721869,
+            "entrant1Id": 8342000,
+            "entrant2Id": 8318787,
+            "entrant1Name": "TheSWOOPER",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8318787,
+            "loserId": 8342000,
+            "winnerName": "FISA | JoJo",
+            "loserName": "TheSWOOPER",
+            "bracketName": "Bracket",
+            "bracketId": 1580403,
+            "entrant1Players": [
+                {
+                    "playerId": 50606,
+                    "playerTag": "TheSWOOPER"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 40721865,
+            "entrant1Id": 8318787,
+            "entrant2Id": 8319599,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "NJ | Tommy",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8318787,
+            "loserId": 8319599,
+            "winnerName": "FISA | JoJo",
+            "loserName": "NJ | Tommy",
+            "bracketName": "Bracket",
+            "bracketId": 1580403,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 519779,
+                    "playerTag": "Tommy"
+                }
+            ]
+        },
+        {
+            "id": 40721856,
+            "entrant1Id": 8318787,
+            "entrant2Id": 8335724,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "le trollface. problem?",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8318787,
+            "loserId": 8335724,
+            "winnerName": "FISA | JoJo",
+            "loserName": "le trollface. problem?",
+            "bracketName": "Bracket",
+            "bracketId": 1580403,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 171030,
+                    "playerTag": "le trollface. problem?"
+                }
+            ]
+        },
+        {
+            "id": 40528065,
+            "entrant1Id": 8267566,
+            "entrant2Id": 8267548,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8267566,
+            "loserId": 8267548,
+            "winnerName": "CG | Jflex",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1574574,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 40528192,
+            "entrant1Id": 8267562,
+            "entrant2Id": 8267548,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8267548,
+            "loserId": 8267562,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Just Jason",
+            "bracketName": "Bracket",
+            "bracketId": 1574574,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 40528191,
+            "entrant1Id": 8271418,
+            "entrant2Id": 8267548,
+            "entrant1Name": "The Golden Goose",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8267548,
+            "loserId": 8271418,
+            "winnerName": "FISA | JoJo",
+            "loserName": "The Golden Goose",
+            "bracketName": "Bracket",
+            "bracketId": 1574574,
+            "entrant1Players": [
+                {
+                    "playerId": 2369741,
+                    "playerTag": "AGeese'sniecenamedDenise"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 40528063,
+            "entrant1Id": 8267562,
+            "entrant2Id": 8267548,
+            "entrant1Name": "Just Jason",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8267562,
+            "loserId": 8267548,
+            "winnerName": "Just Jason",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1574574,
+            "entrant1Players": [
+                {
+                    "playerId": 15060,
+                    "playerTag": "Just Jason"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 40528190,
+            "entrant1Id": 8267548,
+            "entrant2Id": 8267583,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "K8A",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8267548,
+            "loserId": 8267583,
+            "winnerName": "FISA | JoJo",
+            "loserName": "K8A",
+            "bracketName": "Bracket",
+            "bracketId": 1574574,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12048,
+                    "playerTag": "K8A"
+                }
+            ]
+        },
+        {
+            "id": 40528061,
+            "entrant1Id": 8267548,
+            "entrant2Id": 8267538,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Nebulous | Jib",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8267548,
+            "loserId": 8267538,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Nebulous | Jib",
+            "bracketName": "Bracket",
+            "bracketId": 1574574,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 22088,
+                    "playerTag": "Jib"
+                }
+            ]
+        },
+        {
+            "id": 40528056,
+            "entrant1Id": 8267548,
+            "entrant2Id": 8268449,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Nebulous | KillaHertz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8267548,
+            "loserId": 8268449,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Nebulous | KillaHertz",
+            "bracketName": "Bracket",
+            "bracketId": 1574574,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3489,
+                    "playerTag": "KillaHertz"
+                }
+            ]
+        },
+        {
+            "id": 40528046,
+            "entrant1Id": 8267548,
+            "entrant2Id": 8269751,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "pippy",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8267548,
+            "loserId": 8269751,
+            "winnerName": "FISA | JoJo",
+            "loserName": "pippy",
+            "bracketName": "Bracket",
+            "bracketId": 1574574,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 416295,
+                    "playerTag": "pippy"
+                }
+            ]
+        },
+        {
+            "id": 38432914,
+            "entrant1Id": 7405704,
+            "entrant2Id": 7427834,
+            "entrant1Name": "HOBORG",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7405704,
+            "loserId": 7427834,
+            "winnerName": "HOBORG",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1485949,
+            "entrant1Players": [
+                {
+                    "playerId": 159216,
+                    "playerTag": "HOBORG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 38432910,
+            "entrant1Id": 7427834,
+            "entrant2Id": 7608649,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Son2",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7427834,
+            "loserId": 7608649,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Son2",
+            "bracketName": "Bracket",
+            "bracketId": 1485949,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4309,
+                    "playerTag": "Son2"
+                }
+            ]
+        },
+        {
+            "id": 38432781,
+            "entrant1Id": 7589447,
+            "entrant2Id": 7427834,
+            "entrant1Name": "HoG | Warmmer",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7589447,
+            "loserId": 7427834,
+            "winnerName": "HoG | Warmmer",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1485949,
+            "entrant1Players": [
+                {
+                    "playerId": 136379,
+                    "playerTag": "Warmmer"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 38432903,
+            "entrant1Id": 7427834,
+            "entrant2Id": 7606503,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "DIO",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7427834,
+            "loserId": 7606503,
+            "winnerName": "FISA | JoJo",
+            "loserName": "DIO",
+            "bracketName": "Bracket",
+            "bracketId": 1485949,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 179362,
+                    "playerTag": "DIO"
+                }
+            ]
+        },
+        {
+            "id": 38432767,
+            "entrant1Id": 7427834,
+            "entrant2Id": 7567403,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "BluRey",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7427834,
+            "loserId": 7567403,
+            "winnerName": "FISA | JoJo",
+            "loserName": "BluRey",
+            "bracketName": "Bracket",
+            "bracketId": 1485949,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13017,
+                    "playerTag": "BluRey"
+                }
+            ]
+        },
+        {
+            "id": 34388742,
+            "entrant1Id": 6613945,
+            "entrant2Id": 6613640,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "KXNG | Odin",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6613945,
+            "loserId": 6613640,
+            "winnerName": "FISA | JoJo",
+            "loserName": "KXNG | Odin",
+            "bracketName": "Pools",
+            "bracketId": 1428592,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 411895,
+                    "playerTag": "Odin"
+                }
+            ]
+        },
+        {
+            "id": 34388739,
+            "entrant1Id": 6613945,
+            "entrant2Id": 6613760,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Bigbuffalo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6613945,
+            "loserId": 6613760,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Bigbuffalo",
+            "bracketName": "Pools",
+            "bracketId": 1428592,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 55304,
+                    "playerTag": "Bigbuffalo"
+                }
+            ]
+        },
+        {
+            "id": 34394069,
+            "entrant1Id": 6613838,
+            "entrant2Id": 6613945,
+            "entrant1Name": "119 | Mista",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6613945,
+            "loserId": 6613838,
+            "winnerName": "FISA | JoJo",
+            "loserName": "119 | Mista",
+            "bracketName": "Top 12",
+            "bracketId": 1428594,
+            "entrant1Players": [
+                {
+                    "playerId": 215974,
+                    "playerTag": "119Mista"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 34394070,
+            "entrant1Id": 6613945,
+            "entrant2Id": 6613838,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "119 | Mista",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6613945,
+            "loserId": 6613838,
+            "winnerName": "FISA | JoJo",
+            "loserName": "119 | Mista",
+            "bracketName": "Top 12",
+            "bracketId": 1428594,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 215974,
+                    "playerTag": "119Mista"
+                }
+            ]
+        },
+        {
+            "id": 34388733,
+            "entrant1Id": 6613945,
+            "entrant2Id": 6612694,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "CPT.BIG_GUN",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6613945,
+            "loserId": 6612694,
+            "winnerName": "FISA | JoJo",
+            "loserName": "CPT.BIG_GUN",
+            "bracketName": "Pools",
+            "bracketId": 1428592,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 343620,
+                    "playerTag": "CPT.BIG_GUN"
+                }
+            ]
+        },
+        {
+            "id": 34388721,
+            "entrant1Id": 6613945,
+            "entrant2Id": 6613845,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "snacklepackle",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6613945,
+            "loserId": 6613845,
+            "winnerName": "FISA | JoJo",
+            "loserName": "snacklepackle",
+            "bracketName": "Pools",
+            "bracketId": 1428592,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 862074,
+                    "playerTag": "snacklepackle"
+                }
+            ]
+        },
+        {
+            "id": 34394099,
+            "entrant1Id": 6613945,
+            "entrant2Id": 6609517,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "BUG | Vintage",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6613945,
+            "loserId": 6609517,
+            "winnerName": "FISA | JoJo",
+            "loserName": "BUG | Vintage",
+            "bracketName": "Top 12",
+            "bracketId": 1428594,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 9621,
+                    "playerTag": "Vintage"
+                }
+            ]
+        },
+        {
+            "id": 34394066,
+            "entrant1Id": 6612956,
+            "entrant2Id": 6613945,
+            "entrant1Name": "Brotherhood|OS | Aklo",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6612956,
+            "loserId": 6613945,
+            "winnerName": "Brotherhood|OS | Aklo",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Top 12",
+            "bracketId": 1428594,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 34394097,
+            "entrant1Id": 6613945,
+            "entrant2Id": 6596859,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Maher",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6613945,
+            "loserId": 6596859,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Maher",
+            "bracketName": "Top 12",
+            "bracketId": 1428594,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51488,
+                    "playerTag": "Maher"
+                }
+            ]
+        },
+        {
+            "id": 39325010,
+            "entrant1Id": 7981711,
+            "entrant2Id": 7945428,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Dawson",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7945428,
+            "loserId": 7981711,
+            "winnerName": "Dawson",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1539421,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 147811,
+                    "playerTag": "Dawson"
+                }
+            ]
+        },
+        {
+            "id": 39325070,
+            "entrant1Id": 7981711,
+            "entrant2Id": 7913674,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Hexjo",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7981711,
+            "loserId": 7913674,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Hexjo",
+            "bracketName": "Bracket",
+            "bracketId": 1539421,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 29103,
+                    "playerTag": "Hexjo"
+                }
+            ]
+        },
+        {
+            "id": 39325003,
+            "entrant1Id": 7981711,
+            "entrant2Id": 7981705,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "PH$",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7981711,
+            "loserId": 7981705,
+            "winnerName": "FISA | JoJo",
+            "loserName": "PH$",
+            "bracketName": "Bracket",
+            "bracketId": 1539421,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51049,
+                    "playerTag": "PH$"
+                }
+            ]
+        },
+        {
+            "id": 39328938,
+            "entrant1Id": 7969214,
+            "entrant2Id": 7981711,
+            "entrant1Name": "CG | Jflex",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7969214,
+            "loserId": 7981711,
+            "winnerName": "CG | Jflex",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Top 8",
+            "bracketId": 1539422,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 38776520,
+            "entrant1Id": 7724517,
+            "entrant2Id": 7719960,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "NJ | Tommy",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7719960,
+            "loserId": 7724517,
+            "winnerName": "NJ | Tommy",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1524262,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 519779,
+                    "playerTag": "Tommy"
+                }
+            ]
+        },
+        {
+            "id": 38776580,
+            "entrant1Id": 7724517,
+            "entrant2Id": 7723664,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Axis",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7724517,
+            "loserId": 7723664,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Axis",
+            "bracketName": "Bracket",
+            "bracketId": 1524262,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 512704,
+                    "playerTag": "Axis"
+                }
+            ]
+        },
+        {
+            "id": 38776513,
+            "entrant1Id": 7724517,
+            "entrant2Id": 7637193,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "WoopGang | cobaly",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7724517,
+            "loserId": 7637193,
+            "winnerName": "FISA | JoJo",
+            "loserName": "WoopGang | cobaly",
+            "bracketName": "Bracket",
+            "bracketId": 1524262,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 227283,
+                    "playerTag": "cobaly"
+                }
+            ]
+        },
+        {
+            "id": 38778971,
+            "entrant1Id": 7637060,
+            "entrant2Id": 7724517,
+            "entrant1Name": "Agency | Wally",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7637060,
+            "loserId": 7724517,
+            "winnerName": "Agency | Wally",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Top 8",
+            "bracketId": 1524263,
+            "entrant1Players": [
+                {
+                    "playerId": 27491,
+                    "playerTag": "Wally"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 38778969,
+            "entrant1Id": 7718978,
+            "entrant2Id": 7724517,
+            "entrant1Name": "Domke",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7724517,
+            "loserId": 7718978,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Domke",
+            "bracketName": "Top 8",
+            "bracketId": 1524263,
+            "entrant1Players": [
+                {
+                    "playerId": 26128,
+                    "playerTag": "Domke"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 42220377,
+            "entrant1Id": 8715143,
+            "entrant2Id": 8713986,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Heartstrings",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8715143,
+            "loserId": 8713986,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Heartstrings",
+            "bracketName": "Bracket",
+            "bracketId": 1618065,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3412,
+                    "playerTag": "Heartstrings"
+                }
+            ]
+        },
+        {
+            "id": 42220376,
+            "entrant1Id": 8715143,
+            "entrant2Id": 8713986,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Heartstrings",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8715143,
+            "loserId": 8713986,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Heartstrings",
+            "bracketName": "Bracket",
+            "bracketId": 1618065,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 3412,
+                    "playerTag": "Heartstrings"
+                }
+            ]
+        },
+        {
+            "id": 42220374,
+            "entrant1Id": 8715143,
+            "entrant2Id": 8715632,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "WiLD",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8715143,
+            "loserId": 8715632,
+            "winnerName": "FISA | JoJo",
+            "loserName": "WiLD",
+            "bracketName": "Bracket",
+            "bracketId": 1618065,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2526119,
+                    "playerTag": "WiLD"
+                }
+            ]
+        },
+        {
+            "id": 42220370,
+            "entrant1Id": 8715143,
+            "entrant2Id": 8715253,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "GG | SnooSnoo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8715143,
+            "loserId": 8715253,
+            "winnerName": "FISA | JoJo",
+            "loserName": "GG | SnooSnoo",
+            "bracketName": "Bracket",
+            "bracketId": 1618065,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4845,
+                    "playerTag": "SnooSnoo"
+                }
+            ]
+        },
+        {
+            "id": 42220362,
+            "entrant1Id": 8715143,
+            "entrant2Id": 8702758,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Maelstrom",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8715143,
+            "loserId": 8702758,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Maelstrom",
+            "bracketName": "Bracket",
+            "bracketId": 1618065,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 533918,
+                    "playerTag": "Maelstrom"
+                }
+            ]
+        },
+        {
+            "id": 42220346,
+            "entrant1Id": 8715143,
+            "entrant2Id": 8702581,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "DP | Yahooz",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8715143,
+            "loserId": 8702581,
+            "winnerName": "FISA | JoJo",
+            "loserName": "DP | Yahooz",
+            "bracketName": "Bracket",
+            "bracketId": 1618065,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45873,
+                    "playerTag": "Yahooz"
+                }
+            ]
+        },
+        {
+            "id": 40343426,
+            "entrant1Id": 8221262,
+            "entrant2Id": 8171601,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8221262,
+            "loserId": 8171601,
+            "winnerName": "TG | Mot$",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1562730,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 40343425,
+            "entrant1Id": 8171614,
+            "entrant2Id": 8171601,
+            "entrant1Name": "K8A",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8171601,
+            "loserId": 8171614,
+            "winnerName": "FISA | JoJo",
+            "loserName": "K8A",
+            "bracketName": "Bracket",
+            "bracketId": 1562730,
+            "entrant1Players": [
+                {
+                    "playerId": 12048,
+                    "playerTag": "K8A"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 40343297,
+            "entrant1Id": 8221262,
+            "entrant2Id": 8171601,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8221262,
+            "loserId": 8171601,
+            "winnerName": "TG | Mot$",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1562730,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 40343424,
+            "entrant1Id": 8171601,
+            "entrant2Id": 8221366,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Sosa",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8171601,
+            "loserId": 8221366,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Sosa",
+            "bracketName": "Bracket",
+            "bracketId": 1562730,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 327102,
+                    "playerTag": "SoSa"
+                }
+            ]
+        },
+        {
+            "id": 40343295,
+            "entrant1Id": 8171601,
+            "entrant2Id": 8225665,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "ShiksaSlayer",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8171601,
+            "loserId": 8225665,
+            "winnerName": "FISA | JoJo",
+            "loserName": "ShiksaSlayer",
+            "bracketName": "Bracket",
+            "bracketId": 1562730,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 483617,
+                    "playerTag": "ShiksaSlayer"
+                }
+            ]
+        },
+        {
+            "id": 40343290,
+            "entrant1Id": 8171601,
+            "entrant2Id": 8223553,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "NYU | Gambit",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8171601,
+            "loserId": 8223553,
+            "winnerName": "FISA | JoJo",
+            "loserName": "NYU | Gambit",
+            "bracketName": "Bracket",
+            "bracketId": 1562730,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5351,
+                    "playerTag": "Gambit"
+                }
+            ]
+        },
+        {
+            "id": 40343280,
+            "entrant1Id": 8171601,
+            "entrant2Id": 8238148,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "THE | Anime Lesbian",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8171601,
+            "loserId": 8238148,
+            "winnerName": "FISA | JoJo",
+            "loserName": "THE | Anime Lesbian",
+            "bracketName": "Bracket",
+            "bracketId": 1562730,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 298521,
+                    "playerTag": "Anime Lesbian"
+                }
+            ]
+        },
+        {
+            "id": 39960698,
+            "entrant1Id": 8126377,
+            "entrant2Id": 8125664,
+            "entrant1Name": "Pulse | Tyler Swift",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8126377,
+            "loserId": 8125664,
+            "winnerName": "Pulse | Tyler Swift",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1558063,
+            "entrant1Players": [
+                {
+                    "playerId": 49131,
+                    "playerTag": "Swift"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 39960954,
+            "entrant1Id": 8125664,
+            "entrant2Id": 8125686,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "7 | Error",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 8125686,
+            "loserId": 8125664,
+            "winnerName": "7 | Error",
+            "loserName": "FISA | JoJo",
+            "bracketName": "Bracket",
+            "bracketId": 1558063,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 173824,
+                    "playerTag": "Error"
+                }
+            ]
+        },
+        {
+            "id": 39960695,
+            "entrant1Id": 8126081,
+            "entrant2Id": 8125664,
+            "entrant1Name": "TG | Mot$",
+            "entrant2Name": "FISA | JoJo",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 8125664,
+            "loserId": 8126081,
+            "winnerName": "FISA | JoJo",
+            "loserName": "TG | Mot$",
+            "bracketName": "Bracket",
+            "bracketId": 1558063,
+            "entrant1Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ]
+        },
+        {
+            "id": 39960689,
+            "entrant1Id": 8125664,
+            "entrant2Id": 8126080,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Willy P",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 8125664,
+            "loserId": 8126080,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Willy P",
+            "bracketName": "Bracket",
+            "bracketId": 1558063,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 819230,
+                    "playerTag": "Willy P"
+                }
+            ]
+        },
+        {
+            "id": 39960676,
+            "entrant1Id": 8125664,
+            "entrant2Id": 8126888,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "NYU | holla",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8125664,
+            "loserId": 8126888,
+            "winnerName": "FISA | JoJo",
+            "loserName": "NYU | holla",
+            "bracketName": "Bracket",
+            "bracketId": 1558063,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 689371,
+                    "playerTag": "holla"
+                }
+            ]
+        },
+        {
+            "id": 39960650,
+            "entrant1Id": 8125664,
+            "entrant2Id": 8126993,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "ali_",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 8125664,
+            "loserId": 8126993,
+            "winnerName": "FISA | JoJo",
+            "loserName": "ali_",
+            "bracketName": "Bracket",
+            "bracketId": 1558063,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1149773,
+                    "playerTag": "ali_"
+                }
+            ]
+        },
+        {
+            "id": 35697554,
+            "entrant1Id": 6942646,
+            "entrant2Id": 6941856,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "ight",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6942646,
+            "loserId": 6941856,
+            "winnerName": "FISA | JoJo",
+            "loserName": "ight",
+            "bracketName": "Bracket",
+            "bracketId": 1458542,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 157615,
+                    "playerTag": "ight"
+                }
+            ]
+        },
+        {
+            "id": 35697550,
+            "entrant1Id": 6942646,
+            "entrant2Id": 6941040,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Joey Bats",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6942646,
+            "loserId": 6941040,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Joey Bats",
+            "bracketName": "Bracket",
+            "bracketId": 1458542,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5869,
+                    "playerTag": "Joe(y) Bats"
+                }
+            ]
+        },
+        {
+            "id": 35700841,
+            "entrant1Id": 6942646,
+            "entrant2Id": 6941010,
+            "entrant1Name": "FISA | JoJo",
+            "entrant2Name": "Jakespeare",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6942646,
+            "loserId": 6941010,
+            "winnerName": "FISA | JoJo",
+            "loserName": "Jakespeare",
+            "bracketName": "Top 24",
+            "bracketId": 1458546,
+            "entrant1Players": [
+                {
+                    "playerId": 162779,
+                    "playerTag": "JoJo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 149952,
+                    "playerTag": "Jakespeare"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "just jason",
+        "htwa",
+        "warmmer",
+        "wally",
+        "k8a",
+        "akir",
+        "ryobeat",
+        "jflex",
+        "fank",
+        "bbatts",
+        "kalvar",
+        "slowking",
+        "bbatts",
+        "mot$",
+        "travioli",
+        "bbatts",
+        "captain smuckers",
+        "whiskers",
+        "captain smuckers",
+        "k8a",
+        "jflex",
+        "wally",
+        "theswooper",
+        "wally",
+        "wally",
+        "mot$",
+        "theswooper",
+        "just jason",
+        "k8a",
+        "k8a",
+        "mot$"
+    ],
+    "L": [
+        "fank",
+        "Thumbs",
+        "bobby big ballz",
+        "bobby big ballz",
+        "bones",
+        "just jason",
+        "theswooper",
+        "drephen",
+        "i still love you",
+        "ryobeat",
+        "zeeker",
+        "bobby big ballz",
+        "skerzo",
+        "rishi",
+        "slug",
+        "lotfy",
+        "dawson",
+        "warmmer",
+        "YAMI",
+        "krudo",
+        "theswooper",
+        "Joey Donuts",
+        "dawson",
+        "warmmer",
+        "kodorin",
+        "whiskers",
+        "whiskers",
+        "whiskers",
+        "swift",
+        "wally",
+        "wally",
+        "jflex",
+        "warmmer",
+        "jflex",
+        "jflex",
+        "wally",
+        "jflex",
+        "just jason",
+        "HOBORG",
+        "warmmer",
+        "aklo",
+        "dawson",
+        "jflex",
+        "Tommy",
+        "wally",
+        "mot$",
+        "mot$",
+        "swift",
+        "Error"
+    ]
+}

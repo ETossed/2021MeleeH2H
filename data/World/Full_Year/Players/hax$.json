@@ -1,0 +1,2456 @@
+{
+    "Events": [
+        "569492",
+        "555934",
+        "555557",
+        "534513",
+        "532534",
+        "550213",
+        "544842",
+        "547365",
+        "544806",
+        "543005"
+    ],
+    "Sets": [
+        {
+            "id": 36732038,
+            "entrant1Id": 7202018,
+            "entrant2Id": 7203204,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "Blazen",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7202018,
+            "loserId": 7203204,
+            "winnerName": "Hax$",
+            "loserName": "Blazen",
+            "bracketName": "Bracket",
+            "bracketId": 1483069,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 341063,
+                    "playerTag": "Blazen"
+                }
+            ]
+        },
+        {
+            "id": 36732035,
+            "entrant1Id": 7202018,
+            "entrant2Id": 7203011,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "totally butts",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7202018,
+            "loserId": 7203011,
+            "winnerName": "Hax$",
+            "loserName": "totally butts",
+            "bracketName": "Bracket",
+            "bracketId": 1483069,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 129344,
+                    "playerTag": "totally butts"
+                }
+            ]
+        },
+        {
+            "id": 36732029,
+            "entrant1Id": 7202018,
+            "entrant2Id": 7203082,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "Tri_Wing",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7202018,
+            "loserId": 7203082,
+            "winnerName": "Hax$",
+            "loserName": "Tri_Wing",
+            "bracketName": "Bracket",
+            "bracketId": 1483069,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 60423,
+                    "playerTag": "Tri_Wing"
+                }
+            ]
+        },
+        {
+            "id": 36736713,
+            "entrant1Id": 7202547,
+            "entrant2Id": 7202018,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "Hax$",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7202547,
+            "loserId": 7202018,
+            "winnerName": "LG | Ginger",
+            "loserName": "Hax$",
+            "bracketName": "Top 24",
+            "bracketId": 1483070,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 36736648,
+            "entrant1Id": 7201498,
+            "entrant2Id": 7202018,
+            "entrant1Name": "Revenge | Gahtzu",
+            "entrant2Name": "Hax$",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7201498,
+            "loserId": 7202018,
+            "winnerName": "Revenge | Gahtzu",
+            "loserName": "Hax$",
+            "bracketName": "Top 24",
+            "bracketId": 1483070,
+            "entrant1Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 36732017,
+            "entrant1Id": 7202018,
+            "entrant2Id": 7202811,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "Cyd",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7202018,
+            "loserId": 7202811,
+            "winnerName": "Hax$",
+            "loserName": "Cyd",
+            "bracketName": "Bracket",
+            "bracketId": 1483069,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1586751,
+                    "playerTag": "Cyd"
+                }
+            ]
+        },
+        {
+            "id": 36736712,
+            "entrant1Id": 7202018,
+            "entrant2Id": 7201016,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7202018,
+            "loserId": 7201016,
+            "winnerName": "Hax$",
+            "loserName": "IMP | Ben",
+            "bracketName": "Top 24",
+            "bracketId": 1483070,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 36736645,
+            "entrant1Id": 7200684,
+            "entrant2Id": 7202018,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "Hax$",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7202018,
+            "loserId": 7200684,
+            "winnerName": "Hax$",
+            "loserName": "Liquid | Hungrybox",
+            "bracketName": "Top 24",
+            "bracketId": 1483070,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 36113230,
+            "entrant1Id": 7015138,
+            "entrant2Id": 7024278,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "Fankriss",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7015138,
+            "loserId": 7024278,
+            "winnerName": "Hax$",
+            "loserName": "Fankriss",
+            "bracketName": "EC Pools",
+            "bracketId": 1455366,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1942273,
+                    "playerTag": "Fank"
+                }
+            ]
+        },
+        {
+            "id": 36113226,
+            "entrant1Id": 7015138,
+            "entrant2Id": 7013700,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "griffindork",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7015138,
+            "loserId": 7013700,
+            "winnerName": "Hax$",
+            "loserName": "griffindork",
+            "bracketName": "EC Pools",
+            "bracketId": 1455366,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 427895,
+                    "playerTag": "griffindork"
+                }
+            ]
+        },
+        {
+            "id": 36145305,
+            "entrant1Id": 6898000,
+            "entrant2Id": 7015138,
+            "entrant1Name": "EMG | moky",
+            "entrant2Name": "Hax$",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6898000,
+            "loserId": 7015138,
+            "winnerName": "EMG | moky",
+            "loserName": "Hax$",
+            "bracketName": "EC Top 32",
+            "bracketId": 1455377,
+            "entrant1Players": [
+                {
+                    "playerId": 5080,
+                    "playerTag": "moky"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 36145367,
+            "entrant1Id": 7015138,
+            "entrant2Id": 7022003,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "FreeMelee | Zuppy",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 7015138,
+            "loserId": 7022003,
+            "winnerName": "Hax$",
+            "loserName": "FreeMelee | Zuppy",
+            "bracketName": "EC Top 32",
+            "bracketId": 1455377,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7962,
+                    "playerTag": "Zuppy"
+                }
+            ]
+        },
+        {
+            "id": 36145300,
+            "entrant1Id": 7015138,
+            "entrant2Id": 6895252,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "IMP | Ben",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 7015138,
+            "loserId": 6895252,
+            "winnerName": "Hax$",
+            "loserName": "IMP | Ben",
+            "bracketName": "EC Top 32",
+            "bracketId": 1455377,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ]
+        },
+        {
+            "id": 36156510,
+            "entrant1Id": 6972934,
+            "entrant2Id": 7015138,
+            "entrant1Name": "LG | Ginger",
+            "entrant2Name": "Hax$",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6972934,
+            "loserId": 7015138,
+            "winnerName": "LG | Ginger",
+            "loserName": "Hax$",
+            "bracketName": "Top 8",
+            "bracketId": 1455379,
+            "entrant1Players": [
+                {
+                    "playerId": 3561,
+                    "playerTag": "Ginger"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 36151397,
+            "entrant1Id": 7005613,
+            "entrant2Id": 7015138,
+            "entrant1Name": "KoDoRiN",
+            "entrant2Name": "Hax$",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7015138,
+            "loserId": 7005613,
+            "winnerName": "Hax$",
+            "loserName": "KoDoRiN",
+            "bracketName": "Top 16",
+            "bracketId": 1455378,
+            "entrant1Players": [
+                {
+                    "playerId": 26750,
+                    "playerTag": "KoDoRiN"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 36156508,
+            "entrant1Id": 6928004,
+            "entrant2Id": 7015138,
+            "entrant1Name": "2saint",
+            "entrant2Name": "Hax$",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 7015138,
+            "loserId": 6928004,
+            "winnerName": "Hax$",
+            "loserName": "2saint",
+            "bracketName": "Top 8",
+            "bracketId": 1455379,
+            "entrant1Players": [
+                {
+                    "playerId": 20995,
+                    "playerTag": "2saint"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 36151393,
+            "entrant1Id": 7015138,
+            "entrant2Id": 7025599,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "Iceman",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 7015138,
+            "loserId": 7025599,
+            "winnerName": "Hax$",
+            "loserName": "Iceman",
+            "bracketName": "Top 16",
+            "bracketId": 1455378,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 11460,
+                    "playerTag": "Iceman"
+                }
+            ]
+        },
+        {
+            "id": 35778212,
+            "entrant1Id": 6915749,
+            "entrant2Id": 6936544,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "NGG | Jflex",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6936544,
+            "loserId": 6915749,
+            "winnerName": "NGG | Jflex",
+            "loserName": "Hax$",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1454618,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ]
+        },
+        {
+            "id": 35778465,
+            "entrant1Id": 6915749,
+            "entrant2Id": 6955959,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "Neologism",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6955959,
+            "loserId": 6915749,
+            "winnerName": "Neologism",
+            "loserName": "Hax$",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1454618,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 127639,
+                    "playerTag": "Neologism"
+                }
+            ]
+        },
+        {
+            "id": 35778207,
+            "entrant1Id": 6915749,
+            "entrant2Id": 6924728,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "Mekk",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6915749,
+            "loserId": 6924728,
+            "winnerName": "Hax$",
+            "loserName": "Mekk",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1454618,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 51240,
+                    "playerTag": "Mekk"
+                }
+            ]
+        },
+        {
+            "id": 35778197,
+            "entrant1Id": 6915749,
+            "entrant2Id": 6933047,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "Kanye Rest",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6915749,
+            "loserId": 6933047,
+            "winnerName": "Hax$",
+            "loserName": "Kanye Rest",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1454618,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7693,
+                    "playerTag": "Kanye Rest"
+                }
+            ]
+        },
+        {
+            "id": 35778177,
+            "entrant1Id": 6915749,
+            "entrant2Id": 6945816,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "BS",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6915749,
+            "loserId": 6945816,
+            "winnerName": "Hax$",
+            "loserName": "BS",
+            "bracketName": "East Coast Pools",
+            "bracketId": 1454618,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 942706,
+                    "playerTag": "BS"
+                }
+            ]
+        },
+        {
+            "id": 34630346,
+            "entrant1Id": 6667150,
+            "entrant2Id": 6675028,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "Kao's Uncle | Faust",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6667150,
+            "loserId": 6675028,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Kao's Uncle | Faust",
+            "bracketName": "Pools",
+            "bracketId": 1412878,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 45726,
+                    "playerTag": "Faust"
+                }
+            ]
+        },
+        {
+            "id": 34641963,
+            "entrant1Id": 6671611,
+            "entrant2Id": 6667150,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "EMG | Hax$",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6671611,
+            "loserId": 6667150,
+            "winnerName": "CLG | SFAT",
+            "loserName": "EMG | Hax$",
+            "bracketName": "Top 8",
+            "bracketId": 1412884,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 34630336,
+            "entrant1Id": 6667150,
+            "entrant2Id": 6521964,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "Sparg0",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6667150,
+            "loserId": 6521964,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Sparg0",
+            "bracketName": "Pools",
+            "bracketId": 1412878,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 158026,
+                    "playerTag": "Sparg0"
+                }
+            ]
+        },
+        {
+            "id": 34630313,
+            "entrant1Id": 6667150,
+            "entrant2Id": 6639648,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "Fumanchu",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6667150,
+            "loserId": 6639648,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Fumanchu",
+            "bracketName": "Pools",
+            "bracketId": 1412878,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4281,
+                    "playerTag": "Fumanchu"
+                }
+            ]
+        },
+        {
+            "id": 34634176,
+            "entrant1Id": 6667150,
+            "entrant2Id": 6677312,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "Revenge | Gahtzu",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6667150,
+            "loserId": 6677312,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Revenge | Gahtzu",
+            "bracketName": "Top 32",
+            "bracketId": 1412885,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 34641978,
+            "entrant1Id": 6637678,
+            "entrant2Id": 6667150,
+            "entrant1Name": "Brotherhood|OS | Aklo",
+            "entrant2Name": "EMG | Hax$",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6667150,
+            "loserId": 6637678,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Brotherhood|OS | Aklo",
+            "bracketName": "Top 8",
+            "bracketId": 1412884,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 34641977,
+            "entrant1Id": 6667150,
+            "entrant2Id": 6677312,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "Revenge | Gahtzu",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6667150,
+            "loserId": 6677312,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Revenge | Gahtzu",
+            "bracketName": "Top 8",
+            "bracketId": 1412884,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1077,
+                    "playerTag": "Gahtzu"
+                }
+            ]
+        },
+        {
+            "id": 34641961,
+            "entrant1Id": 6671611,
+            "entrant2Id": 6667150,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "EMG | Hax$",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6671611,
+            "loserId": 6667150,
+            "winnerName": "CLG | SFAT",
+            "loserName": "EMG | Hax$",
+            "bracketName": "Top 8",
+            "bracketId": 1412884,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 34634171,
+            "entrant1Id": 6667150,
+            "entrant2Id": 6668368,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "Rishi",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6667150,
+            "loserId": 6668368,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Rishi",
+            "bracketName": "Top 32",
+            "bracketId": 1412885,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 13306,
+                    "playerTag": "Rishi"
+                }
+            ]
+        },
+        {
+            "id": 34641975,
+            "entrant1Id": 6667150,
+            "entrant2Id": 6672453,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "Liquid | Hungrybox",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6667150,
+            "loserId": 6672453,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Liquid | Hungrybox",
+            "bracketName": "Top 8",
+            "bracketId": 1412884,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ]
+        },
+        {
+            "id": 34494168,
+            "entrant1Id": 6628917,
+            "entrant2Id": 6630597,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "Bbatts",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6628917,
+            "loserId": 6630597,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Bbatts",
+            "bracketName": "EC Pools",
+            "bracketId": 1432938,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 542693,
+                    "playerTag": "Bbatts"
+                }
+            ]
+        },
+        {
+            "id": 34494164,
+            "entrant1Id": 6628917,
+            "entrant2Id": 6462723,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "Stom",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6628917,
+            "loserId": 6462723,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Stom",
+            "bracketName": "EC Pools",
+            "bracketId": 1432938,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 12518,
+                    "playerTag": "Stom"
+                }
+            ]
+        },
+        {
+            "id": 34494156,
+            "entrant1Id": 6628917,
+            "entrant2Id": 6635368,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "Caveman3732",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6628917,
+            "loserId": 6635368,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Caveman3732",
+            "bracketName": "EC Pools",
+            "bracketId": 1432938,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 2153787,
+                    "playerTag": "Caveman3732"
+                }
+            ]
+        },
+        {
+            "id": 34519449,
+            "entrant1Id": 6632864,
+            "entrant2Id": 6628917,
+            "entrant1Name": "Liquid | Hungrybox",
+            "entrant2Name": "EMG | Hax$",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6632864,
+            "loserId": 6628917,
+            "winnerName": "Liquid | Hungrybox",
+            "loserName": "EMG | Hax$",
+            "bracketName": "EC Top 32",
+            "bracketId": 1432932,
+            "entrant1Players": [
+                {
+                    "playerId": 1004,
+                    "playerTag": "Hungrybox"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 34519509,
+            "entrant1Id": 6628917,
+            "entrant2Id": 6635945,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "TG | Mot$",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6628917,
+            "loserId": 6635945,
+            "winnerName": "EMG | Hax$",
+            "loserName": "TG | Mot$",
+            "bracketName": "EC Top 32",
+            "bracketId": 1432932,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 267849,
+                    "playerTag": "Mot$"
+                }
+            ]
+        },
+        {
+            "id": 34533244,
+            "entrant1Id": 6596981,
+            "entrant2Id": 6628917,
+            "entrant1Name": "CLG | SFAT",
+            "entrant2Name": "EMG | Hax$",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6596981,
+            "loserId": 6628917,
+            "winnerName": "CLG | SFAT",
+            "loserName": "EMG | Hax$",
+            "bracketName": "Top 8",
+            "bracketId": 1432934,
+            "entrant1Players": [
+                {
+                    "playerId": 1019,
+                    "playerTag": "SFAT"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 34533243,
+            "entrant1Id": 6635613,
+            "entrant2Id": 6628917,
+            "entrant1Name": "Brotherhood|OS | Aklo",
+            "entrant2Name": "EMG | Hax$",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6628917,
+            "loserId": 6635613,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Brotherhood|OS | Aklo",
+            "bracketName": "Top 8",
+            "bracketId": 1432934,
+            "entrant1Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 34519443,
+            "entrant1Id": 6628917,
+            "entrant2Id": 6610333,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6628917,
+            "loserId": 6610333,
+            "winnerName": "EMG | Hax$",
+            "loserName": "bobby big ballz",
+            "bracketName": "EC Top 32",
+            "bracketId": 1432932,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 34533242,
+            "entrant1Id": 6620614,
+            "entrant2Id": 6628917,
+            "entrant1Name": "Kalamazhu",
+            "entrant2Name": "EMG | Hax$",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6628917,
+            "loserId": 6620614,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Kalamazhu",
+            "bracketName": "Top 8",
+            "bracketId": 1432934,
+            "entrant1Players": [
+                {
+                    "playerId": 1039,
+                    "playerTag": "Kalamazhu"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 34524892,
+            "entrant1Id": 6632599,
+            "entrant2Id": 6628917,
+            "entrant1Name": "lloD",
+            "entrant2Name": "EMG | Hax$",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6628917,
+            "loserId": 6632599,
+            "winnerName": "EMG | Hax$",
+            "loserName": "lloD",
+            "bracketName": "Top 16",
+            "bracketId": 1432933,
+            "entrant1Players": [
+                {
+                    "playerId": 15634,
+                    "playerTag": "lloD"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 34533240,
+            "entrant1Id": 6628917,
+            "entrant2Id": 6613979,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "Soonsay",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6628917,
+            "loserId": 6613979,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Soonsay",
+            "bracketName": "Top 8",
+            "bracketId": 1432934,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 324561,
+                    "playerTag": "Soonsay"
+                }
+            ]
+        },
+        {
+            "id": 34524888,
+            "entrant1Id": 6628917,
+            "entrant2Id": 6569894,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "Blues Clues",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6628917,
+            "loserId": 6569894,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Blues Clues",
+            "bracketName": "Top 16",
+            "bracketId": 1432933,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 64692,
+                    "playerTag": "Blues Clues"
+                }
+            ]
+        },
+        {
+            "id": 35076877,
+            "entrant1Id": 6791815,
+            "entrant2Id": 6790272,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "MC David",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6791815,
+            "loserId": 6790272,
+            "winnerName": "Hax$",
+            "loserName": "MC David",
+            "bracketName": "Bracket",
+            "bracketId": 1444329,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 5695,
+                    "playerTag": "MC David"
+                }
+            ]
+        },
+        {
+            "id": 35076873,
+            "entrant1Id": 6791815,
+            "entrant2Id": 6774774,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "Hemp",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6791815,
+            "loserId": 6774774,
+            "winnerName": "Hax$",
+            "loserName": "Hemp",
+            "bracketName": "Bracket",
+            "bracketId": 1444329,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 544866,
+                    "playerTag": "Flan"
+                }
+            ]
+        },
+        {
+            "id": 35078814,
+            "entrant1Id": 6791815,
+            "entrant2Id": 6790860,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "Chem",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6790860,
+            "loserId": 6791815,
+            "winnerName": "Chem",
+            "loserName": "Hax$",
+            "bracketName": "Singles Top 32",
+            "bracketId": 1444337,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 709843,
+                    "playerTag": "Chem"
+                }
+            ]
+        },
+        {
+            "id": 35078876,
+            "entrant1Id": 6791815,
+            "entrant2Id": 6790827,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "ALP",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6791815,
+            "loserId": 6790827,
+            "winnerName": "Hax$",
+            "loserName": "ALP",
+            "bracketName": "Singles Top 32",
+            "bracketId": 1444337,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10745,
+                    "playerTag": "ALP"
+                }
+            ]
+        },
+        {
+            "id": 35078806,
+            "entrant1Id": 6791815,
+            "entrant2Id": 6791010,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "SUEZ#349 | Suezo",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6791815,
+            "loserId": 6791010,
+            "winnerName": "Hax$",
+            "loserName": "SUEZ#349 | Suezo",
+            "bracketName": "Singles Top 32",
+            "bracketId": 1444337,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 14592,
+                    "playerTag": "Suezo"
+                }
+            ]
+        },
+        {
+            "id": 35082727,
+            "entrant1Id": 6790227,
+            "entrant2Id": 6791815,
+            "entrant1Name": "YC | Pappi",
+            "entrant2Name": "Hax$",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6790227,
+            "loserId": 6791815,
+            "winnerName": "YC | Pappi",
+            "loserName": "Hax$",
+            "bracketName": "Top 8",
+            "bracketId": 1444338,
+            "entrant1Players": [
+                {
+                    "playerId": 61570,
+                    "playerTag": "Pappi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 35082725,
+            "entrant1Id": 6791815,
+            "entrant2Id": 6791275,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "BLE | SluG",
+            "entrant1Score": 2,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6791815,
+            "loserId": 6791275,
+            "winnerName": "Hax$",
+            "loserName": "BLE | SluG",
+            "bracketName": "Top 8",
+            "bracketId": 1444338,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ]
+        },
+        {
+            "id": 35016293,
+            "entrant1Id": 6757963,
+            "entrant2Id": 6740558,
+            "entrant1Name": "bobby big ballz",
+            "entrant2Name": "Hax$",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6757963,
+            "loserId": 6740558,
+            "winnerName": "bobby big ballz",
+            "loserName": "Hax$",
+            "bracketName": "Top 8",
+            "bracketId": 1433629,
+            "entrant1Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 35006690,
+            "entrant1Id": 6692936,
+            "entrant2Id": 6740558,
+            "entrant1Name": "sfy | Fizz",
+            "entrant2Name": "Hax$",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6740558,
+            "loserId": 6692936,
+            "winnerName": "Hax$",
+            "loserName": "sfy | Fizz",
+            "bracketName": "Bracket",
+            "bracketId": 1433615,
+            "entrant1Players": [
+                {
+                    "playerId": 7764,
+                    "playerTag": "Fizz"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 35006682,
+            "entrant1Id": 6653882,
+            "entrant2Id": 6740558,
+            "entrant1Name": "ight",
+            "entrant2Name": "Hax$",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6740558,
+            "loserId": 6653882,
+            "winnerName": "Hax$",
+            "loserName": "ight",
+            "bracketName": "Bracket",
+            "bracketId": 1433615,
+            "entrant1Players": [
+                {
+                    "playerId": 157615,
+                    "playerTag": "ight"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 35011254,
+            "entrant1Id": 6715044,
+            "entrant2Id": 6740558,
+            "entrant1Name": "NGG | Jflex",
+            "entrant2Name": "Hax$",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6740558,
+            "loserId": 6715044,
+            "winnerName": "Hax$",
+            "loserName": "NGG | Jflex",
+            "bracketName": "Top 32",
+            "bracketId": 1433622,
+            "entrant1Players": [
+                {
+                    "playerId": 4390,
+                    "playerTag": "Jflex"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 35011250,
+            "entrant1Id": 6740558,
+            "entrant2Id": 6742379,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "BC | Dimension",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6740558,
+            "loserId": 6742379,
+            "winnerName": "Hax$",
+            "loserName": "BC | Dimension",
+            "bracketName": "Top 32",
+            "bracketId": 1433622,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 587072,
+                    "playerTag": "Dimension"
+                }
+            ]
+        },
+        {
+            "id": 35016307,
+            "entrant1Id": 6692294,
+            "entrant2Id": 6740558,
+            "entrant1Name": "IMP | Ben",
+            "entrant2Name": "Hax$",
+            "entrant1Score": 2,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6740558,
+            "loserId": 6692294,
+            "winnerName": "Hax$",
+            "loserName": "IMP | Ben",
+            "bracketName": "Top 8",
+            "bracketId": 1433629,
+            "entrant1Players": [
+                {
+                    "playerId": 694497,
+                    "playerTag": "Ben"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 35011244,
+            "entrant1Id": 6691605,
+            "entrant2Id": 6740558,
+            "entrant1Name": "YC | Pappi",
+            "entrant2Name": "Hax$",
+            "entrant1Score": 1,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6740558,
+            "loserId": 6691605,
+            "winnerName": "Hax$",
+            "loserName": "YC | Pappi",
+            "bracketName": "Top 32",
+            "bracketId": 1433622,
+            "entrant1Players": [
+                {
+                    "playerId": 61570,
+                    "playerTag": "Pappi"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 35016306,
+            "entrant1Id": 6676027,
+            "entrant2Id": 6740558,
+            "entrant1Name": "Chem",
+            "entrant2Name": "Hax$",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6740558,
+            "loserId": 6676027,
+            "winnerName": "Hax$",
+            "loserName": "Chem",
+            "bracketName": "Top 8",
+            "bracketId": 1433629,
+            "entrant1Players": [
+                {
+                    "playerId": 709843,
+                    "playerTag": "Chem"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 35016304,
+            "entrant1Id": 6653869,
+            "entrant2Id": 6740558,
+            "entrant1Name": "BLE | SluG",
+            "entrant2Name": "Hax$",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6740558,
+            "loserId": 6653869,
+            "winnerName": "Hax$",
+            "loserName": "BLE | SluG",
+            "bracketName": "Top 8",
+            "bracketId": 1433629,
+            "entrant1Players": [
+                {
+                    "playerId": 50259,
+                    "playerTag": "SluG"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 35011236,
+            "entrant1Id": 6767371,
+            "entrant2Id": 6740558,
+            "entrant1Name": "ericiscool.net",
+            "entrant2Name": "Hax$",
+            "entrant1Score": 0,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6740558,
+            "loserId": 6767371,
+            "winnerName": "Hax$",
+            "loserName": "ericiscool.net",
+            "bracketName": "Top 32",
+            "bracketId": 1433622,
+            "entrant1Players": [
+                {
+                    "playerId": 255496,
+                    "playerTag": "ericiscool.net"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 34826859,
+            "entrant1Id": 6716181,
+            "entrant2Id": 6722082,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "Bigbuffalo",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6716181,
+            "loserId": 6722082,
+            "winnerName": "Hax$",
+            "loserName": "Bigbuffalo",
+            "bracketName": "Bracket",
+            "bracketId": 1438487,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 55304,
+                    "playerTag": "Bigbuffalo"
+                }
+            ]
+        },
+        {
+            "id": 34830001,
+            "entrant1Id": 6716181,
+            "entrant2Id": 6704835,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "EGtv | FatGoku",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6704835,
+            "loserId": 6716181,
+            "winnerName": "EGtv | FatGoku",
+            "loserName": "Hax$",
+            "bracketName": "Top 8",
+            "bracketId": 1438517,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4518,
+                    "playerTag": "FatGoku"
+                }
+            ]
+        },
+        {
+            "id": 34830002,
+            "entrant1Id": 6704835,
+            "entrant2Id": 6716181,
+            "entrant1Name": "EGtv | FatGoku",
+            "entrant2Name": "Hax$",
+            "entrant1Score": 0,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6716181,
+            "loserId": 6704835,
+            "winnerName": "Hax$",
+            "loserName": "EGtv | FatGoku",
+            "bracketName": "Top 8",
+            "bracketId": 1438517,
+            "entrant1Players": [
+                {
+                    "playerId": 4518,
+                    "playerTag": "FatGoku"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 34826850,
+            "entrant1Id": 6716181,
+            "entrant2Id": 6710588,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "Noro",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6716181,
+            "loserId": 6710588,
+            "winnerName": "Hax$",
+            "loserName": "Noro",
+            "bracketName": "Bracket",
+            "bracketId": 1438487,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 54150,
+                    "playerTag": "noro"
+                }
+            ]
+        },
+        {
+            "id": 34830000,
+            "entrant1Id": 6716181,
+            "entrant2Id": 6710827,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "lluZ | PEP | LSD",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6716181,
+            "loserId": 6710827,
+            "winnerName": "Hax$",
+            "loserName": "lluZ | PEP | LSD",
+            "bracketName": "Top 8",
+            "bracketId": 1438517,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 34829639,
+            "entrant1Id": 6716181,
+            "entrant2Id": 6706362,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "SDJ",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6716181,
+            "loserId": 6706362,
+            "winnerName": "Hax$",
+            "loserName": "SDJ",
+            "bracketName": "Top 16",
+            "bracketId": 1438513,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 325974,
+                    "playerTag": "SDJ"
+                }
+            ]
+        },
+        {
+            "id": 34829998,
+            "entrant1Id": 6716181,
+            "entrant2Id": 6721723,
+            "entrant1Name": "Hax$",
+            "entrant2Name": "Drephen",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6716181,
+            "loserId": 6721723,
+            "winnerName": "Hax$",
+            "loserName": "Drephen",
+            "bracketName": "Top 8",
+            "bracketId": 1438517,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 6839,
+                    "playerTag": "Drephen"
+                }
+            ]
+        },
+        {
+            "id": 34578227,
+            "entrant1Id": 6664675,
+            "entrant2Id": 6664129,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "SFOP",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6664675,
+            "loserId": 6664129,
+            "winnerName": "EMG | Hax$",
+            "loserName": "SFOP",
+            "bracketName": "Top 8",
+            "bracketId": 1433536,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ]
+        },
+        {
+            "id": 34568588,
+            "entrant1Id": 6664675,
+            "entrant2Id": 6664344,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "Miranda",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6664675,
+            "loserId": 6664344,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Miranda",
+            "bracketName": "Bracket",
+            "bracketId": 1433527,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65566,
+                    "playerTag": "Miranda"
+                }
+            ]
+        },
+        {
+            "id": 34571202,
+            "entrant1Id": 6664675,
+            "entrant2Id": 6664556,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "TPN",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6664675,
+            "loserId": 6664556,
+            "winnerName": "EMG | Hax$",
+            "loserName": "TPN",
+            "bracketName": "SIngles Top 64",
+            "bracketId": 1433535,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 150123,
+                    "playerTag": "TPN"
+                }
+            ]
+        },
+        {
+            "id": 34578226,
+            "entrant1Id": 6664675,
+            "entrant2Id": 6664356,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "Brotherhood|OS | Aklo",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6664675,
+            "loserId": 6664356,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Brotherhood|OS | Aklo",
+            "bracketName": "Top 8",
+            "bracketId": 1433536,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 282096,
+                    "playerTag": "Aklo"
+                }
+            ]
+        },
+        {
+            "id": 34568580,
+            "entrant1Id": 6664675,
+            "entrant2Id": 6662840,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "ItsDad",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6664675,
+            "loserId": 6662840,
+            "winnerName": "EMG | Hax$",
+            "loserName": "ItsDad",
+            "bracketName": "Bracket",
+            "bracketId": 1433527,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 278295,
+                    "playerTag": "DadsAkimbo"
+                }
+            ]
+        },
+        {
+            "id": 34571194,
+            "entrant1Id": 6664675,
+            "entrant2Id": 6664488,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "Trail",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6664675,
+            "loserId": 6664488,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Trail",
+            "bracketName": "SIngles Top 64",
+            "bracketId": 1433535,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 7149,
+                    "playerTag": "Trail"
+                }
+            ]
+        },
+        {
+            "id": 34571178,
+            "entrant1Id": 6664675,
+            "entrant2Id": 6659341,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "Vianny",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6664675,
+            "loserId": 6659341,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Vianny",
+            "bracketName": "SIngles Top 64",
+            "bracketId": 1433535,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 29405,
+                    "playerTag": "Vianny"
+                }
+            ]
+        },
+        {
+            "id": 34578224,
+            "entrant1Id": 6664675,
+            "entrant2Id": 6664129,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "SFOP",
+            "entrant1Score": 3,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6664675,
+            "loserId": 6664129,
+            "winnerName": "EMG | Hax$",
+            "loserName": "SFOP",
+            "bracketName": "Top 8",
+            "bracketId": 1433536,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 10562,
+                    "playerTag": "SFOP"
+                }
+            ]
+        },
+        {
+            "id": 34439556,
+            "entrant1Id": 6628588,
+            "entrant2Id": 6628557,
+            "entrant1Name": "lluZ | PEP | LSD",
+            "entrant2Name": "EMG | Hax$",
+            "entrant1Score": 1,
+            "entrant2Score": 3,
+            "completed": true,
+            "winnerId": 6628557,
+            "loserId": 6628588,
+            "winnerName": "EMG | Hax$",
+            "loserName": "lluZ | PEP | LSD",
+            "bracketName": "Top 8",
+            "bracketId": 1430046,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 34439557,
+            "entrant1Id": 6628557,
+            "entrant2Id": 6628588,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "lluZ | PEP | LSD",
+            "entrant1Score": 3,
+            "entrant2Score": 1,
+            "completed": true,
+            "winnerId": 6628557,
+            "loserId": 6628588,
+            "winnerName": "EMG | Hax$",
+            "loserName": "lluZ | PEP | LSD",
+            "bracketName": "Top 8",
+            "bracketId": 1430046,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ]
+        },
+        {
+            "id": 34431979,
+            "entrant1Id": 6628557,
+            "entrant2Id": 6601073,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "Swooty",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6628557,
+            "loserId": 6601073,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Swooty",
+            "bracketName": "Bracket",
+            "bracketId": 1430038,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 15629,
+                    "playerTag": "Swooty"
+                }
+            ]
+        },
+        {
+            "id": 34439555,
+            "entrant1Id": 6628588,
+            "entrant2Id": 6628557,
+            "entrant1Name": "lluZ | PEP | LSD",
+            "entrant2Name": "EMG | Hax$",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6628588,
+            "loserId": 6628557,
+            "winnerName": "lluZ | PEP | LSD",
+            "loserName": "EMG | Hax$",
+            "bracketName": "Top 8",
+            "bracketId": 1430046,
+            "entrant1Players": [
+                {
+                    "playerId": 61897,
+                    "playerTag": "Logan"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ]
+        },
+        {
+            "id": 34431971,
+            "entrant1Id": 6628557,
+            "entrant2Id": 6627826,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "Crowken",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6628557,
+            "loserId": 6627826,
+            "winnerName": "EMG | Hax$",
+            "loserName": "Crowken",
+            "bracketName": "Bracket",
+            "bracketId": 1430038,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 523880,
+                    "playerTag": "Crowken"
+                }
+            ]
+        },
+        {
+            "id": 34435111,
+            "entrant1Id": 6628557,
+            "entrant2Id": 6628590,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "MMG | Seven",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6628557,
+            "loserId": 6628590,
+            "winnerName": "EMG | Hax$",
+            "loserName": "MMG | Seven",
+            "bracketName": "SIngles Top 64",
+            "bracketId": 1430045,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 271333,
+                    "playerTag": "Seven"
+                }
+            ]
+        },
+        {
+            "id": 34439571,
+            "entrant1Id": 6628557,
+            "entrant2Id": 6628307,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6628557,
+            "loserId": 6628307,
+            "winnerName": "EMG | Hax$",
+            "loserName": "bobby big ballz",
+            "bracketName": "Top 8",
+            "bracketId": 1430046,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 34439554,
+            "entrant1Id": 6628557,
+            "entrant2Id": 6628307,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "bobby big ballz",
+            "entrant1Score": 3,
+            "entrant2Score": 2,
+            "completed": true,
+            "winnerId": 6628557,
+            "loserId": 6628307,
+            "winnerName": "EMG | Hax$",
+            "loserName": "bobby big ballz",
+            "bracketName": "Top 8",
+            "bracketId": 1430046,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 65777,
+                    "playerTag": "bobby big ballz"
+                }
+            ]
+        },
+        {
+            "id": 34435099,
+            "entrant1Id": 6628557,
+            "entrant2Id": 6628159,
+            "entrant1Name": "EMG | Hax$",
+            "entrant2Name": "LLDL",
+            "entrant1Score": 2,
+            "entrant2Score": 0,
+            "completed": true,
+            "winnerId": 6628557,
+            "loserId": 6628159,
+            "winnerName": "EMG | Hax$",
+            "loserName": "LLDL",
+            "bracketName": "SIngles Top 64",
+            "bracketId": 1430045,
+            "entrant1Players": [
+                {
+                    "playerId": 1007,
+                    "playerTag": "Hax$"
+                }
+            ],
+            "entrant2Players": [
+                {
+                    "playerId": 4458,
+                    "playerTag": "LLDL"
+                }
+            ]
+        }
+    ],
+    "W": [
+        "ben",
+        "hungrybox",
+        "fank",
+        "zuppy",
+        "ben",
+        "kodorin",
+        "2saint",
+        "mekk",
+        "gahtzu",
+        "aklo",
+        "gahtzu",
+        "rishi",
+        "hungrybox",
+        "bbatts",
+        "mot$",
+        "aklo",
+        "bobby big ballz",
+        "kalamazhu",
+        "llod",
+        "soonsay",
+        "blues clues",
+        "suezo",
+        "slug",
+        "fizz",
+        "jflex",
+        "ben",
+        "pappi",
+        "chem",
+        "slug",
+        "fatgoku",
+        "logan",
+        "sdj",
+        "drephen",
+        "sfop",
+        "aklo",
+        "trail",
+        "sfop",
+        "logan",
+        "logan",
+        "bobby big ballz",
+        "bobby big ballz"
+    ],
+    "L": [
+        "ginger",
+        "gahtzu",
+        "moky",
+        "ginger",
+        "jflex",
+        "neologism",
+        "sfat",
+        "sfat",
+        "hungrybox",
+        "sfat",
+        "chem",
+        "pappi",
+        "bobby big ballz",
+        "fatgoku",
+        "logan"
+    ]
+}
