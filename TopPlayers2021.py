@@ -686,14 +686,14 @@ def get_most_played_opponents(input, output):
 def events_in_year(smash, output):
     events = {}
     # substrings = ['singles', '1v1', 'championships', 'ladder', 'aman0', 'vip']
-    bad_substrings = ['volleyball', 'doubles', 'akaneia', 'wolf']
+    bad_substrings = ['volleyball', 'doubles', 'akaneia', 'wolf', 'teams', 'crews']
 
     tp = 1
     ta = 1
     i = 1
     done = False
     while(not done):
-        tourneys = smash.tournament_show_event_by_game_size_dated(2, 1, 1641016800, 1646114400, i)
+        tourneys = smash.tournament_show_event_by_game_size_dated(2, 1, 1641016800, 1656997200, i)
         if (tourneys == []):
             done = True
         elif tourneys is None:
@@ -767,6 +767,7 @@ def big_project(smash, events, output, char_data_name='bp_char_data.json'):
     event_num = 0
     set_num = 0
     page_num = 0
+    threetwo = False
     for event in events:
         print("Current event: " + str(event))
         event_num += 1
@@ -1279,14 +1280,43 @@ def main():
 
     # arr = ["dummy", "Bowser", "Captain Falcon", "Donkey Kong", "Dr. Mario", "Falco", "Fox", "Ganondorf", "Ice Climbers", "Jigglypuff", "Kirby", "Link", "Luigi", "Mario", "Marth", "Mewtwo", "Mr. Game and Watch", "Ness", "Peach", "Pichu", "Pikachu", "Roy", "Samus", "Sheik", "Yoshi", "Young Link", "Zelda", "Random", "Shielda"]
     
+    # events_in_year(smash, 'Events_Thru_Jul_4.json')
+
+    with open('Events_Thru_Jul_4.json', 'r', encoding='utf-8') as tempfile:
+        events_2022 = json.load(tempfile)
+
+    big_project(smash, events_2022, "Results_Thru_Jul_4.json")
+
     # TODO 
-    with open('Events_Thru_March.json', 'r', encoding='utf-8') as tempfile:
-        results_2022 = json.load(tempfile)
+    # with open('D:\\git\\2021Melee\\Ultimate\\Ultimate_Player_Locations_2021.json', 'r', encoding='utf-8') as tempfile:
+    #     results_2022 = json.load(tempfile)
+
+    # tag_arr = []
+    # tag_dict = {}
+
+    # for p in results_2022:
+    #     if results_2022[p]["Tag"] is None:
+    #         continue;
+    #     elif len(results_2022[p]["Tag"]) > 15:
+    #         tag_arr.append(results_2022[p]["Tag"])
+    
+    # tag_arr.sort(key=len, reverse=True)
+    
+    # for t in tag_arr:
+    #     tag_dict[t] = len(t)
+
+    # with open('temp2.json', 'w+', encoding='utf-8') as tempfile:
+    #     json.dump(tag_dict, tempfile, indent=4)
+
+    
+
+
+    # big_project(smash, results_2022, 'Results_Thru_March_2022.json')
 
     # with open('D:\\git\\2021Melee\\Ultimate\\Ultimate_Results_2021.json', 'r', encoding='utf-8') as tempfile:
     #     ultimate_results_2021 = json.load(tempfile)
 
-    big_project(smash, results_2022, 'Results_Thru_March_2022.json')
+    # get_most_played_opponents('Results_Thru_March_2022.json', 'mpp_thru_march.json')
 
     # with open('D:\\git\\2021Melee\\Players_by_Region\\Player_Locations_2021_Full_Year.json', 'r', encoding='utf-8') as tempfile:
     #     player_locations = json.load(tempfile)
